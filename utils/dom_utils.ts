@@ -1,3 +1,4 @@
+// STAGE 1 for main content extraction
 // Utility to remove <script> and <style> tags from HTML before parsing
 export function stripScriptAndStyleTags(html: string): string {
 	// Remove <script>...</script> and <style>...</style> blocks (greedy)

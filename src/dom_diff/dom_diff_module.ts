@@ -1,9 +1,28 @@
+/**
+ * dom_diff_module.ts
+ *
+ * This script fetches an article URL, its homepage, and a 404 page, cleans the HTML,
+ * parses the DOMs, and compares them to extract the unique content of the article.
+ *
+ * The unique content is converted to Markdown using Turndown and saved to unique_article.md.
+ *
+ * Steps:
+ * 1. Download and cache HTML for article, homepage, and 404 page.
+ * 2. Remove <script> and <style> tags from HTML.
+ * 3. Parse DOMs and collect normalized node labels.
+ * 4. Diff article DOM against homepage/404 DOMs to find unique nodes.
+ * 5. Convert unique HTML to Markdown and save to file.
+ *
+ * Usage:
+ *   bun run src/dom_diff/dom_diff_module.ts <article_url>
+ */
+
 import { writeFileSync } from "node:fs";
 import TurndownService from "turndown";
-import { stripScriptAndStyleTags } from "./dom_utils";
-import { fetchHtmlCached } from "./fetch_html_cached";
-import type { DomNode } from "./node_utils";
-import { DomTree } from "./node_utils";
+import { stripScriptAndStyleTags } from "../../utils/dom_utils";
+import { fetchHtmlCached } from "../../utils/fetch_html_cached";
+import type { DomNode } from "./dom_diff_utils";
+import { DomTree } from "./dom_diff_utils";
 
 function getDomain(url: string): string {
 	try {

@@ -1,3 +1,17 @@
+/**
+ * dom_diff_utils.ts
+ *
+ * This utility class/file provides DOM utilities for HTML parsing and normalization using Cheerio.
+ *
+ * Features:
+ * - Inline/block element sets and blacklist for tag filtering
+ * - String normalization for text extraction
+ * - DomTree and DomNode classes for DOM traversal, labeling, and comparison
+ * - Methods for extracting normalized representations and text from DOM nodes
+ *
+ * Used for DOM diffing, content extraction, and HTML analysis in scripts and pipelines.
+ */
+
 import * as cheerio from "cheerio";
 
 // Inline elements: no line breaks before/after
