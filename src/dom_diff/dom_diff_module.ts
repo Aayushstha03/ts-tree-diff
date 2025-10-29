@@ -133,7 +133,7 @@ async function main(articleUrl: string) {
 // Argument parsing and main invocation
 const url = process.argv[2];
 if (!url) {
-	console.error("Usage: bun run src/extract_unique_article.ts <article_url>");
+	console.error("Usage: bun run src/dom_diff/dom_diff_module.ts <article_url>");
 	process.exit(1);
 }
 main(url).catch((err) => {

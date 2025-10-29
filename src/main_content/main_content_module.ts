@@ -4,6 +4,7 @@ import {
 	cleanHtmlPreDom,
 	htmlToMarkdown,
 	removeEmptyTags,
+	removeHighLinkDensityBlocks,
 } from "../../utils/dom_utils";
 import { fetchHtmlCached } from "../../utils/fetch_html_cached";
 import {
@@ -30,10 +31,12 @@ export async function getMainContentBlockFromUrl(
 	// Try skip-to-content method first
 	const skipHtml = getSkipToContentTargetHtmlCheerio($);
 	if (skipHtml) {
+		// remove empty tags
 		let cleaned = removeEmptyTags(skipHtml);
+		// remove style and script tags, after cause we missed skip to main
 		cleaned = cleanHtmlPreDom(cleaned);
-		cleaned = removeEmptyTags(cleaned);
-
+		// remove high link density nodes
+		cleaned = removeHighLinkDensityBlocks(cleaned, 0.4);
 		console.log("Found skip-to-content link.");
 		return {
 			label: "tier 1: skip-to-content link",
@@ -54,6 +57,7 @@ export async function getMainContentBlockFromUrl(
 		"https://www.bankofcanada.ca/2025/08/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-30-2025/",
 		"https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1",
 		"https://www.rbnz.govt.nz/hub/publications/bulletin/2025/pandemic-lessons-on-the-monetary-and-fiscal-policy-mix",
+		"https://www.onlinekhabar.com/2025/10/1791452/nepal-india-joint-investment-agreement-to-build-two-major-cross-border-transmission-lines",
 	];
 
 	const outputsDir = "outputs";

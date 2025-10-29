@@ -1,67 +1,113 @@
-Trump ends Japan leg of Asia tour after meeting Sanae Takaichi  
-Rare earths, Nobel nomination and cheers: Trump ends Japan leg of Asia tour  
-2 hours ago  
-Share  
-Anthony Zurcher,  
-North America correspondent  
-and  
-Shaimaa Khalil,  
-Tokyo correspondent  
-Share  
-Watch: Trump addresses cheering troops on US carrier in Japan  
-Praise, Nobel nominations and promises of foreign investment in the US - Japan's newly-elected Prime Minister Sanae Takaichi rolled out the red carpet for Donald Trump on Tuesday.  
-Trump in turn had warm praise for Takaichi, telling her that the US would be there for "anything you want, any favours you need, anything… to help Japan".  
-The two leaders signed a deal on rare earth minerals, as well as a document heralding a new "golden age" of US-Japan relations which reiterated the commitment of the two countries to implement deals struck earlier, including the 15% tariff deal negotiated earlier this year.  
-The pageantry and the venue also seemed tailor-made for the US president.  
-A full military guard of honour and band welcomed Trump to the ornate Akasaka Palace, with its vaulted ceilings and gold-encrusted walls not unlike what the president wants in his planned White House ballroom.  
-Over lunch, Trump congratulated Takaichi for becoming Japan's first female prime minister.  
-Notably, according to a White House readout, that lunch was "American rice and American beef, deliciously made with Japanese ingredients" - a move that will no doubt have delighted Trump, who has long demanded that Japan buy rice from the US.  
-China controls the rare earths the world buys - can Trump's new deals change that?  
-Takaichi also accompanied Trump aboard a US aircraft carrier, the USS George Washington, where they were greeted by thousands of cheering American troops. Takaichi took the stage and praised what she called the "greatest alliance in the world" and pledged to increase defence spending.  
-Trump has in the past criticised Japan's lack of defence spending. In April this year, he lambasted a security treaty with Japan as being "one-sided", saying: "We pay billions of dollars to defend them, but they don't pay anything."  
-Ahead of their meeting on Wednesday, Trump said he was sure that he would have a "fantastic relationship" with Takaichi, who had a strong connection with former PM Shinzo Abe, a Trump favourite who was shot dead in 2022.  
-"She was a great ally and friend of Abe, who was my friend… He was one of the best… I know they were very close, and I think philosophically they were close, which is very good," he told reporters while flying over to Japan from Malaysia on Tuesday.  
-Trump is spending a week in Asia. He will leave Japan for South Korea on Wednesday, and is expected to meet Chinese leader Xi Jinping there on Thursday.  
-Getty Images  
-Donald Trump met Sanae Takaichi, Japan's new prime minister, on the visit  
-The meeting with Trump was seen as a critical early test for Takaichi, who was elected as prime minister by Japanese lawmakers earlier this month.  
-Both countries have long been allies, but navigating a relationship with a fickle Trump, who has in the past appeared to waver in his commitment to Japan, lies at the core of the country's foreign policy.  
-On Wednesday, Takaichi described Trump as a "partner in a new golden era", and praised his role in bringing peace to the Middle East. She announced that Japan would be nominating him for the Nobel peace prize.  
-She also presented Trump with a collection of golf-related gifts, according to Trump's assistant Margo Martin.  
-These included a golf bag signed by Hideki Matsuyama, the first male Japanese golfer to win a major golf championship, as well as a putter used by Abe. They also signed two caps printed with the words: Japan is back.  
-In turn, Trump described her as a "close friend" and described the US alliance with Japan as a "beautiful friendship" that was "born out of the ashes of a terrible war". He also announced he had approved the first delivery of long-awaited US missiles for F-35 fighter jets to Japan, which would take place this week.  
-Pleasantries have set a positive tone to the meetings so far, but behind the smiles and the pagentary, there is real pressure on Japan.  
-During the working lunch, Takaichi presented Trump with a map showing the investments that Japanese companies have made in the US. And during his speech on the USS George Washington, Trump said Takaichi had told him earlier about plans for Toyota to put $10bn (£7.5bn) into building plants "all over" the US.  
-But Trump also wants more access to Japan's markets - not just getting them to buy more rice, but also soybeans, and to open its market to US vehicles.  
-Getty Images  
-The US president was hosted in the ornate Akasaka Palace  
-But Takaichi also needs to protect domestic industries and doesn't want to anger crucial interest groups at home, like the powerful farming lobby.  
-Tokyo is heavily reliant on exports, and cannot afford a tariff fight especially when it comes to its auto industry. Automakers - the country's largest exporters to the US - faced 24% tariffs and tens of billions of dollars in losses.  
-Tariffs have now been lowered to 15%, in step with rivals in the region such as South Korea.  
-Tomohiko Taniguchi - former special adviser to Abe - said there were things that Takaichi could draw on from Trump's relationship with her late mentor. He said it was important for Takaichi to be "straightforward and say bluntly what Japan's national interests are, and to see where those two nations national interests overlap, and always mindful that Japan's safety must be in hands of the Japanese".  
-But Takaichi won't just have to balance Japan's interests and its alliance with the US – she'll also have to do that while maintaining the country's crucial trade partnership with China.  
-Rintaro Nishimura senior associate at the Asia Group said: "Takaichi will have to walk a very fine line, maybe tone down some of her more hawkish tendencies on China... but also assure Trump that the US-Japan relationship is the most important."  
-Trump gives 'toothless' Asian summit its moment in the sun  
-Trump's week in Asia: BBC correspondents on the wins and potential losses  
-Asia  
-Japan  
-Donald Trump  
-Related  
-China controls the rare earths the world buys - can Trump's new deals change that?  
-The Indian village which saw the homecoming of one of the world's oldest rebels  
-More from the BBC  
-4 hrs ago  
-4 hrs ago  
-12 hrs ago  
-12 hrs ago  
-20 hrs ago  
-Donald Trump is selling "Trump 2028" caps, and he's suggested there may be a loophole to the two-term limit.  
-20 hrs ago  
-21 hrs ago  
-Trump says he had 'perfect' MRI at Walter Reed hospital  
-During the medical visit earlier this month, Trump's doctor said he was in "exceptional" health.  
-21 hrs ago  
-21 hrs ago  
-Watch: Trump says he'd love to run for president in 2028  
-Trump is constitutionally prohibited from running again by the 22nd Amendment to the US Constitution.  
-21 hrs ago
+दुई ठूला क्रसबोर्डर प्रसारण लाइन बनाउन नेपाल–भारत संयुक्त लगानी सम्झौता – Online Khabar  
+Comments  
+Shares  
+दुई ठूला क्रसबोर्डर प्रसारण लाइन बनाउन नेपाल–भारत संयुक्त लगानी सम्झौता  
+नेपाल र भारतबीच इनरूवा–पूर्णिया र लम्की (दोदोधारा)–बरेली ४०० केभी अन्तरदेशीय प्रसारण लाइन निर्माण गर्न संयुक्त उपक्रम (जेभी) तथा सेयरहोल्डर सम्झौतापत्रमा हस्ताक्षर भएको छ ।  
+Comments  
+Shares  
+२०८२ कात्तिक १२ गते १३:४३  
+News Summary  
+Generated by OK AI. Editorially reviewed.  
+नेपाल र भारतबीच इनरूवा–पूर्णिया र लम्की–बरेली ४०० केभी अन्तरदेशीय प्रसारण लाइन निर्माण गर्न संयुक्त उपक्रम तथा सेयरहोल्डर सम्झौतापत्रमा हस्ताक्षर भएको छ।  
+सम्झौतापत्रमा नेपाल विद्युत प्राधिकरण र पावर ग्रिड कर्पोरेसन अफ इण्डियाले संयुक्त कम्पनी स्थापना गरी दुवै प्रसारण लाइन निर्माण गर्ने सहमति जनाएका छन्।  
+दुवै प्रसारण लाइन सन् २०३० भित्र निर्माण सम्पन्न गर्ने लक्ष्य राखिएको छ र नेपालले २५ वर्षको आईटीएसए सम्झौताअनुसार प्रसारण लाइन प्रयोग गर्नेछ।  
+१२ कात्तिक, काठमाडौं । नेपाल र भारतबीच इनरूवा–पूर्णिया र लम्की (दोदोधारा)–बरेली ४०० केभी अन्तरदेशीय प्रसारण लाइन निर्माण गर्न संयुक्त उपक्रम (जेभी) तथा सेयरहोल्डर सम्झौतापत्रमा हस्ताक्षर भएको छ ।  
+ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री कुलमान घिसिङ र भारतका  विद्युतमन्त्री मनोहरलाल खट्टरको उपस्थितिमा बुधबार नयाँ दिल्लीमा सम्झौतापत्रमा हस्ताक्षर भएको हो ।  
+सम्झौतापत्रमा नेपाल विद्युत प्राधिकरणका तर्फबाट उपकार्यकारी निर्देशक सुभाषकुमार मिश्र र पावर ग्रिड कर्पोरेसन अफ इण्डिया लिमिटेडका अन्तर्राष्ट्रिय व्यवसाय प्रमुख सञ्चालन अधिकृत सञ्जय कुमार गुप्ताले हस्ताक्षर गरे । संयुक्त लगानी सम्बन्धी सम्झौतापत्रमा हस्ताक्षर भएसँगै प्राधिकरण र पावर ग्रिडको लगानीमा दुवै प्रसारण लाइन निर्माणका लागि कम्पनी संस्थापना गर्न बाटो खुलेको छ ।  
+दुई वटा अन्तरदेशीय प्रसारण लाइनको भारतीय भूभागमा पर्ने खण्ड निर्माणका लागि भारतमा स्थापना गरिने संयुक्त कम्पनीमा नेपाल विद्युत प्राधिकरणको ४९ प्रतिशत र पावर ग्रिडको ५१ प्रतिशत सेयर हिस्सा रहनेछ । त्यस्तै नेपाली भूभागमा पर्ने खण्ड नेपालका लागि नेपालमा संस्थापना हुने संयुक्त कम्पनीमा प्राधिकरणको ५१ प्रतिशत र पावर ग्रिडको ४९ प्रतिशत सेयर हिस्सा रहनेछ ।  
+दुई प्रसारण लाइनको निर्माणमा ८० प्रतिशत ऋण र २० प्रतिशत सेयर पूँजी रहने गरी वित्तीय व्यवस्थापन गरिनेछ । इनरुवा पूर्णिया प्रसारण लाइनको करिब २६ किलोमिटर खण्ड नेपाली र १०९ किलोमिटर खण्ड भारतीय भूभागमा पर्नेछ । लम्की बरेली प्रसारण लाइनको करिब ३३ किलोमिटर खण्ड नेपाली र १८५ किलोमिटर खण्ड भारतीय भूभागमा निर्माण हुनेछ ।  
+नेपाल भारत संयुक्त प्राविधिक टोलीले सन् २०१९ मा तयार पारेको अध्ययन प्रतिवेदनअनुसार इनरुवा पूर्णिया प्रसारण लाइनको प्रारम्भिक लागत नेपाली र भारतीय खण्डको क्रमशः २ अर्ब ६५ लाख र ४ अर्ब १३ करोड भारतीय रुपैयाँ (भारु) लाग्ने अनुमान गरिएको छ ।  
+त्यस्तै लम्की बरेली प्रसारण लाइनको नेपालमा प्रारम्भिक लागत अनुमान नेपाली र भारतीय खण्डको क्रमशः २ अर्ब ५७ करोड र ६ अर्ब १४ करोड भारु रहेको छ ।प्राधिकरणले आफ्नै स्रोतबाट नेपाल र भारतमा संस्थापना हुने संयुक्त कम्पनीमा क्रमश १ अर्ब र २ अर्ब बराबरको इक्विटी लगानी गर्नेछ ।  
+नेपाल र भारतबीचको विद्युत व्यापार, अन्तरदेशीय प्रसारण लाइन संयोजन एवम् सञ्चालन संयोजन सम्बन्धी सम्झौताको प्रावधनबमोजिम दुई देशका ऊर्जा सचिवस्तरीय संयुक्त निर्देशक समितिको ११ फेब्रुवरी २०२५ मा भारतको नयाँ दिल्लीमा सम्पन्न बैठकले प्रसारण लाइन निर्माण तथा सञ्चालन र लगानी मोडालिटीमा सहमति गरेको थियो ।  
+त्यसपछि प्राधिकरण र पावर ग्रिडबीच विभिन्न चरणमा भएका छलफलपछि २२ अप्रिल २०२५ मा प्रसारण लाइन निर्माणका लागि संयुक्त कम्पनी संस्थापना गर्ने समझदारीपत्र (एमओयू)मा हस्ताक्षर भएको थियो । दुवै लाइनको निर्माण सन् २०३० भित्र सम्पन्न गर्ने लक्ष्य राखिएको छ ।  
+नेपाल र भारतबीच व्यापारका लागि हाल ४०० केभीको ढल्केबर–मुजफ्फरपुर पहिलो क्रस बोर्डर प्रसारण लाइन सञ्चालनमा छ । बुटवल—गोरखपुर दोस्रो अन्तरदेशीय प्रसारण लाइन निर्माणाधीन छ । नेपालको चमेलियादेखि भारतको उत्तराखण्डस्थित जैलिजिवीसम्म २२० केभी प्रसारण लाइन निर्माण गर्न दुई देशबीच सहमति जुटिसकेको छ ।  
+त्यस्तै, भारतका बिहार, उत्तर प्रदेश र उत्तराखण्ड राज्यसँग जोडिएका १३२, ३३ र ११ केभीका प्रसारण लाइन पनि रहेका छन् । प्राधिकरणले हाल ४०० र १३२ केभी प्रसारण लाइन संरचना प्रयोग गरी भारत एवम् बंगलादेशतर्फ दैनिक रुपमा एक हजार मेगावाट विद्युत निर्यात गरिरहेको छ ।  
+अब दोस्रो चरणमा दुवै देशमा निर्माण हुने प्रसारण लाइन प्रयोगका लागि कार्यान्वयन तथा प्रसारण सेवा सम्झौता हुनुपर्ने छ । नेपाल र भारत दुवैतर्फको प्रसारण लाइन सम्पूर्ण रुपमा नेपाल विद्युत प्राधिकरणले नै प्रयोग गर्ने सहमति गत ९ माघमा भारतको नयाँ दिल्लीमा भएको दुई देशको ऊर्जा सम्बन्धी संयुक्त कार्यदल (जेडब्लुजी) बैठकमा भएको थियो ।  
+त्यसअनुसार यी प्रसाणलाइन प्रयोग र भाडा (ह्विलिङ चार्ज) विद्युत प्राधिकरणले नै २५ वर्षको आईटीएसए सम्झौता गर्ने सहमति भएको थियो । तर, त्यसपछि प्रसारण लाइन कसको स्वामित्वमा आउने भन्ने विषयमा भने सहमति हुन बाँकी छ ।  
+यसअघि ढल्केबर मुजफ्फरपुर प्रसारण लाइनको भारततर्फको खण्ड पनि २५ वर्षपछि नेपाल विद्युत प्राधिकरणको स्वामित्वमा आउने गरी सम्झौता भएको छ । तर, बुटवल गोरखपुर प्रसारण लाइनको भारततर्फको खण्डका विषयमा पछि दुई देशबीच हुने सहमतिका आधारमा हुने गरी सम्झौता भएको छ ।  
+हस्ताक्षर कार्यक्रममा मन्त्री घिसिङले थप दुईवटा क्रस बोर्डर प्रसारण लाइन निर्माण अगाडि बढ्नु द्धिपक्षीय एवम् क्षेत्रीय विद्युत व्यापारका लागि अर्को महत्वपूर्ण कोशेढुङ्गा भएको उल्लेख गरे ।  
+उनले अन्तरदेशीय प्रसारण लाइनको निर्माणबाट दुई देशबीच तथा क्षेत्रीयस्तरमा समेत नेपालमा उत्पादित विद्युत निर्यात गर्ने आधार तयार भई अन्तर्राष्ट्रिय ऊर्जा बजारसम्म नेपालको पहुँच पुर्‍याई नेपालको जलविद्युतमा स्वदेशी तथा प्रत्यक्ष वैदेशिक लगानी ल्याउन थप सहज हुने बताए ।  
+भारतीय विद्युतमन्त्री खट्टरले थप दुई वटा क्रस बोर्डर प्रसारण लाइनको निर्माण सम्पन्न भएपछि नेपाल—भारतबीचको विद्युत विनिमय सारभूत रुपमा थप सुदृढ हुनुका साथै क्षेत्रीय ऊर्जा सुरक्षामा सुधार, सुदृढ ग्रिड बन्नेहुँदा यसले दुवै देशको आर्थिक वृद्धिमा योगदान पुर्‍याउने उल्लेख गरे ।  
+मन्त्रिपरिषद्को ३० असोजको बैठकले प्रसारण लाइन निर्माणका लागि प्राधिकरण र पावर ग्रिडको लगानीमा नेपाल तथा भारत दुवै भूमिमा दुईवटा संयुक्त कम्पनी स्थापना गर्न र उक्त कम्पनीहरूमा स्वपूँजी (इक्विटी) लगानी गर्न प्राधिकरणलाई स्वीकृति दिएको थियो ।  
+कार्यक्रममा मन्त्री घिसिङले दुई वटा थप अन्तरदेशीय प्रसारण लाइनको निर्माणबाट दुई देशबीच तथा क्षेत्रीयस्तरमा समेत नेपालमा उत्पादित विद्युत निर्यात गर्ने आधार तयार भई अन्तर्राष्ट्रिय ऊर्जा बजारसम्म नेपालको पहुँच पुर्‍याइ नेपालका जलविद्युतमा स्वदेशी तथा प्रत्यक्ष वैदेशिक लगानी ल्याउन थप सहज हुने बताए ।  
+हस्ताक्षर कार्यक्रममा भारतका लागि नेपालका राजदूतका शंकर प्रसाद शर्मा, भारतका विद्युत सचिव पंकज अग्रवाल, विदेश मन्त्रालयका अतिरिक्त सचिव, ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयका सहसचिव सागरराज गौतमलगायतको उपस्थिति थियो ।  
+क्रसबोर्डर प्रसारण लाइन  
+यो खबर पढेर तपाईलाई कस्तो महसुस भयो ?  
+खुसी  
+दुःखी  
+अचम्मित  
+उत्साहित  
+आक्रोशित  
+प्रतिक्रिया  
+भर्खरै  
+पुराना  
+लोकप्रिय  
+प्रतिक्रिया दिनुहोस्  
+Login to comment  
+खाता खोल्नु भएको छैन ?  
+साइनअप गर्नुहोस्  
+वा इमेल/सोसल मिडियामार्फत् लगइन गर्नुहोस्  
+Forgot Password?  
++  
+4  
+प्रतिक्रिया  
+Hot Properties  
+Dhumbarahi  
+Bungalow House for rent at Dhumbarahi  
+Per Month  
+Tikathali  
+Duplex House for Sale at Tikathali  
+Total Amount  
+Shital Height  
+Duplex House for Sale at Shital Height  
+Total Amount  
+Imadol  
+House for Sale at Imadol  
+Total Amount  
+Imadol  
+House for Sale in Imadol  
+Total Amount  
+Sanagaun  
+House for Sale at Sanagaun  
+Total Amount  
+Balkot  
+Land on sale at Balkot  
+Per Aana  
+Imadol  
+House for Sale in Imadol  
+Total Amount  
+Baluwatar  
+House for Rent at Dhumbarahi  
+Per Month  
+Imadol  
+Duplex House for Sale at Imadol  
+Total Amount  
+Chappal Karkhana  
+House for Sale in Chappal Karkhana  
+Total Amount  
+Sirutar  
+Land on sale at Sirutar  
+Per Aana  
+Lasuntar  
+Bungalow House for Sale at Lasuntar  
+Total Amount  
+Shital Height  
+Beautiful House for Sale at Shital Height  
+Total Amount  
+Ganesh Chowk  
+House for Sale at Ganesh Chowk  
+Total Amount  
+Bishalnagar  
+4 BHK Spacious Apartment for Sale in Bishalnagar  
+Total Amount  
+सम्बन्धित खबर  
+Advertisment  
+सिफारिस  
+प्रधानमन्त्रीले नै गर्नुपर्छ ‘डेडिकेटेड’ विवाद समाधान पहल  
+हिटलरलाई आदर्श मान्दै अमेरिकी युवा, सामाजिक सञ्जालमा झाँगिंदै नश्लवादी राजनीति  
+बीपीलाई नेतृत्व सुम्पिने कांग्रेसको त्यो विशेष महाधिवेशन  
+कसले लिने विपिन हत्याको नैतिक जिम्मेवारी ?  
+बगिया थारू सभ्यता  
+२४ घण्टा  
+यो साता  
+यो महिना
