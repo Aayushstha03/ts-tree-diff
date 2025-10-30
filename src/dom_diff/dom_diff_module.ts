@@ -37,106 +37,109 @@ function get404Url(domain: string): string {
 	return `${domain}/error_page_hehe`;
 }
 
-async function main(articleUrl: string) {
-	const domain = getDomain(articleUrl);
-	const homepageUrl = `${domain}/`;
-	const notFoundUrl = get404Url(domain);
+export async function processArticles(urls: string[]) {
+	for (const articleUrl of urls) {
+		const domain = getDomain(articleUrl);
+		const homepageUrl = `${domain}/`;
+		const notFoundUrl = get404Url(domain);
 
-	console.log("Fetching article:", articleUrl);
-	const articleHtmlRaw = await fetchHtmlCached(articleUrl);
-	console.log("Fetching homepage:", homepageUrl);
-	const homepageHtmlRaw = await fetchHtmlCached(homepageUrl);
-	console.log("Fetching 404 page:", notFoundUrl);
-	const notFoundHtmlRaw = await fetchHtmlCached(notFoundUrl);
+		console.log("Fetching article:", articleUrl);
+		const articleHtmlRaw = await fetchHtmlCached(articleUrl);
+		console.log("Fetching homepage:", homepageUrl);
+		const homepageHtmlRaw = await fetchHtmlCached(homepageUrl);
+		console.log("Fetching 404 page:", notFoundUrl);
+		const notFoundHtmlRaw = await fetchHtmlCached(notFoundUrl);
 
-	// Preliminary clean: remove <script> and <style> tags
-	const articleHtml = stripScriptAndStyleTags(articleHtmlRaw);
-	const homepageHtml = stripScriptAndStyleTags(homepageHtmlRaw);
-	const notFoundHtml = stripScriptAndStyleTags(notFoundHtmlRaw);
+		// Preliminary clean: remove <script> and <style> tags
+		const articleHtml = stripScriptAndStyleTags(articleHtmlRaw);
+		const homepageHtml = stripScriptAndStyleTags(homepageHtmlRaw);
+		const notFoundHtml = stripScriptAndStyleTags(notFoundHtmlRaw);
 
-	const articleTree = new DomTree(articleHtml);
-	const homepageTree = new DomTree(homepageHtml);
-	const notFoundTree = new DomTree(notFoundHtml);
+		const articleTree = new DomTree(articleHtml);
+		const homepageTree = new DomTree(homepageHtml);
+		const notFoundTree = new DomTree(notFoundHtml);
 
-	// For now, just print root tags and text lengths
-	console.log(
-		"Article root tag:",
-		articleTree.root.tag,
-		"text length:",
-		articleTree.root.extractText().length,
-	);
-	console.log(
-		"Homepage root tag:",
-		homepageTree.root.tag,
-		"text length:",
-		homepageTree.root.extractText().length,
-	);
-	console.log(
-		"404 root tag:",
-		notFoundTree.root.tag,
-		"text length:",
-		notFoundTree.root.extractText().length,
-	);
+		// For now, just print root tags and text lengths
+		console.log(
+			"Article root tag:",
+			articleTree.root.tag,
+			"text length:",
+			articleTree.root.extractText().length,
+		);
+		console.log(
+			"Homepage root tag:",
+			homepageTree.root.tag,
+			"text length:",
+			homepageTree.root.extractText().length,
+		);
+		console.log(
+			"404 root tag:",
+			notFoundTree.root.tag,
+			"text length:",
+			notFoundTree.root.extractText().length,
+		);
 
-	// Collect normalized labels from homepage and 404 DOMs
-	function collectLabels(node: DomNode, set: Set<string>) {
-		set.add(node.normalizedRepresentation());
-		for (const child of node.getchildren()) {
-			collectLabels(child, set);
+		// Collect normalized labels from homepage and 404 DOMs
+		function collectLabels(node: DomNode, set: Set<string>) {
+			set.add(node.normalizedRepresentation());
+			for (const child of node.getchildren()) {
+				collectLabels(child, set);
+			}
 		}
+
+		const homepageLabels = new Set<string>();
+		const notFoundLabels = new Set<string>();
+		collectLabels(homepageTree.root, homepageLabels);
+		collectLabels(notFoundTree.root, notFoundLabels);
+
+		// Traverse article DOM and collect unique nodes
+		function collectUniqueHtml(node: DomNode): string[] {
+			const label = node.normalizedRepresentation();
+			if (homepageLabels.has(label) || notFoundLabels.has(label)) {
+				return [];
+			}
+			// If this node is unique, collect its full HTML (including subtree)
+			// Assumes DomNode has a toHtml() method that serializes the node and its subtree
+			if (typeof node.toHtml === "function") {
+				return [node.toHtml()];
+			}
+			// Fallback: collect HTML from children
+			let results: string[] = [];
+			for (const child of node.getchildren()) {
+				results = results.concat(collectUniqueHtml(child));
+			}
+			return results;
+		}
+
+		const uniqueHtmls = collectUniqueHtml(articleTree.root);
+		const uniqueHtml = uniqueHtmls.join("<br>\n");
+
+		// Convert unique HTML to Markdown
+		const turndownService = new TurndownService();
+		const markdown = turndownService.turndown(uniqueHtml);
+
+		console.log("\n--- Unique Article Markdown ---\n");
+		console.log(markdown);
+
+		// Save HTML and Markdown to dom_diff_out directory
+		const baseName = `unique_article_${encodeURIComponent(articleUrl)}`;
+		const htmlPath = `dom_diff_out/${baseName}.html`;
+		const mdPath = `dom_diff_out/${baseName}.md`;
+		writeFileSync(htmlPath, uniqueHtml, { encoding: "utf8" });
+		writeFileSync(mdPath, markdown, { encoding: "utf8" });
+		console.log(`\nHTML saved to ${htmlPath}`);
+		console.log(`Markdown saved to ${mdPath}`);
 	}
-
-	const homepageLabels = new Set<string>();
-	const notFoundLabels = new Set<string>();
-	collectLabels(homepageTree.root, homepageLabels);
-	collectLabels(notFoundTree.root, notFoundLabels);
-
-	// Traverse article DOM and collect unique nodes
-	function collectUniqueText(node: DomNode): string[] {
-		const label = node.normalizedRepresentation();
-		if (homepageLabels.has(label) || notFoundLabels.has(label)) {
-			return [];
-		}
-		// If this node is unique, collect its text
-		const children = node.getchildren();
-		if (children.length === 0) {
-			const txt = node.text.trim();
-			return txt ? [txt] : [];
-		}
-		// Otherwise, recurse into children
-		let results: string[] = [];
-		for (const child of children) {
-			results = results.concat(collectUniqueText(child));
-		}
-		return results;
-	}
-
-	const uniqueTexts = collectUniqueText(articleTree.root);
-	const uniqueHtml = uniqueTexts.join("<br>\n");
-
-	// Convert unique HTML to Markdown
-	const turndownService = new TurndownService();
-	const markdown = turndownService.turndown(uniqueHtml);
-
-	console.log("\n--- Unique Article Markdown ---\n");
-	console.log(markdown);
-
-	console.log("\n--- Unique Article Markdown ---\n");
-	console.log(markdown);
-
-	// Save Markdown to file
-	const outPath = "unique_article.md";
-	writeFileSync(outPath, markdown, { encoding: "utf8" });
-	console.log(`\nMarkdown saved to ${outPath}`);
 }
 
-// Argument parsing and main invocation
-const url = process.argv[2];
-if (!url) {
-	console.error("Usage: bun run src/dom_diff/dom_diff_module.ts <article_url>");
-	process.exit(1);
-}
-main(url).catch((err) => {
-	console.error(err);
-	process.exit(1);
-});
+// Usage:
+// import { processArticles } from "./dom_diff_module";
+await processArticles([
+	"https://www.bbc.com/news/articles/c4g7d39n6vgo",
+	"https://www.onlinekhabar.com/2025/10/1791118/trilateral-talks-between-government-political-parties-and-genji-representatives-tomorrow",
+	"https://www.bankofcanada.ca/2025/10/free-family-events-bank-canada-museum-financial-literacy-month/",
+	"https://www.bankofcanada.ca/2025/08/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-30-2025/",
+	"https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1",
+	"https://www.rbnz.govt.nz/hub/publications/bulletin/2025/pandemic-lessons-on-the-monetary-and-fiscal-policy-mix",
+	"https://www.onlinekhabar.com/2025/10/1791452/nepal-india-joint-investment-agreement-to-build-two-major-cross-border-transmission-lines",
+]);

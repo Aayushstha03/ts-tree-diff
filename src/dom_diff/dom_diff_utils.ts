@@ -135,6 +135,11 @@ export class DomNode {
 		return attribs;
 	}
 
+	toHtml(): string {
+		// Returns the HTML for this node and its subtree
+		return this.$.html(this.el) ?? "";
+	}
+
 	getchildren(): DomNode[] {
 		return this.$(this.el)
 			.children()
