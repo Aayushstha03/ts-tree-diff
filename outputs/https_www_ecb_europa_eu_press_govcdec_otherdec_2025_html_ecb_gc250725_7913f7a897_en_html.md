@@ -1,5 +1,8 @@
 Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)
------------------------------------------------------------------------------------------------------
+=====================================================================================================
+
+Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)
+=====================================================================================================
 
 July 2025
 ---------
@@ -132,3 +135,19 @@ On 18 July 2025 the ECB announced that it had imposed an administrative penalty 
 _Revised ECB guide to internal models_
 
 On 22 July 2025 the Governing Council did not object to a proposal by the Supervisory Board to approve the revised ECB guide to internal models and the related Frequently Asked Questions, both of which will be published shortly on the ECB’s banking supervision website. Applicable banking law requires the ECB to grant permission to use internal models for credit risk, counterparty credit risk and market risk, where the requirements set out in the corresponding chapters of the Capital Requirements Regulation (CRR) are met. The ECB guide to internal models provides transparency on how the ECB understands and intends to apply the respective rules when assessing internal models, based on the current applicable EU and national law.
+
+CONTACT
+
+European Central Bank
+---------------------
+
+### Directorate General Communications
+
+*   Sonnemannstrasse 20
+*   60314 Frankfurt am Main, Germany
+*   [+49 69 1344 7455](tel:+49 69 1344 7455)
+*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+
+Reproduction is permitted provided that the source is acknowledged.
+
+[Media contacts](/press/contacts/html/index.en.html)

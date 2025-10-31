@@ -1,3 +1,6 @@
+The Fed Explained - Who We Are
+==============================
+
 ![](/aboutthefed/images/fra-cover-img.png) ![](/aboutthefed/images/frs-seal-01.svg) ![](/aboutthefed/images/bog-icon-01.svg) ![](/aboutthefed/images/banks-icon-01.svg) ![](/aboutthefed/images/fomc-icon-01.svg)
 
 The Federal Reserve is the U.S. central bank, created by the **Federal Reserve Act** of 1913 to establish a monetary system that could respond effectively to stresses in the banking system. The Federal Reserve System includes

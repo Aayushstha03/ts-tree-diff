@@ -1,9 +1,12 @@
-Media Release
--------------
+Statement from the Governor of the Reserve Bank of Australia | Media Releases | RBA
+===================================================================================
 
-Number
+Media Release Statement from the Governor of the Reserve Bank of Australia
+==========================================================================
 
-Date
+Number 2024-28
+
+Date 16 December 2024
 
 The Reserve Bank of Australia welcomes the appointment of new members to the Governance Board and Monetary Policy Board.
 
@@ -14,3 +17,10 @@ I also welcome the agreement of current members of the Reserve Bank Board to con
 I am looking forward to working with Marnie Baker and Renee Fry-McKibbin. Their expertise and insights will be vital as we continue our efforts to bring inflation back to target.
 
 The new members appointed to the Governance Board, Swati Dave, Danny Gilbert AM, David Thodey AO and Jennifer Westacott AO, will greatly assist the RBA in supporting and overseeing management as we continue to transform the organisation.
+
+Enquiries
+---------
+
+Communications Department Reserve Bank of Australia SYDNEY
+
+Phone: [+61 2 9551 8111](tel:+61-2-9551-8111) Email: [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)

@@ -1,3 +1,9 @@
+The Fed - Federal Reserve Supervision and Regulation ReportLock
+===============================================================
+
+Federal Reserve Supervision and Regulation Report
+-------------------------------------------------
+
 The report summarizes banking conditions and the Federal Reserve’s supervisory and regulatory activities, in conjunction with semiannual testimony before Congress by the Vice Chair for Supervision.
 
 #### 2024
@@ -39,3 +45,7 @@ May: Testimony: [HTML](https://www.federalreserve.gov/newsevents/testimony/quarl
 #### 2018
 
 Testimony: [HTML](/newsevents/testimony/quarles20181114a.htm) | [PDF](/publications/files/quarles20181114a.pdf) Report: [HTML](/publications/2018-november-supervision-and-regulation-report-preface.htm) | [PDF](/publications/files/201811-supervision-and-regulation-report.pdf) | [Chart Data and Descriptions](/publications/2018-11-supervision-and-regulation-report-accessible-page.htm)
+
+[Back to Top](# "Scroll To Top")
+
+Last Update: November 15, 2024

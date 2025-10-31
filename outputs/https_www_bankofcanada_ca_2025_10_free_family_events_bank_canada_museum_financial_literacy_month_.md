@@ -1,3 +1,11 @@
+Free Family Events at the Bank of Canada Museum for Financial Literacy Month - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
+==============================================================================================================================================================================================================================================================
+
+Free Family Events at the Bank of Canada Museum for Financial Literacy Month
+============================================================================
+
+October 27, 2025
+
 This November, the Bank of Canada Museum invites visitors to celebrate the 15th anniversary of Financial Literacy Month (FLM) with a full lineup of free, hands-on activities that make money management approachable, practical, and fun for all ages.
 
 Since its launch in 2011, Financial Literacy Month has been observed every November as a national initiative to strengthen Canadians’ knowledge, skills, and confidence in managing money. Led by the Financial Consumer Agency of Canada (FCAC), FLM brings together partners from across the country to help Canadians make informed financial decisions and build a stronger financial future.
@@ -24,3 +32,5 @@ We invite members of the media to explore this month-long celebration at the Ban
 To arrange interviews, request Museum access, or receive additional background materials, please contact [Media Relations](https://www.bankofcanada.ca/press/contacts/).
 
 Media requests are encouraged by October 29 to ensure timely access and support.
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Announcements](https://www.bankofcanada.ca/search/?content_type[]=announcements)

@@ -1,9 +1,12 @@
-Joint Media Release
--------------------
+BIS and Central Bank Partners Demonstrate That Policy Compliance Can Be Embedded in Cross-border Transactions With Project Mandala | Media Releases | RBA
+=========================================================================================================================================================
 
-Number
+Joint Media Release BIS and Central Bank Partners Demonstrate That Policy Compliance Can Be Embedded in Cross-border Transactions With Project Mandala
+======================================================================================================================================================
 
-Date
+Number 2024-22
+
+Date 28 October 2024
 
 ![BIS Innovation Hub logo](/assets/images/logos/other/logo-bis-innovation-hub.gif?v=2) ![Reserve Bank of Australia logo](/assets/images/logos/logo-rba-vertical-black-white-small.png?v=2) ![Bank of Korea logo](/assets/images/logos/other/logo-bok.png) ![Bank Negara Malaysia logo](/assets/images/logos/other/logo-bank-negara-malaysia.gif?v=2) ![Monetary Authority of Singapore logo](/assets/images/logos/other/logo-mas.gif?v=2)
 
@@ -50,3 +53,13 @@ Integration with digital asset and legacy systems
 Mandala successfully integrates with both nascent digital asset settlement systems, such as a wholesale central bank digital currency, and traditional payment messaging systems like Swift.
 
 This dual integration ensures the Mandala system’s versatility and modularity in supporting both future digital asset ecosystems and existing financial infrastructures. For digital assets, Mandala deployed programmable compliance that can be embedded into smart contracts.
+
+Enquiries
+---------
+
+Communications Department Reserve Bank of Australia SYDNEY
+
+Phone: [+61 2 9551 9720](tel:+61-2-9551-9720) Email: [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)
+
+Related Information
+-------------------

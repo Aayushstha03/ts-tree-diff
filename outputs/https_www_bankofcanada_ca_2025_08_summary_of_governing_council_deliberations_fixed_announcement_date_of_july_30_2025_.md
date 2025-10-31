@@ -1,3 +1,11 @@
+Summary of Governing Council deliberations: Fixed announcement date of July 30, 2025 - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailTable of contentsBack to top
+=======================================================================================================================================================================================================================================================================================
+
+Summary of Governing Council deliberations: Fixed announcement date of July 30, 2025
+====================================================================================
+
+August 13, 2025
+
 This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the  [monetary policy decision on July 30, 2025](https://www.bankofcanada.ca/2025/07/fad-press-release-2025-07-30/).
 
 This summary reflects discussions and deliberations by members of [Governing Council](https://www.bankofcanada.ca/about/governing-council/) in stage three of the Bank’s [monetary policy decision-making process](https://www.bankofcanada.ca/core-functions/monetary-policy/decision-making-process/). This stage takes place after members have received all staff briefings and recommendations.
@@ -85,3 +93,5 @@ Based on these factors, Governing Council decided to maintain the policy interes
 Governing Council members also discussed the future path for interest rates. At their previous meeting, members had agreed that if a weakening economy put further downward pressure on inflation and the upward price pressures from the trade disruptions were contained, there may be a need for a reduction in the policy interest rate. Members were aligned on the importance of reiterating this view in their communications at this decision.
 
 Given the clouded outlook, Governing Council members agreed to proceed carefully, with particular attention to the risks.
+
+Content Type(s): [Publications](https://www.bankofcanada.ca/search/?content_type[]=publications), [Summary of deliberations](https://www.bankofcanada.ca/search/?content_type[]=summary-of-deliberations)

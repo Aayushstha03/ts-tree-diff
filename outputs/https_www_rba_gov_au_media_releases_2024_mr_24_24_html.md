@@ -1,9 +1,12 @@
-Media Release
--------------
+Statement by the Reserve Bank Board: Monetary Policy Decision - November 2024 | Media Releases | RBA
+====================================================================================================
 
-Number
+Media Release Statement by the Reserve Bank Board: Monetary Policy Decision
+===========================================================================
 
-Date
+Number 2024-24
+
+Date 5 November 2024
 
 At its meeting today, the Board decided to leave the cash rate target unchanged at 4.35 per cent and the interest rate paid on Exchange Settlement balances unchanged at 4.25 per cent.
 
@@ -35,3 +38,31 @@ Sustainably returning inflation to target within a reasonable timeframe remains 
 While headline inflation has declined substantially and will remain lower for a time, underlying inflation is more indicative of inflation momentum, and it remains too high. The November SMP forecasts suggest that it will be some time yet before inflation is sustainably in the target range and approaching the midpoint. This reinforces the need to remain vigilant to upside risks to inflation and the Board is not ruling anything in or out. Policy will need to be sufficiently restrictive until the Board is confident that inflation is moving sustainably towards the target range.
 
 The Board will continue to rely upon the data and the evolving assessment of risks to guide its decisions. In doing so, it will pay close attention to developments in the global economy and financial markets, trends in domestic demand, and the outlook for inflation and the labour market. The Board remains resolute in its determination to return inflation to target and will do what is necessary to achieve that outcome.
+
+More on the November 2024 monetary policy decision...
+-----------------------------------------------------
+
+### Media Conference
+
+Governor Michele Bullock addresses the media after the monetary policy decision.
+
+[Media Conference](/speeches/2024/mc-gov-2024-11-05.html)
+
+### Monetary Policy Minutes
+
+Minutes of the Reserve Bank Board meeting, published two weeks after the decision.
+
+[Monetary Policy Minutes](/monetary-policy/rba-board-minutes/2024/2024-11-05.html)
+
+### Statement on Monetary Policy
+
+The RBA's assessment of the economy that the Board considered in making its decision.
+
+[Statement on Monetary Policy](/publications/smp/2024/nov/)
+
+Enquiries
+---------
+
+Communications Department Reserve Bank of Australia SYDNEY
+
+Phone: [+61 2 9551 9720](tel:+61-2-9551-9720) Email: [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)

@@ -1,3 +1,17 @@
+Monetary Policy Report Press Conference Opening Statement - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
+===========================================================================================================================================================================================================================================
+
+_Monetary Policy Report_ Press Conference Opening Statement
+===========================================================
+
+Opening statement
+
+[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
+
+October 23, 2024
+
 Good morning. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss the October _Monetary Policy Report_ and our policy decision.
 
 Today, we lowered the policy interest rate by 50 basis points. This is our fourth consecutive decrease since June and brings our policy rate to 3.75%.
@@ -33,3 +47,32 @@ High inflation and interest rates have been a heavy burden for Canadians. With i
 The Bank is committed to maintaining price stability for Canadians by keeping inflation close to the 2% target.
 
 With that summary, the Senior Deputy Governor and I would be pleased to take your questions.
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Opening statements](https://www.bankofcanada.ca/search/?content_type[]=opening-statements)
+
+[
+
+Monetary Policy Report—October 2024
+-----------------------------------
+
+](https://www.bankofcanada.ca/publications/mpr/mpr-2024-10-23/ "Monetary Policy Report—October 2024")
+
+Monetary policy has worked to reduce price pressures in the Canadian economy. Inflation is now around 2% and is expected to remain near the middle of the Bank of Canada’s control range of 1% to 3% over the projection.
+
+[
+
+Bank of Canada reduces policy rate by 50 basis points to 3¾%
+------------------------------------------------------------
+
+](https://www.bankofcanada.ca/2024/10/fad-press-release-2024-10-23/ "Bank of Canada reduces policy rate by 50 basis points to 3¾%")
+
+The Bank of Canada today reduced its target for the overnight rate to 3¾%, with the Bank Rate at 4% and the deposit rate at 3¾%.
+
+[
+
+Press Conference: Monetary Policy Report – October 2024
+-------------------------------------------------------
+
+](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2024/ "Press Conference: Monetary Policy Report – October 2024")
+
+_Release of the Monetary Policy Report_ – Press conference by Governor Tiff Macklem and Carolyn Rogers, Senior Deputy Governor (10:30 (ET) approx.).

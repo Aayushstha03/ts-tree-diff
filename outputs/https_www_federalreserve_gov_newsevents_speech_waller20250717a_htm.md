@@ -1,3 +1,23 @@
+Speech by Governor Waller on the economic outlook - Federal Reserve BoardLock
+=============================================================================
+
+Speech
+------
+
+[PDF](/newsevents/speech/files/waller20250717a.pdf)
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
+
+July 17, 2025
+
+### _The Case for Cutting Now_
+
+Governor Christopher J. Waller
+
+At the Money Marketeers of New York University, New York, New York
+
+*   [Share](#)
+
 Thank you, John, and thank you for the invitation to speak to you today.
 
 My purpose this evening is to explain why I believe that the Federal Open Market Committee (FOMC) should reduce our policy rate by 25 basis points at our next meeting.[1](#fn1 "footnote 1") I used to tell my junior research colleagues that presentations are not murder mysteries—just tell the audience up front "who did it" by telling them the main point. So let me follow my own advice and state up front the reasons I believe we should cut the policy rate at our meeting in two weeks.
@@ -69,3 +89,5 @@ For this reason, I believe it makes sense to cut the FOMC's policy rate by 25 ba
 10\. See Waller, "The Effects of Tariffs on the Three I's," in note 7. [Return to text](#f10)
 
 11\. I consider survey-based measures of inflation expectations unreliable, and the market-based measures that I watch have remained firmly anchored. [Return to text](#f11)
+
+Last Update: July 17, 2025

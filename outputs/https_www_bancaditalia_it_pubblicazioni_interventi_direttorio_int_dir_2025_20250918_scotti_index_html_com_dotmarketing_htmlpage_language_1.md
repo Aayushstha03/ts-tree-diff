@@ -1,5 +1,8 @@
+Banca d’Italia - Stablecoins in the Payments Ecosystem: Reflections on Responsible Innovation
+=============================================================================================
+
 Stablecoins in the Payments Ecosystem: Reflections on Responsible Innovation
-----------------------------------------------------------------------------
+============================================================================
 
 by Chiara Scotti
 
@@ -10,6 +13,18 @@ Economics of Payments XIV Conference
 Rome
 
 18 September 2025
+
+Other formats:
+
+[PDF Format](/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/en-20250918-scotti.pdf?language_id=1
+)
+
+Share
+-----
+
+Stampa la pagina
+
+### index
 
 Ladies and gentlemen, distinguished guests and colleagues,
 
@@ -120,3 +135,6 @@ The path ahead may be complex but it is also full of potential. It is a path tha
 
 Endnotes
 --------
+
+index
+-----

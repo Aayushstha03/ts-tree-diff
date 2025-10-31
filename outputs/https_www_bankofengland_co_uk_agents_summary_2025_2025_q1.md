@@ -1,3 +1,37 @@
+Agents' summary of business conditions - 2025 Q1 | Bank of England
+==================================================================
+
+Agents' summary of business conditions - 2025 Q1
+================================================
+
+We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.
+
+*   Related links Related links
+    ---------------------------
+    
+    *   [Latest results from the Decision Maker Panel survey - 2025 Q1](/agents-summary/2025/2025-q1/latest-results-from-the-decision-maker-panel-survey-2025-q1)
+    
+
+![](/-/media/boe/images/icons/aqua-background/agents-summary-demand-and-output.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=58EB5FA1912DD18E7A2C65451DF45780)
+
+### Demand and output
+
+Economic activity remains subdued. Expectations are for modest recovery over 2025, the timing and extent of which is contingent on an improvement in sentiment.
+
+![](/-/media/boe/images/icons/aqua-background/agents-summary-employment-and-pay.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=E5E20F34842CD628F7599BD7BA4EF735)
+
+### Employment and pay
+
+Firms report hiring pauses or freezes and say they will review staffing levels if the outlook does not improve.
+
+![](/-/media/boe/images/icons/aqua-background/agents-summary-costs-and-prices.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=C6D5CFEEB035489945946710DDF9B63B)
+
+### Costs and prices
+
+Consumer goods price inflation has started to increase and the moderation seen in consumer services price inflation may slow.
+
+Published on 20 March 2025
+
 Overview
 --------
 
@@ -116,3 +150,99 @@ We continue to receive intel of landlords exiting the rental market, which is in
 ### Commercial real estate
 
 Development and transaction activity remain weak, with contacts linking depressed demand to high Bank Rate and gilt yield volatility, as well as uncertainty about valuations. Contacts expect this situation to persist.
+
+Related contents and download
+-----------------------------
+
+[
+
+### Latest results from the Decision Maker Panel survey - 2025 Q1
+
+Firms' own-price growth is expected to edge up to 4% over the year ahead.
+
+
+
+](/agents-summary/2025/2025-q1/latest-results-from-the-decision-maker-panel-survey-2025-q1)
+
+**Next publication date 19 June 2025**
+
+Convert this page to PDF
+
+[![](/-/media/boe/images/icons/e/ic_mail-in.svg?h=30&iar=0&mh=30&mw=30&w=30&hash=3E5EAC6D60A4FE2C57052FA5724C168C)
+
+### Sign up for latest updates
+
+
+
+](/subscribe-to-emails)
+
+Other Agents' summary of business conditions
+--------------------------------------------
+
+[
+
+Publication // Agents' Summary of Business Conditions
+
+18 September 2025
+
+### Latest results from the Decision Maker Panel...
+
+### Latest results from the Decision Maker Panel survey - 2025 Q3
+
+
+
+
+
+](/agents-summary/2025/2025-q3/latest-results-from-the-decision-maker-panel-survey-2025-q3)
+
+[
+
+Publication // Agents' Summary of Business Conditions
+
+18 September 2025
+
+### Agents' summary of business conditions -...
+
+### Agents' summary of business conditions - 2025 Q3
+
+
+
+
+
+](/agents-summary/2025/2025-q3)
+
+[
+
+Publication // Agents' Summary of Business Conditions
+
+19 June 2025
+
+### Agents' summary of business conditions -...
+
+### Agents' summary of business conditions - 2025 Q2
+
+
+
+
+
+](/agents-summary/2025/2025-q2)
+
+[
+
+Publication // Agents' Summary of Business Conditions
+
+19 June 2025
+
+### Latest results from the Decision Maker Panel...
+
+### Latest results from the Decision Maker Panel survey - 2025 Q2
+
+
+
+
+
+](/agents-summary/2025/2025-q2/latest-results-from-the-decision-maker-panel-survey-2025-q2)
+
+[View more Other Agents' summary of business conditions](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=862f553992364544bce61d87ed06c5e7&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

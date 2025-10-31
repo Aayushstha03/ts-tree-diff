@@ -1,5 +1,8 @@
+Financial Aggregates October 2024 | RBA
+=======================================
+
 Financial Aggregates October 2024
----------------------------------
+=================================
 
 **Release date:** 29 November 2024
 

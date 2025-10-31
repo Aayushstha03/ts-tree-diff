@@ -1,3 +1,17 @@
+New World Bank Project to Support Children with Disabilities in Djibouti
+========================================================================
+
+This page in:
+
+English
+
+This page in: English
+
+PRESS RELEASEJuly 11, 2025
+
+New World Bank Project to Support Children with Disabilities in Djibouti
+========================================================================
+
 **WASHINGTON, July 11, 2025 –** The World Bank has approved a $2.97 million grant to help Djibouti improve care and educational opportunities for children with disabilities. This funding aims to assist families by providing support to children with disabilities from the very beginning of their learning journey, ensuring they receive the necessary resources to succeed.
 
 The **Improving Inclusion of Vulnerable Children with Disabilities** Project is financed by the Japanese Social Development Fund (JSDF)\* and aims to transform educational access and economic opportunities for children with disabilities and their families in selected schools across Djibouti. By conducting assessments, the project seeks to understand the challenges faced by these children both at home and in school. This will empower the National Agency for Persons with Disabilities (ANPH) and its partners to gather critical data. Additionally, the project will focus on enhancing educational access and fostering economic inclusion for families, helping them build a more secure future.
@@ -13,3 +27,25 @@ Despite efforts to integrate marginalized Djiboutians living with disabilities a
 Aligned with Djibouti’s Vision 2035, this operation supports socio-economic development by addressing the exacerbated social and economic conditions caused by the COVID-19 pandemic and recent global crises. The project aligns with the World Bank Group’s Country Partnership Framework and the National Disability Strategy of the Republic of Djibouti 2021-2025, reinforcing commitments to inclusive and sustainable development.
 
 The [**Japanese Social Development Fund**](https://www.worldbank.org/en/programs/japan-social-development-fund?) is a Partnership between the Government of Japan (GoJ) and the World Bank conceived in the wake of the Asian financial crisis in the late 1990s. It was established in June 2000 as a grant mechanism to provide targeted assistance to groups made vulnerable by the financial crisis in low- and lower-middle-income countries around the world.
+
+Contacts
+--------
+
+À Djibouti:
+
+Korane Fayçal
+
+[kfaycal@worldbankgroup.org](mailto:kfaycal@worldbankgroup.org)
+
+RELATED
+-------
+
+Blogs
+-----
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
+
+WHAT'S NEW
+----------
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

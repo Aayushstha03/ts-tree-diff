@@ -1,13 +1,22 @@
+Talking to Canadians: How real-world insights shape monetary policy - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
+=====================================================================================================================================================================================================================================================
+
 Talking to Canadians: How real-world insights shape monetary policy
--------------------------------------------------------------------
+===================================================================
 
 Remarks
 
+[Sharon Kozicki](https://www.bankofcanada.ca/profile/sharon-kozicki/ "Deputy Governor - Executive")
+
 C.D. Howe Institute
+
+[Toronto, Ontario](https://www.bankofcanada.ca/search/?location[]=toronto_ontario)
 
 June 5, 2025
 
 Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2025/06/remarks-2025-06-05.pdf)
+
+Data available as: [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605/csv), [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605/json) and [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605/xml)
 
 Introduction
 ------------
@@ -117,7 +126,23 @@ The BLP provides a flexible and nimble pulse of evolving situations. It compleme
 
 And the BLP has been very helpful in monitoring effects from the situation south of the border. For example, businesses were reporting an increase in both uncertainty and inflation expectations as early as November 2024. In December, we also began noting a decline in business sentiment—even before the new US administration was sworn in.
 
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C1/xml)
+*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C1/json)
+*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C1/csv)
+
 This downward trend continued through the first quarter ([Chart 1](#chart1)). Firms have reported that they are delaying or entirely cutting their plans to invest and hire. Sales expectations among exporters have also fallen considerably in recent months ([Chart 2](#chart2)).
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C2/xml)
+*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C2/json)
+*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C2/csv)
 
 The final survey I’d like to highlight is the Canadian Survey of Consumer Expectations, or CSCE. This is a quarterly survey that measures households’ views about their job prospects and financial health, as well as their expectations for inflation. We also ask about current issues of interest to the Bank. The results are parsed out by characteristics like age, geography, income and education.
 
@@ -128,6 +153,14 @@ More recently, in the first quarter of 2025, results from the CSCE highlighted a
 The CSCE has allowed us to see how trade tensions with the United States are having a more pronounced impact on some Canadians. People working in sectors that rely on exports to the United States are increasingly concerned about their job security. They say they’re more likely to reduce spending on durables—such as furniture and appliances—and on non-essentials like restaurant meals and vacations.
 
 And tariff policies could impact the prices consumers face. Indeed, with all the talk about tariffs, consumers’ inflation expectations over the next year or two have recently increased ([Chart 3](#chart3)).
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C3/xml)
+*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C3/json)
+*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_KOZI20250605_C3/csv)
 
 ### Special regional consultations
 
@@ -201,3 +234,30 @@ Thank you for taking the time today to hear more about our work at the Bank of C
 I look forward to answering any questions you may have.
 
 I would like to thank Sarah Miller, Joshua Slive and Lena Suchanek for their help in preparing this speech.
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Remarks](https://www.bankofcanada.ca/search/?content_type[]=remarks)
+
+Research Topic(s): [Business fluctuations and cycles](https://www.bankofcanada.ca/search/?topic[]=business-fluctuations-and-cycles), [Credibility](https://www.bankofcanada.ca/search/?topic[]=credibility), [Monetary policy and uncertainty](https://www.bankofcanada.ca/search/?topic[]=uncertainty-and-monetary-policy), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments), [Trade integration](https://www.bankofcanada.ca/search/?topic[]=trade-integration)
+
+Related information
+-------------------
+
+June 5, 2025
+
+### [Reaching out for a clearer view of the economy](https://www.bankofcanada.ca/2025/06/reaching-out-clearer-view-economy/)
+
+Speech summary [Sharon Kozicki](https://www.bankofcanada.ca/profile/sharon-kozicki/ "Deputy Governor - Executive") C.D. Howe Institute [Toronto, Ontario](https://www.bankofcanada.ca/search/?location[]=toronto_ontario)
+
+Speaking a day after we decided to keep the policy interest rate at 2.75%, Deputy Governor Sharon Kozicki discusses how we make better decisions by looking at a variety of data and talking with Canadians.
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Speech summaries](https://www.bankofcanada.ca/search/?content_type[]=speech-summaries) Research Topic(s): [Business fluctuations and cycles](https://www.bankofcanada.ca/search/?topic[]=business-fluctuations-and-cycles), [Credibility](https://www.bankofcanada.ca/search/?topic[]=credibility), [Monetary policy and uncertainty](https://www.bankofcanada.ca/search/?topic[]=uncertainty-and-monetary-policy), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments), [Trade integration](https://www.bankofcanada.ca/search/?topic[]=trade-integration)
+
+June 5, 2025
+
+### [Speech: C.D. Howe Institute](https://www.bankofcanada.ca/multimedia/speech-c-d-howe-institute/)
+
+ [![](https://www.bankofcanada.ca/wp-content/uploads/2025/06/YouTube-Thumbnail-Speech-500x375.gif) ![](https://www.bankofcanada.ca/wp-content/themes/parent-build/images/play-button.png)](https://www.bankofcanada.ca/multimedia/speech-c-d-howe-institute/)
+
+_Talking to Canadians: How real-world insights shape monetary policy_ — Deputy Governor Sharon Kozicki speaks before the C.D. Howe Institute in Toronto (12:35 (ET) approx.).
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Webcasts](https://www.bankofcanada.ca/search/?content_type[]=webcasts)

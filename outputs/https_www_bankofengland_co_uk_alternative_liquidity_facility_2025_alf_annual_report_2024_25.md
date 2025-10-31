@@ -1,5 +1,8 @@
+Alternative Liquidity Facility Annual Report 2024/25 | Bank of England
+======================================================================
+
 Alternative Liquidity Facility Annual Report 2024/25
-----------------------------------------------------
+====================================================
 
 Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.
 
@@ -25,6 +28,8 @@ Publication // Wholesale cash distribution
 
 
 
+
+
 ](/banknotes/wholesale-cash-supervision/boe-wholesale-cash-distribution-market-oversight-regime-annual-report-2025)
 
 [
@@ -36,6 +41,8 @@ Publication // Annual Report
 ### Real-Time Gross Settlement (RTGS) system...
 
 ### Real-Time Gross Settlement (RTGS) system and CHAPS Annual Report 2024/25
+
+
 
 
 
@@ -53,6 +60,8 @@ Publication // Annual Report
 
 
 
+
+
 ](/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2025)
 
 [
@@ -64,6 +73,8 @@ Publication // Annual Report
 ### Annual Reports 2025
 
 ### Annual Reports 2025
+
+
 
 
 

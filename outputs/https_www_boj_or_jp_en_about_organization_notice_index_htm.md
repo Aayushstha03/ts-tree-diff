@@ -1,5 +1,8 @@
+Warning against Scams Using the Bank of Japan's Name : 日本銀行 Bank of Japan
+=========================================================================
+
 Warning against Scams Using the Bank of Japan's Name
-----------------------------------------------------
+====================================================
 
 [日本語](/about/organization/notice/index.htm)
 

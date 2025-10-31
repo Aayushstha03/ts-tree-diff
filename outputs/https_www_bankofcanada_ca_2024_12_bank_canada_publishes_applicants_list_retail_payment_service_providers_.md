@@ -1,3 +1,17 @@
+Bank of Canada publishes applicants’ list of retail payment service providers - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
+===============================================================================================================================================================================================================================================================
+
+Bank of Canada publishes applicants’ list of retail payment service providers
+=============================================================================
+
+FOR IMMEDIATE RELEASE
+
+[Media Relations](https://www.bankofcanada.ca/press/contacts/)
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
+
+December 2, 2024
+
 The Bank of Canada today published the [list](https://www.bankofcanada.ca/core-functions/retail-payments-supervision/list-of-applicants/) of companies that have applied to be registered under the _Retail Payment Activities Act_ (RPAA). The publication of the applicants’ list is the latest milestone as the Bank takes on the mandate of supervising retail payment service providers.
 
 The Bank estimates that companies that have applied to register, whether located in Canada or abroad, represent a majority of the Canadian retail payment service market.
@@ -17,3 +31,7 @@ Over the next 10 months, the Bank will review the applications it receives, and 
 After that date, all payment service providers operating in Canada will be required to show how they are meeting legislative requirements for managing key risks and safeguarding users’ funds. By registering with the Bank and complying with the legislation, payment service providers give Canadians confidence in the retail payment services they use every day.
 
 “The companies that have applied to register have taken an important first step,” Ms. Brigham said. “Now, it’s up to them to look at their operations, determine if they meet our supervisory expectations, and make any changes needed.”
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)
+
+Research Topic(s): [Retail payments supervision](https://www.bankofcanada.ca/search/?topic[]=retail-payments-supervision)

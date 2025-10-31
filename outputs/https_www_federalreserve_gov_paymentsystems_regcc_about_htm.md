@@ -1,3 +1,9 @@
+Federal Reserve Board - Regulation CC (Availability of Funds and Collection of Checks)Lock
+==========================================================================================
+
+Regulation CC (Availability of Funds and Collection of Checks)
+--------------------------------------------------------------
+
 In 1987, Congress passed the [Expedited Funds Availability Act (PDF)](http://www.gpo.gov/fdsys/pkg/USCODE-2010-title12/pdf/USCODE-2010-title12-chap41.pdf) (EFAA), to address concerns about the lengths of holds banks were then placing on checks deposited by their customers. The EFAA establishes maximum permissible hold periods for checks and other deposits. The Board's [Regulation CC](/supervisionreg/regcccg.htm) (12 CFR part 229) implements the funds-availability and disclosure provisions of the EFAA in Subpart B of the regulation.
 
 The EFAA also gave the Board the authority to regulate the nation's check-clearing system more generally. Pursuant to this authority, the Board adopted rules to speed the return of unpaid checks. These rules reduce the risk to depositary banks of having to make funds from check deposits available for withdrawal before learning whether the checks have been returned unpaid. In the 1990s, the Board adopted a same-day settlement rule, which decreased the competitive disparity between Reserve Banks and private-sector banks when presenting checks for payment. The check-return rules and same-day settlement rules are set forth in Subpart C of Regulation CC.

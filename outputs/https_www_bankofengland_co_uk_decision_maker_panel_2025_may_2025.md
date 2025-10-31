@@ -1,3 +1,13 @@
+Monthly Decision Maker Panel data - May 2025 | Bank of England
+==============================================================
+
+Monthly Decision Maker Panel data - May 2025
+============================================
+
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.
+
+Published on 05 June 2025
+
 The May DMP survey was conducted between 9 and 23 May and received 2,129 responses.
 
 Firms reported that their realised own-price growth remained unchanged at an average annual rate of 3.5% in the three months to May. Note that the DMP covers own prices from firms across the whole economy, not just consumer-facing firms.
@@ -15,3 +25,76 @@ Firms were also asked about US trade policy as a source of uncertainty for their
 The DMP was set up in August 2016 and is run by the Bank of England in collaboration with King’s College London and the University of Nottingham. It was designed to be representative of the population of UK businesses. All results are weighted. See [Bunn et al (2024)Opens in a new window](https://www.bankofengland.co.uk/working-paper/2024/the-decision-maker-panel-a-users-guide) for more details.
 
 The DMP receives funding from the Economic and Social Research Council.
+
+Convert this page to PDF
+
+Other Decision Maker Panel data
+-------------------------------
+
+[
+
+Publication // DMP
+
+07 August 2025
+
+### Monthly Decision Maker Panel data - July...
+
+### Monthly Decision Maker Panel data - July 2025
+
+
+
+
+
+](/decision-maker-panel/2025/july-2025)
+
+[
+
+Publication // DMP
+
+03 July 2025
+
+### Monthly Decision Maker Panel data - June...
+
+### Monthly Decision Maker Panel data - June 2025
+
+
+
+
+
+](/decision-maker-panel/2025/june-2025)
+
+[
+
+Publication // Agents' Summary of Business Conditions
+
+19 June 2025
+
+### Latest results from the Decision Maker Panel...
+
+### Latest results from the Decision Maker Panel survey - 2025 Q2
+
+
+
+
+
+](/agents-summary/2025/2025-q2/latest-results-from-the-decision-maker-panel-survey-2025-q2)
+
+[
+
+Publication // DMP
+
+05 June 2025
+
+### Monthly Decision Maker Panel data - May 2025
+
+### Monthly Decision Maker Panel data - May 2025
+
+
+
+
+
+](/decision-maker-panel/2025/may-2025)
+
+[View more Other Decision Maker Panel data](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=3cdd3191bbc342db9b22e7d5abcf02c8&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

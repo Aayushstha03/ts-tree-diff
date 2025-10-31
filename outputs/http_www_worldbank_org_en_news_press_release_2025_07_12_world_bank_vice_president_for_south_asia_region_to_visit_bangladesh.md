@@ -1,3 +1,11 @@
+World Bank Vice President for South Asia Region to Visit Bangladesh
+===================================================================
+
+PRESS RELEASEJuly 12, 2025
+
+World Bank Vice President for South Asia Region to Visit Bangladesh
+===================================================================
+
 **DHAKA, July 12, 2025**—The World Bank’s new Vice President for the South Asia Region, Johannes Zutt, arrives in Dhaka today. During his four-day official visit, Zuttwill meet with the Honorable Chief Adviser of the Interim Government, the Finance Adviser, Bangladesh Bank Governor, and other senior government officials and private sector representatives.
 
 Zutt assumed his role as World Bank Vice President for the South Asia Region on July 1, 2025. Bangladesh will be his first official visit in the new role, and he previously served as the World Bank’s Country Director for Bangladesh, Bhutan and Nepal from 2013 – 2015.  
@@ -7,3 +15,35 @@ _“I have very fond memories of Bangladesh, its people, and the friendships 
 A Dutch national, Mr. Zutt joined the World Bank in 1999 and has taken positions of increasing responsibility. He most recently served as the World Bank’s Country Director for Brazil. Before this he was the Director for Strategy, Results, Risk and Learning in the Operational Policy and Country Services (OPCS) Vice Presidency. He has also served as Country Director for Türkiye, Comoros, Eritrea, Kenya, Rwanda, Seychelles and Somalia.
 
 The World Bank was among the first development partners to support Bangladesh after its independence. Since then, the Bank has committed about $46 billion to Bangladesh, mostly in grants or concessional credits. Bangladesh currently has one of the largest ongoing programs supported by the World Bank Group’s International Development Association (IDA).
+
+Contacts
+--------
+
+In Dhaka
+
+Mehrin Ahmed Mahbub
+
+[mmahbub@worldbank.org](mailto:mmahbub@worldbank.org)
+
+In Washington
+
+Diana Chung
+
+[dchung1@worldbank.org](mailto:dchung1@worldbank.org)
+
+RELATED
+-------
+
+[The World Bank in Bangladesh](https://www.worldbank.org/bd)
+
+[World Bank Bangladesh on Facebook](https://www.facebook.com/worldbankbangladesh)
+
+Blogs
+-----
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
+
+WHAT'S NEW
+----------
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

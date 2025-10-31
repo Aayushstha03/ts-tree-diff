@@ -1,3 +1,17 @@
+The Bank of England’s supervisory approach to onboarding new financial market infrastructure firms | Bank of England
+====================================================================================================================
+
+The Bank of England’s supervisory approach to onboarding new financial market infrastructure firms
+==================================================================================================
+
+This publication explains the Bank’s supervisory approach to onboarding new FMIs that fall within its regulatory remit, complementing our overall approach to supervising FMIs.
+
+*   Related links Related links
+    ---------------------------
+    
+
+Published on 18 July 2025
+
 Introduction
 ------------
 
@@ -368,3 +382,141 @@ Following authorisation or mobilisation a new CCP may enter a scaling stage as i
 15.  [Access policy for RTGS settlement accounts and services | Bank of England](https://www.bankofengland.co.uk/payment-and-settlement/access-policy-rtgs-settlement-accounts-services)
      
 16.  S. 191 Banking Act 2009.
+     
+
+S. 191 Banking Act 2009.
+
+Close
+
+[Access policy for RTGS settlement accounts and services | Bank of England](https://www.bankofengland.co.uk/payment-and-settlement/access-policy-rtgs-settlement-accounts-services)
+
+Close
+
+S. 185A Banking Act 2009.
+
+Close
+
+S. 199 of Banking Act 2009.
+
+Close
+
+Art 20 UK EMIR and Art 20 UK CSDR
+
+Close
+
+For CCPs and CSDs this may happen ahead of authorisation, while for payment systems this may happen after recognition. This is because of the nature of the different regimes for these FMIs entering the Bank’s regulatory remit.
+
+Close
+
+In regard to recognition criteria in s.185 and S.185A of BA09.
+
+Close
+
+This includes, for example, the number and value of transactions, whether those transactions could be handled by other systems, the relationship between the system and other systems and whether the system is used by the Bank in its role as a monetary authority.
+
+Close
+
+S. 185(2) Banking Act 2009.
+
+Close
+
+Section 30D(3)(d) Bank of England Act 1998.
+
+Close
+
+Section 30D(4) Bank of England Act 1998.
+
+Close
+
+Section 30D(2) Bank of England Act 1998.
+
+Close
+
+The use of the term ‘onboarding’ in this publication refers to the process for FMIs entering the Bank’s regulatory remit. This process differs between different types of FMIs and is explained further in section 2.
+
+Close
+
+DSA service providers may include firms such as issuers, custodians, exchanges or wallet providers.
+
+Close
+
+This includes clearing houses which provide clearing services in the UK, as recognised under s.285(1)(b)(ii).
+
+Close
+
+Section 2A of the Bank of England Act 1998.
+
+Close
+
+Convert this page to PDF
+
+Other publications
+------------------
+
+[
+
+Publication // Weekly report
+
+30 October 2025
+
+### Bank of England Weekly Report 29 October...
+
+### Bank of England Weekly Report 29 October 2025
+
+
+
+
+
+](/weekly-report/2025/29-october-2025)
+
+[
+
+Publication // Wholesale cash distribution
+
+30 October 2025
+
+### The Bank of England’s wholesale cash distribution...
+
+### The Bank of England’s wholesale cash distribution market oversight regime - Annual Report 2025
+
+
+
+
+
+](/banknotes/wholesale-cash-supervision/boe-wholesale-cash-distribution-market-oversight-regime-annual-report-2025)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Wage information and applicant selection
+
+### Wage information and applicant selection
+
+
+
+
+
+](/working-paper/2025/wage-information-and-applicant-selection)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Credit constraints and the redistribution...
+
+### Credit constraints and the redistribution of housing wealth
+
+
+
+
+
+](/working-paper/2025/credit-constraints-and-the-redistribution-of-housing-wealth)
+
+[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

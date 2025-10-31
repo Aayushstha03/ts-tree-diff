@@ -1,3 +1,20 @@
+Azerbaijan: Modernizing the Judiciary for Better Access, Transparency and Efficiency
+====================================================================================
+
+Results BriefsJuly 18, 2025
+
+Azerbaijan: Modernizing the Judiciary for Better Access, Transparency and Efficiency
+====================================================================================
+
+![Azerbaijan: Modernizing the Judiciary ](https://worldbank.scene7.com/is/image/worldbankprod/az-judicial-court-780?wid=780&hei=439&qlt=85,0&resMode=sharp "Azerbaijan: Modernizing the Judiciary ")
+
+Court hearing at the newly-built Yasamal District Court.
+
+Synopsis
+--------
+
+The World Bank-supported Judicial Services and Smart Infrastructure Project, implemented since 2014, modernized Azerbaijan’s court infrastructure, introduced nationwide e-court and e-enforcement systems, and piloted Artificial Intelligence (AI) and business intelligence tools. It improved transparency, efficiency, and access to justice—particularly for vulnerable groups—while laying the groundwork for future reforms.
+
 ### **Results Highlights**
 
 *   Between 2014 and 2024, 12 new court complexes were completed in six jurisdictions, providing better conditions for staff and users.
@@ -6,6 +23,12 @@
 *   Judges can now handle three times more cases than before full roll-out of the E-court system in 2023.
 *   Almost 70,000 citizens benefited from legal aid services.
 *   Citizen satisfaction with the courts increased to 69.3%, up from 44.6% at the beginning of the project.
+
+The e-court platform in Azerbaijan lets businesses access the judiciary faster and less costly. It promotes the efficiency of judicial services and serves as a good example of digital transformation. From the economy standpoint, using such systems also makes enterprises more efficient by resources needed for legal procedures.
+
+Vusal Gasimli
+
+Executive Director, Center for Analysis and Communication of Economic Reforms
 
 ### **Challenges**
 
@@ -58,3 +81,8 @@ The project has had a transformative impact on Azerbaijan’s judiciary, laying 
 Building on this project’s success, future efforts should prioritize sustained investment in digital infrastructure. The success of the project’s IT upgrades—particularly in improving transparency and efficiency—demonstrates the value of further expanding artificial intelligence and business intelligence tools to drive smarter, data-informed judicial management.
 
 Finally, it is essential that future reforms consider inclusivity as a cornerstone. This means ensuring that all segments of the population, particularly vulnerable groups, and citizens in remote areas, have equal access to justice.
+
+RELATED
+-------
+
+*   [Judicial Services and Smart Infrastructure Project](https://projects.worldbank.org/en/projects-operations/project-detail/P144700)

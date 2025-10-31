@@ -1,3 +1,17 @@
+Amendments to the Bank of England’s approach to setting a minimum requirement for own funds and eligible liabilities (MREL) | Bank of England
+=============================================================================================================================================
+
+Amendments to the Bank of England’s approach to setting a minimum requirement for own funds and eligible liabilities (MREL)
+===========================================================================================================================
+
+Policy statement
+
+*   Related links Related links
+    ---------------------------
+    
+
+Published on 15 July 2025
+
 1: Introduction
 ---------------
 
@@ -482,7 +496,9 @@ On the broader legislative framework, which is a matter for Parliament and the G
 Annexes
 -------
 
-*   AT1 – Additional Tier 1.
+*   ### Annex 1: Abbreviations
+    
+    AT1 – Additional Tier 1.
     
     Bank – Bank of England.
     
@@ -552,7 +568,9 @@ Annexes
     
     TLAC – Total loss absorbing capacity.
     
-*   Certain of the amendments set out in the revised statement of policy (SoP) are made on the assumption that some or all of the following take place:
+*   ### Annex 2: Final revised MREL SoP
+    
+    Certain of the amendments set out in the revised statement of policy (SoP) are made on the assumption that some or all of the following take place:
     
     Certain references in the revised statement of policy to the PRA’s Rulebook and other PRA policy materials are subject to consultation and final implementation by the PRA.
     
@@ -560,7 +578,9 @@ Annexes
     
     [Tracked change comparison between current MREL SoP and future MREL SoP](https://www.bankofengland.co.uk/-/media/boe/files/paper/2025/tracked-change-comparison-between-current-mrel-sop-and-future-mrel-sop).
     
-*   The following table sets out the UK CRR provisions in scope of the exercise described in Section 2. The table indicates the expected treatment for each provision to be revoked.
+*   ### Annex 3: Final version of destination table
+    
+    The following table sets out the UK CRR provisions in scope of the exercise described in Section 2. The table indicates the expected treatment for each provision to be revoked.
     
     The proposed treatment is indicated as follows:
     
@@ -1176,7 +1196,9 @@ Annexes
     
     MREL SoP Annex 1, paragraph 5(b)
     
-*   Association for Financial Markets in Europe (AFME)
+*   ### Annex 4: List of respondents who have consented to the publication of their names
+    
+    Association for Financial Markets in Europe (AFME)
     
     Aldermore Group PLC
     
@@ -1232,3 +1254,109 @@ Annexes
 7.  [CFM37840 – Loan relationships: hybrid capital instruments: definition of hybrid capital instrument: definition of hybrid capital instrument for tax purposes – HMRC internal manual](https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37840 "Opens in new window").
     
 8.  [CFM37870 – Loan relationships: hybrid capital instruments: tax rules - interaction with other rules – HMRC internal manual](https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37870 "Opens in new window").
+    
+
+[CFM37870 – Loan relationships: hybrid capital instruments: tax rules - interaction with other rules – HMRC internal manual](https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37870 "Opens in new window").
+
+Close
+
+[CFM37840 – Loan relationships: hybrid capital instruments: definition of hybrid capital instrument: definition of hybrid capital instrument for tax purposes – HMRC internal manual](https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37840 "Opens in new window").
+
+Close
+
+These include PRA supervisory statements SS6/14, SS31/15, SS45/15 and SS16/16.
+
+Close
+
+Footnote 11 of paragraph 4.3 of the MREL SoP.
+
+Close
+
+An instrument will be considered to have been issued on or after 1 January 2026 if subject to an amendment made on or after that date that changes the maturity date or any other potential redemption date of the instrument to a later date.
+
+Close
+
+The four relevant templates in COREP13: Z 02.00, Z 03.00, Z 04.00 and Z 05.01.
+
+Close
+
+Minimum capital requirements as defined in footnote 8 of the revised MREL SoP.
+
+Close
+
+Section 3(1) of the Banking Act 2009.
+
+Close
+
+Convert this page to PDF
+
+Other publications
+------------------
+
+[
+
+Publication // Weekly report
+
+30 October 2025
+
+### Bank of England Weekly Report 29 October...
+
+### Bank of England Weekly Report 29 October 2025
+
+
+
+
+
+](/weekly-report/2025/29-october-2025)
+
+[
+
+Publication // Wholesale cash distribution
+
+30 October 2025
+
+### The Bank of England’s wholesale cash distribution...
+
+### The Bank of England’s wholesale cash distribution market oversight regime - Annual Report 2025
+
+
+
+
+
+](/banknotes/wholesale-cash-supervision/boe-wholesale-cash-distribution-market-oversight-regime-annual-report-2025)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Wage information and applicant selection
+
+### Wage information and applicant selection
+
+
+
+
+
+](/working-paper/2025/wage-information-and-applicant-selection)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Credit constraints and the redistribution...
+
+### Credit constraints and the redistribution of housing wealth
+
+
+
+
+
+](/working-paper/2025/credit-constraints-and-the-redistribution-of-housing-wealth)
+
+[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

@@ -1,8 +1,8 @@
 The ECB’s monetary policy strategy statement (2025)
----------------------------------------------------
+===================================================
 
 The ECB’s monetary policy strategy statement (2025)
----------------------------------------------------
+===================================================
 
 1.  The low-inflation period and the post-pandemic inflation surge underscore the importance of a monetary policy strategy that enables the Governing Council to respond effectively to major changes in the inflation environment. Ongoing structural shifts related to geopolitics, digitalisation, artificial intelligence, demography, the threat to environmental sustainability and changes in the international financial system suggest that the inflation environment will remain uncertain and potentially more volatile, with larger target deviations in both directions, posing challenges for the conduct of monetary policy. A more resilient financial architecture – supported by progress on the savings and investments union, the completion of banking union and the introduction of a digital euro – would also support the effectiveness of monetary policy in this evolving environment.
 2.  The monetary policy strategy of the ECB is both guided and bound by the mandate conferred on it by the Treaty on European Union and the Treaty on the Functioning of the European Union. The primary objective of the ECB is to maintain price stability in the euro area. Without prejudice to the price stability objective, the Eurosystem shall support the general economic policies in the European Union with a view to contributing to the achievement of the Union’s objectives as laid down in Article 3 of the Treaty on European Union. These objectives include balanced economic growth, a highly competitive social market economy aiming at full employment and social progress, and a high level of protection and improvement of the quality of the environment. The Eurosystem shall also contribute to the smooth conduct of policies pursued by the competent authorities relating to the prudential supervision of credit institutions and the stability of the financial system.
@@ -16,3 +16,9 @@ The ECB’s monetary policy strategy statement (2025)
 10.  Climate change has profound implications for price stability through its impact on the structure and cyclical dynamics of the economy and the financial system. Addressing climate change is a global challenge and a policy priority for the European Union. Within its mandate, the Governing Council is committed to ensuring that the Eurosystem fully takes into account, in line with the EU’s goals and objectives, the implications of climate change and nature degradation for monetary policy and central banking.
 11.  The clear communication of monetary policy decisions and their rationale through the monetary policy statement, the press conference, the Economic Bulletin and the monetary policy account supports the effectiveness of the ECB’s monetary policy. These products are complemented by layered and visualised versions of monetary policy communication geared towards the wider public, which is essential for ensuring public understanding of and trust in the actions of the ECB. The Governing Council will continue to adapt its approach in response to the evolving communication landscape.
 12.  The Governing Council intends to assess periodically the appropriateness of its monetary policy strategy, with the next assessment expected in 2030.
+
+#### Related topics
+
+*   [Strategy review](/home/search/review/html/index.en.html)
+
+**Disclaimer** Please note that related topic tags are currently available for selected content only.

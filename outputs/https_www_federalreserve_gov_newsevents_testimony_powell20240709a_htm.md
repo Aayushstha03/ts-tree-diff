@@ -1,3 +1,25 @@
+Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress - Federal Reserve BoardLock
+==============================================================================================================
+
+Testimony
+---------
+
+[PDF](/newsevents/testimony/files/powell20240709a.pdf)
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
+
+July 09, 2024
+
+### _Semiannual Monetary Policy Report to the Congress_
+
+Chair Jerome H. Powell
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+*   [Share](# "Share")
+
+[Watch Live](https://financialservices.house.gov/)
+
 _**Chair Powell submitted identical remarks to the Committee on Financial Services, U.S. House of Representatives, on July 10, 2024.**_
 
 Chairman Brown, Ranking Member Scott, and other members of the Committee, I appreciate the opportunity to present the Federal Reserve's semiannual [_Monetary Policy Report_](https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm)_._
@@ -25,3 +47,12 @@ Let me conclude by emphasizing that we understand that our actions affect commun
 Thank you. I am happy to take your questions.
 
 1\. A box in our latest _Monetary Policy Report_, "Employment and Earnings across Demographic Groups," discusses differences in labor market outcomes among segments of the population. [Return to text](#f1)
+
+##### Related Content
+
+*   [Congressional Hearing Transcripts](http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CHRG)
+*   Hearing transcripts are posted to this website as they become available.
+
+[Back to Top](# "Scroll To Top")
+
+Last Update: July 10, 2024

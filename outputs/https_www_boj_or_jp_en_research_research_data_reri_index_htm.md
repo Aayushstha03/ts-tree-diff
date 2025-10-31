@@ -1,3 +1,11 @@
+Developments in Real Exports and Real Imports : 日本銀行 Bank of Japan
+==================================================================
+
+Developments in Real Exports and Real Imports
+=============================================
+
+[日本語](/research/research_data/reri/index.htm)
+
 In order to assess the developments in exports and imports consistently with real GDP, it is useful to look at those developments on a real-value basis, after excluding the effects of price fluctuations. Moreover, as for real exports, data broken down by region and by goods enable a more multi-faceted analysis on the developments in Japan's real exports.
 
 From this viewpoint, the Research and Statistics Department of the Bank of Japan (1) prepares data on real exports and real imports(main series) and (2) calculates real exports broken down by region and by goods(reference series). These data are released on the website on a regular basis.

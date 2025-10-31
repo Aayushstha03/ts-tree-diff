@@ -1,3 +1,11 @@
+Measures of Underlying Inflation : 日本銀行 Bank of Japan
+=====================================================
+
+Measures of Underlying Inflation
+================================
+
+[日本語](/research/research_data/cpi/index.htm)
+
 Measures of underlying inflation (the so-called core inflation measures) -- obtained by removing transitory disturbances from the actual movements observed in the consumer prices -- are frequently used for inflation analysis. Instead of focusing on a specific core inflation measure, a comprehensive examination of various core inflation measures enables us to identify the trends of price movements in a more accurate manner.
 
 The Bank of Japan's Research and Statistics Department releases the following four estimates in line with the monthly release of the official CPI for Japan: the diffusion index of increasing/decreasing items; the trimmed mean; the mode; and the weighted median.

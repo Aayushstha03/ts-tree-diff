@@ -1,5 +1,8 @@
+Statistics on Securities Financing Transactions in Japan : 日本銀行 Bank of Japan
+=============================================================================
+
 Statistics on Securities Financing Transactions in Japan
---------------------------------------------------------
+========================================================
 
 [日本語](/statistics/bis/repo/index.htm)
 

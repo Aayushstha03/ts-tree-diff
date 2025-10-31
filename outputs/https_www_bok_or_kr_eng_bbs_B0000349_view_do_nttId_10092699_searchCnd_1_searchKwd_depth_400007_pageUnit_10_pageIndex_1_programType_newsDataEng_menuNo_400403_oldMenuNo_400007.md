@@ -1,3 +1,8 @@
+MSB Issuance Notice(DC025-1028-0910) | Open Market Operations(상세) | Notice | News & Publications | Bank of Korea
+================================================================================================================
+
+   
+
 MSB Issuance Notice(DC025-1028-0910)
 ------------------------------------
 
@@ -17,6 +22,23 @@ MSB Issuance Notice(DC025-1028-0910)
 
 Market Operations Team(02-759-4564)
 
+Attachment
+
 첨부파일
 
 \* Please refer to the attached file.
+
+List
+
+Related Information
+
+Related News/Publications
+
+내가 본 콘텐츠
+
+내가 본 콘텐츠
+--------
+
+prev next
+
+[Top](javascript:void\(0\);)

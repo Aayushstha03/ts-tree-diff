@@ -1,3 +1,13 @@
+Federal Reserve Board - Reporting FormsLock
+===========================================
+
+Reporting Forms
+---------------
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
+
+[Information collections under review](/apps/reportingforms/review) [Recent Reporting Form Updates](/apps/reportingforms/recentupdates) [Application filing information](/supervisionreg/afi/afi.htm) [Micro Data Reference Manual](/apps/mdrm/) [Savings and Loan Holding Company Reporting Forms](/apps/reportingforms/home/SLHC) [Incorporating FASB Accounting Standards Codification References into Federal Reserve Report (16 KB PDF)](/reportforms/FASBCodification.pdf)
+
 Listed below are recent updates related to Federal Reserve information collections over the past three months. Some of these updates are related to proposed information collections, while other updates are related to finalized information collections and/or reporting forms and instructions.
 
 Updates to [reporting forms](/apps/ReportingForms/) and the [Information Collections Under Review page](/apps/reportingforms/review) are generally posted on Wednesdays and Fridays.

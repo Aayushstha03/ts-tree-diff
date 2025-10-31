@@ -1,3 +1,11 @@
+World Bank Returns to the New Zealand Dollar Market with a Successful NZD 600 Million 7-Year Benchmark Bond
+===========================================================================================================
+
+PRESS RELEASEJuly 11, 2025
+
+World Bank Returns to the New Zealand Dollar Market with a Successful NZD 600 Million 7-Year Benchmark Bond
+===========================================================================================================
+
 **WASHINGTON, D.C., July 11, 2025 –** The World Bank (International Bank for Reconstruction and Development, IBRD rated Aaa/AAA) priced a New Zealand dollar 600 million 7-year 4.25% fixed-rate bond due July 23, 2032.  This oversubscribed bond, the World Bank’s first in the Kauri market after a nearly two-year hiatus for the World Bank and 18 months for any Sovereign, Supranational and Agency (SSA) issuer, was launched with an initial minimum target size of NZD 300 million and was increased due to strong investor demand.
 
 The deal priced at 99.634768% to yield 4.311% p.a. semi-annually. This equates to a spread of 9.85 basis points over the New Zealand Government Bond due May 15, 2032.
@@ -109,3 +117,18 @@ _Net proceeds of the bonds described herein are not committed or earmarked for l
 **Contact**
 
 Investor Relations and Sustainable Finance, World Bank Treasury, [debtsecurities@worldbank.org](mailto:debtsecurities@worldbank.org)
+
+RELATED
+-------
+
+[World Bank Treasury](https://treasury.worldbank.org/)
+
+Blogs
+-----
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
+
+WHAT'S NEW
+----------
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

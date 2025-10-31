@@ -1,3 +1,11 @@
+ECB Consumer Expectations Survey results – May 2025
+===================================================
+
+*   PRESS RELEASE
+
+ECB Consumer Expectations Survey results – May 2025
+===================================================
+
 1 July 2025
 
 Compared with April 2025:
@@ -45,3 +53,23 @@ The release of the Consumer Expectations Survey (CES) results for June is schedu
 *   The CES is a monthly online survey of, currently, around 19,000 adult consumers (i.e. aged 18 or over) from 11 euro area countries: Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal and Finland. The main aggregate results of the CES are published on the ECB’s website every month. The results are used for policy analysis and complement other data sources used by the ECB.
 *   Further information about the survey and the data collected is available on the [CES web page](/stats/ecb_surveys/consumer_exp_survey/html/index.en.html). Detailed information can also be found in the following two publications: Bańkowska, K. et al., “[ECB Consumer Expectations Survey: an overview and first evaluation](/pub/pdf/scpops/ecb.op287~ea7eebc23f.en.pdf)”, _Occasional Paper Series_, No 287, ECB, Frankfurt am Main, December 2021; and Georgarakos, D. and Kenny, G., “[Household spending and fiscal support during the COVID-19 pandemic: Insights from a new consumer survey](https://www.sciencedirect.com/science/article/pii/S0304393222000241)”, _Journal of Monetary Economics_, Vol. 129, Supplement, July 2022, pp. S1-S14.
 *   The survey results do not represent the views of the ECB’s decision-making bodies or staff.
+
+#### Related topics
+
+**Disclaimer** Please note that related topic tags are currently available for selected content only.
+
+CONTACT
+
+European Central Bank
+---------------------
+
+### Directorate General Communications
+
+*   Sonnemannstrasse 20
+*   60314 Frankfurt am Main, Germany
+*   [+49 69 1344 7455](tel:+49 69 1344 7455)
+*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+
+Reproduction is permitted provided that the source is acknowledged.
+
+[Media contacts](/press/contacts/html/index.en.html)

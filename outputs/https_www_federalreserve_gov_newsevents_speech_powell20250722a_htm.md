@@ -1,3 +1,13 @@
+Opening remarks by Chair Powell at the Integrated Review of the Capital Framework for Large Banks Conference - Federal Reserve BoardLock
+========================================================================================================================================
+
+Speech
+------
+
+[PDF](/newsevents/speech/files/powell20250722a.pdf)
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
+
 July 22, 2025
 
 ### _Opening Remarks_
@@ -5,6 +15,8 @@ July 22, 2025
 Chair Jerome H. Powell
 
 At the Integrated Review of the Capital Framework for Large Banks Conference, Federal Reserve Board, Washington, D.C.
+
+*   [Share](#)
 
 [Watch Live](https://www.youtube.com/federalreserve)
 
@@ -29,5 +41,9 @@ Today we will hear the perspectives of industry veterans, academics, and current
 Our regulatory capital framework and all banking rules are implemented through supervision, an area where Vice Chair for Supervision Bowman brings deep experience as a former banker and state supervisor. As she has noted, we need to make sure that our supervisory practices focus on the critical areas that determine safety and soundness. We need our large banks to be well capitalized and to manage their key risks well. And we need large banks to be free to compete with one another, with nonbank financial firms, and with banks in other jurisdictions to provide capital and support economic growth.
 
 The Fed is a dynamic institution. We are open to hearing new ideas and feedback on how to improve the capital framework for large banks, and I look forward to hearing from today's participants. Thank you again for joining us today.
+
+##### Related Content
+
+*   [Integrated Review of the Capital Framework for Large Banks Conference](https://www.federalreserve.gov/conferences/integrated-review-of-the-capital-framework-for-large-banks.htm)
 
 Last Update: July 22, 2025

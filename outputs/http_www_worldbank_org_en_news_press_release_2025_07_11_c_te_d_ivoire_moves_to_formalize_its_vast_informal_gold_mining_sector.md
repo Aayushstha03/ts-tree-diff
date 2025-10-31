@@ -1,3 +1,21 @@
+Côte d'Ivoire Moves to Formalize Its Vast Informal Gold Mining Sector
+=====================================================================
+
+This page in:
+
+English
+
+*   [Français](https://www.banquemondiale.org/fr/news/press-release/2025/07/11/c-te-d-ivoire-moves-to-formalize-its-vast-informal-gold-mining-sector)
+
+This page in: English
+
+*   [Français](https://www.banquemondiale.org/fr/news/press-release/2025/07/11/c-te-d-ivoire-moves-to-formalize-its-vast-informal-gold-mining-sector)
+
+PRESS RELEASEJuly 11, 2025
+
+Côte d'Ivoire Moves to Formalize Its Vast Informal Gold Mining Sector
+=====================================================================
+
 _Partnership with World Bank, World Gold Council to Improve Safety, Environmental Standards, Curb Illicit Gold Trading_  
 
 **ABIDJAN, July 11, 2025**—Facing significant losses from illicit gold trade and seeking to formalize a vital, yet often dangerous sector, Côte d'Ivoire has joined forces with the World Bank and the World Gold Council in an ambitious partnership to transform its small-scale mining. The agreement signed today seeks to improve safety and transparency in an industry that supports half a million livelihoods but has long struggled with poor regulation, environmental harm, and widespread smuggling.
@@ -27,3 +45,28 @@ Facebook: [http://www.facebook.com/worldbank](https://www.facebook.com/worldbank
 Twitter: [https://x.com/WBG\_Energy](https://x.com/WBG_Energy)
 
 YouTube: [http://www.youtube.com/worldbank](https://www.youtube.com/worldbank)
+
+Contacts
+--------
+
+Washington DC
+
+Ms. Tehreem Saifey Ford World Bank
+
+[tsaifey@worldbank.org](mailto:tsaifey@worldbank.org%20)
+
+New York
+
+Ms. Mary SacchiWorld Gold Council
+
+[mary.sacchi@gold.org](mailto:mary.sacchi@gold.org)
+
+Blogs
+-----
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
+
+WHAT'S NEW
+----------
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

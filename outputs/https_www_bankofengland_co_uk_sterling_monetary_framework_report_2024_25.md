@@ -1,3 +1,37 @@
+Report on the Bank’s official market operations March 2024–February 2025 | Bank of England
+==========================================================================================
+
+Report on the Bank’s official market operations March 2024–February 2025
+========================================================================
+
+The Bank publishes an annual report covering key developments in its market operations and their usage. This report covers the period March 2024 to end-February 2025.
+
+*   Related links Related links
+    ---------------------------
+    
+    *   [Bank of England Market Operations Guide](/markets/bank-of-england-market-operations-guide)
+    
+
+![smf-2023-24-icon-1](/-/media/boe/images/icons/aqua-background/smf-2023-24-icon-1.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=887ACC45784F495D2EB9F283EF9B7D7C)
+
+### Reserves levels continue to decrease gradually
+
+The stock of central bank reserves continued to fall gradually over the reporting period. The main drivers for this reduction were the unwind of the Bank’s Asset Purchase Facility and Term Funding Scheme with additional incentives for Small and Medium-sized Enterprises.
+
+![smf-2023-24-icon-2](/-/media/boe/images/icons/aqua-background/smf-2023-24-icon-2.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=A85D2444F1843392D61F94E1F76B16E9)
+
+### Transitioning to a demand-driven, repo-led framework
+
+The Bank is transitioning from a supply-driven framework for supplying reserves to a demand-driven, repo-led framework. In line with this, drawings from our repo facilities gradually increased over the review period. The Bank’s facilities are open for business and should be used as part of routine liquidity management.
+
+![smf-2023-24-icon-4](/-/media/boe/images/icons/aqua-background/smf-2023-24-icon-4.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=F3DBE807A588DA96C5E3F2FA5EF70082)
+
+### A new tool to lend to non-banks is open for applications
+
+Opened for applications in January 2025, the purpose of the Contingent Non-Bank Financial Institution (NBFI) Repo Facility, known as the CNRF, is to address episodes of severe gilt market dysfunction that threaten UK financial stability by lending to eligible NBFIs.
+
+Published on 26 June 2025
+
 Executive summary
 -----------------
 
@@ -448,3 +482,133 @@ Annex
 13.  Specifically, the Coronavirus Business Interruption Loan Scheme, the Coronavirus Large Business Interruption Loan Scheme, and loans under the Bounce Back Loan Scheme.
      
 14.  Haircut add-ons are kept under review by the Bank.
+     
+
+Haircut add-ons are kept under review by the Bank.
+
+Close
+
+Specifically, the Coronavirus Business Interruption Loan Scheme, the Coronavirus Large Business Interruption Loan Scheme, and loans under the Bounce Back Loan Scheme.
+
+Close
+
+[Eligible collateral](https://www.bankofengland.co.uk/markets/eligible-collateral).
+
+Close
+
+[Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility – May 2025](https://www.bankofengland.co.uk/letter/2025/may/asset-purchase-facility-may-2025).
+
+Close
+
+Following the conclusion of the corporate bond sales programme, the APF also held a small number of very short maturity bonds that matured by April 2024, in line with a [June 2023 Market Notice](https://www.bankofengland.co.uk/markets/market-notices/2023/june/apf-boe-concludes-corporate-bond-sales-programme-6-june-2023).
+
+Close
+
+[PRA statement on Indexed Long-Term Repo (ILTR) facility](https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-statement-on-iltr-facility).
+
+Close
+
+[Let’s get ready to repo! – speech by Victoria Saporta](https://www.bankofengland.co.uk/speech/2024/july/victoria-saporta-speech-at-afme-seminar).
+
+Close
+
+[Let’s get ready to repo! – speech by Victoria Saporta](https://www.bankofengland.co.uk/speech/2024/july/victoria-saporta-speech-at-afme-seminar).
+
+Close
+
+[PRA statement on Short Term Repo (STR) facility](https://www.bankofengland.co.uk/prudential-regulation/publication/2022/august/pra-statement-on-short-term-repo-facility).
+
+Close
+
+[PRA statement on Short Term Repo (STR) facility](https://www.bankofengland.co.uk/prudential-regulation/publication/2022/august/pra-statement-on-short-term-repo-facility).
+
+Close
+
+Access to SMF facilities involves obtaining a reserves account in the Real-time Gross Settlement (RTGS) service. The renewed RTGS service went [live](https://www.bankofengland.co.uk/news/2025/april/renewed-rtgs-service) in April 2025. One of the important benefits of this renewed service is improving access to RTGS. As part of the programme to renew RTGS over recent years, it has been necessary to impose temporary change freezes that have impacted the Bank’s ability to onboard new reserves account participants to the SMF.
+
+Close
+
+[Information for applicants](https://www.bankofengland.co.uk/markets/bank-of-england-market-operations-guide/information-for-applicants).
+
+Close
+
+The Bank of England Asset Purchase Facility Fund Limited (BEAPFF) and the Bank of England Alternative Liquidity Facility Limited (BEALF).
+
+Close
+
+The governance of the Bank’s balance sheet is set out in: [Governance of the Bank of England’s balance sheet: principles of engagement](https://www.bankofengland.co.uk/about/governance-and-funding/principles-of-engagement).
+
+Close
+
+Convert this page to PDF
+
+Other publications
+------------------
+
+[
+
+Publication // Weekly report
+
+30 October 2025
+
+### Bank of England Weekly Report 29 October...
+
+### Bank of England Weekly Report 29 October 2025
+
+
+
+
+
+](/weekly-report/2025/29-october-2025)
+
+[
+
+Publication // Wholesale cash distribution
+
+30 October 2025
+
+### The Bank of England’s wholesale cash distribution...
+
+### The Bank of England’s wholesale cash distribution market oversight regime - Annual Report 2025
+
+
+
+
+
+](/banknotes/wholesale-cash-supervision/boe-wholesale-cash-distribution-market-oversight-regime-annual-report-2025)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Wage information and applicant selection
+
+### Wage information and applicant selection
+
+
+
+
+
+](/working-paper/2025/wage-information-and-applicant-selection)
+
+[
+
+Publication // Working Paper
+
+24 October 2025
+
+### Credit constraints and the redistribution...
+
+### Credit constraints and the redistribution of housing wealth
+
+
+
+
+
+](/working-paper/2025/credit-constraints-and-the-redistribution-of-housing-wealth)
+
+[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

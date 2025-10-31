@@ -1,3 +1,21 @@
+Opening remarks - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
+=================================================================================================================================================================================================
+
+Opening remarks
+===============
+
+Remarks
+
+[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
+
+Conference on Diversity, Equity and Inclusion in Economics, Finance and Central Banking
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
+
+November 14, 2022
+
+Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2022/11/remarks-2022-11-14.pdf)
+
 Good morning. I’m pleased to be with you—virtually at least—to welcome you to the fourth conference on Diversity, Equity and Inclusion in Economics, Finance and Central Banking. I’m grateful that what began in 2018 between the Bank of England, the European Central Bank and the US Federal Reserve has grown to include the Bank of Canada. It is our great honour to be hosting this year.
 
 Research and experience have already settled the question of whether diversity and inclusion bring benefits. We know they do. Diverse and inclusive groups make better decisions. That’s because they can avoid the groupthink that happens when decision makers all have similar backgrounds and approach problems in the same way. If you bring diverse perspectives and experiences to a problem, you get better solutions, more creativity and higher productivity. Companies that harness these benefits give themselves a clear competitive advantage.
@@ -65,3 +83,7 @@ I want the same for all of central banking, and for economics and finance as a w
 I look forward to our work here today—and in the year ahead—as we work together to find better ways forward in this challenging time. Let the discussion begin.
 
 Thank you.
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Remarks](https://www.bankofcanada.ca/search/?content_type[]=remarks)
+
+Research Topic(s): [Inflation and prices](https://www.bankofcanada.ca/search/?topic[]=inflation-and-prices), [Labour markets](https://www.bankofcanada.ca/search/?topic[]=labour-markets)

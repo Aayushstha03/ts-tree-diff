@@ -1,3 +1,11 @@
+ECB commits to distributed ledger technology settlement plans with dual-track strategy
+======================================================================================
+
+*   PRESS RELEASE
+
+ECB commits to distributed ledger technology settlement plans with dual-track strategy
+======================================================================================
+
 1 July 2025
 
 *   Short-term track (Pontes) to pilot link between distributed ledger technology platforms and TARGET Services by end-2026
@@ -15,3 +23,23 @@ To ensure continuous dialogue with the market, the Eurosystem will establish ded
 Pontes and Appia will build on the Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement, which was conducted between May and November 2024. In this exploratory work, 64 participants conducted over 50 trials and experiments. [A dedicated report outlining the results of the exploratory work](/press/pubbydate/2025/html/ecb.exploratoryworknewtechnologies202506.en.html) has been published today.
 
 **For media queries, please contact** [**Alessandro Speciale**](mailto:alessandro.speciale@ecb.europa.eu)**, tel.: +49 172 1670791.**
+
+#### Related topics
+
+**Disclaimer** Please note that related topic tags are currently available for selected content only.
+
+CONTACT
+
+European Central Bank
+---------------------
+
+### Directorate General Communications
+
+*   Sonnemannstrasse 20
+*   60314 Frankfurt am Main, Germany
+*   [+49 69 1344 7455](tel:+49 69 1344 7455)
+*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+
+Reproduction is permitted provided that the source is acknowledged.
+
+[Media contacts](/press/contacts/html/index.en.html)

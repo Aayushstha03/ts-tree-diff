@@ -1,9 +1,16 @@
+Global trade in a changing world - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailTable of contentsBack to top
+===================================================================================================================================================================================================================================
+
 Global trade in a changing world
---------------------------------
+================================
 
 Speech summary
 
+[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
+
 Canada-UK Chamber of Commerce
+
+[London, United Kingdom](https://www.bankofcanada.ca/search/?location[]=london_united-kingdom)
 
 September 10, 2024
 
@@ -19,6 +26,14 @@ In the decades following World War II, open trade flourished around the world. T
 Global trade remains crucial for small open economies like Canada. We rely on exports for roughly one-third of our income. Imported components feed into many of our key industries, such as manufacturing. However, over the past 15 years, global trade growth has slowed. The countries producing manufactured goods are changing, geopolitical tensions have caused friction, and public support has faded.
 
 Now global trade is being rewired, recast and redirected—and that has major implications for a country like ours.
+
+[
+
+Find out more about how goods and services move across the world in _The Economy, Plain and Simple_.
+
+
+
+](https://www.bankofcanada.ca/2023/06/linking-the-chains/)
 
 The big trends in global trade
 ------------------------------
@@ -47,3 +62,53 @@ The Bank’s role is to manage the inflation risks and work to ensure a strong e
 > The Bank of Canada doesn’t set trade policy. But we need to understand shifts in global trade because they affect lives and livelihoods, and they drive costs and inflation.”
 
 Watch Governor Macklem answer questions from the media following his speech.
+
+[
+
+Read the full speech.
+
+
+
+](https://www.bankofcanada.ca/2024/09/rewired-recast-and-redirected-global-trade-and-implications-for-canada/)
+
+You might also like
+-------------------
+
+[
+
+Time to roll up our sleeves
+---------------------------
+
+Governor Tiff Macklem outlines four megatrends that are transforming the global economic and financial landscape. He also talks about the structural reform needed to ensure Canada’s long-term prosperity.](https://www.bankofcanada.ca/2025/09/time-to-roll-up-our-sleeves/)
+
+Content Type(s): [Press](https://www.bankofcanada.ca/content_type/press/), [Speech summaries](https://www.bankofcanada.ca/content_type/press/speeches/speech-summaries/), [Speeches and appearances](https://www.bankofcanada.ca/content_type/press/speeches/)
+
+September 23, 2025
+
+[
+
+What is a flexible exchange rate?
+---------------------------------
+
+Canada has a flexible exchange rate. The value of our dollar is not fixed to the value of any other currency or to a precious metal such as gold.](https://www.bankofcanada.ca/2025/09/what-is-a-flexible-exchange-rate/)
+
+Content Type(s): [Explainers](https://www.bankofcanada.ca/content_type/explainers/)
+
+September 3, 2025
+
+*   1
+*   [2](?mt_page=2)
+*   [3](?mt_page=3)
+*   …
+*   [18](?mt_page=18)
+*   [Next »](?mt_page=2)
+
+Enter Page 
+
+Go
+
+Go To Page
+
+Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Speech summaries](https://www.bankofcanada.ca/search/?content_type[]=speech-summaries)
+
+Research Topic(s): [International topics](https://www.bankofcanada.ca/search/?topic[]=international-topics), [Service sector](https://www.bankofcanada.ca/search/?topic[]=service-sector), [Trade integration](https://www.bankofcanada.ca/search/?topic[]=trade-integration)

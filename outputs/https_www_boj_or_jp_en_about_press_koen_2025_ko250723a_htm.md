@@ -1,3 +1,11 @@
+Speech by Deputy Governor UCHIDA in Kochi (Japan's Economy and Monetary Policy) : 日本銀行 Bank of Japan
+====================================================================================================
+
+\[Speech\]Japan's Economy and Monetary PolicySpeech at a Meeting with Local Leaders in Kochi
+============================================================================================
+
+[日本語](/about/press/koen_2025/ko250723a.htm)
+
 UCHIDA Shinichi Deputy Governor of the Bank of Japan July 23, 2025
 
 Introduction

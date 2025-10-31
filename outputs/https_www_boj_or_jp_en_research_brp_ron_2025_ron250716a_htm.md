@@ -1,3 +1,9 @@
+(Research Paper) Results of the Fourth Market Functioning Survey concerning Climate Change : 日本銀行 Bank of Japan
+===============================================================================================================
+
+Results of the Fourth Market Functioning Survey concerning Climate Change \- Progress in the Improvement of Market Functioning and Challenges for the Future -
+==============================================================================================================================================================
+
 July 16, 2025 Financial Markets Department Bank of Japan
 
 Executive Summary

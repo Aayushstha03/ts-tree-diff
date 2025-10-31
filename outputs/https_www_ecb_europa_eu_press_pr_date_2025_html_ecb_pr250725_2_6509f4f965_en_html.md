@@ -1,3 +1,11 @@
+ECB appoints Isabel Vansteenkiste as Counsellor to President Lagarde
+====================================================================
+
+*   PRESS RELEASE
+
+ECB appoints Isabel Vansteenkiste as Counsellor to President Lagarde
+====================================================================
+
 25 July 2025
 
 *   Isabel Vansteenkiste to become Principal Counsellor to the President and Coordinator of the Counsel to the Executive Board
@@ -17,3 +25,19 @@ Ms Vansteenkiste has been at the ECB for 23 years, holding various professional 
 #### Notes
 
 *   A [list of managers](/ecb/pdf/orga/ecb.ECB_managers.en.pdf) is available on the ECB’s website.
+
+CONTACT
+
+European Central Bank
+---------------------
+
+### Directorate General Communications
+
+*   Sonnemannstrasse 20
+*   60314 Frankfurt am Main, Germany
+*   [+49 69 1344 7455](tel:+49 69 1344 7455)
+*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+
+Reproduction is permitted provided that the source is acknowledged.
+
+[Media contacts](/press/contacts/html/index.en.html)

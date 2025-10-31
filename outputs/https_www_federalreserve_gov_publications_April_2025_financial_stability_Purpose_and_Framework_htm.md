@@ -1,3 +1,13 @@
+The Fed - Financial Stability Report - April 2025Lock
+=====================================================
+
+Financial Stability Report - April 2025
+---------------------------------------
+
+[PDF](https://www.federalreserve.gov/publications/files/financial-stability-report-20250425.pdf)
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
+
 ### Purpose and Framework
 
 This report presents the Federal Reserve Board's current assessment of the stability of the U.S. financial system. By publishing this report, the Board intends to promote public understanding by increasing transparency around, and creating accountability for, the Federal Reserve's views on this topic. Financial stability supports the objectives assigned to the Federal Reserve, including full employment and stable prices, a safe and sound banking system, and an efficient payments system.

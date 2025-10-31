@@ -1,3 +1,11 @@
+World Bank Vice President Visits Pakistan, Reaffirms Continued Support
+======================================================================
+
+PRESS RELEASEJuly 25, 2025
+
+World Bank Vice President Visits Pakistan, Reaffirms Continued Support
+======================================================================
+
 **ISLAMABAD, July 25, 2025 —** The World Bank’s Vice President for the Middle East, North Africa, Afghanistan and Pakistan region, Ousmane Dione, concluded his three-days visit to Pakistan today. This marked his first visit to the country since its alignment within the newly expanded and reorganized World Bank region. 
 
 Mr. Dione met with the Prime Minister Shehbaz Sharif and members of his government as well as key counterparts to discuss Pakistan’s development priorities. During his meeting with the Prime Minister Sharif, he discussed key structural reforms needed to boost economic growth and accelerate development efforts in the country. 
@@ -19,3 +27,31 @@ Pakistan has been a member of the World Bank since 1950. Since then, the World B
 IFC has invested approximately $13 billion in Pakistan since 1956, with a diverse range of projects supporting renewable energy, financial inclusion, infrastructure development, agribusiness, manufacturing, housing, healthcare, and trade, among others.
 
 For more information, read the [Pakistan Country Partnership Framework 2026-35 document](https://www.worldbank.org/en/country/pakistan/brief/country-partnership-framework-for-pakistan-fy-2026-up-to-fy-2035)
+
+Contacts
+--------
+
+Islamabad
+
+Mariam Sara AltafSenior External Affairs Officer
+
+[maraimaltaf@worldbank.org](mailto:maraimaltaf@worldbank.org)
+
+Washington
+
+Nicholas KeyesSenior External Affairs Officer
+
+[nkeyes@worldbank.org](mailto:nkeyes@worldbank.org)
+
+RELATED
+-------
+
+Blogs
+-----
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
+
+WHAT'S NEW
+----------
+
+  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

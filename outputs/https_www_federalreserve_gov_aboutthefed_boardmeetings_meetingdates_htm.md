@@ -1,7 +1,12 @@
+Federal Reserve Board - Board MeetingsLock
+==========================================
+
 Board Meetings
 --------------
 
 [RSS](/feeds/boardmeetings.xml)
+
+**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
 
 The Board of Governors meets regularly, typically every other Monday. The public is invited to attend meetings that are open under the Government in the Sunshine Act.
 

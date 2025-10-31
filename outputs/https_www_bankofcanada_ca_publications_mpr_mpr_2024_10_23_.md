@@ -1,4 +1,30 @@
+Monetary Policy Report—October 2024 - Bank of CanadaHomeChange themeChange themeChange themeChange themeNextBack to top
+=======================================================================================================================
+
+Monetary Policy Report
+======================
+
+October 2024
+
+Monetary Policy Report—October 2024
+===================================
+
+Data available as: [CSV](https://www.bankofcanada.ca/valet/observations/group/MPR_2024M10/csv), [JSON](https://www.bankofcanada.ca/valet/observations/group/MPR_2024M10/json) and [XML](https://www.bankofcanada.ca/valet/observations/group/MPR_2024M10/xml)
+
+Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2024/10/mpr-2024-10-23.pdf)
+
 Monetary policy has worked to reduce price pressures in the Canadian economy. Inflation is now around 2% and is expected to remain near the middle of the Bank of Canada’s control range of 1% to 3% over the projection.
+
+Choose another section to view Overview Current conditions Outlook Global economy Projections Risks The factors behind the rise in unemployment How the frequency of price changes affects inflation
+
+[
+
+Bank of Canada reduces policy rate by 50 basis points to 3¾%
+------------------------------------------------------------
+
+](https://www.bankofcanada.ca/2024/10/fad-press-release-2024-10-23/ "Bank of Canada reduces policy rate by 50 basis points to 3¾%")
+
+The Bank of Canada today reduced its target for the overnight rate to 3¾%, with the Bank Rate at 4% and the deposit rate at 3¾%.
 
 Overview
 --------
@@ -16,3 +42,59 @@ Canada’s economic growth is expected to pick up gradually and average 2¼% ove
 The [global economy](https://www.bankofcanada.ca/publications/mpr/mpr-2024-10-23/global-economy/) is expected to grow at around 3% over the projection horizon. GDP growth in the United States is strong, but the pace of activity is anticipated to slow. In the euro area, growth remains subdued but is projected to rise gradually. Inflation in advanced economies is expected to be close to central bank targets. In China, economic activity has slowed because of weak domestic demand amid the ongoing property crisis. New stimulus measures should stem further weakness.
 
 Weak growth in China has weighed on the demand for oil. Global oil prices have decreased and remain volatile amid concerns over supply and demand and the conflict in the Middle East.
+
+[
+
+Current conditions
+
+Next
+
+
+
+](https://www.bankofcanada.ca/publications/mpr/mpr-2024-10-23/canadian-conditions/)
+
+The _Monetary Policy Report_ is a product of the Governing Council of the Bank of Canada: Tiff Macklem, Carolyn Rogers, Toni Gravelle, Sharon Kozicki, Nicolas Vincent and Rhys Mendes.
+
+In brief: _Monetary Policy Report_
+----------------------------------
+
+[
+
+Learn about Canada's inflation-control strategy, the objective of Canada’s monetary policy and the main instruments used to implement it.
+
+
+
+](https://www.bankofcanada.ca/core-functions/monetary-policy/)
+
+Our Valet API is designed to help you integrate your applications and processes with our data. For details, please see our [documentation](https://www.bankofcanada.ca/valet/docs).
+
+[
+
+Bank of Canada reduces policy rate by 50 basis points to 3¾%
+------------------------------------------------------------
+
+The Bank of Canada today reduced its target for the overnight rate to 3¾%, with the Bank Rate at 4% and the deposit rate at 3¾%.](https://www.bankofcanada.ca/2024/10/fad-press-release-2024-10-23/)
+
+Content Type(s): [Press](https://www.bankofcanada.ca/content_type/press/), [Press releases](https://www.bankofcanada.ca/content_type/press/press-releases/)
+
+[
+
+Monetary Policy Report Press Conference Opening Statement
+---------------------------------------------------------
+
+Governor Tiff Macklem discusses the _Monetary Policy Report_ and the key issues involved in the Governing Council’s deliberations about the monetary policy decision.](https://www.bankofcanada.ca/2024/10/opening-statement-2024-10-23/)
+
+Content Type(s): [Opening statements](https://www.bankofcanada.ca/content_type/press/speeches/opening-statements/), [Press](https://www.bankofcanada.ca/content_type/press/), [Speeches and appearances](https://www.bankofcanada.ca/content_type/press/speeches/)
+
+[
+
+Press Conference: Monetary Policy Report – October 2024
+-------------------------------------------------------
+
+_Release of the Monetary Policy Report_ – Press conference by Governor Tiff Macklem and Carolyn Rogers, Senior Deputy Governor (10:30 (ET) approx.).
+
+](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2024/)
+
+Content Type(s): [Press](https://www.bankofcanada.ca/content_type/press/), [Speeches and appearances](https://www.bankofcanada.ca/content_type/press/speeches/), [Webcasts](https://www.bankofcanada.ca/content_type/press/speeches/webcasts/)
+
+ISSN 1490-1234 (Online)

@@ -1,3 +1,11 @@
+Remarks by Governor Shirakawa at the Banque de France Financial Stability Review Launch Event in Washington D.C.(The Importance of Fiscal Sustainability: Preconditions for Stability in the Financial System and in Prices) : 日本銀行 Bank of Japan
+=================================================================================================================================================================================================================================================
+
+\[Speech\]The Importance of Fiscal Sustainability: Preconditions for Stability in the Financial System and in Prices
+====================================================================================================================
+
+[日本語](/about/press/koen_2012/ko120422b.htm)
+
 Remarks at the Banque de France Financial Stability Review Launch Event in Washington D.C.
 
 Masaaki Shirakawa Governor of the Bank of Japan April 21, 2012

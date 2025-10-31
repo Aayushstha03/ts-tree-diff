@@ -1,37 +1,66 @@
-<div id="readability-page-1" class="page"><div id="content" role="main">
-            
-<div>
-    <p>The Federal Reserve Board is committed to supporting responsible innovation, both by the firms we regulate directly, and in the financial market broadly. This website serves as a resource for stakeholders interested in engaging with the System on innovation-related matters.</p>
+<html><body><h1>Federal Reserve Board - Financial InnovationLock</h1>
+<div id="content" class="container container__main" role="main">
+            <div class="row">
+                <div class="page-header">
+                    <div class="header-group">
+                        <div id="page-title" class="page-title">
+                            <h2>
+                                Financial Innovation
+                            </h2>
+                        </div>
+                        <!-- Share / Download Button -->
+                        <div class="shareDL hidden">
+                            <a href="#" class="btn shareDL__button dropdown-toggle" data-toggle="dropdown">
+                                <span class="shareDL__iconTitle">Share</span>
+                            </a>
+                        </div>
+                        <!--/ End Share / Download Button -->                         
+                    </div> 
+                </div>
+                <noscript>
+<div class="js-disabled text-center">
+    <span class='icon icon-alert icon--jsAlert'></span>
+    <span><strong>Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.</strong> </span>
 </div>
-<div id="carousel-example-generic" ng-controller="filmstripController" ng-swipe-right="previous($event)" ng-swipe-left="next($event)">
-    <div data-filmstrip-items="">
-        <div ng-style="leftMargin">
-                <p><img src="/aboutthefed/images/filmstrip-fintech-chart-cellphone.jpg" alt="Image of cell phone with chart"></p><div>
+</noscript>
+            </div>
+<div class="row ">
+    <div class="col-xs-12">
+<p>The Federal Reserve Board is committed to supporting responsible innovation, both by the firms we regulate directly, and in the financial market broadly. This website serves as a resource for stakeholders interested in engaging with the System on innovation-related matters.</p>
+</div>
+</div>
+<div id="carousel-example-generic" class="filmstrip" ng-controller="filmstripController" ng-swipe-right="previous($event)" ng-swipe-left="next($event)">
+    <div class="filmstrip__inner" data-filmstrip-items="">
+        <div class="active filmstrip__item" ng-style="leftMargin">
+                <img src="/aboutthefed/images/filmstrip-fintech-chart-cellphone.jpg" class="img-responsive" alt="Image of cell phone with chart">
+            <div class="filmstrip__text">
                 <h6>Responsible Innovation</h6>
 <p>If you are interested in learning more about the Board's work on financial innovation and technology, please visit the Board websites below.</p>
             </div>
         </div><!-- 
-     --><div>
-                <p><img src="/aboutthefed/images/filmstrip-report-data.jpg" alt="Image of chart"></p><div>
+     --><div class="filmstrip__item">
+                <img src="/aboutthefed/images/filmstrip-report-data.jpg" class="img-responsive" alt="Image of chart">
+            <div class="filmstrip__text">
                 <h6>Board Research</h6>
 <p>The Federal Reserve is committed to understanding the market and gaining insights on innovative financial technologies and their impacts on firms and the financial system through research.</p>
             </div>
         </div><!-- 
-     --><div>
-                <p><img src="/aboutthefed/images/filmstrip-fintech-numbers.jpg" alt="Image of chart"></p><div>
+     --><div class="filmstrip__item">
+                <img src="/aboutthefed/images/filmstrip-fintech-numbers.jpg" class="img-responsive" alt="Image of chart">
+            <div class="filmstrip__text">
                 <h6>Additional Resources</h6>
 <p>If you are interested in learning more about the Board's wider work, please visit the Board websites below.</p>
             </div>
         </div>
   </div>
-    <p><a href="#" title="Previous" role="button" ng-click="previous($event)" ng-show="hasPrevious"><span>Previous</span></a>
-    <a href="#" title="Next" role="button" ng-click="next($event)" ng-show="hasNext"><span>Next</span></a>
-</p></div>
-            <div>
-                <p>
+    <a class="left icon icon-next icon--rotate" href="#" title="Previous" role="button" ng-click="previous($event)" ng-show="hasPrevious"><span class="sr-only">Previous</span></a>
+    <a class="right icon icon-next" href="#" title="Next" role="button" ng-click="next($event)" ng-show="hasNext"><span class="sr-only">Next</span></a>
+</div>
+            <div class="row">
+                <div class="lastUpdate" id="lastUpdate">
                     Last Update:
                     December 23, 2024
-                </p>
+                </div>
             </div>
-            <p><a id="back-top" href="#" title="Scroll To Top"><span>Back to Top</span></a>
-        </p></div></div>
+            <a id="back-top" class="icon__backTop icon-backtop" href="#" title="Scroll To Top"><span class="sr-only">Back to Top</span></a>
+        </div></body></html>
