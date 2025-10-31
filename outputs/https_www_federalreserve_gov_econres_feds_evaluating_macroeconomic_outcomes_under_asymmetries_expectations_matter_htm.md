@@ -4,7 +4,7 @@ The Fed - Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations Matt
 Finance and Economics Discussion Series (FEDS)
 ----------------------------------------------
 
-Twitter [Share](#) [](https://twitter.com/share?url=https://www.federalreserve.gov/econres/feds/evaluating-macroeconomic-outcomes-under-asymmetries-expectations-matter.htm&text=Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations Matter&via=FederalReserve)[](https://www.facebook.com/sharer.php?u=https://www.federalreserve.gov/econres/feds/evaluating-macroeconomic-outcomes-under-asymmetries-expectations-matter.htm&name=Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations Matter)[](https://www.linkedin.com/shareArticle?url=https://www.federalreserve.gov/econres/feds/evaluating-macroeconomic-outcomes-under-asymmetries-expectations-matter.htm&title=Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations Matter&mini=true)[](/cdn-cgi/l/email-protection#7f401d101b0642170b0b0f0c45505008080851191a1b1a0d1e130d1a0c1a0d091a51181009501a1c10110d1a0c50191a1b0c501a091e130a1e0b16111852121e1c0d101a1c10111012161c52100a0b1c10121a0c520a111b1a0d521e0c0612121a0b0d161a0c521a070f1a1c0b1e0b1610110c52121e0b0b1a0d51170b12590c0a1d151a1c0b423a091e130a1e0b1611185f321e1c0d101a1c10111012161c5f300a0b1c10121a0c5f2a111b1a0d5f3e0c0612121a0b0d161a0c455f3a070f1a1c0b1e0b1610110c5f321e0b0b1a0d)[RSS](/feeds/feds.xml)
+Twitter [Share](#) [RSS](/feeds/feds.xml)
 
 September 2025
 

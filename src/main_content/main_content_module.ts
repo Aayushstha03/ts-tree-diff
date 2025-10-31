@@ -40,20 +40,9 @@ export async function getMainContentBlockFromUrl(
 	// Try skip-to-content method first
 	const skipHtml = getSkipToContentTargetHtmlCheerio($);
 	if (skipHtml) {
-		// remove empty tags
-		let cleaned = removeEmptyTags(skipHtml);
-		// remove style and script tags, after cause we missed skip to main
-		cleaned = cleanHtmlPreDom(cleaned);
-		// remove high link density nodes, using a high threshold to avoid removing too much for now...
-		cleaned = removeBoilerplateLinkClusters(cleaned, 0.65);
-		// prepend title for breadcrumb proximity check
-		cleaned = title ? `<h1>${title}</h1>\n${cleaned}` : cleaned;
-		// remove breadcrumbs
-		cleaned = removeBreadcrumbs(cleaned);
-		console.log("Found skip-to-content link.");
 		return {
 			label: "tier 1: skip-to-content link",
-			html: `<!-- tier 1: skip-to-content link -->\n${cleaned}`,
+			html: `<!-- tier 1: skip-to-content link -->\n${title ? `<h1>${title}</h1>\n` : ""}${skipHtml}`,
 		};
 	}
 	console.log("No skip-to-content link found.");
@@ -80,10 +69,16 @@ export async function getMainContentBlockFromUrl(
 		// Optionally reconstruct a pseudo-URL for logging
 		const pseudoUrl = fileName.replace(/_+/g, " ").replace(/\.html$/, "");
 		console.log(`Processing: ${fileName} (pseudo-URL: ${pseudoUrl})`);
-		let result = await getMainContentBlockFromUrl(fileName);
+		const result = await getMainContentBlockFromUrl(fileName);
 
 		const baseName = fileName.replace(/\.html$/, "");
 		if (result) {
+			// remove style and script tags, after cause we missed skip to main
+			result.html = cleanHtmlPreDom(result.html);
+			// remove high link density nodes, using a high threshold to avoid removing too much for now...
+			result.html = removeBoilerplateLinkClusters(result.html, 0.65);
+			// try to remove breadcrumbs using semantic
+			result.html = removeBreadcrumbs(result.html);
 			// remove nav tags, trying to remove breadcrumbs and navigation bars
 			result.html = removeNavTags(result.html);
 			// remove breadcrumbs

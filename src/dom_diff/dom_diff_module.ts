@@ -145,4 +145,7 @@ await processArticles([
 	"https://www.federalreserve.gov/publications/April-2025-financial-stability-Purpose-and-Framework.htm",
 	"https://www.ecb.europa.eu/press/stats/md/html/ecb.md2508~b1d4890d51.en.html",
 	"https://www.ecb.europa.eu/press/economic-bulletin/articles/2025/html/ecb.ebart202506_01~d41c118e13.en.html",
+	"https://www.boj.or.jp/en/about/press/koen_2025/ko251021a.htm",
+	"https://www.bankofengland.co.uk/paper/2025/ps/amendments-to-the-boes-approach-to-setting-a-mrel",
+	"https://www.bankofengland.co.uk/news/2025/october/fpcs-welcoming-statement-for-ps-20-25",
 ]);
