@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
+import { Readability } from "@mozilla/readability";
 import * as cheerio from "cheerio";
+import { JSDOM } from "jsdom";
 import {
 	cleanHtmlPreDom,
 	htmlToMarkdown,
@@ -85,6 +87,20 @@ export async function getMainContentBlockFromUrl(
 			result.html = removeBreadcrumbs(result.html);
 			// cleaning results by folding empty tags, we will loose meta tags here (no text content)
 			result.html = removeEmptyTags(result.html);
+			// Apply Mozilla Readability for further cleaning
+			try {
+				const dom = new JSDOM(result.html);
+				const reader = new Readability(dom.window.document);
+				const article = reader.parse();
+				if (article?.content) {
+					result.html = article.content;
+				}
+			} catch (error) {
+				console.warn(
+					"Readability parsing failed, using original content:",
+					error,
+				);
+			}
 			const htmlPath = `${outputsDir}/${baseName}.html`;
 			writeFileSync(htmlPath, result.html, { encoding: "utf8" });
 			const md = htmlToMarkdown(result.html);

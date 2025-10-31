@@ -1,11 +1,3 @@
-The Fed - Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations MatterLock
-======================================================================================
-
-Finance and Economics Discussion Series (FEDS)
-----------------------------------------------
-
-Twitter [Share](#) [RSS](/feeds/feds.xml)
-
 September 2025
 
 ### Evaluating Macroeconomic Outcomes Under Asymmetries: Expectations Matter
