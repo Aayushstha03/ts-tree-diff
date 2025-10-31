@@ -1,3 +1,11 @@
+Summary of Governing Council deliberations: Fixed announcement date of July 30, 2025 - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailTable of contentsBack to top
+=======================================================================================================================================================================================================================================================================================
+
+Summary of Governing Council deliberations: Fixed announcement date of July 30, 2025
+====================================================================================
+
+August 13, 2025
+
 This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the  [monetary policy decision on July 30, 2025](https://www.bankofcanada.ca/2025/07/fad-press-release-2025-07-30/).
 
 This summary reflects discussions and deliberations by members of [Governing Council](https://www.bankofcanada.ca/about/governing-council/) in stage three of the Bank’s [monetary policy decision-making process](https://www.bankofcanada.ca/core-functions/monetary-policy/decision-making-process/). This stage takes place after members have received all staff briefings and recommendations.

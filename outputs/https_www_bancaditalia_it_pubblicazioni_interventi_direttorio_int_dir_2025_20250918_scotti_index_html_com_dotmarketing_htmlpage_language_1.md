@@ -1,8 +1,5 @@
-1.  [Home](/homepage/index.html) /
-2.  [Publications](/pubblicazioni/index.html) /
-3.  [Speeches by the other members of the Directorate (Governing Board)](/pubblicazioni/interventi-direttorio/index.html) /
-4.  [Speeches by the other members of the Directorate (Governing Board) - 2025](/pubblicazioni/interventi-direttorio/int-dir-2025/index.html) /
-5.  Stablecoins in the Payments Ecosystem: Reflections on Responsible Innovation
+Banca d’Italia - Stablecoins in the Payments Ecosystem: Reflections on Responsible Innovation
+=============================================================================================
 
 Stablecoins in the Payments Ecosystem: Reflections on Responsible Innovation
 ============================================================================
@@ -26,11 +23,6 @@ Share
 -----
 
 Stampa la pagina
-
-*   [![logo X - Twitter](/application/themes/bdi2/img/socialbannertitlte/X-Twitter-Logo-black.png)](https://twitter.com/share?text=Banca+d%E2%80%99Italia+-+Stablecoins+in+the+Payments+Ecosystem%3A++Reflections+on+Responsible+Innovation&url=https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1 "Share on X")
-*   [![logo Linkedinr](/application/themes/bdi2/img/socialbannertitlte/Linkedin-Logo-black.png)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.bancaditalia.it%2Fpubblicazioni%2Finterventi-direttorio%2Fint-dir-2025%2F20250918-scotti%2Findex.html%3Fcom.dotmarketing.htmlpage.language%3D1 "Share on LinkedIn")
-*   [![logo Facebook](/application/themes/bdi2/img/socialbannertitlte/Facebook-Logo-black.png)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bancaditalia.it%2Fpubblicazioni%2Finterventi-direttorio%2Fint-dir-2025%2F20250918-scotti%2Findex.html%3Fcom.dotmarketing.htmlpage.language%3D1 "Share on Facebook")
-*   [![email icona](/application/themes/bdi2/img/socialbannertitlte/mail-black.png)](mailto:?body=https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1&subject=Un%20link%20dal%20sito%20della%20Banca%20d%27Italia "Share by e-mail")
 
 ### index
 
@@ -141,50 +133,8 @@ Through all of this, the role of central banks remains clear: to provide certain
 
 The path ahead may be complex but it is also full of potential. It is a path that we must navigate together - with clarity, coordination, and commitment.
 
-* * *
-
 Endnotes
 --------
-
-1.  [\*](#footnote-029-backlink) I thank Luca Arciero, Nicola Branzoli, Michele Lanotte and Stefano Pietrosanti for their assistance in preparing this welcome address.
-2.  [1](#footnote-028-backlink) [Banca d'Italia - Conference on the Economics of Payments](https://www.bancaditalia.it/media/agenda/2025-09-18_conference-on-the-economics-of-payments/).
-3.  [2](#footnote-027-backlink) Currently, more than 100 fast payments systems - such as Target Instant Payments Systems (TIPS) - exist at international level, allowing the settlement of payment on a 24/7 basis. Many jurisdictions are exploring interlinking arrangements between their domestic FPS and those of other countries in order to increase the efficiency of cross-border payments. See Frost, J., Wilkens, P.K., Kosse, A., Shreeti,V. and Velasquez, C., 'Fast payments: design and adoption', BIS Quarterly Review, 2024.
-4.  [3](#footnote-026-backlink) For an in\-depth analysis of this aspect, see: C. Scotti et al, 'The Financial Stability Implications of Digital Assets' (2022), C. Scotti 'Financial and Tax Regulation for the Digital Era: Charting the Path Forward' (2025); Banca d'Italia, 'The Governor's Concluding Remarks' (2025).
-5.  [4](#footnote-025-backlink) R. Ahmed and I. Aldasoro (2025), 'Stablecoins and safe asset prices', BIS Working Paper 1270.
-6.  [5](#footnote-024-backlink) S. Cecchetti and K. Schoenholtz (2025), 'Crypto, tokenization, and the future of payments', CEPR Policy Insight No 146.
-7.  [6](#footnote-023-backlink) According to the latest published report, as of 30 June 2025, USDT was backed by the following asset categories: approximately 80 per cent in cash, cash equivalents, and other short-term deposits- including U.S. Treasuries and repurchase agreements - 5.4 per cent in precious metals, 5.5 per cent in Bitcoin, 6.2 per cent in secured loans, and slightly less than 3 per cent in other investments. Corporate bonds were also present but represented less than 0.01 per cent of the total reserves. As for USDC, as of 31 July 2025, the token was primarily backed by US Treasuries and repurchase agreements, which accounted for around 86 per cent of the reserves. The remaining 14 per cent was held as cash at regulated financial institutions.
-8.  [7](#footnote-022-backlink) Notably, although the structure of stablecoins resembles that of money market funds, their demand does not behave as though they were safe assets. See Aldasoro et al. (2025), 'Stablecoins, money market funds and monetary policy', Economics Letters, Volume 247, 112203.
-9.  [8](#footnote-021-backlink) The US Federal Reserve Board estimates that more than 80 per cent of trade volume on major centralized crypto exchanges involve stablecoins. See Christopher J. Waller, 'Reflections on a maturing stablecoin market', Board of Governors of the Federal Reserve System, February 12, 2025; 'Share of Trade Volume by Pair Denomination', [The Block](https://www.theblock.co/data/crypto-markets/spot/share-of-trade-volume-by-pair-denomination), September 10, 2025.
-10.  [9](#footnote-020-backlink) See Auer et al. (2025), 'DeFiying gravity? An empirical analysis of cross-border Bitcoin, Ether and stablecoin flows', BIS Working Paper n.1265.
-11.  [10](#footnote-019-backlink) A [survey run by Artemis](https://reports.artemisanalytics.com/stablecoins/artemis-stablecoin-payments-from-the-ground-up-2025.pdf), involving a sample of 33 stablecoins-based payments companies and firms on different type of stablecoins payments (B2B, P2P, B2C, Card etc.), B2B payments are the most important, ($36 billion), followed by P2P ($18 billion run), card-linked payments ($13.2 billion), B2C ($3.3 billion), etc.
-12.  [11](#footnote-018-backlink) According to Chainalysis, stablecoins represent 63 per cent of all crypto transaction volume associated with illicit activity in 2024 - see Chainalysis' 2025 Crypto Crime Report.
-13.  [12](#footnote-017-backlink) Italy's Financial Intelligence Unit, 'Annual Report 2024'; Manna et al. (2025) 'Report on crypto-assets and the risk of money laundering' and Chainalyis, '2025 Crypto Crime Trends: Illicit Volumes Portend Record Year as On-Chain Crime Becomes Increasingly Diverse and Professionalized', 15 January 2025.
-14.  [13](#footnote-016-backlink) Boston Consulting Group, 'Stablecoins, five killer tests to gauge their potential', 2024.
-15.  [14](#footnote-015-backlink) See Regulation (EU) 2023/1114 (MiCAR), Titles IV, which set out requirements for stablecoins, including redemption at par value and consumer protection measures for e-money tokens pegged to a single fiat currency.
-16.  [15](#footnote-014-backlink) [World Bank Remittance Prices Worldwide, March 202](https://remittanceprices.worldbank.org/sites/default/files/rpw_main_report_and_annex_q224.pdf)5.
-17.  [16](#footnote-013-backlink) Chainalysis (2024): The 2024 Geography of Crypto Report, October.
-18.  [17](#footnote-012-backlink) Although stablecoins may address the aforementioned frictions, they can pose risks, especially when denominated in a foreign currency and operating from a foreign jurisdiction. These risks include currency substitution and potential loss of seigniorage, as well as volatile capital flows. In addition, currency substitution could undermine the ability of authorities to control the monetary policy. For more information, see CPMI's 'Considerations for the use of stablecoin arrangements in cross-border payments', October 2023.
-19.  [18](#footnote-011-backlink) a16zcrypto, 'State of Crypto Report 2024'.
-20.  [19](#footnote-010-backlink) M. Reuter, 'Decrypting Crypto: How to Estimate International Stablecoin Flows', IMF Working Paper, June 2025.
-21.  [20](#footnote-009-backlink) Di Iorio et al (2025), 'The euro-stablecoin market and the impact of MiCAR', Banca d'Italia, mimeo.
-22.  [21](#footnote-008-backlink) See, for example, Ma, Y. et al. (2025), 'Stablecoin Runs and the Centralization of Arbitrage', NBER Working Paper Series n. 33882; Lyons, R.K. and G. Viswanath-Natraj (2023), 'What keeps stablecoins stable?', Journal of International Money and Finance, Volume 131, 102777; Aldasoro, et al. (2025), 'Stablecoin growth - policy challenges and approaches', BIS Bulletin n. 108.
-23.  [22](#footnote-007-backlink) See Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto assets, article 2.4 (Scope), and Working Group on Digital Assets (2025) '[Strengthening American Leadership in Digital Financial Technology](https://www.dwt.com/-/media/files/insights/2025/digitalassetsreporteo14178.pdf?rev=1ffa9b21bfd444d0aeebbcc85d77421f&hash=585A49728392A2D56B493670411D593E)'.
-24.  [23](#footnote-006-backlink) In the United States, Congress is working on the so-called Clarity Act, which will introduce definitions and compliance requirements for the rest of the digital asset ecosystem.
-25.  [24](#footnote-005-backlink) Neither the Genius Act nor MiCAR allows for interest payments to stablecoin token holders. In Europe, this provision also applies to CASPs. Without an explicit prohibition on exchanges acting as a distribution channel for stablecoin issuers or business affiliates, this requirement can easily be circumvented or undermined. On this point, see Banking Policy Institute (2025), 'Closing the Payment of Interest Loophole for Stablecoins'.
-26.  [25](#footnote-004-backlink) [New crypto-asset rules to drive growth and protect consumers - GOV.UK](https://www.gov.uk/government/news/new-cryptoasset-rules-to-drive-growth-and-protect-consumers)
-27.  [26](#footnote-003-backlink) See General Secretariat of the Council of the European Union (2025), '[Non-paper on EU and third country stablecoin multi-issuance](ttps://data.consilium.europa.eu/doc/document/WK-4742-2025-COR-1/en/pdf)'.
-28.  [27](#footnote-002-backlink) Odinet, C. and A. Tosato (forthcoming, 2026), 'Regulating Stablecoins: Comparing MiCAR and the GENIUS Act', Notre Dame Law Review Reflection.
-29.  [28](#footnote-001-backlink) A further element confirming this need is the fact that stablecoin holders could be prompted to massively demand the return of their value as a result of turbulence concerning issuances linked to less stringent jurisdictions. This could lead to systemic effects capable of undermining the payment system and financial stability.
-30.  [29](#footnote-000-backlink) Arnal J. (2025), '[Multi-issuance stablecoins and MiCA's first real credibility test](https://www.ecri.eu/publications/policy-briefs/multi-issuance-stablecoins-and-mica%E2%80%99s-first-real-credibility-test)'.
-
-[
-
-back
-
-Speeches by the other members of the Directorate (Governing Board) - 2025
-
-](/pubblicazioni/interventi-direttorio/int-dir-2025)
-----------------------------------------------------------------------------------------------------------------------------------------
 
 index
 -----

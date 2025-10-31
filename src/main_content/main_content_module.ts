@@ -3,10 +3,11 @@ import * as cheerio from "cheerio";
 import {
 	cleanHtmlPreDom,
 	htmlToMarkdown,
+	removeBoilerplateLinkClusters,
+	removeBreadcrumbs,
 	removeEmptyTags,
-	removeHighLinkDensityBlocks,
+	removeNavTags,
 } from "../../utils/dom_utils";
-import { fetchHtmlCached } from "../../utils/fetch_html_cached";
 import {
 	extractMainContentHtmlCheerio,
 	getSkipToContentTargetHtmlCheerio,
@@ -24,10 +25,18 @@ import {
  *   }
  */
 export async function getMainContentBlockFromUrl(
-	url: string,
+	fileName: string,
 ): Promise<{ html: string; label: string } | null> {
-	const html = await fetchHtmlCached(url);
+	const htmlPath = `dom_diff_out/${fileName}`;
+	let html = "";
+	try {
+		html = require("node:fs").readFileSync(htmlPath, { encoding: "utf8" });
+	} catch (err) {
+		console.error(`Could not read HTML file: ${htmlPath}`);
+		return null;
+	}
 	const $ = cheerio.load(html);
+	const title = $("title").text().trim();
 	// Try skip-to-content method first
 	const skipHtml = getSkipToContentTargetHtmlCheerio($);
 	if (skipHtml) {
@@ -35,8 +44,12 @@ export async function getMainContentBlockFromUrl(
 		let cleaned = removeEmptyTags(skipHtml);
 		// remove style and script tags, after cause we missed skip to main
 		cleaned = cleanHtmlPreDom(cleaned);
-		// remove high link density nodes
-		cleaned = removeHighLinkDensityBlocks(cleaned, 0.4);
+		// remove high link density nodes, using a high threshold to avoid removing too much for now...
+		cleaned = removeBoilerplateLinkClusters(cleaned, 0.65);
+		// prepend title for breadcrumb proximity check
+		cleaned = title ? `<h1>${title}</h1>\n${cleaned}` : cleaned;
+		// remove breadcrumbs
+		cleaned = removeBreadcrumbs(cleaned);
 		console.log("Found skip-to-content link.");
 		return {
 			label: "tier 1: skip-to-content link",
@@ -45,33 +58,42 @@ export async function getMainContentBlockFromUrl(
 	}
 	console.log("No skip-to-content link found.");
 	// Fallback to main content extraction
-	return extractMainContentHtmlCheerio($);
+	const mainResult = extractMainContentHtmlCheerio($);
+	if (mainResult) {
+		mainResult.html = `<!-- ${mainResult.label} -->\n${title ? `<h1>${title}</h1>\n` : ""}${mainResult.html}`;
+		return mainResult;
+	}
+	return null;
 }
 
 (async () => {
-	// List of URLs to process
-	const urls = [
-		"https://www.bbc.com/news/articles/c4g7d39n6vgo",
-		"https://www.onlinekhabar.com/2025/10/1791118/trilateral-talks-between-government-political-parties-and-genji-representatives-tomorrow",
-		"https://www.bankofcanada.ca/2025/10/free-family-events-bank-canada-museum-financial-literacy-month/",
-		"https://www.bankofcanada.ca/2025/08/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-30-2025/",
-		"https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1",
-		"https://www.rbnz.govt.nz/hub/publications/bulletin/2025/pandemic-lessons-on-the-monetary-and-fiscal-policy-mix",
-		"https://www.onlinekhabar.com/2025/10/1791452/nepal-india-joint-investment-agreement-to-build-two-major-cross-border-transmission-lines",
-	];
-
+	const domDiffOutDir = "dom_diff_out";
 	const outputsDir = "outputs";
 	mkdirSync(outputsDir, { recursive: true });
 
-	for (const url of urls) {
-		console.log(`Processing: ${url}`);
-		const result = await getMainContentBlockFromUrl(url);
-		const safeUrl = url.replace(/[^a-zA-Z0-9]+/g, "_").replace(/^_+|_+$/g, "");
+	const fs = require("node:fs");
+	const files = fs
+		.readdirSync(domDiffOutDir)
+		.filter((f: string) => f.endsWith(".html"));
+
+	for (const fileName of files) {
+		// Optionally reconstruct a pseudo-URL for logging
+		const pseudoUrl = fileName.replace(/_+/g, " ").replace(/\.html$/, "");
+		console.log(`Processing: ${fileName} (pseudo-URL: ${pseudoUrl})`);
+		let result = await getMainContentBlockFromUrl(fileName);
+
+		const baseName = fileName.replace(/\.html$/, "");
 		if (result) {
-			const htmlPath = `${outputsDir}/${safeUrl}.html`;
+			// remove nav tags, trying to remove breadcrumbs and navigation bars
+			result.html = removeNavTags(result.html);
+			// remove breadcrumbs
+			result.html = removeBreadcrumbs(result.html);
+			// cleaning results by folding empty tags, we will loose meta tags here (no text content)
+			result.html = removeEmptyTags(result.html);
+			const htmlPath = `${outputsDir}/${baseName}.html`;
 			writeFileSync(htmlPath, result.html, { encoding: "utf8" });
 			const md = htmlToMarkdown(result.html);
-			const mdPath = `${outputsDir}/${safeUrl}.md`;
+			const mdPath = `${outputsDir}/${baseName}.md`;
 			writeFileSync(mdPath, md, { encoding: "utf8" });
 			console.log(`Saved HTML to ${htmlPath}`);
 			console.log(`Saved Markdown to ${mdPath}`);

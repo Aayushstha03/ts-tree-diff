@@ -33,19 +33,88 @@ export function stripScriptAndStyleTags(html: string): string {
 }
 
 /**
- * Removes empty tags (tags with no text or child elements) from the given HTML string.
+ * Removes empty tags and unwraps unnecessary wrapper tags from the given HTML string, then removes empty lines.
+ * - Removes tags with no text, no children, and no valuable attributes.
+ * - Unwraps wrapper tags that have no valuable attributes, no text, but have children (moving children up the hierarchy).
+ * Valuable attributes include: value, datetime, content, href, src, alt, title, and any data-* attributes.
+ * Performs iterative bottom-up pruning and unwrapping to clean the DOM hierarchy.
  * Returns the cleaned HTML string.
  */
 export function removeEmptyTags(html: string): string {
 	const $ = cheerio.load(html);
-	// Select all elements and remove those that are empty (no text and no children)
-	$("*").each(function () {
-		const el = $(this);
-		// Check if element has no children and no text content
-		if (!el.children().length && el.text().trim() === "") {
-			el.remove();
+
+	// Helper function to check if an element has valuable attributes
+	function hasValuableAttributes(el: cheerio.Cheerio<any>): boolean {
+		const valuableAttrs = [
+			"value",
+			"datetime",
+			"content",
+			"href",
+			"src",
+			"alt",
+			"title",
+		];
+		for (const attr of valuableAttrs) {
+			if (el.attr(attr)) return true;
 		}
-	});
+		// Check for data- attributes
+		if (el[0]?.attribs) {
+			for (const attr in el[0].attribs) {
+				if (attr.startsWith("data-")) return true;
+			}
+		}
+		return false;
+	}
+
+	// Iteratively remove empty elements and unwrap wrappers
+	let changed = true;
+	while (changed) {
+		changed = false;
+
+		// Remove empty elements (no children, no text, no valuable attrs)
+		$("*").each(function () {
+			const el = $(this);
+			if (
+				!hasValuableAttributes(el) &&
+				!el.children().length &&
+				el.text().trim() === ""
+			) {
+				el.remove();
+				changed = true;
+			}
+		});
+
+		// Collect wrapper elements to unwrap (no valuable attrs, no text, but have children)
+		let toUnwrap: cheerio.Cheerio<any>[] = [];
+		$("*").each(function () {
+			const el = $(this);
+			if (
+				!hasValuableAttributes(el) &&
+				el.text().trim() === "" &&
+				el.children().length > 0
+			) {
+				toUnwrap.push(el);
+			}
+		});
+
+		// Unwrap the collected elements (move children up)
+		for (const el of toUnwrap) {
+			el.children().unwrap();
+			changed = true;
+		}
+	}
+
+	let result = $.html();
+	result = result
+		.split("\n")
+		.filter((line) => line.trim() !== "")
+		.join("\n");
+	return result;
+}
+
+export function removeNavTags(html: string): string {
+	const $ = cheerio.load(html);
+	$("nav").remove();
 	return $.html();
 }
 
@@ -87,48 +156,84 @@ export function calculateLinkDensity(element: cheerio.Cheerio<any>): number {
 }
 
 /**
- * Removes boilerplate content from HTML by removing blocks with high link density.
+ * Removes boilerplate content like *share* buttons, navigation menus, and other link-heavy clusters.
+ * Focuses on immediate parents of multiple sibling <a> tags to avoid removing larger content due to nested link-heavy subtags.
  * @param htmlContent The HTML string to process.
  * @param densityThreshold The threshold above which blocks are removed (default 0.35).
+ * @param minSiblingLinks Minimum number of sibling <a> tags required to consider a parent (default 2).
  * @returns Cleaned HTML string.
  */
-export function removeHighLinkDensityBlocks(
+export function removeBoilerplateLinkClusters(
 	htmlContent: string,
 	densityThreshold = 0.35,
+	minSiblingLinks = 2,
 ): string {
 	if (!htmlContent) return "";
 	const $ = cheerio.load(htmlContent);
-	const blocksToAnalyze = [
-		"div",
-		"section",
-		"aside",
-		"nav",
-		"footer",
-		"header",
-		"ul",
-		"ol",
-		"li",
-		"menu",
-		"h1",
-		"h2",
-		"h3",
-		"h4",
-		"h5",
-		"h6",
-	].join(", ");
-	$(blocksToAnalyze).each(function () {
-		const block = $(this);
-		const density = calculateLinkDensity(block);
-		if (density > densityThreshold) {
-			let tag = "unknown";
-			if (block[0] && typeof block[0] === "object" && "name" in block[0]) {
-				tag = (block[0] as any).name;
+
+	// Find all <a> tags
+	$("a").each(function () {
+		const $link = $(this);
+		const $parent = $link.parent();
+
+		// Count sibling <a> tags (including itself)
+		const siblingLinks = $parent.children("a").length;
+
+		if (siblingLinks >= minSiblingLinks) {
+			// Check if we haven't already processed this parent
+			if (!$parent.data("processed")) {
+				$parent.data("processed", true);
+				const density = calculateLinkDensity($parent);
+				if (density > densityThreshold) {
+					const tag = $parent.prop("tagName") || "unknown";
+					console.log(
+						`[removeBoilerplate] Removing block <${tag}> (density: ${density.toFixed(2)}, sibling links: ${siblingLinks})`,
+					);
+					$parent.remove();
+				}
 			}
-			console.log(
-				`[removeBoilerplate] Removing block <${tag}> (density: ${density.toFixed(2)})`,
-			);
-			block.remove();
 		}
 	});
+
 	return $("body").length ? $("body").html() || "" : $.root().html() || "";
+}
+
+/**
+ * Removes breadcrumb navigation elements from HTML.
+ * Targets common breadcrumb patterns: <nav aria-label="breadcrumb">, elements with class "breadcrumb",
+ * or <ol>/<ul> containing links separated by separators like ">".
+ * Since this is called on extracted main content, removes all detected breadcrumbs.
+ * @param htmlContent The HTML string to process.
+ * @returns Cleaned HTML string.
+ */
+export function removeBreadcrumbs(htmlContent: string): string {
+	if (!htmlContent) return "";
+	const $ = cheerio.load(htmlContent);
+	// Remove elements with class "breadcrumb"
+	$(".breadcrumb").remove();
+
+	// Remove <ol> or <ul> that look like breadcrumbs: multiple <li> with <a> and separators
+	$("ol, ul").each(function () {
+		const $list = $(this);
+		const $lis = $list.children("li");
+		if ($lis.length >= 2) {
+			// At least 2 items for a breadcrumb
+			let isBreadcrumb = true;
+			$lis.each(function () {
+				const $li = $(this);
+				const text = $li.text().trim();
+				// Check if it has a link or is a separator
+				if (!$li.find("a").length && !/^\s*[>\/|]\s*$/.test(text)) {
+					isBreadcrumb = false;
+					return false; // break
+				}
+			});
+			if (isBreadcrumb) {
+				console.log("[removeBreadcrumbs] Removing breadcrumb list");
+				$list.remove();
+			}
+		}
+	});
+
+	return $.html();
 }

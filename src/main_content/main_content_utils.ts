@@ -10,8 +10,9 @@ export function getSkipToContentTargetHtmlCheerio(
 		/skip\s+to\s+content/i,
 		/skip\s+to\s+main/i,
 		/skip\s+navigation/i,
-		/skip\s+main/i,
-		/skip\s+section/i,
+		/jump\s+to\s+main/i,
+		/jump\s+to\s+main\s+content/i,
+		/jump\s+to\s+content/i,
 	];
 	const anchors = $('a[href^="#"]');
 	for (let i = 0; i < anchors.length; i++) {

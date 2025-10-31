@@ -115,20 +115,21 @@ export async function processArticles(urls: string[]) {
 		const uniqueHtml = uniqueHtmls.join("<br>\n");
 
 		// Convert unique HTML to Markdown
-		const turndownService = new TurndownService();
-		const markdown = turndownService.turndown(uniqueHtml);
+		// const turndownService = new TurndownService();
+		// const markdown = turndownService.turndown(uniqueHtml);
 
-		console.log("\n--- Unique Article Markdown ---\n");
-		console.log(markdown);
+		// console.log("\n--- Unique Article Markdown ---\n");
+		// console.log(markdown);
 
 		// Save HTML and Markdown to dom_diff_out directory
-		const baseName = `unique_article_${encodeURIComponent(articleUrl)}`;
+		// Normalize URL for filename: replace non-alphanumeric with _
+		const baseName = articleUrl.replace(/[^a-zA-Z0-9]+/g, "_");
 		const htmlPath = `dom_diff_out/${baseName}.html`;
-		const mdPath = `dom_diff_out/${baseName}.md`;
+		// const mdPath = `dom_diff_out/${baseName}.md`;
 		writeFileSync(htmlPath, uniqueHtml, { encoding: "utf8" });
-		writeFileSync(mdPath, markdown, { encoding: "utf8" });
+		// writeFileSync(mdPath, markdown, { encoding: "utf8" });
 		console.log(`\nHTML saved to ${htmlPath}`);
-		console.log(`Markdown saved to ${mdPath}`);
+		// console.log(`Markdown saved to ${mdPath}`);
 	}
 }
 
@@ -136,10 +137,12 @@ export async function processArticles(urls: string[]) {
 // import { processArticles } from "./dom_diff_module";
 await processArticles([
 	"https://www.bbc.com/news/articles/c4g7d39n6vgo",
-	"https://www.onlinekhabar.com/2025/10/1791118/trilateral-talks-between-government-political-parties-and-genji-representatives-tomorrow",
 	"https://www.bankofcanada.ca/2025/10/free-family-events-bank-canada-museum-financial-literacy-month/",
 	"https://www.bankofcanada.ca/2025/08/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-30-2025/",
+	"https://www.bankofcanada.ca/2025/05/financial-stability-report-2025/",
 	"https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1",
-	"https://www.rbnz.govt.nz/hub/publications/bulletin/2025/pandemic-lessons-on-the-monetary-and-fiscal-policy-mix",
-	"https://www.onlinekhabar.com/2025/10/1791452/nepal-india-joint-investment-agreement-to-build-two-major-cross-border-transmission-lines",
+	"https://www.federalreserve.gov/econres/feds/evaluating-macroeconomic-outcomes-under-asymmetries-expectations-matter.htm",
+	"https://www.federalreserve.gov/publications/April-2025-financial-stability-Purpose-and-Framework.htm",
+	"https://www.ecb.europa.eu/press/stats/md/html/ecb.md2508~b1d4890d51.en.html",
+	"https://www.ecb.europa.eu/press/economic-bulletin/articles/2025/html/ecb.ebart202506_01~d41c118e13.en.html",
 ]);
