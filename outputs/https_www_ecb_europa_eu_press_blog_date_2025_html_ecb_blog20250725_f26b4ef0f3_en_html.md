@@ -1,0 +1,133 @@
+25 July 2025
+
+Following the June NATO summit, Europe is confronting heightened challenges in financing its green, digital and defence transitions as new defence commitments place increased pressure on national and EU budgets. Balancing strategic priorities with debt sustainability is crucial. This blog outlines a three-pronged strategy: (i) relying on existing fiscal mechanisms; (ii) additional fiscal measures at the national level; and (iii) fostering a more cohesive and productive Europe.
+
+Europe is facing unprecedented financing challenges as it seeks to transform its economy while addressing new defence commitments. The scale of these needs has grown significantly over the past year, requiring both public and private investment on an extraordinary scale.
+
+The EU’s strategic spending after the NATO summit: scaling up from big to bigger
+--------------------------------------------------------------------------------
+
+One year ago it was estimated that the European Union (EU) required approximately €800 billion per year in additional strategic spending (mostly investment) to support the “three transitions”: green, digital and defence.\[[1](#footnote.1)\] Based on updated EU and NATO sources, such strategic needs have now surged to almost €1,200 billion per year on average over the period 2025-31.\[[2](#footnote.2)\]\[[3](#footnote.3)\] The most significant increase stems from the new defence spending commitments agreed in The Hague by NATO members, including 23 EU countries.\[[4](#footnote.4)\] To achieve the new target for annual defence spending (5% of GDP by 2035) the EU would need to secure approximately €320 billion in additional public funding per year on average.\[[5](#footnote.5)\] At the same time, the total investment needs for the green transition are still higher than for digitalisation and defence combined, according to European Commission data (Chart 1).
+
+#### Chart 1
+
+Estimated annual strategic spending needs in the EU: green, digital and defence transitions
+
+(annual average additional spending needs split between private and public financing, percentages of 2024 EU GDP, 2025-31)
+
+![](blog20250725/ecb.blog20250725.en_img0.png?af1f3d4dc6a7cf77d4d7b3a2bf802cc1)
+
+Sources:European Commission, European Parliamentary Research Service, NATO, European Investment Bank (EIB) and ECB staff calculations.
+
+Notes: The investment needs for the three transitions in the EU are expressed in terms of 2024 GDP and broken down into private funding (blue bars), already existing EU funding (yellow bars), and additional public funding needed at national and EU level (red bars). For the methodology used, see Bouabdallah et al. (2024) and footnotes 1 to 5.
+
+The evolving geopolitical landscape highlights the urgent need for Europe to strengthen its strategic capacity. Critical challenges need to be tackled in a coordinated and sustainable manner. Without a well-designed roadmap, EU countries could face a harsh choice between debt sustainability and being able to finance strategically critical expenditures.
+
+In a previous [ECB blog](/press/blog/date/2024/html/ecb.blog240627~2e939aa430.en.html), it was argued that only a comprehensive, multi-pronged financing strategy – one that integrates national and EU initiatives and private and public funding sources – can help navigate this trade-off effectively. This argument is even more relevant today.
+
+Public funding of the strategic needs: a three-level pyramid
+------------------------------------------------------------
+
+While optimising private financing and promoting public-private partnerships will remain crucial to address pressing investment needs, the burden on public strategic financing has increased significantly following the NATO summit.
+
+Historically, public funding accounted for 24% of green investment, 15% of digital investment and virtually 100% of defence spending. Applying these shares to the updated €1,200 billion annual needs, the public financing component (yellow and red bars in Chart 1) rises from 24% of total spending needs in 2024 to 43% today. Assuming the funding share from private sources remains constant and accepting the EU and NATO estimates at face value, the additional burden on national and EU budgets would amount to approximately €510 billion annually.\[[6](#footnote.6)\] Factoring in a ±20% margin around this estimate, the extra public contribution required to finance the three transitions would range from 2.7% to 4.0% of EU GDP per year.
+
+How could the public share of the three transitions be financed? We have identified several avenues, which can be grouped into three levels (building blocks) in the pyramid in Figure 1:
+
+1.  **“Status quo”**: At the base of the pyramid are national and EU public financing mechanisms that are already in place or, while still in the pipeline, have been decided and are sufficiently well defined, as in the case of the newly introduced SAFE instrument.\[[7](#footnote.7)\]
+2.  **“Put further order in your house ”**: In the middle layer are new measures to be implemented exclusively at the national level, leveraging domestic resources.
+3.  **“A more cohesive Europe”**: The top of the pyramid includes innovative measures – extending beyond the mere funding dimension – that would entail deeper integration at the EU level, promoting a more unified and collaborative European approach to strategic financing.
+
+#### Figure 1
+
+Public strategic financing of the three transitions: a multi-pronged approach to be implemented at both the EU and the national level
+
+![](blog20250725/ecb.blog20250725.en_img1.png?d705d81514f85b7fb6389216469d8d4d)
+
+Source: ECB staff.
+
+These three building blocks offer a structured framework for financing solutions that align with Europe’s strategic priorities, while reflecting varying degrees of national and EU involvement. Let us now take a closer look.
+
+A funding gap of more than €100 billion per year
+------------------------------------------------
+
+The first block, maintaining the **status quo**, serves as the foundation of the financing strategy. This approach focuses on using the fiscal space available in certain EU Member States and on leveraging the existing EU toolkit, which includes fiscal resources, governance frameworks and debt issuance capabilities.
+
+Our analysis of these avenues reveals a significant funding gap for Europe's green, digital and defence transitions, even under optimistic scenarios. At least €106 billion per year – 21% of the €510 billion in public funding needed – cannot be covered within the current framework. Over the period 2025-31, the existing tools could provide up to €404 billion annually for these transitions. This amount comprises a number of different mechanisms.
+
+Let’s take a closer look at where this public funding may stem from.
+
+**Using the fiscal space available in the EU Member States with healthy public finances.** According to EU fiscal governance rules, eight Member States with robust public finances currently have fiscal space of about €60 billion.\[[8](#footnote.8)\] If half of this capacity were directed each year towards new strategic investments – an optimistic assumption – it would fund around €30 billion, i.e. about 6% of the total public financing needs.
+
+**Optimising the use of the existing fiscal governance at the national level, which would allow Member States to unlock up to €180 billion per year – around 35% of the public needs – under a favourable scenario.** This includes two important elements of budgetary flexibility:
+
+**Using already existing or approved EU resources and debt issuances, which amount to more than €190 billion per year over the period 2025-31.** This corresponds to 37% of the public financing needs (yellow bars in Chart 1) and includes: (i) the shares of the [Recovery and Resilience Facility (RRF)](https://commission.europa.eu/business-economy-euro/economic-rRecovery/recovery-and-resilience-facility_en) allocated to the green and digital transitions until the end of 2026; (ii) the new SAFE instrument for the funding of defence expenditure, which, for the sake of simplicity, is assumed here to be used for its whole envelope of €150 billion by the deadline of end-December 2030;\[[13](#footnote.13)\] (iii) other funding initiatives throughout the EU budget related to the three transitions (including InvestEU), which are assumed to remain unchanged in the next cycle compared to the current cycle; and (iv) EIB funding of the three transitions.
+
+If, as argued above, the existing financing is insufficient, what else should be explored? The next building block, illustrated in Figure 1, is “**put further order in your house**”, which emphasises the need to **reprioritise national public expenditure** and/or **increase taxation**.
+
+Reshuffle spending and/or increase taxes
+----------------------------------------
+
+The enhancement of national fiscal resources may take different forms, depending on the specific circumstances of each country. Efficiency gains in public expenditure – achieved through measures such as spending reviews, improving administrative efficiency and combating corruption – offer some potential for fiscal optimisation. Phasing out inefficient subsidies that are misaligned with EU priorities, such as fossil fuel subsidies, would also help. Another possibility would be resorting to ad hoc revenues, such as a special defence tax.\[[14](#footnote.14)\] Finally, well-structured public-private partnerships could play a crucial role in alleviating the direct fiscal burden of strategic investments.
+
+However, this second building block presents significant challenges and is unlikely to fully bridge the public funding gap associated with the three transitions. Several structural constraints limit the potential for further reprioritisation of national budgets. Many EU Member States are already grappling with substantial fiscal consolidation efforts due to their high public debt levels, and, from 2029, the burden will be further compounded by the additional fiscal adjustments required at the conclusion of the NEC period (Chart 2).\[[15](#footnote.15)\]
+
+The room for manoeuvre is further constrained by a range of contingent liabilities and fiscal pressures that are weighing on national budgets, such as aging populations, growing demands on healthcare and social protection systems, and the need to address distributional concerns. Vested interests and political resistance further complicate efforts to introduce budgetary enhancements at the national level.
+
+#### Chart 2
+
+The NEC provides only temporary budgetary flexibility and entails higher fiscal consolidation from 2029
+
+![](blog20250725/ecb.blog20250725.en_img2.png?eb5645abee39ae11915b2ef069433b3b)![](blog20250725/ecb.blog20250725.en_img3.png?01066f93177130922e8765674c3af236)
+
+a) Average debt-to-GDP ratio in 11 euro area countries that have requested activation of the NEC
+
+b) Required average fiscal adjustment in 11 euro area countries that have requested activation of the NEC
+
+(percentages of GDP)
+
+(change in structural primary balance, percentage points of GDP)
+
+Sources: European Commission (Spring 2025 Economic Forecast) and ECB staff calculations.
+
+Notes: The panels focus on the 11 euro area countries that have adopted the NEC so far, namely Belgium, Germany, Estonia, Greece, Croatia, Latvia, Lithuania, Portugal, Slovenia, Slovakia and Finland,. The five non-euro area EU countries that have adopted the NEC are not included. In panel a), the blue (yellow) lines indicate the debt ratio in the case of compliance with the EU fiscal rules before (after) the activation of the NEC. The red line shows the debt dynamics in the case of no fiscal adjustment when the NEC expires in 2029. In panel b), the blue (yellow) bars indicate the fiscal adjustment required in the case of compliance with the EU fiscal rules before (after) the activation of the NEC. The adjustment is derived under the assumption of linear uptake of the NEC in the first fiscal planning period (2025-28) and a four-year plan for the second period starting in 2029.
+
+A more cohesive Europe: an indispensable building block
+-------------------------------------------------------
+
+Our analysis suggests that a **more cohesive Europe** is not merely an option but a necessary condition for effectively financing the three transitions. Within this final building block, we outline five fundamental avenues for action. Although not exhaustive, these avenues provide a roadmap for progress while recognising that more detailed and specific proposals are also under discussion.\[[16](#footnote.16)\]
+
+*   **The establishment of the** [**savings and investments union (SIU)**](https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_803)
+
+Progress towards completing the capital markets union and the banking union will be essential to mobilise private funds. The EU already has significant potential in this regard: gross private savings account for around 15% of GDP, compared to 4.5% in the United States. By better channelling these savings into productive private investment, Europe can more effectively address its massive investment needs and reduce the share of public funding required.
+
+*   **Boosting productivity across the Union**
+
+A roadmap for increasing productivity is outlined in the European Commission’s [competitiveness compass](https://commission.europa.eu/topics/eu-competitiveness/competitiveness-compass_en), which builds on the recommendations of the [Draghi report on the future of European competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en). The Draghi report estimates that a 2% increase in total factor productivity over a ten-year horizon could cover up to one-third of the fiscal spending required for strategic investments.
+
+*   **Reforming the EU budget in the next multiannual financial framework (2028-34)**
+
+Similar to reprioritisation at the national level, the EU budget should allocate a significantly higher share to strategic spending, which accounted for only 8.5% of the EU budget in 2022. Moreover, reforming the EU’s own resources – currently at an impasse – could increase the size of the EU budget in the next cycle and generate new, stable revenue streams to address strategic challenges. The European Commission unveiled a comprehensive [proposal](https://commission.europa.eu/news-and-media/news/eu-budget-2028-2034-stronger-europe-2025-07-16_en?prefLang=it) in this direction on 16 July. In particular, a new European Competitiveness Fund could play a major role in funding the three transitions.\[[17](#footnote.17)\] Assuming approval and full implementation of the budget proposal, we estimate that the public funding gap identified above would shrink by almost 30%.
+
+*   **Strengthening joint procurement**
+
+Military production in the EU remains highly fragmented, with a significant home bias (around two-thirds on average). Enhancing joint procurement among EU countries or within “coalitions of the willing”\[[18](#footnote.18)\] would lower costs, allow for the acquisition of strategic enablers (e.g. military satellites), and foster innovation by creating a captive market for EU tech entrepreneurs.\[[19](#footnote.19)\] Joint procurement could also improve economies of scale, increase bargaining power, reduce delivery timelines and facilitate military interoperability.\[[20](#footnote.20)\] Similar considerations apply to other European public goods, such as electricity grids.
+
+*   **Joint debt issuance for European public goods**\[[21](#footnote.21)\]
+
+Building on the experience gained with instruments such as the RRF, common financing through joint debt issuance would pool financial resources and creditworthiness across the EU. If properly designed, this may result in lower borrowing costs compared to several individual Member States issuing debt independently. A joint EU debt instrument would also deepen European financial markets, creating a more integrated and liquid market for EU bonds and contributing to the emergence of a genuine safe asset.\[[22](#footnote.22)\] This would enhance the euro’s status as a global currency, bolster financial stability and increase investor confidence in the EU’s economic governance, ultimately lowering borrowing costs.\[[23](#footnote.23)\]
+
+Bridging the gap: a blueprint for Europe’s strategic future
+-----------------------------------------------------------
+
+The updated additional strategic spending needs outlined in this blog – €1,200 billion per year in total, including €510 billion in public funding and €320 billion specifically for defence – require an integrated and comprehensive European blueprint.
+
+On the public financing side, our estimates suggest that, even under optimistic assumptions, the available national fiscal space, existing fiscal governance measures, and current EU resources and debt issuance could not fully cover the public financing needs. This leaves a public financing gap of over €100 billion per year, or 21% of the total public funding required.
+
+Addressing this gap calls for two additional building blocks on top of the status quo: reprioritising national budgets to maximise efficiency (“put further order in your house”) and establishing a clear roadmap for deeper integration (“a more cohesive Europe”). Strengthening Europe’s fiscal capacity and strategic cohesion through this holistic approach aligns closely with the ongoing public debate about the need for a “Hamiltonian moment” – a transformative step towards deeper fiscal and political integration. Without such a step, securing the financing necessary for Europe’s strategic investments could prove exceedingly difficult.
+
+_The views expressed in each blog entry are those of the author(s) and do not necessarily represent the views of the European Central Bank and the Eurosystem._
+
+[**Check out**](/press/blog/html/index.en.html) The ECB Blog and [**subscribe**](/press/blog/html/register.en.html) for future posts.
+
+For topics relating to banking supervision, why not have a look at [**The Supervision Blog**](https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html)
