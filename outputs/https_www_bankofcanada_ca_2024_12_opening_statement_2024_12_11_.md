@@ -1,17 +1,3 @@
-Monetary Policy Decision Press Conference Opening Statement - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-=============================================================================================================================================================================================================================================
-
-Monetary Policy Decision Press Conference Opening Statement
-===========================================================
-
-Opening statement
-
-[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
-
-[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
-
-December 11, 2024
-
 Good morning. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss our policy decision.
 
 Today, we lowered the policy interest rates by 50 basis points. This is our fifth consecutive decrease since June and brings our policy rate to 3¼%.
@@ -49,23 +35,3 @@ In other words, with the policy rate now substantially lower, we anticipate a mo
 The Bank is committed to maintaining price stability for Canadians by keeping inflation close to the 2% target.
 
 With that, the Senior Deputy Governor and I would be pleased to take your questions.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Opening statements](https://www.bankofcanada.ca/search/?content_type[]=opening-statements)
-
-[
-
-Bank of Canada reduces policy rate by 50 basis points to 3¼%
-------------------------------------------------------------
-
-](https://www.bankofcanada.ca/2024/12/fad-press-release-2024-12-11/ "Bank of Canada reduces policy rate by 50 basis points to 3¼%")
-
-The Bank of Canada today reduced its target for the overnight rate to 3¼%, with the Bank Rate at 3½% and the deposit rate at 3¼%.
-
-[
-
-Press Conference: Policy Rate Announcement – December 2024
-----------------------------------------------------------
-
-](https://www.bankofcanada.ca/multimedia/press-conference-policy-rate-announcement-december-2024/ "Press Conference: Policy Rate Announcement – December 2024")
-
-_Interest Rate Announcement_ — Press conference by Governor Tiff Macklem and Senior Deputy Governor Carolyn Rogers (10:30 (ET) approx.).

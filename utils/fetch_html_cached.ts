@@ -32,6 +32,7 @@ async function fetchRawHtml(url: string): Promise<string> {
 export async function fetchHtmlCached(url: string): Promise<string> {
 	const cachePath = getCachePath(url);
 	if (existsSync(cachePath) && readFileSync(cachePath).length > 0) {
+		console.log("using cached file for url:", url);
 		return readFileSync(cachePath, { encoding: "utf8" });
 	} else {
 		console.log("fetching url:", url);

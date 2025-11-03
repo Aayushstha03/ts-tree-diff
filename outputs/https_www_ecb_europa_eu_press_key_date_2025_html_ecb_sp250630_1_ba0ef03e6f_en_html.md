@@ -1,11 +1,3 @@
-Strategy assessment: lessons learned
-====================================
-
-*   SPEECH
-
-Strategy assessment: lessons learned
-====================================
-
 Introductory speech by Christine Lagarde, President of the ECB, at the opening reception of the ECB Forum on Central Banking 2025 "Adapting to change: macroeconomic shifts and policy responses"
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,40 +132,3 @@ Following the conclusion of this strategy assessment, I would add that our monet
 To close the circle with Nietzsche: “he who has a why to live can bear almost any how.”
 
 Even as the world changes around us, we know our purpose. And we will do whatever is necessary to deliver on it – ensuring price stability for the people of Europe.
-
-1.  Kase, H. and Rigato, R. (2025), “Monetary Policy, Supply Shocks, and Input-Output Linkages in the Euro Area”, mimeo.
-    
-2.  Arndt, S. and Enders, Z. (2024), “[The Transmission of Supply Shocks in Different Inflation Regimes](https://www.banque-france.fr/system/files/2024-01/WP938.pdf)”, _Working Paper Series_, No 938, Banque de France, January; Khalil, M. and Lewis, V. (2024), “[Product turnover and endogenous price flexibility in uncertain times](https://cepr.org/publications/dp18941)”, _CEPR Discussion Paper Series_, No 18941, Centre for Economic Policy Research, Paris and London, 22 March.
-    
-3.  Lagarde, C. (2025), “[A robust strategy for a new era](/press/key/date/2025/html/ecb.sp250312~915537d675.en.html)”, speech at the 25th “ECB and Its Watchers” conference organised by the Institute for Monetary and Financial Stability, Goethe University, Frankfurt am Main, 12 March.
-    
-4.  Lagarde, C. (2021), “[Monetary policy during an atypical recovery](/press/key/date/2021/html/ecb.sp210928~4cc57f558d.en.html)”, speech at the ECB Forum on Central Banking “Beyond the pandemic: the future of monetary policy”, Frankfurt am Main, 28 September.
-    
-5.  Christoffel, K. and Farkas, M. (2025), “Managing the risks of a de-anchoring of inflation expectations”, _Working Paper Series_, ECB, forthcoming.
-    
-6.  Lagarde, C. (2024), “[Building confidence in the path ahead](/press/key/date/2024/html/ecb.sp240320~28c9a70818.en.html)”, speech at The ECB and its Watchers XXIV Conference, organised by the Institute for Monetary and Financial Stability, Goethe University, Frankfurt am Main, 20 March.
-    
-7.  Deutsche Bundesbank (2024), “[The global disinflation process and its costs](https://publikationen.bundesbank.de/publikationen-en/reports-studies/monthly-reports/monthly-report-july-2024-935476?article=the-global-disinflation-process-and-its-costs-935482)”, _Monthly Report_, July.
-    
-
-#### Related topics
-
-*   [Strategy review](/mopo/strategy/strategy-review/html/index.en.html)
-
-**Disclaimer** Please note that related topic tags are currently available for selected content only.
-
-CONTACT
-
-European Central Bank
----------------------
-
-### Directorate General Communications
-
-*   Sonnemannstrasse 20
-*   60314 Frankfurt am Main, Germany
-*   [+49 69 1344 7455](tel:+49 69 1344 7455)
-*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
-
-Reproduction is permitted provided that the source is acknowledged.
-
-[Media contacts](/press/contacts/html/index.en.html)

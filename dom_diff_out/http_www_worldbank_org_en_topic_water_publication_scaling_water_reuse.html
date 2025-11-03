@@ -1,7 +1,42 @@
 <html lang="en"><head>
 
-        
-
+        <script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js" data-routing="env=prod,tier=publish,ams=World Bank"></script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Report",
+    "mainEntityOfPage": "https://www.worldbank.org/en/topic/water/publication/scaling-water-reuse",
+    "headline": "Scaling Water Reuse: A Tipping Point for Municipal and Industrial Use",
+    "datePublished": "2025-09-09T17:06:12.585",
+    "dateModified": "2025-09-09T17:06:07.664",
+    "description": "Scaling Water Reuse: A Tipping Point for Municipal and Industrial Use, makes the case for investing in the treatment and reuse of alternative water sources to create fit-for-purpose supply for municipal and industrial use, unlocking a valuable and sustainable source of new water. ",
+    "inLanguage": "en",
+    "author": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+            "width": 780,
+            "height": 439
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://worldbank.scene7.com/is/image/worldbankprod/Scaling-Water-Reuse-Report-Cover-page-2",
+        "height": 439,
+        "width": 780
+    }
+}
+</script>
 
  
 
@@ -33,7 +68,7 @@
 <meta name="dcterms.type" content="Text/HTML">
 <meta name="dcterms.identifier" content="https://www.worldbank.org/en/topic/water/publication/scaling-water-reuse">
 <meta name="dcterms.language" content="en"> 
-
+<script src="/etc.clientlibs/worldbankgroup/clientlibs/vendor/jquery.js"></script>
   
 
 
@@ -50,7 +85,7 @@
 
 
 
-
+<script src="//assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/launch-7bc0cdc67098.min.js" async=""></script>
 
 
 
@@ -74,7 +109,13 @@
   
 
 
-<link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.css" type="text/css"></head>
+<script>
+    var pagelang='en';
+    var modal_Title='Live Now';
+    var modal_Header='WORLD BANK LIVE';
+    var join_Msg='Join Now';
+    var cid_Code='?intcid=wbw_xpl_liveoverlay_en_ext';
+</script><link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.css" type="text/css"><script src="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.js"></script></head>
 
   
 
@@ -115,9 +156,21 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.css" type="text/css">
 <header></header>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.js"></script>
  
+<script>
+        const headeroptions = {
+            
+			languageToggler: { default: false},
+            
+            languagecode: 'en',
+            enabletrendingdata: true,
+			selector:'header',
+			serviceEndpoint:'/wbg/aem/service/header/en'
+        };
+		populateHeader(headeroptions);
 
+    </script>
 
 
 <input type="hidden" name="wcmmode" class="WCMmode" value="DISABLED">
@@ -175,7 +228,43 @@
 
 
 
+<script>
+    $(document).ready(function() {
 
+          var cuurpage = "/content/topic/water/en/publication/scaling-water-reuse";
+    var pageLocale = "en";
+    var activeLink =$(".lp__breadcrumb li" ).first().children("a").attr('href');    
+    if (typeof activeLink !== 'undefined'){
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+
+        //adedd for D&R to Highlight menu 
+        if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+            activeLink = "/" + activeLink.split("/").slice(3).join("/");                
+        }//end
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            if ($(this).children("a").attr('href') == activeLink){
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    
+    var isCPF = "false";    
+    var activeLink = "";
+    if (isCPF == "true" && typeof activeLink !== 'undefined'){		
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            
+            if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+            {
+                $(this).addClass("active");
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    });
+
+    
+</script>
 
 
 </div>
@@ -269,7 +358,33 @@
         
 
 
+<script>
+    $( document ).ready(function() {
+        var mobileAnchorLabel = $('li a[data-device=mobile].active').html();
+        var mobileAnchorLink = $('li a[data-device=mobile].active').attr('href');
+        
+        if (typeof mobileAnchorLabel != "undefined" && mobileAnchorLink != 'undefined')
+        {	 
+            
+            //var parentLink = $('.n01v1-nav-list-sub').closest('.n01v1-nav-list-main li').children('a').attr('href');
+            //var parentLabel = $('.n01v1-nav-list-sub').closest('.n01v1-nav-list-main li').children('a').html();
+            var parentLink = $('.n01v1-nav-list-main li a').attr('href');
+            var parentLabel = $('.n01v1-nav-list-main li a').html();
+            if(typeof parentLink != "undefined" && typeof parentLabel != "undefined")
+            {
+                console.log("parent data:"+ parentLink +"::"+ parentLabel);
+                var pageTitle = $('.c01v1-page-title').html();
+                if (typeof pageTitle != "undefined")
+                {
+                    var parentPageTitle = "<h5 class='mrg-t-10 font hidden-lg hidden-md'>"+ "<a href='"+parentLink+"'>"+parentLabel+"</a></h5>";
+                    $('.c01v1-page-title').before(parentPageTitle);
+                }
+            }
 
+        }
+
+    });
+</script>
 <!-- script for showing parent page link in title end -->
 </div>
 
@@ -359,7 +474,7 @@
 
     
 
-
+<script src="/etc/designs/wbr/components/f03v1_pagetools_clientlib.js"></script>
 
     
     <div class=" clearfix">
@@ -452,7 +567,16 @@
         </div>
         </div>
         
-</div>
+<script>
+    var emailcid ="SHR_SiteEmailShare_EN_EXT";
+$(document).ready(function() {
+   var body = window.location.href+"?cid="+emailcid;
+    body= encodeURIComponent(body);
+   var subject =$('title').text();
+    subject =  encodeURIComponent(subject);
+	$('#wbgmailto').attr('href','mailto:'+'?body='+body+'&subject='+subject);
+ });
+</script></div>
 
 
 
@@ -649,8 +773,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -733,8 +857,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -838,8 +962,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -943,8 +1067,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -1000,8 +1124,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -1045,9 +1169,9 @@
 
 
 
+<script src="/etc/designs/wbr/components/playvideo.js"></script>
 
-
-
+<script src="/etc/designs/wbrrdesign/components/audiotracking.js"></script>
 
 
 
@@ -1119,7 +1243,160 @@
 
 
 
-</div>
+<script>
+    var mobilejsImported = false;
+    var isMobile = {
+        Android: function() {
+            return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function() {
+            return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function() {
+            return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function() {
+            return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function() {
+            return navigator.userAgent.match(/IEMobile/i) || navigator.userAgent.match(/WPDesktop/i);
+        },
+        any: function() {
+            return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+        }
+    };
+
+    if( isMobile.any() ) {
+        var targetEvents = document.querySelector('.lp__slide_3');
+        var mobileNav = document.querySelector('.lp__menuButton');
+
+        mobileNav.onclick = function() { 
+            if(!mobilejsImported) {
+                loadjs_cssfile("/etc/designs/wbrrdesign/clientlibs-accessibility/js/header-submit-form-mobile.js", "");
+                mobilejsImported = true;
+            }
+        }
+    }
+    else {
+        var targetEvents = document.querySelector('.lp__slide_4');
+    }
+
+    function loadjs_cssfile(jsFilename, cssFilename){
+        var head  = document.getElementsByTagName('head')[0];
+        // import js
+        var fileref=document.createElement('script')
+        fileref.setAttribute("type","text/javascript")
+        fileref.setAttribute("src", jsFilename)
+        if (typeof fileref!="undefined") {
+            head.appendChild(fileref)
+        }
+        // import css
+        var link  = document.createElement('link');
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.href = cssFilename;
+        link.media = 'all';
+        head.appendChild(link);
+    }
+
+    var libraryImported = false;
+    var optionsEvents = {};
+    function handleIntersection(entries) {
+        entries.map((entry) => {
+                    if (entry.isIntersecting) {
+            if(!libraryImported) {
+                loadjs_cssfile("/etc.clientlibs/worldbankgroup/clientlibs/clientlib-swiper.js", "/etc.clientlibs/worldbankgroup/clientlibs/clientlib-swiper.css");
+                libraryImported = true;
+            }
+        }
+    });
+
+    }
+    // load js and css for slider when element is in viewport
+    var observerEvents = new IntersectionObserver(handleIntersection, optionsEvents);
+    observerEvents.observe(targetEvents);
+
+    // Tab click and Mouse over
+    var mEvent = document.querySelector('.megamenu');
+    // var jsFiles = ['/etc.clientlibs/worldbankgroup/clientlibs/vendor/bootstrap.js', '/etc.clientlibs/worldbankgroup/clientlibs/vendor/popper.js', '/etc/designs/wbrrdesign/clientlibs-accessibility/js/header.js'];
+	var jsFiles = [];
+    var jsImported = false;
+    function checkTabPress(e) {
+        // pick passed event of global event object
+        e = e || event;
+        var activeElement;
+        if (e.keyCode == 9 || e.keyCode == 40) {
+            // Here read the active selected link.
+            activeElement = document.activeElement;
+            // If HTML element is and anchor
+            if (activeElement.tagName.toLowerCase() == 'a')
+                // get it's hyperlink
+                if(activeElement.className.includes('lp__megamenu_item')) {
+                    if(e.keyCode == 40) {
+                        //console.log(e.keyCode, 'tab', activeElement.id);
+                        importJs();
+                        callApi(e);
+                        e.target.focus();
+                        document.getElementById(activeElement.id).setAttribute("aria-expanded", true);
+                    }
+                }
+        }
+    }
+
+    // load js, API for navigation on mouse over and keyboard tab press
+    function importJs(e) {
+        if(!jsImported) {
+            jsFiles.forEach(function(fileName, index) { 
+                // loadjs_cssfile(fileName, '');
+            });
+            jsImported = true;
+        }
+    }
+
+    mEvent.onmouseover=function(e) {
+        importJs();
+        callApi(e);
+    };
+
+    mEvent.onkeyup=function(e) {
+        checkTabPress(e);
+    };
+
+    function callApi(e) {
+        if(e.target.tagName == 'A' && e.target.className == 'lp__megamenu_item') {
+            var label = e.target.text.split(" ").join("").toLowerCase();
+            var nxtEle = e.target.nextElementSibling;
+            if(!nxtEle) {
+                importApi(label, e);
+            }
+        }
+    }
+
+    function importApi(name, element) {
+        var updateUrl = 'https://wwwstg.worldbank.org/wbg/aem/service/headerdata?pagepath=%2Fcontent%2FSYSTEM%2FTools%2Fstore_node%2Fheader_footer%2Fen%2Fjcr%3Acontent%2Fpar%2Fplainembedcode&name='+name;
+        fetch(updateUrl)
+        .then(function(response) {
+            // When the page is loaded convert it to text
+            if(response.status == 200) {
+                return response.text();
+            }
+            else { 
+                return '';
+            }
+        })
+        .then(function(html) {
+            // Initialize the DOM parser
+            var parser = new DOMParser();
+            // Parse the text
+            var doc = parser.parseFromString(html, "text/html");
+            element.target.insertAdjacentHTML('afterEnd', new XMLSerializer().serializeToString(doc))
+        })
+        .catch(function(err) {  
+            console.log('Failed to fetch page: ', err);  
+        });
+    }
+
+</script></div>
 
 </div>
 
@@ -1230,8 +1507,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -1437,7 +1714,7 @@
  
 
 
-
+<style></style>
 
 
     </div>
@@ -1603,31 +1880,39 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.css" type="text/css">
 <footer id="wbg_service_ext_footer"></footer>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.js"></script>
  
+<script>
+        const footeroptions = {
+            languagecode: 'en',
+			selector:'footer',
+			serviceEndpoint:'/wbg/aem/service/footer/en'
+        };
+		populateFooter(footeroptions);
+ 
+    </script>
 
 
 
 
 
 
-
-
+<script src="/etc/designs/wbr/components/wbgajax.js"></script>
 
 <div data-ajax-component-wbg="" data-url="/wbg/aem/service/ampopup" data-ajax-query-parameters="language=en&amp;pageName=/content/topic/water/en/publication/scaling-water-reuse"></div>
 
   
 
 
-
-
-
-
-
-
-
-
-
+<script src="/etc.clientlibs/worldbankgroup/clientlibs/clientlib-base.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_related/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_static_content/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/research_auto_manual/clientlibs-base/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/f03v1_pagetools/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_title/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_synopsis/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/tab/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/multi_indepth/clientlibs/site.js"></script>
 <!--cookie consent starts-->
 <section id="cookieconsentpopup" class="lp__cookie_tooltip" style="display: none;">
     <div class="container">
@@ -1637,7 +1922,7 @@
     </button>
     </div>
 </section>
-
+<script defer="" src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/cookie-consent.js"></script>
     <!--cookie consent ends-->
 
 
@@ -1645,7 +1930,15 @@
 
 
 
+<script type="text/javascript">
+var appInsights=window.appInsights||function(a){
+  function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+  }({
+      instrumentationKey:"2ddee9f8-57ef-4c0e-8810-a2f743116654"
+  });
 
+window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+</script>
 
 
 
@@ -1658,6 +1951,7 @@
 
 
 
+<script type="text/javascript" src="/etc/designs/wbg/clientlib/js/WebStatsUtil.js?q=nocache"></script>
 
 
 
@@ -1665,15 +1959,214 @@
 
 
 
+<script>   
+    
+    var filters = [], queryParamValue,section=[],sFilters="",sSection="";
+    var query_string = window.location.search;
+    var paramMap = {
+        'displayconttype_exact': 'type',
+        'topic_exact': 'topic',
+        'admreg_exact':'region',
+        'count_exact':'country',
+        'strdate':'startdate',
+        'enddate':'enddate',
+        'lang_exact':'language',
+        'tf':'timeframe',
+        'docty_exact':'document type',
+        'lang_spoken_exact':'languages spoken',
+        'job_title_exact':'role',
+        'unit_exact':'unit',
+        'first_name_AlphaBucket_exact':'first name',
+        'surname_AlphaBucket_exact':'last name',
+        'sector_exact':'sector',
+        'status_exact':'status',
+        'majdocty_exact':'major document type',
+        'majtheme_exact':'theme',
+        'teratopic_exact':'topic'
+        
+    };
+    
+    if(query_string){
+        var queryPair = query_string.slice(1).split('&');
+        for (var i = 0; i < queryPair.length; i++) {
+            queryParamValue = queryPair[i].split('=')[1];
+            
+            queryParamName = queryPair[i].split('=')[0];
+            
+            if((typeof paramMap[queryParamName]!='undefined')  && (queryParamName!='lang_exact') && (queryParamName!='pastevents') && (queryParamName!='futureevents') && (queryParamName!='srt') && (queryParamName!='qterm') && (queryParamName!='x')&&(queryParamName!='y')){
+                
+                
+                section.push(paramMap[queryParamName]);
+                
+                
+            }
+            
+            
+            if((queryParamName!='qterm') && (queryParamName!='futureevents') && (queryParamName!='pastevents') && (queryParamName!='srt') && (queryParamName!='os') && (queryParamName!='x') && (queryParamName!='lang_exact') &&(queryParamName!='y')){
+                if(queryParamValue != ''){
+                    filters.push(queryParamValue);
+                }
+            }
+        }
+        sFilters = filters.join(':');
+        sSection = section.join(':');
+        
+        sSection = decodeURIComponent(sSection);
+        
+        sSection = sSection.replace(new RegExp("\\+","g"),' ');
+        
+        //s.eVar50= section;
+        
+        sFilters = decodeURIComponent(sFilters);
+        
+        sFilters = sFilters.replace(new RegExp("\\+","g"),' ');
+        //s.list1 =filters;
+    } 
+</script> 
 
- 
 
 
+<script> 
+    var wbgData = wbgData || {};
+    wbgData.page = {
+        pageInfo: {
+            pageName: "en:topic:water:publication:scaling-water-reuse",
+            pageCategory: "content page",
+            pageUid: "70401f1c-ad47-4138-aae7-8a3db54b8091", 
+            pageFirstPub: "07-16-2025", 
+            pageLastMod: "09-09-2025", 
+            contentType:"Topic",
+            topicTag:"water",
+            hier1:"wat~understanding poverty~water~publication",
+            channel:"SDN Water EXT",
+            webpackage:"",
+            
+        },
+        sectionInfo: {
+            siteSection: "understanding poverty",
+            subsectionP2:"water",
+            subsectionP3:"publication",
+            subsectionP4:"scaling-water-reuse",
+            subsectionP5:""
+            
+        }
+    },
+        wbgData.site = {
+            siteInfo: {
+                siteLanguage: "en", 
+                siteCountry: "", 
+                siteEnv: "prod", 
+                userIpaddressType:"10.48.0.135",
+                siteRegion:"",
+                siteType:"main",
+            },
+            
+            techInfo: {
+                cmsType: "AEM",
+                bussVPUnit: "EXT",
+                bussUnit: "WAT",
+                bussUserGroup: "External",
+                bussAgency: "ibrd"
+            }
+            
+			  
+            
+            
+        }
+        
+        
+        
+         
+            
+            
+            
+            
+            
+                
+</script>
 
 
-
-
-
+<script type="text/javascript">
+    var wbgDataOld = {};
+    wbgDataOld.page= {
+        pageInfo: {
+            pageName: "en:topic>water>publication>scaling-water-reuse",
+            pageTitle:"Scaling Water Reuse: A Tipping Point for Municipal and Industrial Use",
+            pageDate:"2025/07/14",
+            hier1: "wat~understanding poverty~water~publication", 
+            hier2: "wbg~en~english~understanding poverty~water~publication",
+            server:"10.48.0.181",
+            channel:"SDN Water EXT"
+            
+        },
+        docInfo: {
+            docAuthor: "",//Document author  						  
+            docDate:"",//Document date					  
+            docRegion:"",//Region								  
+            docCountry:"" 
+        },
+        
+        teragramInfo: {													 	
+            teragramTopic:"",  										  
+            teragramKeyword:"water"	
+        },
+        siteInfo: {
+            siteSection:"understanding poverty",                                 
+            subSection1:"understanding poverty~water",						      
+            subSection2:"understanding poverty~water~publication",              
+            subSection3:"understanding poverty~water~publication",              
+            siteLanguage:"English",                                        
+            siteRank:"1",											  
+            contentType:"other"   										  
+        },
+        packageInfo:{
+            
+            webpackage:""
+            
+        },
+        
+        
+        
+           
+            vpuInfo: {
+                vpuLegacy:"EXT",											 
+                    vpu:"WAT"													 
+            },
+                
+    }
+    
+    
+    
+    
+    
+    
+    var opsAanalytics ={
+        "projectId" :"NODATA", 
+        "upi":"NODATA",
+        "pageName":"understanding poverty", 
+        "tabName":"understanding poverty", 
+        "serverDate":"",  
+        "clientDate":new Date().getTime(), 
+        "totalResponseTime":"",
+        "pageUrl":(document.URL).replace("https://","").replace("http://",""),
+        "userAgent" :navigator.userAgent,
+        "server":"www.worldbank.org", 
+        "appId":"wbgext", 
+        "key1":"topic",
+        "key2":"water",
+        "key3":"publication",
+        "key4":"scaling-water-reuse",
+        "key5":"",
+        "key6":"Anonymous",
+        "key7":"",
+        "key8":"",
+        "key9":"", 
+        "key10":""
+    };
+    
+    
+    
+</script>
 
 
 

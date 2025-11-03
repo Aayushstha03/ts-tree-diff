@@ -1,11 +1,3 @@
-The Fed - Novel Activities Supervision ProgramLock
-==================================================
-
-Novel Activities Supervision Program
-------------------------------------
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
 ### Novel Activities Supervision Program
 
 _NOTE: The Board sunset its novel activities supervision program on August 15, 2025 and will monitor banks' novel activities through the normal supervisory process. Please see [here](/newsevents/pressreleases/bcreg20250815a.htm) for more information._

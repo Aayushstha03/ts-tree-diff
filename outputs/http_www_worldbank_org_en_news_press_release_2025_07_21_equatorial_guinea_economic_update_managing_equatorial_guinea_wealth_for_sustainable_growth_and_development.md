@@ -1,21 +1,3 @@
-Equatorial Guinea Economic Update: Managing Equatorial Guinea’s Wealth for Sustainable Growth and Development
-=============================================================================================================
-
-This page in:
-
-English
-
-*   [Español](https://www.bancomundial.org/es/news/press-release/2025/07/21/equatorial-guinea-economic-update-managing-equatorial-guinea-wealth-for-sustainable-growth-and-development)
-
-This page in: English
-
-*   [Español](https://www.bancomundial.org/es/news/press-release/2025/07/21/equatorial-guinea-economic-update-managing-equatorial-guinea-wealth-for-sustainable-growth-and-development)
-
-PRESS RELEASEJuly 21, 2025
-
-Equatorial Guinea Economic Update: Managing Equatorial Guinea’s Wealth for Sustainable Growth and Development
-=============================================================================================================
-
 **MALABO, July 21, 2025** – The World Bank issued today the **[2025 Equatorial Guinea Economic Update](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071725101024529)** which analyzes the country’s recent economic developments and outlook and highlights the importance of a comprehensive accounting of wealth and the role of human, physical, and natural capital in shaping sustainable growth and development, with a focus on the value of forest ecosystem services.
 
 Equatorial Guinea’s economy grew by an estimated 0.9% in 2024 (compared to 5.1% in 2023), with higher contributions from the industrial and service sectors. Inflation increased from 2.4% to 3.4% between 2023 and 2024. Soaring food prices and sluggish growth along with limited employment opportunities contributed to rising poverty, with an estimated 57% of the population living below the poverty line ($6.85 in 2017 Purchasing Power Parity) in 2024. Fiscal and external balances deteriorated in 2024, mainly due to declining hydrocarbon export earnings, while debt-to-GDP ratio declined thanks to the authorities’ efforts to clear arrears.
@@ -31,29 +13,3 @@ The report emphasizes the need for increased international support for Congo Bas
 “_Equatorial Guinea can boost growth and job creation by leveraging forest ecosystem services in wood processing, ecotourism, and agriculture sectors. However, this will require continued investments and reforms to create an enabling environment,”_ said **Djeneba Doumbia, Country Economist for Equatorial Guinea and lead author of the report**.
 
 Download the **Equatorial Guinea Economic Update 2025** in [**English**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071725101024529).
-
-PRESS RELEASE NO: 2026/006/AFW
-
-Contacts
---------
-
-In Libreville:
-
-Laetitia Ornela Mebaley Me Nno,
-
-+241 7463 8607
-
-[lmebaleymenno@worldbankgroup.org](mailto:lmebaleymenno@worldbankgroup.org)
-
-RELATED
--------
-
-Blogs
------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
-
-WHAT'S NEW
-----------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

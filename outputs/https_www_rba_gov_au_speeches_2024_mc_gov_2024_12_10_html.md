@@ -1,17 +1,3 @@
-Monetary Policy Decision | Speeches | RBA
-=========================================
-
-Media Conference Monetary Policy Decision
-=========================================
-
-**Michele Bullock** Governor
-
-Sydney – 10 December 2024
-
-*   [Audio 34.3MB](/speeches/2024/audio/mc-gov-2024-12-10-audio.mp3 "Downloadable audio file of Media Conference held on 10 December 2024.")
-
-[Watch video: Media Conference – Monetary Policy Decision, Sydney](https://youtu.be/nTA3sKjvlio)
-
 Transcript
 ----------
 
@@ -210,18 +196,3 @@ When we talk about demand being above supply, some of that is reflected in the l
 Thank you, all. And thanks for your interest in this this year. It’s been a bit of a wild ride for me but thank you again for your interest and making it successful. Thank you.
 
 \- You too.
-
-More on the December 2024 monetary policy decision...
------------------------------------------------------
-
-### Reserve Bank Board Statement
-
-The Board decided to leave the cash rate target unchanged at 4.35 per cent.
-
-[Monetary Policy Board Statement](/media-releases/2024/mr-24-27.html)
-
-### Monetary Policy Minutes
-
-Minutes of the Reserve Bank Board meeting, published two weeks after the decision.
-
-[Monetary Policy Minutes](/monetary-policy/rba-board-minutes/2024/2024-12-10.html)

@@ -1,8 +1,5 @@
-Fellowship Program - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-====================================================================================================================================================================================================
-
 Fellowship Program
-==================
+------------------
 
 Find out the [purpose](#purpose) of the Fellowship Program, the [awards](#awards) it offers and who to [contact](#contact) for more information.
 
@@ -39,22 +36,6 @@ The Fellowship Program offers two awards.
 ](https://www.bankofcanada.ca/research/fellowship-program/fellowship-award/ "Fellowship Award")
 
 Annual research grants and expense allowances for a term of up to five years.
-
-[
-
-### Governor's Award
-
-](https://www.bankofcanada.ca/research/fellowship-program/governors-award/ "Governor's Award")
-
-Annual research grants for a term of up to two years.
-
-[
-
-### Award recipients
-
-](https://www.bankofcanada.ca/research/fellowship-program/awards-recipients/ "Award recipients")
-
-See all current and previous winners.
 
 Contact information
 -------------------

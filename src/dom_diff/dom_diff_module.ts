@@ -18,8 +18,7 @@
  */
 
 import { writeFileSync } from "node:fs";
-import TurndownService from "turndown";
-import { stripScriptAndStyleTags } from "../../utils/dom_utils";
+import { cleanHtml } from "../../utils/dom_utils";
 import { fetchHtmlCached } from "../../utils/fetch_html_cached";
 import type { DomNode } from "./dom_diff_utils";
 import { DomTree } from "./dom_diff_utils";
@@ -50,14 +49,9 @@ export async function processArticles(urls: string[]) {
 		console.log("Fetching 404 page:", notFoundUrl);
 		const notFoundHtmlRaw = await fetchHtmlCached(notFoundUrl);
 
-		// Preliminary clean: remove <script> and <style> tags
-		const articleHtml = stripScriptAndStyleTags(articleHtmlRaw);
-		const homepageHtml = stripScriptAndStyleTags(homepageHtmlRaw);
-		const notFoundHtml = stripScriptAndStyleTags(notFoundHtmlRaw);
-
-		const articleTree = new DomTree(articleHtml);
-		const homepageTree = new DomTree(homepageHtml);
-		const notFoundTree = new DomTree(notFoundHtml);
+		const articleTree = new DomTree(articleHtmlRaw);
+		const homepageTree = new DomTree(homepageHtmlRaw);
+		const notFoundTree = new DomTree(notFoundHtmlRaw);
 
 		// For now, just print root tags and text lengths
 		console.log(
@@ -111,8 +105,12 @@ export async function processArticles(urls: string[]) {
 			return results;
 		}
 
+		console.log("\n--- Collecting Unique HTML ---\n");
 		const uniqueHtmls = collectUniqueHtml(articleTree.root);
-		const uniqueHtml = uniqueHtmls.join("<br>\n");
+		let uniqueHtml = uniqueHtmls.join("<br>\n");
+		console.log(`Collected ${uniqueHtmls.length} unique HTML blocks.`);
+		// uniqueHtml = cleanHtml(uniqueHtml);
+		console.log("Cleaned unique HTML.");
 
 		// Convert unique HTML to Markdown
 		// const turndownService = new TurndownService();
@@ -154,7 +152,7 @@ await processArticles([
 	"https://www.bankofcanada.ca/2022/11/financial-stability-in-times-of-uncertainty/",
 	"https://www.bankofcanada.ca/2022/11/opening-remarks-dei2022/",
 	"https://www.bankofengland.co.uk/working-paper/2025/the-credit-channel-of-monetary-policy-direct-survey-evidence-from-uk-firms",
-	"https://www.bankofengland.co.uk/weekly-report/2025/23-july-2025",
+	// "https://www.bankofengland.co.uk/weekly-report/2025/23-july-2025",
 	"https://www.bankofengland.co.uk/working-paper/2025/a-game-theoretic-foundation-for-the-fiscal-theory-of-the-price-level",
 	"https://www.bankofengland.co.uk/macro-technical-paper/2025/a-structural-var-model-for-the-uk-economy",
 	"https://www.bankofengland.co.uk/paper/2025/cp/ensuring-the-resilience-of-ccps",

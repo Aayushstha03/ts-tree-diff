@@ -1,14 +1,7 @@
-Bank of Canada reduces policy rate by 50 basis points to 3¼% - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-==============================================================================================================================================================================================================================================
-
 Bank of Canada reduces policy rate by 50 basis points to 3¼%
-============================================================
+------------------------------------------------------------
 
 FOR IMMEDIATE RELEASE
-
-[Media Relations](https://www.bankofcanada.ca/press/contacts/)
-
-[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
 
 December 11, 2024
 
@@ -30,32 +23,3 @@ With inflation around 2%, the economy in excess supply, and recent indicators ti
 --------------------
 
 The next scheduled date for announcing the overnight rate target is January 29, 2025. The Bank will publish its next full outlook for the economy and inflation, including risks to the projection, in the MPR at the same time.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)
-
-[
-
-Press Conference: Policy Rate Announcement – December 2024
-----------------------------------------------------------
-
-](https://www.bankofcanada.ca/multimedia/press-conference-policy-rate-announcement-december-2024/ "Press Conference: Policy Rate Announcement – December 2024")
-
-_Interest Rate Announcement_ — Press conference by Governor Tiff Macklem and Senior Deputy Governor Carolyn Rogers (10:30 (ET) approx.).
-
-[
-
-Monetary Policy Decision Press Conference Opening Statement
------------------------------------------------------------
-
-](https://www.bankofcanada.ca/2024/12/opening-statement-2024-12-11/ "Monetary Policy Decision Press Conference Opening Statement")
-
-Governor Tiff Macklem discusses key issues involved in the Governing Council’s deliberations about the monetary policy decision.
-
-[
-
-Summary of Governing Council deliberations: Fixed announcement date of December 11, 2024
-----------------------------------------------------------------------------------------
-
-](https://www.bankofcanada.ca/2024/12/summary-governing-council-deliberations-fixed-announcement-date-december-11-2024/ "Summary of Governing Council deliberations: Fixed announcement date of December 11, 2024")
-
-This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the monetary policy decision on December 11, 2024.

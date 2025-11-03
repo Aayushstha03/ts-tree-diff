@@ -125,7 +125,6 @@ export class DomNode {
 	}
 
 	get tail(): string {
-		// Cheerio does not have tail, but we can get next sibling's text if needed
 		return "";
 	}
 

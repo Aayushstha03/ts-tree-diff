@@ -1,19 +1,3 @@
-Philadelphia Fed Names Anna Paulson as Next President and CEO
-=============================================================
-
-![A view of the corner of the Federal Reserve Bank of Philadelphia building.](/-/media/FRBP/Assets/Images/content/presidential-search/SubsectionBanner-Bank-7th-Outside.jpg?sc_lang=en)
-
-News Release
-
-Philadelphia Fed Names Anna Paulson as Next President and CEO
-=============================================================
-
-17 Apr ’25
-
-The Federal Reserve Bank of Philadelphia has appointed Anna Paulson as the new president and CEO. Paulson currently serves as executive vice president and director of research at the Federal Reserve Bank of Chicago and will take office on July 1, 2025.
-
-Share
-
 For immediate release
 
 Download a [media kit](/-/media/FRBP/Assets/People/Media-Kits/paulson_media_kit.zip?sc_lang=en&hash=9B441933107F13005F18E81AF40F9645) with images of Anna Paulson.
@@ -22,7 +6,7 @@ Contact: [Daneil Mazone](mailto:daneil.mazone@phil.frb.org), Media Relations
 
 Philadelphia — The Federal Reserve Bank of Philadelphia today announced the appointment of Anna Paulson as its next president and chief executive officer. In this role, Paulson will represent the Third Federal Reserve District on the Federal Open Market Committee (FOMC) in the formulation of U.S. monetary policy and lead the organization.
 
-![Anne Paulson](/-/media/FRBP/Assets/Images/content/presidential-search/new-president-announcement-hub.jpg?h=417&w=422&sc_lang=en&hash=EE677999FD003EAC8DD147ACABDF7B63) 
+![Anne Paulson](/-/media/FRBP/Assets/Images/content/presidential-search/new-president-announcement-hub.jpg?h=417&w=422&sc_lang=en&hash=EE677999FD003EAC8DD147ACABDF7B63)
 
 Anna Paulson will serve as the 12th president of the Philadelphia Fed.
 
@@ -67,15 +51,3 @@ About the Philadelphia Fed 
 ---------------------------
 
 The Federal Reserve Bank of Philadelphia helps formulate and implement monetary policy, supervises state member banks, bank holding companies, and savings and loan holding companies, and provides financial services to depository institutions and the federal government. It is one of the 12 regional Reserve Banks that, together with the Board of Governors in Washington, D.C., make up the Federal Reserve System. The Federal Reserve Bank of Philadelphia serves eastern and central Pennsylvania, Delaware, and southern New Jersey.
-
-Related Content
----------------
-
-[About Us](/about-us)
-
-About
-
-[Meet Our Next President: Anna Paulson](/about-us/presidential-search)
-----------------------------------------------------------------------
-
-After a nationwide search, the Federal Reserve Bank of Philadelphia has selected Anna Paulson to serve as the next president and chief executive officer. Her term will begin on July 1, 2025.

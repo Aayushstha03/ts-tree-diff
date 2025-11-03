@@ -1,11 +1,3 @@
-Runway to Resilience: How long-term commitment, local leadership, and engineering innovation kept Tuvalu connected to the world
-===============================================================================================================================
-
-FEATURE STORYJuly 20, 2025
-
-Runway to Resilience: How Long-Term Commitment, Local Leadership, and Engineering Innovation Kept Tuvalu Connected to the World
-===============================================================================================================================
-
 In the heart of the Pacific Ocean, on a narrow atoll barely rising above the sea, sits one of the most remarkable pieces of infrastructure in the world, not because it is the largest, or the busiest, but because of what it means for a country that might otherwise be stranded.
 
 Tuvalu’s Funafuti International Airport is more than just a runway. It’s a road, a football field, a playground, a picnic spot, and a lifeline.
@@ -47,13 +39,3 @@ This isn’t just an engineering win. It’s a development success story that re
 These unique challenges required numerous project pivots, numerous redesigns and complicated innovations. It required humility from engineers, trust from government leaders, and flexibility from a community that lives right on the edge of the runway.
 
 But today, Funafuti has a climate-resilient runway — one that will serve Tuvalu for many years to come. Flight schedules are more reliable. Emergency evacuations are faster. And the playground, road, and soccer pitch that also happens to be a runway is finally smooth and safe.
-
-Blogs
------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
-
-WHAT'S NEW
-----------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

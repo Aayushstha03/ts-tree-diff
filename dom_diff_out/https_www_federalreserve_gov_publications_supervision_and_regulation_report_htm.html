@@ -22,22 +22,28 @@
         
         <link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="/css/bluesteel-theme.css" rel="stylesheet" type="text/css">
-        
-        
-        
+        <script src="/js/modernizr-latest.js" type="text/javascript"></script>
+        <script src="/js/grunticon.loader.js"></script>
+        <script>
+            grunticon(["/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css"]);
+        </script>
         <noscript>
             <link href="/css/icons.fallback.css" rel="stylesheet">
         </noscript>                
-        
-        
+        <script src="/js/angular.min.js" type="text/javascript"></script>
+        <script src="/js/app.js" type="text/javascript"></script>
         
         <!-- For Linear Gradients in IE9 or greater -->
         <!--[if gte IE 9]>
-            
+            <style type="text/css">
+              .gradient {
+                 filter: none;
+              }
+            </style>
         <![endif]-->
 
  
-    <link rel="stylesheet" href="/assets/main.css" data-injected="worker-mheljcxl">
+    <link rel="stylesheet" href="/assets/main.css" data-injected="worker-mheljcxl"><script src="/assets/main.js" data-injected="worker-mheljcxl" defer="" type="module"></script><script data-cfasync="false" nonce="5320f517-d0ce-410d-9151-ebe7904d92d0">try{(function(w,d){!function(j,k,l,m){if(j.zaraz)console.error("zaraz is loaded twice");else{j[l]=j[l]||{};j[l].executed=[];j.zaraz={deferred:[],listeners:[]};j.zaraz._v="5870";j.zaraz._n="5320f517-d0ce-410d-9151-ebe7904d92d0";j.zaraz.q=[];j.zaraz._f=function(n){return async function(){var o=Array.prototype.slice.call(arguments);j.zaraz.q.push({m:n,a:o})}};for(const p of["track","set","debug"])j.zaraz[p]=j.zaraz._f(p);j.zaraz.init=()=>{var q=k.getElementsByTagName(m)[0],r=k.createElement(m),s=k.getElementsByTagName("title")[0];s&&(j[l].t=k.getElementsByTagName("title")[0].text);j[l].x=Math.random();j[l].w=j.screen.width;j[l].h=j.screen.height;j[l].j=j.innerHeight;j[l].e=j.innerWidth;j[l].l=j.location.href;j[l].r=k.referrer;j[l].k=j.screen.colorDepth;j[l].n=k.characterSet;j[l].o=(new Date).getTimezoneOffset();j[l].q=[];for(;j.zaraz.q.length;){const w=j.zaraz.q.shift();j[l].q.push(w)}r.defer=!0;for(const x of[localStorage,sessionStorage])Object.keys(x||{}).filter(z=>z.startsWith("_zaraz_")).forEach(y=>{try{j[l]["z_"+y.slice(7)]=JSON.parse(x.getItem(y))}catch{j[l]["z_"+y.slice(7)]=x.getItem(y)}});r.referrerPolicy="origin";r.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(j[l])));q.parentNode.insertBefore(r,q)};["complete","interactive"].includes(k.readyState)?zaraz.init():j.addEventListener("DOMContentLoaded",zaraz.init)}}(w,d,"zarazData","script");window.zaraz._p=async bs=>new Promise(bt=>{if(bs){bs.e&&bs.e.forEach(bu=>{try{const bv=d.querySelector("script[nonce]"),bw=bv?.nonce||bv?.getAttribute("nonce"),bx=d.createElement("script");bw&&(bx.nonce=bw);bx.innerHTML=bu;bx.onload=()=>{d.head.removeChild(bx)};d.head.appendChild(bx)}catch(by){console.error(`Error executing script: ${bu}\n`,by)}});Promise.allSettled((bs.f||[]).map(bz=>fetch(bz[0],bz[1])))}bt()});zaraz._p({"e":["(function(w,d){})(window,document)"]});})(window,document)}catch(e){throw fetch("/cdn-cgi/zaraz/t"),e;};</script>
     
         <a href="#content" class="globalskip">Skip to main content</a>
 <nav class="nav-primary-mobile" id="nav-primary-mobile"></nav>
@@ -1352,15 +1358,28 @@ Report: <a href="/publications/2018-november-supervision-and-regulation-report-p
                 </div>
             </footer>
             
-            
-            
-            
-            
-            
-            
-            
+            <script src="/js/jquery.min.js" type="text/javascript"></script>
+            <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+            <script src="/js/scripts.js" type="text/javascript"></script>
+            <script src="/js/modal.js" type="text/javascript"></script>
+            <script src="/js/sticky-tables.js" type="text/javascript"></script>
+            <script type="text/javascript" src="/js/slides/ekko-lightbox.min.js"></script>
+            <script src="/js/t4-nav-controller.js" type="text/javascript"></script>
                      
-                      
+            <script type="text/javascript">
+                $(document).ready(function($) {
+                    // delegate calls to data-toggle="lightbox"
+                    $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+                        event.preventDefault();
+                        $(this).ekkoLightbox();
+                    });
+                    $('a[data-click="false"]').click(function(e) {
+                        e.preventDefault();
+                        var target = $(this).data('target');
+                        $(target).click();
+                    });
+                });
+            </script>          
 
             
         <!--PAGEWATCH--><!--11/15/2024--><!--/PAGEWATCH-->

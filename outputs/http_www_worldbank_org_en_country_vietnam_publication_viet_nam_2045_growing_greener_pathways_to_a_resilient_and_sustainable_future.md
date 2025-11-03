@@ -1,25 +1,9 @@
-Viet Nam 2045—Growing Greener: Pathways to a Resilient and Sustainable Future
-=============================================================================
-
-This page in:
-
-English
-
-*   [Tiếng Việt](https://www.worldbank.org/vi/country/vietnam/publication/viet-nam-2045-growing-greener-pathways-to-a-resilient-and-sustainable-future)
-
-This page in: English
-
-*   [Tiếng Việt](https://www.worldbank.org/vi/country/vietnam/publication/viet-nam-2045-growing-greener-pathways-to-a-resilient-and-sustainable-future)
-
-publicationJuly 22, 2025
-
-Viet Nam 2045—Growing Greener: Pathways to a Resilient and Sustainable Future
-=============================================================================
-
 ![Viet Nam 2045—Growing Greener: Pathways to a Resilient and Sustainable Future](https://worldbank.scene7.com/is/image/worldbankprod/GG-SM-22-07-cover?wid=780&hei=439&qlt=85,0&resMode=sharp "Viet Nam 2045—Growing Greener: Pathways to a Resilient and Sustainable Future")
 
 DOWNLOAD THE REPORT
 -------------------
+
+### [English](https://documents1.worldbank.org/curated/en/099051625143012802/pdf/P176996-37953242-ccab-4fd4-b9da-7178f234adfb.pdf) | [Vietnamese](https://documents1.worldbank.org/curated/en/099051625143037334/pdf/P176996-1f81a83a-aa8f-49d2-84ea-ec7d286593c5.pdf)
 
 This report argues that while Viet Nam’s transition to greener and more resilient development will pose challenges, it will also unlock new drivers of growth and job creation. The report answers three critical questions: what can Viet Nam do to adapt to climate change, how to engender growth-friendly emissions reduction, and how to unlock the potential of the marine economy.
 
@@ -47,8 +31,6 @@ The good news is that there are actions that can be taken today to protect land,
 
 ![Mariam Sherman](/content/dam/photos/768x768/2024/sep/Mariam-Sherman-2024-resized.png)
 
-Mariam J. Sherman
-
 World Bank Director for Viet Nam, Cambodia, and Lao PDR
 
 ### **How can Marine Economy – a crucial nexus for climate adaptation and Mitigation – contribute more to sustainable economic development?**
@@ -62,14 +44,3 @@ The marine economy’s vulnerability to climate risks makes adaptation urgent an
 ![Viet Nam marine economy](https://worldbank.scene7.com/is/image/worldbankprod/GG-SM-web-22-07-3?wid=780&hei=439&qlt=85,0&resMode=sharp) 
 
 To mitigate risks and realize the marine economy’s potential, Viet Nam should establish marine protected areas, enforce sustainable fishing practices, and restore mangroves to strengthen coastal resilience and carbon sequestration. Engaging local communities through education and sustainable livelihoods will foster stewardship of marine resources. Integrating ecosystem health into economic planning is essential to balance growth with sustainability and preserve ocean resources for future generations.
-
-RELATED
--------
-
-[Press Release: Maintaining Momentum for Institutional Reforms and Promoting Greener Development Can Help Viet Nam Achieve High-Income Status by 2045](https://www.worldbank.org/en/news/press-release/2025/05/22/maintaining-momentum-for-institutional-reforms-and-promoting-greener-development-can-help-viet-nam-achieve-high-income-s)
-
-[Viet Nam 2045—Breaking Through: Institutions for a High-Income Future](https://openknowledge.worldbank.org/server/api/core/bitstreams/76d0c91e-94ad-4cc4-ad17-841237ff9d3a/content)
-
-[Viet Nam 2045—Trading Up in a Changing World: Pathways to a High-Income Future](https://documents1.worldbank.org/curated/en/099111424204523679/pdf/P1787841e077190d919b24181b4dcb14765.pdf)
-
-[Boosting Viet Nam’s Sustainable Marine Economy: A Public Expenditure & Investment Review (PEIR)](https://documents1.worldbank.org/curated/en/099062725005015900/pdf/P176996-7c8217d0-73a4-4142-bfd3-e1eed60755ba.pdf)

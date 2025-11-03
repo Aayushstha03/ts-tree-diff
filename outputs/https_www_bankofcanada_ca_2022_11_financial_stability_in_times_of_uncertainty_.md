@@ -1,21 +1,3 @@
-Financial stability in times of uncertainty - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-=============================================================================================================================================================================================================================
-
-Financial stability in times of uncertainty
-===========================================
-
-Remarks
-
-[Carolyn Rogers](https://www.bankofcanada.ca/profile/carolyn-rogers/ "Senior Deputy Governor - Executive")
-
-Young Canadians in Finance
-
-[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
-
-November 22, 2022
-
-Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2022/11/remarks-2022-11-22.pdf)
-
 Introduction
 ------------
 
@@ -127,30 +109,3 @@ It will take time to get back to solid growth with low inflation, but we _will_ 
 Thank you for your attention, and I look forward to your questions.
 
 I would like to thank Stephen Murchison and Louis Morel for their help in preparing this speech.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Remarks](https://www.bankofcanada.ca/search/?content_type[]=remarks)
-
-Research Topic(s): [Financial stability](https://www.bankofcanada.ca/search/?topic[]=financial-stability), [Housing](https://www.bankofcanada.ca/search/?topic[]=housing), [Inflation and prices](https://www.bankofcanada.ca/search/?topic[]=inflation-and-prices), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments)
-
-Related information
--------------------
-
-November 22, 2022
-
-### [Monitoring the health of Canada’s financial system](https://www.bankofcanada.ca/2022/11/monitoring-health-canada-financial-system/)
-
-Speech summary [Carolyn Rogers](https://www.bankofcanada.ca/profile/carolyn-rogers/ "Senior Deputy Governor - Executive") Young Canadians in Finance [Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
-
-Senior Deputy Governor Carolyn Rogers discusses risks and vulnerabilities in our financial system and what the Bank of Canada is doing to support financial stability.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Speech summaries](https://www.bankofcanada.ca/search/?content_type[]=speech-summaries) Research Topic(s): [Financial stability](https://www.bankofcanada.ca/search/?topic[]=financial-stability), [Housing](https://www.bankofcanada.ca/search/?topic[]=housing), [Inflation and prices](https://www.bankofcanada.ca/search/?topic[]=inflation-and-prices), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments)
-
-November 22, 2022
-
-### [Speech: Ottawa chapter of Young Canadians in Finance](https://www.bankofcanada.ca/multimedia/speech-ottawa-chapter-of-young-canadians-in-finance/)
-
- [![](https://www.bankofcanada.ca/wp-content/uploads/2022/11/sdg-webcast-november-22-2022-500x375.jpg) ![](https://www.bankofcanada.ca/wp-content/themes/parent-build/images/play-button.png)](https://www.bankofcanada.ca/multimedia/speech-ottawa-chapter-of-young-canadians-in-finance/)
-
-_Assessment of risks to the stability of the Canadian financial system_ — Senior Deputy Governor Carolyn Rogers takes part in a fireside chat hosted by the Ottawa chapter of Young Canadians in Finance (12:00 (ET) approx.).
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Webcasts](https://www.bankofcanada.ca/search/?content_type[]=webcasts)

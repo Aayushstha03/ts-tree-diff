@@ -1,11 +1,3 @@
-Interview with Delo
-===================
-
-*   INTERVIEW
-
-Interview with Delo
-===================
-
 Interview with Piero Cipollone, conducted by Miha Jenko on 10 July 2025
 -----------------------------------------------------------------------
 
@@ -148,19 +140,3 @@ In our latest forecast, in June, we assessed that these risks are really balance
 **And finally: what lies ahead for the euro area in the context of rising geopolitical tensions and uncertainties, fractured multilateral rules, Trump’s tariffs, increased defence challenges and spending? How to address all these issues and challenges and what should be the role of the ECB in this more complicated and changed world?**
 
 We have one fundamental mission: price stability. So we take all these factors into account and design the monetary policy to make sure that inflation stays at our target level. Price stability and financial stability create the conditions for people and businesses to take their decisions in a stable context, with as little uncertainty as possible. This is the role of the ECB – to provide, within our mandate, a macroeconomic environment that fosters long-term investment and reduces uncertainty for people when taking decisions. That is our key contribution.
-
-CONTACT
-
-European Central Bank
----------------------
-
-### Directorate General Communications
-
-*   Sonnemannstrasse 20
-*   60314 Frankfurt am Main, Germany
-*   [+49 69 1344 7455](tel:+49 69 1344 7455)
-*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
-
-Reproduction is permitted provided that the source is acknowledged.
-
-[Media contacts](/press/contacts/html/index.en.html)

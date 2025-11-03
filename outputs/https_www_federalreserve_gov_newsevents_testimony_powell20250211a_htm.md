@@ -1,25 +1,3 @@
-Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress - Federal Reserve BoardLock
-==============================================================================================================
-
-Testimony
----------
-
-[PDF](/newsevents/testimony/files/powell20250211a.pdf)
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
-February 11, 2025
-
-### _Semiannual Monetary Policy Report to the Congress_
-
-Chair Jerome H. Powell
-
-Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
-
-*   [Share](# "Share")
-
-[Watch Live](https://financialservices.house.gov/)
-
 _**Chair Powell submitted identical remarks to the Committee on Financial Services, U.S. House of Representatives, on February 12, 2025.**_
 
 Chairman Scott, Ranking Member Warren, and other members of the Committee, I appreciate the opportunity to present the Federal Reserve's semiannual [_Monetary Policy Report_](https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm).
@@ -49,12 +27,3 @@ Let me conclude by emphasizing that at the Fed, we will do everything we can to 
 Thank you. I look forward to your questions.
 
 1\. The February _Monetary Policy Report_ includes as a special topic an update on employment and earnings across demographic groups. [Return to text](#f1)
-
-##### Related Content
-
-*   [Congressional Hearing Transcripts](http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CHRG)
-*   Hearing transcripts are posted to this website as they become available.
-
-[Back to Top](# "Scroll To Top")
-
-Last Update: February 12, 2025

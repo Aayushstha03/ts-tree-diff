@@ -1,20 +1,4 @@
-The Fed - Federal Open Market CommitteeLock
-===========================================
-
-Federal Open Market Committee
------------------------------
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
-[About the FOMC](/monetarypolicy/fomc.htm) [Meeting calendars and information](/monetarypolicy/fomccalendars.htm)[Transcripts and other historical materials](/monetarypolicy/fomc_historical.htm)[FAQs](/monetarypolicy/fomc_projectionsfaqs.htm)
-
 ### About the FOMC
-
-##### FOMC Search
-
-*   Search all FOMC materials
-*   [FOMC Document Filter](https://www.federalreserve.gov/monetarypolicy/materials/)
-*   [Advanced Search](//www.fedsearch.org/fomc-docs/?advanced_search=true)
 
 ##### FOMC calendar
 
@@ -37,14 +21,6 @@ October 29, 2025
 The **\[Tab\]** key may be used in combination with the **\[Enter/Return\]** key to navigate and activate control buttons, such as caption on/off.
 
 ##### FOMC Transcripts and other historical materials
-
-*   [2019 FOMC Historical Documents](/monetarypolicy/fomchistorical2019.htm)
-
-##### [FAQs](/monetarypolicy/fomc_projectionsfaqs.htm)
-
-##### Related Content
-
-[Guide to the Summary of Economic Projections](/monetarypolicy/guide-to-the-summary-of-economic-projections.htm)
 
 The term "monetary policy" refers to the actions undertaken by a central bank, such as the Federal Reserve, to influence the availability and cost of money and credit to help promote national economic goals. The Federal Reserve Act of 1913 gave the Federal Reserve responsibility for setting monetary policy.
 

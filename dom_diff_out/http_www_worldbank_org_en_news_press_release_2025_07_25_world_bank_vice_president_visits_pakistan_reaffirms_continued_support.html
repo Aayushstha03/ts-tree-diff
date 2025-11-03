@@ -1,7 +1,37 @@
 <html lang="en"><head>
 
-        
-
+        <script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js" data-routing="env=prod,tier=publish,ams=World Bank"></script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": "https://www.worldbank.org/en/news/press-release/2025/07/25/world-bank-vice-president-visits-pakistan-reaffirms-continued-support",
+    "headline": "World Bank Vice President Visits Pakistan, Reaffirms Continued Support",
+    "datePublished": "2025-07-25T08:28:59.365",
+    "dateModified": "2025-07-25T08:28:40.857",
+    "description": "World Bank Vice President Visits Pakistan, Reaffirms Continued Support",
+    "image": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+    "inLanguage": "en",
+    "author": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+            "width": 780,
+            "height": 439
+        }
+    }
+}
+</script>
 
 
  
@@ -34,7 +64,7 @@
 <meta name="dcterms.type" content="Text/HTML">
 <meta name="dcterms.identifier" content="https://www.worldbank.org/en/news/press-release/2025/07/25/world-bank-vice-president-visits-pakistan-reaffirms-continued-support">
 <meta name="dcterms.language" content="en"> 
-
+<script src="/etc.clientlibs/worldbankgroup/clientlibs/vendor/jquery.js"></script>
   
 
 
@@ -51,7 +81,7 @@
 
 
 
-
+<script src="//assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/launch-7bc0cdc67098.min.js" async=""></script>
 
 
 
@@ -72,7 +102,13 @@
   
 
 
-<link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.css" type="text/css"></head>
+<script>
+    var pagelang='en';
+    var modal_Title='Live Now';
+    var modal_Header='WORLD BANK LIVE';
+    var join_Msg='Join Now';
+    var cid_Code='?intcid=wbw_xpl_liveoverlay_en_ext';
+</script><link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.css" type="text/css"><script src="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-liveevent-popup.js"></script></head>
 
   
 
@@ -113,9 +149,21 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.css" type="text/css">
 <header></header>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.js"></script>
  
+<script>
+        const headeroptions = {
+            
+			languageToggler: { default: false},
+            
+            languagecode: 'en',
+            enabletrendingdata: true,
+			selector:'header',
+			serviceEndpoint:'/wbg/aem/service/header/en'
+        };
+		populateHeader(headeroptions);
 
+    </script>
 
 
 <input type="hidden" name="wcmmode" class="WCMmode" value="DISABLED">
@@ -171,7 +219,43 @@
 
 
 
+<script>
+    $(document).ready(function() {
 
+          var cuurpage = "/content/wb-home/en/news/press-release/2025/07/25/world-bank-vice-president-visits-pakistan-reaffirms-continued-support";
+    var pageLocale = "en";
+    var activeLink =$(".lp__breadcrumb li" ).first().children("a").attr('href');    
+    if (typeof activeLink !== 'undefined'){
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+
+        //adedd for D&R to Highlight menu 
+        if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+            activeLink = "/" + activeLink.split("/").slice(3).join("/");                
+        }//end
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            if ($(this).children("a").attr('href') == activeLink){
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    
+    var isCPF = "false";    
+    var activeLink = "";
+    if (isCPF == "true" && typeof activeLink !== 'undefined'){		
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            
+            if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+            {
+                $(this).addClass("active");
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    });
+
+    
+</script>
 
 
 </div>
@@ -267,7 +351,33 @@
         
 
 
+<script>
+    $( document ).ready(function() {
+        var mobileAnchorLabel = $('li a[data-device=mobile].active').html();
+        var mobileAnchorLink = $('li a[data-device=mobile].active').attr('href');
+        
+        if (typeof mobileAnchorLabel != "undefined" && mobileAnchorLink != 'undefined')
+        {	 
+            
+            //var parentLink = $('.n01v1-nav-list-sub').closest('.n01v1-nav-list-main li').children('a').attr('href');
+            //var parentLabel = $('.n01v1-nav-list-sub').closest('.n01v1-nav-list-main li').children('a').html();
+            var parentLink = $('.n01v1-nav-list-main li a').attr('href');
+            var parentLabel = $('.n01v1-nav-list-main li a').html();
+            if(typeof parentLink != "undefined" && typeof parentLabel != "undefined")
+            {
+                console.log("parent data:"+ parentLink +"::"+ parentLabel);
+                var pageTitle = $('.c01v1-page-title').html();
+                if (typeof pageTitle != "undefined")
+                {
+                    var parentPageTitle = "<h5 class='mrg-t-10 font hidden-lg hidden-md'>"+ "<a href='"+parentLink+"'>"+parentLabel+"</a></h5>";
+                    $('.c01v1-page-title').before(parentPageTitle);
+                }
+            }
 
+        }
+
+    });
+</script>
 <!-- script for showing parent page link in title end -->
 </div>
 
@@ -357,7 +467,7 @@
 
     
 
-
+<script src="/etc/designs/wbr/components/f03v1_pagetools_clientlib.js"></script>
 
     
     <div class=" clearfix">
@@ -450,7 +560,16 @@
         </div>
         </div>
         
-</div>
+<script>
+    var emailcid ="SHR_SiteEmailShare_EN_EXT";
+$(document).ready(function() {
+   var body = window.location.href+"?cid="+emailcid;
+    body= encodeURIComponent(body);
+   var subject =$('title').text();
+    subject =  encodeURIComponent(subject);
+	$('#wbgmailto').attr('href','mailto:'+'?body='+body+'&subject='+subject);
+ });
+</script></div>
 
 
 
@@ -574,8 +693,8 @@
 
 
 
-<!---->
-<!---->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/component.js" defer></script>-->
+<!--<script type="module" src="/apps/worldbankgroup/components/content/body_content_scene7/clientlibs/site/js/twitter.js" defer></script>-->
 
 
   
@@ -744,7 +863,14 @@
 
 
 
-</div>
+<style>
+  .lp__contacts_wrapper .lp__location {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+/* == End contact us SASS == */
+
+    </style></div>
 
 
 
@@ -868,7 +994,7 @@
 </div>
 
 
-
+<style></style>
 
 
     </div>
@@ -1005,8 +1131,8 @@
 
 </div>
 
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment-with-locales.min.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/research_auto_manual/clentlibs-blogs/site.js"></script>
 
 
 
@@ -1152,8 +1278,8 @@
 
 </div>
 
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment-with-locales.min.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/research_auto_manual/clentlibs-whatsnew/site.js"></script>
 
 
 
@@ -1218,29 +1344,37 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.css" type="text/css">
 <footer id="wbg_service_ext_footer"></footer>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.js"></script>
  
+<script>
+        const footeroptions = {
+            languagecode: 'en',
+			selector:'footer',
+			serviceEndpoint:'/wbg/aem/service/footer/en'
+        };
+		populateFooter(footeroptions);
+ 
+    </script>
 
 
 
 
 
 
-
-
+<script src="/etc/designs/wbr/components/wbgajax.js"></script>
 
 <div data-ajax-component-wbg="" data-url="/wbg/aem/service/ampopup" data-ajax-query-parameters="language=en&amp;pageName=/content/wb-home/en/news/press-release/2025/07/25/world-bank-vice-president-visits-pakistan-reaffirms-continued-support"></div>
 
   
 
 
-
-
-
-
-
-
-
+<script src="/etc.clientlibs/worldbankgroup/clientlibs/clientlib-base.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_related/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_static_content/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/research_auto_manual/clientlibs-base/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/f03v1_pagetools/clientlibs/site.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/clientlibs/clientlibs-swiper-iobserver.js"></script>
+<script src="/etc.clientlibs/worldbankgroup/components/content/redesign_title/clientlibs/site.js"></script>
 <!--cookie consent starts-->
 <section id="cookieconsentpopup" class="lp__cookie_tooltip" style="display: none;">
     <div class="container">
@@ -1250,7 +1384,7 @@
     </button>
     </div>
 </section>
-
+<script defer="" src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/cookie-consent.js"></script>
     <!--cookie consent ends-->
 
 
@@ -1258,7 +1392,15 @@
 
 
 
+<script type="text/javascript">
+var appInsights=window.appInsights||function(a){
+  function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+  }({
+      instrumentationKey:"2ddee9f8-57ef-4c0e-8810-a2f743116654"
+  });
 
+window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+</script>
 
 
 
@@ -1271,6 +1413,7 @@
 
 
 
+<script type="text/javascript" src="/etc/designs/wbg/clientlib/js/WebStatsUtil.js?q=nocache"></script>
 
 
 
@@ -1278,15 +1421,220 @@
 
 
 
+<script>   
+    
+    var filters = [], queryParamValue,section=[],sFilters="",sSection="";
+    var query_string = window.location.search;
+    var paramMap = {
+        'displayconttype_exact': 'type',
+        'topic_exact': 'topic',
+        'admreg_exact':'region',
+        'count_exact':'country',
+        'strdate':'startdate',
+        'enddate':'enddate',
+        'lang_exact':'language',
+        'tf':'timeframe',
+        'docty_exact':'document type',
+        'lang_spoken_exact':'languages spoken',
+        'job_title_exact':'role',
+        'unit_exact':'unit',
+        'first_name_AlphaBucket_exact':'first name',
+        'surname_AlphaBucket_exact':'last name',
+        'sector_exact':'sector',
+        'status_exact':'status',
+        'majdocty_exact':'major document type',
+        'majtheme_exact':'theme',
+        'teratopic_exact':'topic'
+        
+    };
+    
+    if(query_string){
+        var queryPair = query_string.slice(1).split('&');
+        for (var i = 0; i < queryPair.length; i++) {
+            queryParamValue = queryPair[i].split('=')[1];
+            
+            queryParamName = queryPair[i].split('=')[0];
+            
+            if((typeof paramMap[queryParamName]!='undefined')  && (queryParamName!='lang_exact') && (queryParamName!='pastevents') && (queryParamName!='futureevents') && (queryParamName!='srt') && (queryParamName!='qterm') && (queryParamName!='x')&&(queryParamName!='y')){
+                
+                
+                section.push(paramMap[queryParamName]);
+                
+                
+            }
+            
+            
+            if((queryParamName!='qterm') && (queryParamName!='futureevents') && (queryParamName!='pastevents') && (queryParamName!='srt') && (queryParamName!='os') && (queryParamName!='x') && (queryParamName!='lang_exact') &&(queryParamName!='y')){
+                if(queryParamValue != ''){
+                    filters.push(queryParamValue);
+                }
+            }
+        }
+        sFilters = filters.join(':');
+        sSection = section.join(':');
+        
+        sSection = decodeURIComponent(sSection);
+        
+        sSection = sSection.replace(new RegExp("\\+","g"),' ');
+        
+        //s.eVar50= section;
+        
+        sFilters = decodeURIComponent(sFilters);
+        
+        sFilters = sFilters.replace(new RegExp("\\+","g"),' ');
+        //s.list1 =filters;
+    } 
+</script> 
 
- 
 
 
+<script> 
+    var wbgData = wbgData || {};
+    wbgData.page = {
+        pageInfo: {
+            pageName: "en:news:press-release:2025:07:25:world-bank-vice-president-visits-pakistan-reaffirms-continued-support",
+            pageCategory: "content page",
+            pageUid: "8f62352e-6dc6-49aa-a5f3-5de289c078fc", 
+            pageFirstPub: "07-25-2025", 
+            pageLastMod: "07-25-2025", 
+            contentType:"News",
+            topicTag:"",
+            hier1:"mna~who we are~news~press release",
+            channel:"EXT News EXT",
+            webpackage:"",
+            
+        },
+        sectionInfo: {
+            siteSection: "who we are",
+            subsectionP2:"news",
+            subsectionP3:"press release",
+            subsectionP4:"world-bank-vice-president-visits-pakistan-reaffirms-continued-support",
+            subsectionP5:""
+            
+        }
+    },
+        wbgData.site = {
+            siteInfo: {
+                siteLanguage: "en", 
+                siteCountry: "pakistan", 
+                siteEnv: "prod", 
+                userIpaddressType:"10.48.0.8",
+                siteRegion:"Middle East and North Africa",
+                siteType:"main",
+            },
+            
+            techInfo: {
+                cmsType: "AEM",
+                bussVPUnit: "EXT",
+                bussUnit: "MNA",
+                bussUserGroup: "External",
+                bussAgency: "ibrd"
+            }
+            
+			  
+            
+            
+        }
+        
+        
+        
+         
+            
+            
+            
+            
+            
+                
+</script>
 
 
-
-
-
+<script type="text/javascript">
+    var wbgDataOld = {};
+    wbgDataOld.page= {
+        pageInfo: {
+            pageName: "en:news>press-release>2025>07>25>world-bank-vice-president-visits-pakistan-reaffirms-continued-support",
+            pageTitle:"World Bank Vice President Visits Pakistan, Reaffirms Continued Support",
+            pageDate:"2025/07/25",
+            hier1: "mna~who we are~news~press release", 
+            hier2: "wbg~en~english~who we are~news~press release",
+            server:"10.48.0.48",
+            channel:"EXT News EXT"
+            
+        },
+        docInfo: {
+            docAuthor: "",//Document author  						  
+            docDate:"",//Document date					  
+            docRegion:"Middle East and North Africa",//Region								  
+            docCountry:"Pakistan" 
+        },
+        
+        teragramInfo: {													 	
+            teragramTopic:"",  										  
+            teragramKeyword:""	
+        },
+        siteInfo: {
+            siteSection:"who we are",                                 
+            subSection1:"who we are~news",						      
+            subSection2:"who we are~news~press release",              
+            subSection3:"who we are~news~press release",              
+            siteLanguage:"English",                                        
+            siteRank:"1",											  
+            contentType:"news"   										  
+        },
+        packageInfo:{
+            
+            webpackage:""
+            
+        },
+        
+        
+        
+        
+        newsInfo: {													 
+            newsSection:"all news",										 
+                newsType:"Press Release ", 											
+                    newsProducts:"",
+                        newsAnnouncementType:"press releases"    
+        },   
+            vpuInfo: {
+                vpuLegacy:"EXT",											 
+                    vpu:"MNA"													 
+            },
+                
+    }
+    
+    
+    
+    
+    
+    
+    var opsAanalytics ={
+        "projectId" :"NODATA", 
+        "upi":"NODATA",
+        "pageName":"who we are", 
+        "tabName":"who we are", 
+        "serverDate":"",  
+        "clientDate":new Date().getTime(), 
+        "totalResponseTime":"",
+        "pageUrl":(document.URL).replace("https://","").replace("http://",""),
+        "userAgent" :navigator.userAgent,
+        "server":"www.worldbank.org", 
+        "appId":"wbgext", 
+        "key1":"news",
+        "key2":"press release",
+        "key3":"world-bank-vice-president-visits-pakistan-reaffirms-continued-support",
+        "key4":"",
+        "key5":"",
+        "key6":"Anonymous",
+        "key7":"",
+        "key8":"",
+        "key9":"", 
+        "key10":""
+    };
+    
+    
+    
+</script>
 
 
 

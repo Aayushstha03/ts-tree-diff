@@ -1,12 +1,5 @@
-Media Release Number: 2024-06 – Review into small and medium-sized banks – Council of Financial Regulators
-==========================================================================================================
-
-![](/assets/images/banner-news.jpg)
-
-Media Release Number: 2024-06 3 December 2024
-
 Review into Small and Medium-sized Banks An Issues Paper by the Council of Financial Regulators, in consultation with the Australian Competition and Consumer Commission – December 2024
-========================================================================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Council of Financial Regulators (CFR) has today released an Issues Paper: [Review into Small and Medium-sized Banks](/publications/consultations/2024/review-into-small-and-medium-sized-banks/review-into-small-and-medium-sized-banks.html).
 

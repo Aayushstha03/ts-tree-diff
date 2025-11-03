@@ -1,14 +1,7 @@
-Bank of Canada maintains policy rate, continues quantitative tightening - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-=========================================================================================================================================================================================================================================================
-
 Bank of Canada maintains policy rate, continues quantitative tightening
-=======================================================================
+-----------------------------------------------------------------------
 
 FOR IMMEDIATE RELEASE
-
-[Media Relations](https://www.bankofcanada.ca/press/contacts/)
-
-[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
 
 April 10, 2024
 
@@ -32,43 +25,3 @@ Information note
 ----------------
 
 The next scheduled date for announcing the overnight rate target is June 5, 2024. The Bank will publish its next full outlook for the economy and inflation, including risks to the projection, in the MPR on July 24, 2024.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)
-
-![Monetary Policy Report – April](https://www.bankofcanada.ca/wp-content/uploads/2021/04/MPR-April-500x250-1618954706.jpg)
-
-[
-
-Monetary Policy Report – April 2024
------------------------------------
-
-](https://www.bankofcanada.ca/2024/04/mpr-2024-04-10/ "Monetary Policy Report – April 2024")
-
-Monetary policy is working to reduce inflationary pressures and inflation is coming down, although it will take more time to see if this progress proves durable. The Bank projects that inflation will stay around 3% into the second quarter of 2024, ease below 2.5% in the second half of the year and return to target in 2025.
-
-[
-
-Press Conference: Monetary Policy Report – April 2024
------------------------------------------------------
-
-](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-april-2024/ "Press Conference: Monetary Policy Report – April 2024")
-
-_Release of the Monetary Policy Report_ – Press conference by Governor Tiff Macklem and Carolyn Rogers, Senior Deputy Governor (10:30 (ET) approx.).
-
-[
-
-Monetary Policy Report Press Conference Opening Statement
----------------------------------------------------------
-
-](https://www.bankofcanada.ca/2024/04/opening-statement-2024-04-10/ "Monetary Policy Report Press Conference Opening Statement")
-
-Governor Tiff Macklem discusses the Monetary Policy Report and the key issues involved in the Governing Council’s deliberations about the policy rate decision.
-
-[
-
-Summary of Governing Council deliberations: Fixed announcement date of April 10, 2024
--------------------------------------------------------------------------------------
-
-](https://www.bankofcanada.ca/2024/04/summary-governing-council-deliberations-fixed-announcement-date-april-10-2024/ "Summary of Governing Council deliberations: Fixed announcement date of April 10, 2024")
-
-This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the monetary policy decision on April 10, 2024.

@@ -1,11 +1,3 @@
-New Roads Boost Jobs, Connectivity, and Growth in Bosnia and Herzegovina
-========================================================================
-
-FEATURE STORYJuly 14, 2025
-
-New Roads Boost Jobs, Connectivity, and Growth in Bosnia and Herzegovina
-========================================================================
-
 Story Highlights
 ----------------
 
@@ -27,15 +19,7 @@ Thanks to this road, Stolac has become much more accessible, and interest in vis
 
 ![Dženita Pirija](/content/dam/photos/220x220/2025/jul/Dzenita-Pirija.jpg "Dženita Pirija")
 
-Dženita Pirija
-
 Restaurant Owner
-
-![The World Bank](https://worldbank.scene7.com/is/image/worldbankprod/New-Road-Bosnia-Neum-Stolac?wid=780&hei=439&qlt=85,0&resMode=sharp "The World Bank")
-
-The new two-lane road way leading into Neum
-
-**World Bank**
 
 In Neum, restaurants and hotels are welcoming more visitors earlier in the year, and many are now able to stay open well beyond the traditional summer season. Easier inland access is also improving supply chains and creating new opportunities for local entrepreneurs.
 
@@ -48,12 +32,6 @@ _"Thanks to this road, Stolac has become much more accessible, and interest in v
 Stolac’s economic revitalization is also being driven by the construction of a new bypass, designed to divert traffic away from the town center. The 1.3-kilometer route, which includes a two-lane alignment, three roundabouts, and a bridge over the Bregava River, has eased congestion and improved road safety.
 
 _“This \[bypass\] road has been a blessing,”_ said **Halid Geri**, a local farmer. _“Stolac is coming back to life: restaurants are opening, homes are being renovated, and small producers like me now have a chance to sell more.”_
-
-![The World Bank](https://worldbank.scene7.com/is/image/worldbankprod/Bosnia-Rehabilitated-Road?wid=780&hei=439&qlt=85,0&resMode=sharp "The World Bank")
-
-Drone view of a renovated section of the Neum-Stolac route
-
-**World Bank**
 
 #### Improving Road Safety and Resilience
 
@@ -72,16 +50,3 @@ As **Ljubo Pravdić**, director of the public company Roads of the Federation of
 *   35 km of the Neum-Stolac road upgraded, reducing travel time by over 40%
 *   Rehabilitation of the Crnaja tunnel, improving safety along Corridor Vc
 *   1.3-km Stolac bypass built to reduce congestion and preserve the historic town center
-
-RELATED
--------
-
-Blogs
------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
-
-WHAT'S NEW
-----------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

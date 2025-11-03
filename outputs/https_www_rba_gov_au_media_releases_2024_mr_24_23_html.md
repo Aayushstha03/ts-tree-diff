@@ -1,12 +1,9 @@
-Staff Appointments | Media Releases | RBA
-=========================================
+Media Release
+-------------
 
-Media Release Staff Appointments
-================================
+Number
 
-Number 2024-23
-
-Date 1 November 2024
+Date
 
 Appointment of Head of Monetary Policy Strategy
 -----------------------------------------------
@@ -27,10 +24,3 @@ The RBA has been undergoing a major transformation over the last fifteen months,
 Much has been achieved and Naz will now lead the team into the next phase as the RBA continues to strengthen our risk and governance frameworks and progressing our culture and leadership ambitions to be an open and dynamic central bank.
 
 Naz joined the RBA in May 2024 as Program Director of the Future Hub. She has more than thirty years global experience leading organisational transformation programs across the financial services industry, focusing on innovation, customer experience and large-scale project delivery.
-
-Enquiries
----------
-
-Communications Department Reserve Bank of Australia SYDNEY
-
-Phone: [+61 2 9551 9720](tel:+61-2-9551-9720) Email: [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)

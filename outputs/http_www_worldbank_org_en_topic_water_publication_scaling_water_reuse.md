@@ -1,11 +1,3 @@
-Scaling Water Reuse: A Tipping Point for Municipal and Industrial Use
-=====================================================================
-
-Scaling Water Reuse: A Tipping Point for Municipal and Industrial Use
-=====================================================================
-
-![Scaling Water Reuse Report_2](https://worldbank.scene7.com/is/image/worldbankprod/Scaling-Water-Reuse-Report-Cover-page-2?wid=780&hei=439&qlt=85,0&resMode=sharp "Scaling Water Reuse Report_2")
-
 **Overview of the report**
 --------------------------
 
@@ -42,11 +34,3 @@ The report provides differentiated roadmaps for national and state governments, 
 #### _\*\*Translations Coming Soon_
 
 #### [Frequently Asked Questions](https://thedocs.worldbank.org/en/doc/e7ce18cd9d57698eaa2c3c9496f5d9d0-0400012025/related/FAQ-Scaling-Water-Reuse-Report-V2.pdf)
-
-*   ![Interactive Story_Water Reuse](https://worldbank.scene7.com/is/image/worldbankprod/Screenshot-2025-08-01-133146:780x439 "Interactive Story_Water Reuse")  
-    
-    Interactive Story Aug 01, 2025
-    
-    ### [Treated, Trusted, Tapped: The Future of Water is Reuse](https://storymaps.arcgis.com/stories/f97e02a6424b4f9f98f144105d060f81)
-    
-    [Treated, Trusted, Tapped: The Future of Water is Reuse](https://storymaps.arcgis.com/stories/f97e02a6424b4f9f98f144105d060f81)

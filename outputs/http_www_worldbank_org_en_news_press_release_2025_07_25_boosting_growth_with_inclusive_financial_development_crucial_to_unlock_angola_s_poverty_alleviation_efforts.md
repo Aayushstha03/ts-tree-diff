@@ -1,21 +1,3 @@
-Boosting Growth with Inclusive Financial Development Crucial to Unlock Angola’s Poverty Alleviation Efforts
-===========================================================================================================
-
-This page in:
-
-English
-
-*   [Português](https://www.worldbank.org/pt/news/press-release/2025/07/25/boosting-growth-with-inclusive-financial-development-crucial-to-unlock-angola-s-poverty-alleviation-efforts)
-
-This page in: English
-
-*   [Português](https://www.worldbank.org/pt/news/press-release/2025/07/25/boosting-growth-with-inclusive-financial-development-crucial-to-unlock-angola-s-poverty-alleviation-efforts)
-
-PRESS RELEASEJuly 25, 2025
-
-Boosting Growth with Inclusive Financial Development Crucial to Unlock Angola’s Poverty Alleviation Efforts
-===========================================================================================================
-
 **Luanda, July 25, 2025**_—_Angola recorded the highest economic expansion since 2014, with real Gross Domestic Product (GDP) growth reaching 4.4% in 2024. According to the latest edition of the Angola Economic Update (AEU) published by the World Bank Group (WBG) today, titled [Boosting Growth with Inclusive Financial Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071825113513565), this growth was driven by the oil sector’s recovery and diamond extraction, along with strong expansion in commerce and fishing.
 
 The report highlights that despite a rebound in economic activity in 2024, Angola still struggles with the lasting impacts of prolonged stagnation. From 2016 to 2020, the economy contracted by approximately 10.4%, averaging a 2.1% annual decline. This sluggish growth stemmed from structural challenges and heavy dependence on the oil sector, making it susceptible to global price fluctuations. Real GDP growth is projected at an average of 2.9% from 2025 to 2027, but this is unlikely to significantly improve living standards. Increased global uncertainty, including falling oil prices, emphasizes the need for Angola to diversify its economy and reduce reliance on oil.
@@ -43,24 +25,3 @@ _“While addressing financial inclusion in Angola has several challenges, parti
 **In Luanda:** _Wilson Piassa,_ [_wpiassa@worldbank.org_](mailto:wpiassa@worldbank.org)
 
 **In Washington**: _Daniella van Leggelo-Padilla, +1 (202) 473-4989, dvanleggelo@worldbank.org_
-
-PRESS RELEASE NO: 2026/007/AFE
-
-RELATED
--------
-
-[World Bank in Angola](https://www.worldbank.org/en/country/angola)
-
-[Angola Economic Update - Boosting Growth with Inclusive Financial Development](/en/country/angola/publication/angola-economic-update-boosting-growth-with-inclusive-financial-development)
-
-[Angola Country Economic Memorandum: Moving Beyond Oil](/en/country/angola/publication/angola-country-economic-memorandum-moving-beyond-oil)
-
-Blogs
------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif) 
-
-WHAT'S NEW
-----------
-
-  ![loader image](/content/dam/wbr-redesign/logos/ajax.gif)

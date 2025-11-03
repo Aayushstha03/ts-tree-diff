@@ -1,15 +1,3 @@
-Shedding Light on Uncertainty: Using Scenarios in Forecasting and Policy | Speeches | RBA
-=========================================================================================
-
-Speech Shedding Light on Uncertainty: Using Scenarios in Forecasting and Policy
-===============================================================================
-
-![Photograph of Sarah Hunter](/assets/images/people/sarah-hunter.jpg)
-
-**Sarah Hunter**[\[\*\]](#fn0) Assistant Governor (Economic)
-
-**University of Adelaide South Australian Centre for Economics Studies (SACES) Lunch** Adelaide – 13 December 2024
-
 [Watch video: Shedding Light on Uncertainty: Using Scenarios in Forecasting and Policy - Speech delivered by Sarah Hunter, Assistant Governor (Economic), University of Adelaide South Australian Centre for Economics Studies (SACES) Lunch, Adelaide](https://www.youtube.com/watch?v=7xX15y_-8LE)
 
 I would first like to pay respect to the traditional and original owners of this land, the Kaurna people, to pay respect to those who have passed before us and to acknowledge today’s custodians of this land. I also extend that respect to any First Nations people joining us.

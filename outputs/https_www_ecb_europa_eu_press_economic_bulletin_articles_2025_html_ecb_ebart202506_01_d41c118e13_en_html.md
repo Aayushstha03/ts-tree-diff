@@ -1,8 +1,5 @@
 Macroeconomic impacts of higher defence spending: a model-based assessment
-==========================================================================
-
-Macroeconomic impacts of higher defence spending: a model-based assessment
-==========================================================================
+--------------------------------------------------------------------------
 
 Prepared by Nikola Bokan, Pascal Jacquinot, Magdalena Lalik, Georg Müller, Romanos Priftis and Rodolfo Rigato
 
@@ -177,8 +174,6 @@ Source: Simulations using the global and regional extension of the NAWM-E model.
 **Box 1** Fiscal multipliers of defence spending: a short review of the empirical literature
 --------------------------------------------------------------------------------------------
 
-Prepared by Cristina Checherita-Westphal and Laust Ladegård Særkjær
-
 Although the evidence is mixed across the empirical literature, it suggests that military spending can have positive short-term demand effects which then tend to decrease over time. This broadly confirms the model-based effects of the general government spending increase considered in this article, although results are more dispersed across samples and various state dependencies (Chart A). The size of the defence spending multiplier differs significantly across studies, with the shorter-run effects in most cases below or close to 1 – broadly in line with the suite of model results presented above – although values close to 1.5 are found in several studies. Very few studies directly analyse the impact of higher defence spending on private consumption.\[[11](#footnote.11)\] Ilzetzki (2025), one of the most recent literature reviews, concludes that there is a consensus that GDP does increase following higher defence spending, but the degree of this expansion and the potential crowding-out of the private sector are debated. He also points out that two meta-analyses on the topic disagree on the conclusions. Alptekin and Levine (2012), a meta-study of 169 estimates of the military spending multiplier, suggests that military spending has positive, but small, growth effects. Conversely, the updated sample of F. Yesilyurt and M. E. Yesilyurt (2019) shows no relationship. Finally, in their meta-analysis of fiscal multipliers, Gechert and Rannenberg (2018) find that military spending tends to have lower average multipliers than general government spending,\[[12](#footnote.12)\] a finding corroborated by a recent study analysing the output effects of defence spending in the central and eastern European members of NATO’s eastern flank (Olejnik, 2023).
 
 There is also considerable heterogeneity in the output effects of various components of military expenditure. The growth effects of military research and development (R&D) spending are found to be considerably higher than those of other components and to exceed unity, with evidence of crowding-in of private R&D.\[[13](#footnote.13)\] For the other spending categories, and particularly over the medium to long run, higher defence expenditure is usually found to crowd out resources available for productive purposes. Expenditure on wages or military personnel (not directly covered in the model simulation results above) is found to have lower or (in the longer run) even negative growth effects, as such spending may impede productivity in the remaining civilian sectors of the economy (see Chart A and additional findings in Becker and Dunne, 2023).
@@ -253,34 +248,3 @@ Sheremirov, V. and Spirovska, S. (2022), “Fiscal multipliers in advanced and d
 Warmedinger, T., Checherita-Westphal, C. and Hernández de Cos, P. (2015), “[Fiscal multipliers and beyond](/pub/pdf/scpops/ecbop162.en.pdf)”, _Occasional Paper Series_, No 162, ECB, Frankfurt am Main, June.
 
 Yesilyurt, F. and Yesilyurt, M.E. (2019), “Meta-analysis, military expenditures and growth”, _Journal of Peace Research_, Vol. 56, No 3, pp. 352-363.
-
-1.  For previous studies investigating the implications of euro area governments’ defence spending plans for macroeconomic baseline projections and risk analysis, see Checherita-Westphal et al. (2025). That analysis focuses on new defence spending announced since February 2025, the associated risks, its country-specific compositional aspects and selected state dependencies. The simulations were conducted using the ECB’s projection models and assumed no monetary policy reaction.
-    
-2.  Most results in this article hold for increases in government spending of different magnitudes, as long as the effect on macroeconomic variables is scaled accordingly. NATO allies’ latest pledge is to increase core defence spending to 3.5% of GDP and to add further security-related spending of 1.5% of GDP such that total defence-related spending amounts to 5% of GDP. This annual spending is set to be achieved by 2035. The spending pattern in our analysis is therefore a stylised interpretation of the exact timing of the expenditure.
-    
-3.  The extension uses a calibrated non-linear NAWM-E to study spillovers within the monetary union in the spirit of EAGLE (Gomes et al., 2012) by allowing a dual-region disaggregation of the euro area into one core country (either Germany, Spain, France, Italy or the Netherlands) and a rest of the euro area aggregate.
-    
-4.  The rules according to which the central bank sets the interest rate in the models all follow the same principles of stabilising variations in inflation and output. The exact formulation and calibration of the rules are model-specific.
-    
-5.  It is assumed that there is no sovereign risk premium response to an increase in public debt. Therefore, the analysis in this article abstracts from the possible implications of a higher and increasing level of debt in individual countries. We also abstract from the banking sector transmitting the easing of balance sheet constraints to borrowing conditions and, more generally, set any financing spreads to the baseline level. Therefore, in these simulations, only expectations about future policy rates affect long-term interest rates (expectation hypothesis), which are then allowed to change external financing rates (via composite interest rates with constant spreads). The term premium is fixed to its baseline value throughout all simulations.
-    
-6.  In addition to the anticipation of future labour income, another positive effect on consumption stems from the accrual of additional financial wealth at higher interest rates. However, this effect is less important.
-    
-7.  These import shares are based on historical averages from Eurostat and reflect the entire set of sectoral components (both private and public). Because of this, they may not accurately represent spending focused specifically on defence in each final or intermediate consumption or investment sector.
-    
-8.  When public and private consumption are perceived as complements, higher public spending – such as defence expenditure that enhances security and stability – can crowd in private consumption, boosting the aggregate demand channel and reinforcing positive spillovers to the rest of the euro area.
-    
-9.  Arguably, the German fiscal surprise can be interpreted as reflecting a reassessment of heightened European security risks, with additional fiscal spending aimed at avoiding future demand losses that would occur without it rather than delivering a pure net gain. In this context, additional fiscal spending serves to preserve current consumption levels.
-    
-10.  The simulations assume that German government consumption good is produced with a higher share of imports – both from the rest of the euro area and the rest of the world – in proportion to its bilateral trade matrix. In particular, the import content of government consumption is doubled from 2% to 4%. Altering the composition of imports for Germany (e.g. by importing relatively more from the rest of the euro area than from the rest of the world) produces a stronger spillover to the rest of the euro area as a result of a strengthened trade channel. However, given the overall small import content of public spending and the small size of the fiscal impulse, the net difference to the euro area aggregate is negligible.
-     
-11.  Only three of the studies summarised in Chart A include estimates of the impact on private consumption. Ramey (2011) includes a specific discussion on the topic. By constructing a military spending news variable, she finds that both non-durable goods consumption and durable goods consumption decrease, while services consumption increases in response to military spending news. Ben Zeev and Pappa (2017) find a slight, but not statistically significant, decline in private consumption. Barro and Redlick (2011) find a negative impact only for durable goods consumption at the one-year horizon, which then fades.
-     
-12.  This finding holds on average and for expansionary periods. Conversely, military spending multipliers are found to be larger than general spending multipliers during recessionary periods.
-     
-13.  Using data for the United States over a period of 125 years (with a Bayesian Vector Autoregressive (BVAR) model with long lags), Antolin-Diaz and Surico (2025) find that military spending has large and persistent effects on output because it shifts the composition of public spending towards R&D. This boosts innovation and private investment in the medium term and increases productivity and GDP at longer horizons. By contrast, the paper also finds that public investment effects are shorter-lived and public consumption has a modest impact at most horizons
-     
-
-#### Related topics
-
-**Disclaimer** Please note that related topic tags are currently available for selected content only.

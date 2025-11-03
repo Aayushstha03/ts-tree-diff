@@ -1,21 +1,3 @@
-Opening Statement before the House of Commons Standing Committee on Finance - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-=============================================================================================================================================================================================================================================================
-
-Opening Statement before the House of Commons Standing Committee on Finance
-===========================================================================
-
-Opening statement
-
-[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
-
-House of Commons Standing Committee on Finance
-
-[Ottawa, Ontario](https://www.bankofcanada.ca/search/?location[]=ottawa_ontario)
-
-November 23, 2022
-
-Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2022/11/opening-statement-231122.pdf)
-
 Good evening. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss our recent policy announcement and the Bank of Canada’s _Monetary Policy Report_ (MPR).
 
 In October, we raised the policy interest rate by 50 basis points to 3.75%. This is the sixth consecutive increase since March. We also expect our policy rate will need to rise further. How much further will depend on how monetary policy is working to slow demand, how supply challenges are resolving and how inflation and inflation expectations are responding to this tightening cycle.
@@ -49,5 +31,3 @@ The Bank of Canada’s job is to ensure inflation is low, stable and predictable
 We are mindful that adjusting to higher interest rates is difficult for many Canadians. Many households have significant debt loads, and higher interest rates add to their burden. We don’t want this transition to be more difficult than it has to be. But higher interest rates in the short term will bring inflation down in the long term. Canadians are looking for ways to protect themselves from rising prices, and we are working to protect them from entrenched inflation. It will take time to get back to solid growth with low inflation. But we will get there. By working through this difficult phase, we will get back to price stability with sustained economic growth, which benefits everyone.
 
 With that summary, Senior Deputy Governor Rogers and I are now pleased to take your questions.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Opening statements](https://www.bankofcanada.ca/search/?content_type[]=opening-statements)

@@ -1,11 +1,3 @@
-Speech by Governor Shirakawa at 2011 Annual International Conference (Bubbles, Demographic Change and Natural Disasters) : 日本銀行 Bank of Japan
-=============================================================================================================================================
-
-\[Speech\]Bubbles, Demographic Change and Natural Disasters
-===========================================================
-
-[日本語](/about/press/koen_2011/ko110601a.htm)
-
 Opening Speech at 2011 Annual International Conference hosted by the Institute for Monetary and Economic Studies, the Bank of Japan
 
 Masaaki Shirakawa Governor of the Bank of Japan June 1, 2011

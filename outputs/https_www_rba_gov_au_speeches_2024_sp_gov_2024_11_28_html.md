@@ -1,15 +1,3 @@
-Economic Conditions and the RBA’s Transformation | Speeches | RBA
-=================================================================
-
-Speech Economic Conditions and the RBA’s Transformation
-=======================================================
-
-![Photograph of Michele Bullock](/assets/images/people/michele-bullock.jpg)
-
-**Michele Bullock**[\[\*\]](#fn0) Governor
-
-**Address at the Committee for Economic Development of Australia (CEDA) Annual Dinner** Sydney – 28 November 2024
-
 [Watch video: Address at the Committee for Economic Development of Australia (CEDA) Annual Dinner](https://www.youtube.com/watch?v=aUFtbpYzRaY)
 
 I would like to start by acknowledging the Gadigal people of the Eora Nation as the traditional owners and custodians of the land on which we are meeting this evening and pay my respects to Elders, past and present.

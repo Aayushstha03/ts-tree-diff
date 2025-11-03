@@ -1,11 +1,3 @@
-Euro area economic and financial developments by institutional sector: first quarter of 2025
-============================================================================================
-
-*   STATISTICAL RELEASE
-
-Euro area economic and financial developments by institutional sector: first quarter of 2025
-============================================================================================
-
 25 July 2025
 
 Total euro area economy
@@ -368,16 +360,3 @@ Source: ECB.
 *   The annual growth rate of non-financial transactions and of outstanding assets and liabilities (stocks) is calculated as the percentage change between the value for a given quarter and that value recorded four quarters earlier. The annual growth rates used for financial transactions refer to the total value of transactions during the year in relation to the outstanding stock a year before.
 *   Hyperlinks in the main body of the statistical release lead to data that may change with subsequent releases as a result of revisions. Figures shown in annex tables are a snapshot of the data as at the time of the current release.
 *   The release of results of experimental Distributional Wealth Accounts (DWA) for the first quarter of 2025 is planned for 29 August 2025 (tentative date).
-
-1.  Calculated as loans divided by gross disposable income adjusted for the change in pension entitlements.
-    
-
-Annexes
-
-25 July 2025
-
-[Tables](/press/pdf/ffi/ecb.eaefd_full2025q1_annex~b234c2655b.en.pdf)
-
-25 July 2025
-
-[Charts](/press/pdf/ffi/ecb.eaefd_full2025q1_annex_1~f26a4da964.en.pdf)

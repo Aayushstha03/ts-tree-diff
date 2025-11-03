@@ -1,12 +1,12 @@
 <html lang="en" class="no-js"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Global site tag (gtag.js) - Google Analytics --><title>Central Bank of the Republic of China-Press Releases-Taipei Foreign Exchange Market June 2025</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Global site tag (gtag.js) - Google Analytics --><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-6597739-2"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-6597739-2');</script><title>Central Bank of the Republic of China-Press Releases-Taipei Foreign Exchange Market June 2025</title><script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
-			
-			
+			<script src="/Styles/Unit002/js/html5shiv.js"></script>
+			<script src="/Styles/Unit002/js/respond.min.js"></script>
 		<![endif]-->
 		<link rel="stylesheet" type="text/css" href="/Styles/Unit002/vendor/slick/slick.css">
     <link rel="stylesheet" type="text/css" href="/Styles/Unit002/vendor/slick/slick-theme.css">
@@ -26,14 +26,47 @@
           <div class="search">
             <form class="form_inline" action="sp-search-2.html">
               <div class="form_grp"><label for="Query">Search:</label><input name="Query" id="Query" type="text" placeholder="Keyword...." accesskey="S"><input name="" id="btnSearch" type="submit" value="Search"></div>
-              <div class="btn_grp"><a id="btn_Advanced" name="btn_Advanced" title="Advanced(open in new window)" href="javascript:window.open('https://www.google.com.tw/advanced_search?as_sitesearch=www.cbc.gov.tw');">Advanced</a></div><input type="hidden" name="gstoken" id="gstoken" value=""></form>
+              <div class="btn_grp"><a id="btn_Advanced" name="btn_Advanced" title="Advanced(open in new window)" href="javascript:window.open('https://www.google.com.tw/advanced_search?as_sitesearch=www.cbc.gov.tw');">Advanced</a><script>
+						$("#btn_Advanced").keypress(function (e) {
+							if( e.which == 13) {
+								$("#btn_Advanced").click();
+							}
+						});
+					</script></div><input type="hidden" name="gstoken" id="gstoken" value=""></form>
             <div class="keywordHot">
 			Hot Keyword :
 			<ul>
                 <li><a id="keywordHot_1" href="javascript:search($('#keywordHot_1').text());" title="search:Key Indicators">Key Indicators</a></li>
                 <li><a id="keywordHot_2" href="javascript:search($('#keywordHot_2').text());" title="search:Statistics">Statistics</a></li>
               </ul>
-            </div></div><noscript>Your browser does not support or has disabled JavaScript, please press Ctrl + (+) or Ctrl + (-) to increase or decrease the font size as required. And if you want to print, please press Ctrl + P. Your browser does not support script syntax. Please click on sitemap to view the website. <a title="Sitemap" href="sitemap-2.html">Sitemap</a></noscript><nav class="menu"><ul>
+            </div><script>$('#gstoken').val(Math.round(Math.random()*10000000000));</script></div><script>
+			function search(value){
+				window.location.href = "sp-search-2.html?Query=" + encodeURIComponent(value) + "#gsc.tab=0&gsc.q=" + encodeURIComponent(value) + "&gsc.sort=date";
+			};
+			$(".icon-search").click(function(){
+				//alert('run2');
+				if($("#Query").val() != ""){
+					search($("#Query").val());
+				}
+			});
+			$("#btnSearch").click(function(){
+				//alert('run');
+				if($("#Query").val() != ""){
+					search($("#Query").val());
+				}
+			});
+			$("#Query").keypress(function (e) {
+				if( e.which == 13) {
+					e.preventDefault();
+					$(".icon-search").click();
+				}
+			});
+			$("#qStr").click(function (e) {
+				if( $(this).val()=="Keyword....") {
+					$(this).val("");
+				}
+			});
+		</script><noscript>Your browser does not support or has disabled JavaScript, please press Ctrl + (+) or Ctrl + (-) to increase or decrease the font size as required. And if you want to print, please press Ctrl + P. Your browser does not support script syntax. Please click on sitemap to view the website. <a title="Sitemap" href="sitemap-2.html">Sitemap</a></noscript><nav class="menu"><ul>
               <li><a href="/en/lp-448-2.html">Press Releases</a></li>
               <li><a href="/en/np-1041-2.html">Monetary Policy and Payment Systems</a><ul>
                   <li><a href="/en/np-443-2.html">Monetary Policy</a><ul>
@@ -154,7 +187,23 @@
                 <li><a href="javascript:FBShare($(location).attr('href'));" title="Facebook(open in new window)"><img src="/Styles/Unit002/images/basic/icon_facebook.png" alt="Facebook"></a></li>
                 <li><a href="javascript:TwitterShare($(location).attr('href'));" title="Twitter(open in new window)"><img src="/Styles/Unit002/images/basic/icon_twitter.png" alt="Twitter"></a></li>
                 <li><a href="javascript:LineShare($(location).attr('href'));" title="Line(open in new window)"><img src="/Styles/Unit002/images/basic/icon_line.png" alt="Line"></a></li>
-              </ul></div>
+              </ul><script>
+			function FBShare(link) {
+				window.open("http://www.facebook.com/sharer.php?u=" + encodeURIComponent(link) + "&t=" + encodeURIComponent(document.title) ,'FBLIKE',config='height=500,width=500');
+			}
+			function TwitterShare(link) {
+				window.open("https://twitter.com/share?url=" + encodeURIComponent(link) ,'Twitter',config='height=500,width=500');
+			}
+			function PlurkShare(link) {
+				window.open("http://www.plurk.com/?qualifier=shares&status=" + encodeURIComponent(link)  ,'Plurk',config='height=600,width=600');
+			}
+			function LineShare(link) {
+				window.open("http://line.naver.jp/R/msg/text/?" + encodeURIComponent(document.title) + "%0D%0A " + encodeURIComponent(link) ,'Line',config='height=500,width=500');
+			}
+			function CpShare(link) {
+				window.location.href = link.replace("cp-", "sp-forward-");
+			}
+		</script></div>
           </div><section class="cp"><div>
 <p>Central Bank of the Republic of China（Taiwan）</p>
 
@@ -565,7 +614,19 @@
               </li>
             </ul></nav></div></section><footer class="footer"><div class="container"><a class="accesskey" href="#aB" id="aB" accesskey="B" title="Footer block">:::</a><div class="leftblock"><div class="footer_logo"><img alt="Central Bank of the Repubic of China (Taiwan)" src="/Public/Images/201912/505191231171504b9d.png"></div><p><a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20230428161343" target="_blank" title="accessibility(另開視窗)"><img alt="accessibility" src="/Public/Images/202006/127200602164973aa7.png" style="width:auto;heigth:auto;"></a><a href="https://www.gov.tw/News3.aspx?n=FD3FED41C49C8285&amp;sms=88DCC6B5E75FAB2A" target="_blank" title="egov(另開視窗)"><img alt="egov" src="/Public/Images/201905/876190513101844598.png" style="width:auto;heigth:auto;"></a></p></div>
           <div class="rightblock"><div class="footer_info"><ul class="footer_link">	<li><a href="/en/cp-958-40419-F8209-2.html">Government Website Open Data Announcement</a></li>	<li><a href="/en/cp-958-32982-BFC09-2.html">Privacy Policy</a></li>	<li><a href="/en/cp-958-32983-143AC-2.html">Security</a></li>	<li><a href="/en/lp-2168-2.html">FAQ</a></li></ul><p>Add./&nbsp;2, Sec. 1, Roosevelt Rd., Taipei, 100243, Taiwan, R.O.C. <a href="https://maps.google.com/maps/ms?msid=203378435237394628137.0004d724baadbf04c298d&amp;msa=0&amp;ll=25.035216,121.511707&amp;spn=0.043549,0.055189" target="_blank" title="open new window">Map</a><br>Tel /&nbsp; 886-2-2357-1999,886-2-2393-6161 <a href="/en/cp-958-32985-CCB91-2.html">Office Hours</a><br>Fax /&nbsp;886-2-2357-1974</p></div><span class="update">Updated / <em>2025-10-31</em></span></div>
-        </div></footer><div class="fixed_right_block"><ul>	<li><a class="facebook" href="https://www.facebook.com/cbc.gov.tw/" target="_blank" title="Facebook(open new window)">Facebook</a></li>	<li><a class="youtube" href="https://www.youtube.com/user/TheCBCTube" target="_blank" title="Youtube(open new window)">Youtube</a></li>	<li><a class="ig" href="https://www.instagram.com/cbc.gov.tw/" target="_blank" title="IG(open new window)">Instagram</a></li>	<li><a class="app" href="http://www.cbc.gov.tw/tw/cp-890-46009-0D74C-1.html" title="APP">APP</a></li>	<li><a class="mailbox" href="/en/sp-opma-form-2.html" title="Contact Us">Contact Us</a></li>	<li><a class="epaper" href="/en/sp-epap-subform-2.html" title="Subscriber Services">Subscriber Services</a></li></ul><a class="right_menu close" href="">CLOSE</a></div></div><a href="#aU" class="scrollToTop" title="Top">TOP<br>TOP</a>
-		
+        </div></footer><div class="fixed_right_block"><ul>	<li><a class="facebook" href="https://www.facebook.com/cbc.gov.tw/" target="_blank" title="Facebook(open new window)">Facebook</a></li>	<li><a class="youtube" href="https://www.youtube.com/user/TheCBCTube" target="_blank" title="Youtube(open new window)">Youtube</a></li>	<li><a class="ig" href="https://www.instagram.com/cbc.gov.tw/" target="_blank" title="IG(open new window)">Instagram</a></li>	<li><a class="app" href="http://www.cbc.gov.tw/tw/cp-890-46009-0D74C-1.html" title="APP">APP</a></li>	<li><a class="mailbox" href="/en/sp-opma-form-2.html" title="Contact Us">Contact Us</a></li>	<li><a class="epaper" href="/en/sp-epap-subform-2.html" title="Subscriber Services">Subscriber Services</a></li></ul><a class="right_menu close" href="">CLOSE</a></div></div><a href="#aU" class="scrollToTop" title="Top">TOP<br>TOP</a><script src="/Styles/Unit002/vendor/jquery.easing.min.js"></script><script src="/Styles/Unit002/vendor/slick/slick.js"></script><script src="/Styles/Unit002/vendor/slick/slick-lightbox.js"></script><script src="/Styles/Unit002/js/hyui.js"></script><script src="/Styles/Unit002/js/customize.js"></script><script src="/Styles/Unit002/vendor/PgwSlider/2.3.1/pgwslider.js"></script>
+		<script>
+			$(document).ready(function() {
+				$('.pgwSlider').pgwSlider({
+					autoSlide: false,
+					verticalCentering: true,
+					displayList: true,
+					verticalCentering: true,
+					listPosition: 'right',
+					displayControls:true,
+					touchControls:true,
+				});
+			});
+		</script>
 		
 </body></html>

@@ -11,16 +11,41 @@
     <title>Federal Reserve Board - Reporting Forms</title>
         <link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="/css/bluesteel-theme.css" rel="stylesheet" type="text/css">
-        
-        
-        
+        <script src="/js/modernizr-latest.js" type="text/javascript"></script>
+        <script src="/js/grunticon.loader.js"></script>
+        <script>
+            grunticon([
+                "/css/icons.data.svg.css",
+                "/css/icons.data.png.css",
+                "/css/icons.fallback.css",
+            ]);
+        </script>
         <noscript>
             <link href="/css/icons.fallback.css" rel="stylesheet" />
         </noscript>
 
-    
+    <style type="text/css">
+        .rf-item {
+            padding: 0;
+            margin: 0;
+        }
 
-<link rel="stylesheet" href="/assets/main.css" data-injected="worker-mhelje94"></head>
+            .rf-item .list-group-item.ng-scope {
+                border-top: none;
+                border-right: none;
+                border-left: none;
+                border-bottom: 1px solid #ddd;
+                border-radius: 0;
+                padding: 10px 5px;
+                margin: 0;
+            }
+
+                .rf-item .list-group-item.ng-scope p {
+                    margin: 0;
+                }
+    </style>
+
+<link rel="stylesheet" href="/assets/main.css" data-injected="worker-mhelje94"><script src="/assets/main.js" data-injected="worker-mhelje94" defer="" type="module"></script><script data-cfasync="false" nonce="8a59f448-da23-4c7e-b314-178f8852ae7d">try{(function(w,d){!function(j,k,l,m){if(j.zaraz)console.error("zaraz is loaded twice");else{j[l]=j[l]||{};j[l].executed=[];j.zaraz={deferred:[],listeners:[]};j.zaraz._v="5870";j.zaraz._n="8a59f448-da23-4c7e-b314-178f8852ae7d";j.zaraz.q=[];j.zaraz._f=function(n){return async function(){var o=Array.prototype.slice.call(arguments);j.zaraz.q.push({m:n,a:o})}};for(const p of["track","set","debug"])j.zaraz[p]=j.zaraz._f(p);j.zaraz.init=()=>{var q=k.getElementsByTagName(m)[0],r=k.createElement(m),s=k.getElementsByTagName("title")[0];s&&(j[l].t=k.getElementsByTagName("title")[0].text);j[l].x=Math.random();j[l].w=j.screen.width;j[l].h=j.screen.height;j[l].j=j.innerHeight;j[l].e=j.innerWidth;j[l].l=j.location.href;j[l].r=k.referrer;j[l].k=j.screen.colorDepth;j[l].n=k.characterSet;j[l].o=(new Date).getTimezoneOffset();j[l].q=[];for(;j.zaraz.q.length;){const w=j.zaraz.q.shift();j[l].q.push(w)}r.defer=!0;for(const x of[localStorage,sessionStorage])Object.keys(x||{}).filter(z=>z.startsWith("_zaraz_")).forEach(y=>{try{j[l]["z_"+y.slice(7)]=JSON.parse(x.getItem(y))}catch{j[l]["z_"+y.slice(7)]=x.getItem(y)}});r.referrerPolicy="origin";r.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(j[l])));q.parentNode.insertBefore(r,q)};["complete","interactive"].includes(k.readyState)?zaraz.init():j.addEventListener("DOMContentLoaded",zaraz.init)}}(w,d,"zarazData","script");window.zaraz._p=async bs=>new Promise(bt=>{if(bs){bs.e&&bs.e.forEach(bu=>{try{const bv=d.querySelector("script[nonce]"),bw=bv?.nonce||bv?.getAttribute("nonce"),bx=d.createElement("script");bw&&(bx.nonce=bw);bx.innerHTML=bu;bx.onload=()=>{d.head.removeChild(bx)};d.head.appendChild(bx)}catch(by){console.error(`Error executing script: ${bu}\n`,by)}});Promise.allSettled((bs.f||[]).map(bz=>fetch(bz[0],bz[1])))}bt()});zaraz._p({"e":["(function(w,d){})(window,document)"]});})(window,document)}catch(e){throw fetch("/cdn-cgi/zaraz/t"),e;};</script></head>
 
 <body>
     <!--Header-->
@@ -1209,7 +1234,31 @@
                 </div>
             </div><!--column-->
             
+<style>
+    .tt-hide,
+    .tt-hint {
+        display: none;
+    }
 
+    .tt-list {
+        z-index: 999;
+        margin-left: 15px;
+        top: 35px;
+    }
+
+    .tt-suggestion {
+        background: #fff;
+        padding: 5px;
+        width: 50%;
+        cursor: pointer;
+        padding-left: 10px;
+        border: 1px solid #beccd9;
+    }
+
+        .tt-suggestion:hover {
+            background: #e7f1f9;
+        }
+</style>
 <div id="article" class="col-xs-12 col-sm-8">
     <a name="content"></a>
 
@@ -1592,14 +1641,58 @@
             </div>
         </div>
     </footer>
-        
-        
-        
-    
+        <script src="/js/jquery.min.js" type="text/javascript"></script>
+        <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="/js/scripts.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function ($) {
+            // delegate calls to data-toggle="lightbox"
+            $(document).delegate(
+                '*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])',
+                "click",
+                function (event) {
+                    event.preventDefault();
+                    $(this).ekkoLightbox();
+                }
+            );
+            $('a[data-click="false"]').click(function (e) {
+                e.preventDefault();
+                var target = $(this).data("target");
+                $(target).click();
+            });
+        });
+    </script>
 
     
-    
-    
+    <script>!function (e, t) { "object" == typeof exports && "object" == typeof module ? module.exports = t() : "function" == typeof define && define.amd ? define([], t) : "object" == typeof exports ? exports.typeahead = t() : e.typeahead = t() }(this, (function () { return (() => { "use strict"; var e, t = { 588: (e, t, n) => { n.d(t, { default: () => c }); const o = (...e) => { }, r = (e, t) => [...new Map(e.map((e => [e[t], e]))).values()], i = e => e.trim().split(/\s+/), s = (e, t) => { const n = e.length; if (!n) return []; if (null !== (o = e[0]) && "Object" === o.constructor.name) { for (let o = 0; o < n; o++)if (!(t in e[o])) throw new Error("e03"); return e } var o; return e.reduce((function (e, n) { return e.push({ [t]: n && "string" == typeof n ? n : JSON.stringify(n) }), e }), []) }; var l = function (e, t, n, o) { return new (n || (n = Promise))((function (r, i) { function s(e) { try { a(o.next(e)) } catch (e) { i(e) } } function l(e) { try { a(o.throw(e)) } catch (e) { i(e) } } function a(e) { var t; e.done ? r(e.value) : (t = e.value, t instanceof n ? t : new n((function (e) { e(t) }))).then(s, l) } a((o = o.apply(e, t || [])).next()) })) }; const a = { get: function (e, t) { return l(this, void 0, void 0, (function* () { return function (e) { return l(this, void 0, void 0, (function* () { const t = yield e.text(), n = t && JSON.parse(t); if (!e.ok) { const t = n && n.message || e.statusText; return Promise.reject(t) } return n })) }(yield fetch(e, t || { method: "GET" })) })) } }, u = function () { let e = {}; const t = String.fromCharCode(0); function n(n, o, i) { let s, l = e, a = []; for (let e = 0, t = n.length; e < t; e++)if (s = n[e], l = l[s], void 0 === l) return a; const u = [l], c = [n]; let d; for (; u.length;)for (d in n = c.pop(), l = u.pop(), l) if (d !== t) u.push(l[d]), c.push(n + d); else if (a = a.concat(l[t]), o && (a = r(a, o)), i && a.length >= i) { a.length = i; break } return a } return { add: function (n, o = "") { if (!n) return; let r, s = e; (n = n.constructor === Array ? n : [n]).forEach((n => { i("string" == typeof n ? n : n[o] || "").filter((e => e)).forEach((o => { s = e; for (let e = 0, t = (o = o.toLocaleLowerCase()).length; e < t; e++)r = o[e], s = s[r] || (s[r] = {}); s[t] = s[t] ? [...s[t], n] : [n] })) })) }, clear: function () { e = {} }, search: function (e, t, o) { const r = i(e); if (1 === r.length) return n(r[0], t, o); const s = []; let l = []; return r.forEach((e => { s.push(n(e, t)) })), l = s.reduce(((e, n) => e.filter((e => n.some((n => e[t] === n[t])))))), o && l.length > o && (l.length = o), l } } }; function c(e) { var t, n, i, l, c, d; const f = document, h = f.createElement("div"), p = h.style, v = e.debounceRemote || 100, g = e.preventSubmit || !1, m = e.minLength || 1, y = e.limit || 5, w = !1 !== e.hint, L = e.autoSelect || !1, C = e.templates, E = new u, b = (null === (t = e.source) || void 0 === t ? void 0 : t.identifier) || "label", x = (null === (n = e.source) || void 0 === n ? void 0 : n.groupIdentifier) || "", O = e.display || (e => `${e[b]}`), N = e.onSubmit || o, k = (null === (i = e.source) || void 0 === i ? void 0 : i.dataTokens) && e.source.dataTokens.constructor === Array ? e.source.dataTokens : void 0, T = {}, j = {}, S = (null === (l = e.source) || void 0 === l ? void 0 : l.transform) || (e => e), F = (null === (c = e.source) || void 0 === c ? void 0 : c.local) || null, D = e.source && e.source.remote && e.source.remote.url && e.source.remote.wildcard ? e.source.remote : null, P = (null === (d = e.source) || void 0 === d ? void 0 : d.prefetch) && e.source.prefetch.url ? Object.assign({ when: "onInit", done: !1 }, e.source.prefetch) : null; let J, $, A = [], I = "", W = !1, R = ""; if (C && (C.header = "function" == typeof C.header ? C.header : void 0, C.footer = "function" == typeof C.footer ? C.footer : void 0, C.notFound = "function" == typeof C.notFound ? C.notFound : void 0, C.group = "function" == typeof C.group ? C.group : void 0, C.suggestion = "function" == typeof C.suggestion ? C.suggestion : void 0), !e.input) throw new Error("e01"); if (!F && !P && !D) throw new Error("e02"); F && ee(r(s(F, b), b)); let q = e.input; const M = f.createElement("span"); M.className = "typeahead-standalone" + (e.className ? ` ${e.className}` : ""); const G = q.cloneNode(!0); G.classList.add("tt-input"), M.appendChild(G), q.replaceWith(M), q = M.firstChild; const H = q.cloneNode(); function z() { if (!P || P.done) return; let e = []; a.get(P.url, null == P ? void 0 : P.requestOptions).then((t => { e = S(t), e = s(e, b), ee(e) }), (e => { console.error("e04", e) })).finally((() => { "function" == typeof P.process && P.process(e) })), P.done = !0 } !function (e) { ["id", "name", "placeholder"].forEach((t => e.removeAttribute(t))), e.setAttribute("readonly", "true"), e.tabIndex = -1, e.className = "tt-hint", q.after(e) }(H), h.classList.add("tt-list"), p.position = "absolute", M.appendChild(h), h.classList.add("tt-hide"), p.width = "100%", p.left = "0", P && "onInit" === P.when && z(); const B = () => { h.classList.remove("tt-hide") }, K = () => { $ && window.clearTimeout($) }, Q = () => { A = [], H.value = "", J = void 0, R = "", h.classList.add("tt-hide") }, U = (e = !1) => { if (!A.length) { if (Q(), V(), !(null == C ? void 0 : C.notFound)) return !0; const t = () => { const e = f.createElement("div"); e.classList.add("tt-notFound"), ie(e, C.notFound ? C.notFound() : ""), h.appendChild(e) }; return D ? (I && e && !W || I && T[JSON.stringify(I)]) && t() : t(), B(), !0 } }, V = () => { for (; h.firstChild;)h.firstChild.remove() }, X = () => { if (U()) return; V(); const t = e => { const t = f.createElement("div"); return t.classList.add("tt-suggestion"), (null == C ? void 0 : C.suggestion) ? ie(t, C.suggestion(e)) : t.textContent = e[b] || "", t }, n = e => { const t = f.createElement("div"); return t.classList.add("tt-group"), (null == C ? void 0 : C.group) ? ie(t, C.group(e)) : t.textContent = e || "", t }, o = f.createDocumentFragment(), r = []; if (null == C ? void 0 : C.header) { const e = f.createElement("div"); e.classList.add("tt-header"), ie(e, C.header()), o.appendChild(e) } for (const [i, s] of A.entries()) { if (i === y) break; if (s[x] && !r.includes(s[x])) { r.push(s[x]); const e = n(s[x]); o.appendChild(e) } const l = t(s); l.addEventListener("click", (function (e) { Q(), q.value = O(s), e.preventDefault() })), s === J && l.classList.add("tt-selected"), o.appendChild(l), e.highlight && oe(l, I) } if (null == C ? void 0 : C.footer) { const e = f.createElement("div"); e.classList.add("tt-footer"), ie(e, C.footer()), o.appendChild(e) } h.appendChild(o), w && re(J || A[0]), B() }, Y = () => { var e; K(); const t = q.value.replace(/\s{2,}/g, " ").trim(); if (t.length >= m) { I = t, Z(); const n = JSON.stringify(I); D && A.length < y && (null === (e = j[n]) || void 0 === e ? void 0 : e.length) && Z(j[n]), X(), $ = window.setTimeout((function () { A.length < y && !W && _() }), v) } else I = "", Q() }, Z = e => { let t = E.search(I.toLowerCase(), b, y); t = r(t, b), (null == e ? void 0 : e.length) && (t = [...t, ...e], t = r(t, b)), te(t), x && ne(t), A = t, L && A.length && (J = A[0]) }, _ = () => { if (!D) return; W = !0; const e = I, t = JSON.stringify(e); if (T[t] || !I.length) return W = !1, void U(!0); let n = []; a.get(D.url.replace(D.wildcard, e), null == D ? void 0 : D.requestOptions).then((e => { n = S(e), n = s(n, b), ee(n) }), (e => { console.error("e05", e) })).finally((() => { T[t] = !0, j[t] = n || [], n.length && I.length && (Z(n), X()), W = !1, I.length && e !== I && _(), U(!0) })) }; function ee(e) { e.length && (E.add(e, b), k && k.forEach((t => { E.add(e, t) }))) } const te = e => { e.sort(((e, t) => { const n = e[b].toLowerCase().startsWith(I.toLowerCase()), o = t[b].toLowerCase().startsWith(I.toLowerCase()); return n && !o || n && e[b].length < t[b].length ? -1 : 0 })) }, ne = e => { e.sort(((e, t) => !e[x] || e[x] < t[x] ? -1 : e[x] > t[x] ? 1 : 0)) }, oe = (e, t) => { const n = function (e, t) { let o; for (let r = 0; r < e.childNodes.length; r++)o = e.childNodes[r], 3 === o.nodeType ? r += t(o) ? 1 : 0 : n(o, t) }, o = function (e, t) { const n = e.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&"); return new RegExp("(" + n + ")", "i") }(t); n(e, (function (e) { const t = o.exec(e.data), n = f.createElement("span"); if (n.className = "tt-highlight", t) { const o = e.splitText(t.index); o.splitText(t[0].length), n.appendChild(o.cloneNode(!0)), e && e.parentNode && e.parentNode.replaceChild(n, o) } return !!t })) }, re = e => { const t = q.value; e[b] === t || 0 !== e[b].toLocaleLowerCase().indexOf(t.replace(/\s{2,}/g, " ").trimStart().toLocaleLowerCase()) ? H.value = "" : H.value = t.replace(/\s?$/, "") + O(e).replace(new RegExp(I, "i"), "") }, ie = (e, t) => { const n = f.createElement("template"); n.innerHTML = t, e.appendChild(n.content) }; return h.addEventListener("mousedown", (function (e) { e.stopPropagation(), e.preventDefault() })), h.addEventListener("focus", (() => q.focus())), q.addEventListener("keydown", (e => { if (!q.value.length) return void Q(); const t = e.which || e.keyCode || 0; if (38 === t || 40 === t || 27 === t) return 27 === t ? Q() : A.length && (38 === t ? (() => { const e = A.length >= y ? y : A.length; if (J === A[0]) return J = void 0, void (q.value = R); if (J) { for (let t = e - 1; t > 0; t--)if (J === A[t] || 1 === t) { J = A[t - 1]; break } } else J = A[e - 1]; q.value = O(J) })() : (() => { const e = A.length >= y ? y : A.length; if (!J) return J = A[0], void (q.value = O(J)); if (J === A[e - 1]) return J = void 0, void (q.value = R); for (let t = 0; t < e - 1; t++)if (J === A[t]) { J = A[t + 1]; break } q.value = O(J) })(), X()), e.preventDefault(), void e.stopPropagation(); const n = function (e = !1) { if (!J && e && A.length && (J = A[0]), J) { const e = J; return Q(), q.value = O(e), e } }; if (13 === t) { const t = n(); return g && e.preventDefault(), void N(e, t) } 9 === t && (e.preventDefault(), n(!0)) })), q.addEventListener("input", (e => { 40 !== (e.which || e.keyCode || 0) && (R = q.value, Y()) })), q.addEventListener("blur", (() => { setTimeout((() => { f.activeElement !== q && Q() }), 50) })), q.addEventListener("focus", (() => { P && "onFocus" === P.when && z(), Y() })), { destroy: () => { K(), M.replaceWith(q.cloneNode()) } } } } }, n = {}; function o(e) { var r = n[e]; if (void 0 !== r) return r.exports; var i = n[e] = { exports: {} }; return t[e](i, i.exports, o), i.exports } o.m = t, e = [], o.O = (t, n, r, i) => { if (!n) { var s = 1 / 0; for (c = 0; c < e.length; c++) { for (var [n, r, i] = e[c], l = !0, a = 0; a < n.length; a++)(!1 & i || s >= i) && Object.keys(o.O).every((e => o.O[e](n[a]))) ? n.splice(a--, 1) : (l = !1, i < s && (s = i)); if (l) { e.splice(c--, 1); var u = r(); void 0 !== u && (t = u) } } return t } i = i || 0; for (var c = e.length; c > 0 && e[c - 1][2] > i; c--)e[c] = e[c - 1]; e[c] = [n, r, i] }, o.d = (e, t) => { for (var n in t) o.o(t, n) && !o.o(e, n) && Object.defineProperty(e, n, { enumerable: !0, get: t[n] }) }, o.o = (e, t) => Object.prototype.hasOwnProperty.call(e, t), (() => { var e = { 179: 0, 53: 0 }; o.O.j = t => 0 === e[t]; var t = (t, n) => { var r, i, [s, l, a] = n, u = 0; if (s.some((t => 0 !== e[t]))) { for (r in l) o.o(l, r) && (o.m[r] = l[r]); if (a) var c = a(o) } for (t && t(n); u < s.length; u++)i = s[u], o.o(e, i) && e[i] && e[i][0](), e[s[u]] = 0; return o.O(c) }, n = this.webpackChunktypeahead = this.webpackChunktypeahead || []; n.forEach(t.bind(null, 0)), n.push = t.bind(null, n.push.bind(n)) })(); var r = o.O(void 0, [53], (() => o(588))); return (r = o.O(r)).default })() }));</script>
+    <script>
+        $(document).ready(function () {
+            if (false === true)
+            {
+                document.getElementById("numberOfResults").focus();
+            }
+            if (false === true)
+            {
+                document.getElementById("paginationTable").focus();
+            }
+        });
+
+        var input = document.getElementById('searchTextbox');
+
+        var url = '/apps/reportingforms/Home/Suggest?term=%QUERY';
+
+typeahead({
+    input: input,
+    limit: 10,
+    hint: false,
+    source: {
+        remote: {
+            url: url,
+            wildcard: '%QUERY',
+        },
+    }
+});
+    </script>
 
 
 

@@ -53,6 +53,8 @@ export function removeEmptyTags(html: string): string {
 			"src",
 			"alt",
 			"title",
+			"class",
+			"id",
 		];
 		for (const attr of valuableAttrs) {
 			if (el.attr(attr)) return true;
@@ -66,12 +68,29 @@ export function removeEmptyTags(html: string): string {
 		return false;
 	}
 
+	// Helper function to check if an element has direct text content
+	function hasDirectText(el: cheerio.Cheerio<any>): boolean {
+		let hasText = false;
+		el.contents().each((_: number, node: any) => {
+			if (node.type === "text" && node.data.trim().length > 0) {
+				hasText = true;
+				return false; // break
+			}
+		});
+		return hasText;
+	}
+
 	// Iteratively remove empty elements and unwrap wrappers
 	let changed = true;
-	while (changed) {
+	let iterations = 0;
+	const maxIterations = 50; // Prevent infinite loops
+	while (changed && iterations < maxIterations) {
 		changed = false;
+		iterations++;
+		console.log(`[removeEmptyTags] Iteration ${iterations}`);
 
 		// Remove empty elements (no children, no text, no valuable attrs)
+		let removedCount = 0;
 		$("*").each(function () {
 			const el = $(this);
 			if (
@@ -80,9 +99,11 @@ export function removeEmptyTags(html: string): string {
 				el.text().trim() === ""
 			) {
 				el.remove();
+				removedCount++;
 				changed = true;
 			}
 		});
+		console.log(`[removeEmptyTags] Removed ${removedCount} empty elements`);
 
 		// Collect wrapper elements to unwrap (no valuable attrs, no text, but have children)
 		let toUnwrap: cheerio.Cheerio<any>[] = [];
@@ -90,18 +111,28 @@ export function removeEmptyTags(html: string): string {
 			const el = $(this);
 			if (
 				!hasValuableAttributes(el) &&
-				el.text().trim() === "" &&
+				!hasDirectText(el) &&
 				el.children().length > 0
 			) {
 				toUnwrap.push(el);
 			}
 		});
+		console.log(
+			`[removeEmptyTags] Found ${toUnwrap.length} wrapper elements to unwrap`,
+		);
 
 		// Unwrap the collected elements (move children up)
 		for (const el of toUnwrap) {
 			el.children().unwrap();
 			changed = true;
 		}
+		console.log(`[removeEmptyTags] Unwrapped ${toUnwrap.length} elements`);
+	}
+
+	if (iterations >= maxIterations) {
+		console.warn(
+			`[removeEmptyTags] Reached maximum iterations (${maxIterations}), stopping to prevent infinite loop`,
+		);
 	}
 
 	let result = $.html();
@@ -236,4 +267,37 @@ export function removeBreadcrumbs(htmlContent: string): string {
 	});
 
 	return $.html();
+}
+
+/**
+ * Extracts main content by removing boilerplate elements while preserving informational content.
+ * Removes navigation, headers, footers, sidebars, ads, and other non-content elements.
+ * Returns cleaned HTML with <html> tags preserved.
+ */
+export function cleanHtml(html: string): string {
+	const $ = cheerio.load(html);
+
+	// Remove script and style elements
+	$("script, style").remove();
+
+	// Remove inline styles
+	$("*").removeAttr("style");
+
+	// Remove common ad containers
+	$('.ad, .ads, .advertisement, [class*="ad-"], [id*="ad-"]').remove();
+
+	// Remove breadcrumb elements
+	$(".breadcrumb").remove();
+
+	// Remove navigation elements
+	$("nav").remove();
+	$('[class*="nav"]').remove();
+	$('[id*="nav"], [id*="menu"], [id*="footer"], [id*="header"]').remove();
+
+	// Clean up empty tags
+	const cleanedHtml = removeEmptyTags($.html());
+
+	// Ensure we return HTML with <html> tags
+	const final$ = cheerio.load(cleanedHtml);
+	return final$.root().html() || cleanedHtml;
 }

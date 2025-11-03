@@ -1,23 +1,3 @@
-The impact of US trade policy on jobs and inflation in Canada - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailBack to top
-===============================================================================================================================================================================================================================================
-
-The impact of US trade policy on jobs and inflation in Canada
-=============================================================
-
-Remarks
-
-[Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive")
-
-St. John’s Board of Trade
-
-[St. John's, Newfoundland and Labrador](https://www.bankofcanada.ca/search/?location[]=st-johns_newfoundland-and-labrador)
-
-June 18, 2025
-
-Available as: [PDF](https://www.bankofcanada.ca/wp-content/uploads/2025/06/remarks-2025-06-18.pdf)
-
-Data available as: [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618/csv), [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618/json) and [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618/xml)
-
 Introduction
 ------------
 
@@ -58,27 +38,11 @@ First, timing. To get ahead of tariffs, businesses that export to the United Sta
 
 First-quarter imports were also up as Canadian importers stockpiled US goods, building inventories before costs rose.
 
-A modern browser with javascript enabled is required to view our charts.
-
-Alternatively, the data is available for download in:
-
-*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C1/xml)
-*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C1/json)
-*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C1/csv)
-
 The surge in trade and inventories boosted the economy—Canadian GDP growth was 2.2% in the first quarter.
 
 But getting ahead of tariffs borrowed activity from the future, and we’re now seeing a sharp reversal. Canadian goods exports to the United States dropped more than 15% in April. This reflects both the payback from the first-quarter surge and the fact that tariffs are making Canadian goods more expensive in the United States. In April, exports of steel and aluminum products fell 11% and 25%, respectively, and motor vehicle exports were down almost 25%.
 
 There has also been a second, less-dramatic shift caused by US trade policy—destination. As Canadian exporters have tried to adapt to US tariffs, trade with countries other than the United States has picked up ([Chart 2](#chart2)).
-
-A modern browser with javascript enabled is required to view our charts.
-
-Alternatively, the data is available for download in:
-
-*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C2/xml)
-*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C2/json)
-*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C2/csv)
 
 Canadian businesses—who showed remarkable agility to digitalize during the pandemic—are seeking out new suppliers and new export partners to replace US trade.
 
@@ -107,25 +71,9 @@ That’s where we were when the trade war hit—mid-recovery. The lag in the lab
 
 Some two million Canadian jobs rely on goods exports to the United States. US tariffs had a near-immediate impact on jobs in directly affected industries. Businesses that are subject to tariffs know that US demand for their products will be lower, and they have cut jobs. Several Ontario auto parts and assembly plants have announced layoffs and production cuts, and manufacturing jobs are down 55,000 since January. More broadly, we’ve seen a big decline in employment in trade-sensitive sectors since the start of the year ([Chart 3](#chart3)).
 
-A modern browser with javascript enabled is required to view our charts.
-
-Alternatively, the data is available for download in:
-
-*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C3/xml)
-*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C3/json)
-*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C3/csv)
-
 Employment in other sectors, however, has continued to grow. But remember, employment usually responds with a lag. Final domestic demand in Canada was soft in the first quarter, and if tariffs and uncertainty were to continue, households and businesses will likely remain cautious. If demand stays soft, at some point more businesses will cut jobs.
 
 These dynamics are reflected in our business surveys. Export-oriented businesses quickly cut their hiring plans a lot in response to US tariffs. And with a lag, other businesses have scaled back their hiring intentions ([Chart 4](#chart4)). If these cutbacks materialize, we can expect overall employment to weaken further. We are watching closely for signs that weakness in the job market is broadening.[3](#footnote-3 "See F. Bounajm and T. Devakos, “Benchmarks for assessing labour market health: 2025 update,” Bank of Canada Staff Analytical Note No. 2025-17 (June 2025).")
-
-A modern browser with javascript enabled is required to view our charts.
-
-Alternatively, the data is available for download in:
-
-*   [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C4/xml)
-*   [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C4/json)
-*   [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_MACK20250618_C4/csv)
 
 To summarize, Canada’s dependence on the US market underscores the importance of a new Canada-US trade deal that rolls back tariffs. The resilience of the economy and the labour market will also depend on the ability of businesses to expand to new markets within Canada and overseas, as well as on Canadian investment in infrastructure to get our goods to new markets.
 
@@ -184,40 +132,3 @@ At the Bank of Canada, our focus is on supporting economic activity and jobs, wh
 Thank you.
 
 I would like to thank Fares Bounajm, Erik Ens and Olena Senyuta for their help in preparing this speech.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Remarks](https://www.bankofcanada.ca/search/?content_type[]=remarks)
-
-Research Topic(s): [Expectations](https://www.bankofcanada.ca/search/?topic[]=expectations), [Inflation and prices](https://www.bankofcanada.ca/search/?topic[]=inflation-and-prices), [International topics](https://www.bankofcanada.ca/search/?topic[]=international-topics), [Labour markets](https://www.bankofcanada.ca/search/?topic[]=labour-markets), [Monetary policy and uncertainty](https://www.bankofcanada.ca/search/?topic[]=uncertainty-and-monetary-policy), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments), [Regional economic developments](https://www.bankofcanada.ca/search/?topic[]=regional-economic-developments), [Trade integration](https://www.bankofcanada.ca/search/?topic[]=trade-integration)
-
-Related information
--------------------
-
-June 18, 2025
-
-### [Trade, jobs and inflation](https://www.bankofcanada.ca/2025/06/trade-jobs-and-inflation/)
-
-Speech summary [Tiff Macklem](https://www.bankofcanada.ca/profile/tiff-macklem/ "Governor - Executive") St. John’s Board of Trade [St. John's, Newfoundland and Labrador](https://www.bankofcanada.ca/search/?location[]=st-johns_newfoundland-and-labrador)
-
-Governor Tiff Macklem discusses the trade conflict with the United States and how it is has affected the Canadian economy. He explains that restoring open trade is important for jobs, growth and price stability in Canada.
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Speech summaries](https://www.bankofcanada.ca/search/?content_type[]=speech-summaries) Research Topic(s): [Expectations](https://www.bankofcanada.ca/search/?topic[]=expectations), [Inflation and prices](https://www.bankofcanada.ca/search/?topic[]=inflation-and-prices), [International topics](https://www.bankofcanada.ca/search/?topic[]=international-topics), [Labour markets](https://www.bankofcanada.ca/search/?topic[]=labour-markets), [Monetary policy and uncertainty](https://www.bankofcanada.ca/search/?topic[]=uncertainty-and-monetary-policy), [Recent economic and financial developments](https://www.bankofcanada.ca/search/?topic[]=recent-economic-and-financial-developments), [Regional economic developments](https://www.bankofcanada.ca/search/?topic[]=regional-economic-developments), [Trade integration](https://www.bankofcanada.ca/search/?topic[]=trade-integration)
-
-June 18, 2025
-
-### [Speech: St. John’s Board of Trade](https://www.bankofcanada.ca/multimedia/speech-st-johns-board-of-trade/)
-
- [![](https://www.bankofcanada.ca/wp-content/uploads/2025/06/Post-speech-thumbnail-500x375.png) ![](https://www.bankofcanada.ca/wp-content/themes/parent-build/images/play-button.png)](https://www.bankofcanada.ca/multimedia/speech-st-johns-board-of-trade/)
-
-_Tariffs, trade, employment and inflation_ — Governor Tiff Macklem speaks before the St. John’s Board of Trade. (11:30 (ET) approx.).
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Webcasts](https://www.bankofcanada.ca/search/?content_type[]=webcasts)
-
-June 18, 2025
-
-### [Media Availability: St. John’s Board of Trade](https://www.bankofcanada.ca/multimedia/media-availability-macklem-st-john-board-of-trade/)
-
- [![](https://www.bankofcanada.ca/wp-content/uploads/2025/06/Post-press-conference-thumbnail-500x375.png) ![](https://www.bankofcanada.ca/wp-content/themes/parent-build/images/play-button.png)](https://www.bankofcanada.ca/multimedia/media-availability-macklem-st-john-board-of-trade/)
-
-_Tariffs, trade, employment and inflation_ — Governor Tiff Macklem takes questions from reporters following his remarks (12:40 (ET) approx.).
-
-Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Speeches and appearances](https://www.bankofcanada.ca/search/?content_type[]=speeches), [Webcasts](https://www.bankofcanada.ca/search/?content_type[]=webcasts)

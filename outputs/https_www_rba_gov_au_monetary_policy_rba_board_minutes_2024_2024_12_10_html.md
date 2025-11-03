@@ -1,8 +1,5 @@
-10 December 2024 | Minutes of the Monetary Policy Meeting of the Board | RBA
-============================================================================
-
 Minutes of the Monetary Policy Meeting of the Reserve Bank Board
-================================================================
+----------------------------------------------------------------
 
 **Hybrid – 9 and 10 December 2024**
 
@@ -120,18 +117,3 @@ Members discussed a paper on the RBA’s research on a central bank digital curr
 Members noted that there was greater scope to explore the advantages and disadvantages of a so-called wholesale CBDC, which could offer functionality that goes beyond the RBA’s existing arrangements for providing Exchange Settlement Accounts to financial institutions. A key focus of current research at the RBA is on opportunities for a wholesale CBDC and associated infrastructure to support settlement in tokenised asset markets and enhance cross-border payments. The RBA had recently commenced a collaborative research project with industry – Project Acacia – to better understand how innovations in digital money could support tokenised asset settlement. The project is expected to be completed around the end of 2025.
 
 Members discussed some of the important policy challenges that issuance of some form of CBDC could pose, depending on its design and use. These include potential effects on the setting and implementation of monetary policy and on the RBA’s balance sheet. Financial stability risks could also arise if a CBDC amplified bank runs in times of stress. These matters will require further research and engagement with the Monetary Policy Board in due course, if the case for a CBDC – wholesale or otherwise – becomes more compelling.
-
-More on the December 2024 monetary policy decision...
------------------------------------------------------
-
-### Reserve Bank Board Statement
-
-The Board decided to leave the cash rate target unchanged at 4.35 per cent.
-
-[Monetary Policy Board Statement](/media-releases/2024/mr-24-27.html)
-
-### Media Conference
-
-Governor Michele Bullock addresses the media after the monetary policy decision.
-
-[Media Conference](/speeches/2024/mc-gov-2024-12-10.html)

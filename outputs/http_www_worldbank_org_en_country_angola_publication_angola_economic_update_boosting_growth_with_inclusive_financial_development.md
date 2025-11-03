@@ -1,21 +1,3 @@
-Angola Economic Update - Boosting Growth with Inclusive Financial Development
-=============================================================================
-
-publicationJuly 25, 2025
-
-Angola Economic Update - Boosting Growth with Inclusive Financial Development
-=============================================================================
-
-![angola](https://worldbank.scene7.com/is/image/worldbankprod/ag-economic-update-1?wid=780&hei=439&qlt=85,0&resMode=sharp "angola")
-
-### [DOWNLOAD PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071825113513565)
-
-STORY HIGHLIGHTS
-----------------
-
-*   Angola’s first World Bank economic update report provides a snapshot of the economy and includes a special focus on inclusive financial development as a crucial reform to support higher and more diversified growth.
-*   Angola’s economy recovered strongly in 2024, with real GDP growing by 4.4%. This growth was driven by the recovery of the oil sector and strong dynamism in the non-oil sector, particularly in mining, commerce, and agriculture.
-
 **Report Highlights**
 
 **Angola’s economy recovered strongly in 2024, with real GDP growing by 4.4%.** This growth was driven by the recovery of the oil sector and strong dynamism in the non-oil sector, particularly in mining, commerce, and agriculture. Yet, Angola still did not recover the 10.4% loss in real GDP incurred in 2016 – 2020.

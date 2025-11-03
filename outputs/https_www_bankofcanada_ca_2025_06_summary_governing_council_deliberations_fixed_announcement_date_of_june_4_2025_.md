@@ -1,8 +1,5 @@
-Summary of Governing Council deliberations: Fixed announcement date of June 4, 2025 - Bank of CanadaHomeChange themeChange themeChange themeChange themeShare this page on FacebookShare this page on XShare this page on LinkedInShare this page by emailTable of contentsBack to top
-======================================================================================================================================================================================================================================================================================
-
 Summary of Governing Council deliberations: Fixed announcement date of June 4, 2025
-===================================================================================
+-----------------------------------------------------------------------------------
 
 June 17, 2025
 
@@ -80,5 +77,3 @@ Governing Council members also discussed the future path for interest rates. The
 Governing Council agreed to continue to assess the opposing pressures on inflation from weaker demand and higher costs. In doing so, they would pay particular attention to the four indicators noted above. Members agreed that, in the face of tariffs, monetary policy should support the economy while maintaining its primary focus on price stability.
 
 Finally, in light of the considerable uncertainty about trade policy and its impact on the Canadian economy and inflation, Governing Council members agreed to reiterate in their communications that they would proceed carefully by being less forward looking than usual, with particular attention to the risks.
-
-Content Type(s): [Publications](https://www.bankofcanada.ca/search/?content_type[]=publications), [Summary of deliberations](https://www.bankofcanada.ca/search/?content_type[]=summary-of-deliberations)

@@ -1,13 +1,3 @@
-Federal Reserve Board - Financial InnovationLock
-================================================
-
-Financial Innovation
---------------------
-
-[Share](#)
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
 The Federal Reserve Board is committed to supporting responsible innovation, both by the firms we regulate directly, and in the financial market broadly. This website serves as a resource for stakeholders interested in engaging with the System on innovation-related matters.
 
 ![Image of cell phone with chart](/aboutthefed/images/filmstrip-fintech-chart-cellphone.jpg)

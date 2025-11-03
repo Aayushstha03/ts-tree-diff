@@ -1,17 +1,3 @@
-A Stocktake of Securitisation in Australia | Speeches | RBA
-===========================================================
-
-Speech A Stocktake of Securitisation in Australia
-=================================================
-
-![Photograph of David Jacobs](/assets/images/people/david-jacobs.jpg)
-
-**David Jacobs**[\[\*\]](#fn0) Head of Domestic Markets Department
-
-**Address to the Australian Securitisation Conference** Sydney – 2 December 2024
-
-*   [Q&A Transcript](/speeches/2024/sp-so-2024-12-02-q-and-a-transcript.html)
-
 [Watch video: A Stocktake of Securitisation in Australia](https://www.youtube.com/watch?v=TGJEDTxx97E)
 
 Good afternoon, and thank you for inviting the RBA to speak once again at this year’s event.

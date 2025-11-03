@@ -1,25 +1,3 @@
-Speech by Governor Cook on artificial intelligence and innovation - Federal Reserve BoardLock
-=============================================================================================
-
-Speech
-------
-
-[PDF](/newsevents/speech/files/cook20250717a.pdf)
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
-July 17, 2025
-
-### _AI: A Fed Policymaker's View_
-
-Governor Lisa D. Cook
-
-At the National Bureau of Economic Research, Summer Institute 2025: Digital Economics and Artificial Intelligence, Cambridge, Massachusetts
-
-*   [Share](#)
-
-[Watch Live](https://www.youtube.com/nbervideos)
-
 Thank you, Avi. It is an honor to be back with you at the NBER Summer Institute. Thanks to you, Erik, and Catherine for organizing these insightful and thought-provoking sessions this summer.[1](#fn1 "footnote 1")
 
 Artificial intelligence (AI) is advancing across the globe and permeating every corner of the economy at an incredibly rapid rate. This has significant implications for Federal Reserve leaders, both as policymakers and managers of the organization. AI is transforming the economy, including by accelerating how quickly we generate ideas and making workers more efficient, and that, in turn, will affect both sides of our dual mandate of maximum employment and price stability. AI also is beginning to affect the way we conduct economic research within the Federal Reserve System, with the potential to make some tasks more efficient, harness nontraditional data in new ways, and broaden and deepen economic analysis.
@@ -101,5 +79,3 @@ Thank you.
 15\. See Leland D. Crane, Akhil Karra, and Paul E. Soto (2025), "[Total Recall? Evaluating the Macroeconomic Knowledge of Large Language Models](https://doi.org/10.17016/FEDS.2025.044)," Finance and Economics Discussion Series 2025-044 (Washington: Board of Governors of the Federal Reserve System, June). [Return to text](#f15)
 
 16\. See Lisa D. Cook (2025), "[Opening Remarks on Productivity Dynamics](https://www.federalreserve.gov/newsevents/speech/cook20250509a.htm)," speech delivered at "Finishing the Job and New Challenges," a monetary policy conference hosted by the Hoover Institution, Stanford University, Stanford, Calif., May 9. [Return to text](#f16)
-
-Last Update: July 17, 2025

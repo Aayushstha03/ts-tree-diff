@@ -1,8 +1,5 @@
-The Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement
-=================================================================================================
-
 Foreword by Piero Cipollone, Member of the Executive Board of the ECB
-=====================================================================
+---------------------------------------------------------------------
 
 ![A person in a suit and tie
 AI-generated content may be incorrect.](exploratoryworknewtechnologies202506/ecb.exploratoryworknewtechnologies202506.en_img0.jpeg?ecb359a861a6d90e12fe738249a642dc)
@@ -18,7 +15,7 @@ I would like to thank all those who contributed their time, expertise and openne
 The Eurosystem will continue to monitor developments and help the market to innovate safely using new technologies. Our clear focus is on preserving the pivotal role of central bank money in the financial system and safeguarding the efficiency and stability of our TARGET Services and future financial market infrastructures.
 
 1 Introduction
-==============
+--------------
 
 The Eurosystem’s exploratory work on new technologies for wholesale central bank money (CeBM)settlement,\[[1](#footnote.1)\] carried out in conjunction with financial market stakeholders, began in May 2024 and was successfully completed in November 2024 (Figure 1). The exploratory work consisted of (i) trials\[[2](#footnote.2)\], with actual transactions recorded on distributed ledger technology (DLT) settled in central bank money in production environments, and (ii) experiments\[[3](#footnote.3)\], with the settlement of transactions in test environments.
 
@@ -43,7 +40,7 @@ The exploratory work provided the Eurosystem with a wide range of insights. In a
 Building on the learnings from the exploratory work, on 20 February 2025 the ECB announced the Governing Council’s decision to expand its initiative to settle transactions recorded on DLT in CeBM.\[[10](#footnote.10)\] The next phase will follow a two-track approach. First, the Eurosystem aims to develop and implement a safe and efficient platform for the settlement of DLT-based transactions in CeBM through an interoperability link with TARGET Services as soon as feasible (this is referred to as the Eurosystem short-term offering). Second, the Eurosystem will look into a more integrated, long-term solution for such settlements in CeBM. This will also include international operations, such as foreign exchange settlement, and engagement in international initiatives. While the precise approach chosen by the Eurosystem to be followed in the long-term is still to be defined, it will focus on improving the efficiency and competitiveness of current financial markets for securities and payments, without compromising on safety. This initiative is expected to support the progression towards a sustainable digital capital markets union (CMU) and savings and investments union (SIU) in Europe.
 
 2 Background
-============
+------------
 
 The Eurosystem already provides CeBM in digital/numerical form as it makes the euro available for wholesale settlement via its TARGET Services. It remains committed to providing CeBM and to supporting the settlement of wholesale transactions. The Eurosystem closely monitors market developments in the field of market infrastructures and payments regarding the use of innovative technologies, such as distributed ledger technology\[[11](#footnote.11)\], for wholesale payments and securities settlement. It remains imperative that current and future euro wholesale payments and settlement infrastructures continue to operate safely and efficiently and to meet the relevant existing Eurosystem policies.
 
@@ -56,7 +53,7 @@ The key takeaways from this Eurosystem market outreach exercise in 2022, while i
 The Eurosystem’s exploratory work had two objectives. The first was to consolidate and further develop the ongoing work of Eurosystem central banks in this area. The second was to gain insights into how different solutions could enable interaction between TARGET Services and DLT platforms.
 
 3 How the Eurosystem’s exploratory work was set up
-==================================================
+--------------------------------------------------
 
 > The Eurosystem’s exploratory work, relying on the three Eurosystem developed interoperability-based solutions, was aimed at supporting innovation and maximising learning opportunities.
 
@@ -101,7 +98,7 @@ Each solution provided its own connectivity and interfaces with the participants
 Overall, the connectivity and onboarding process went smoothly.
 
 4 Use cases
-===========
+-----------
 
 The Eurosystem adopted an open approach, with only limited restrictions imposed as to the type of use cases covered. A total of 58 distinct use cases\[[27](#footnote.27)\] were completed during the exploratory work.\[[28](#footnote.28)\] The use cases were explored in both experiments and trials. Experiments consisted of DLT-based mock transactions, with settlement of the cash leg in the test environments (including T2 test environments for experiments using the Trigger Solution). Trials consisted of DLT-based transactions with settlement of the cash leg in real CeBM in the T2 production environment.
 
@@ -149,7 +146,7 @@ A second set of experiments focused on how each of the three Eurosystem explorat
 Project Meridian FX explored how operators of wholesale payment infrastructures can enable interoperability with new technologies, such as DLT, with a focus on foreign exchange (FX) transactions. This was a joint project between the Eurosystem Centre and the London Centre of the BIS Innovation Hub (BIS IH), the Bank of England and the three Eurosystem solution providers on behalf of the Eurosystem. The project was built on the concept of a synchronisation operator\[[32](#footnote.32)\] and then applied to a multi-currency foreign exchange transaction. In the experiments conducted during the project, the synchronisation operator successfully carried out PvP FX transactions atomically between different real-time gross settlement (RTGS) services in different jurisdictions, as well as between an RTGS service and a DLT ledger. All three Eurosystem interoperability solutions were successfully connected to the synchronisation operator and demonstrated their adaptability to perform cross-border settlement in standardised and harmonised test scenarios. The project offered additional learnings regarding the applicability of liquidity savings mechanisms and the possibility of linking complex multi-leg transactions across different infrastructures. More details can be found in the report on Project Meridian FX published by the BIS IH.\[[33](#footnote.33)\]
 
 5 Key findings from the Eurosystem’s exploratory work
-=====================================================
+-----------------------------------------------------
 
 > The availability of CeBM for settlement is viewed by the market as a major factor contributing to the growth of the DLT ecosystem in Europe.
 
@@ -168,7 +165,7 @@ The exploratory work identified how interoperability could be established betwee
 The fragmentation of DLT applications and a lack of interoperability in a broader sense are hindering the development of liquid DLT-based markets, with investors and issuers facing high costs for connecting to multiple platforms. This also limits the possible benefits of DLT. The exploratory work highlighted the need for CeBM settlement of DLT-based transactions to actively contribute to a more integrated and efficient DLT ecosystem. Fragmentation needs to be contained, while being mindful that innovation must not be stifled. The Eurosystem has consistently contributed to standardisation and harmonisation and hence to the integration of financial market infrastructures and markets in Europe, most notably by providing its TARGET Services and by acting as a catalyst.
 
 6 User expectations for a Eurosystem short-term offering
-========================================================
+--------------------------------------------------------
 
 > Market participants expressed a clear demand for enabling CeBM settlement for DLT-based transactions.
 
@@ -191,7 +188,7 @@ While some market DLT operators have already developed procedures to ensure atom
 To ensure technical neutrality and provide greater scope for innovation, a short-term offering should be use case-agnostic and capable of supporting both securities and payments use cases, as well as linked or conditional transactions\[[38](#footnote.38)\]. It should also ideally be agnostic to other currencies available on T2. Market participants identified several potential improvements to automation that could be considered in the context of a short-term offering. These included (i) the use of application-to-application (A2A) processes; (ii) the elimination of manual interventions to ensure atomicity; (iii) the ability to monitor and retrieve information and transaction statuses from the Eurosystem short-term offering in real time and on an automated basis; and (iv) end-to-end transaction identifiers.
 
 7 Next steps for the Eurosystem
-===============================
+-------------------------------
 
 > An interoperability model would be acceptable as a transitory step towards creating the optimal long-term-state for leveraging DLT, according to market participants.
 
@@ -204,7 +201,7 @@ The Eurosystem, taking note of the findings from the exploratory work, is commit
 The Eurosystem will continue to act as coordinator and catalyst for harmonisation and standardisation as the scope of DLT goes beyond current financial market infrastructures and touches on all parts of the value chain. Harmonisation and standardisation require coordination across market players and market segments and, ultimately, the adoption of harmonised market practices and standards. The exploratory work highlighted that the legal regime governing the use of DLT in Europe for wholesale financial markets is still at a relatively early stage. Within the controlled environment of the Eurosystem’s exploratory work, novel practices (e.g. interlinking central bank money and commercial bank money transfers at a technical level) were tested in comparison with the current ecosystem. This is indicative of a possible restructuring of current markets and intermediation with the adoption of DLT. The DLT ecosystem would benefit from less divergence of technologies, market practices and operating models, and from the application of technical standards, which could improve scaling. In addition, adjusting legal, fiscal, and collateral frameworks at a pan-European level for DLT will be important in order to scale up and to reap the expected benefits. As part of the long-term work, the Eurosystem will engage with other central banks to consider how a long-term European ecosystem could be seamlessly connected (globally) in line with the objectives of the G20 on cross-border payments. In particular, the Eurosystem, together with non-euro area central banks making their currency available in T2, will work closely on multi-currency functionalities. In addition, the Eurosystem will undertake detailed analysis of all these aspects in conjunction with the relevant public sector bodies, while also liaising with market stakeholders at both the European and international levels.
 
 Annexes
-=======
+-------
 
 Annex I – Interoperability-based solutions tested
 -------------------------------------------------
@@ -225,91 +222,3 @@ All rights reserved. Reproduction for educational and non-commercial purposes is
 For specific terminology please refer to the [ECB glossary](/services/glossary/html/index.en.html) (available in English only).
 
 PDF ISBN 978-92-899-7306-9, doi:10.2866/1304803, QB-01-25-147-EN-NHTML ISBN 978-92-899-7305-2, doi:10.2866/8248151, QB-01-25-147-EN-Q
-
-1.  See the page entitled “[Exploratory work on new technologies for wholesale central bank money settlement](/paym/integration/distributed/exploratory/html/index.en.html)” on the ECB’s website.
-    
-2.  **Trial:** In the context of the Eurosystem’s exploratory work, exploratory activity consisting of real-life settlement in CeBM relying on TARGET Services (for the cash leg) and on the respective Eurosystem interoperability-based solution (for connectivity to market DLT platforms) made available to eligible market participants and eligible market DLT operators.
-    
-3.  **Experiment:** In the context of the Eurosystem’s exploratory work, exploratory activity consisting of mock settlement relying on the TARGET Services UTEST environment (used for test transactions) and on the respective Eurosystem’s interoperability-based solutions (for connectivity to market DLT platforms) made available to eligible market participants and eligible market DLT operators.
-    
-4.  A list of [stakeholders participating in the exploratory work](/paym/pdf/participants_eurosystem_exploratory_work.pdf) is available on the ECB’s website.
-    
-5.  **Token:** A representation of an asset on a distributed ledger.
-    
-6.  [Service description](/press/intro/news/html/ecb.mipnews231213_annex4.en.pdf) available on the ECB’s website.
-    
-7.  [Service description](/press/intro/news/html/ecb.mipnews231213_annex2.en.pdf) available on the ECB’s website.
-    
-8.  [Service description](/press/intro/news/html/ecb.mipnews231213_annex3.en.pdf) available on the ECB’s website.
-    
-9.  The [NTW-CG](/paym/integration/distributed/exploratory/html/index.en.html#market) was established in April 2024 to support the Eurosystem’s exploratory work and to ensure an active dialogue with financial market stakeholders. The [Terms of Reference of the NTW-CG](/paym/pdf/ntwcg_terms_of_reference.en.pdf) are available on the ECB’s website.
-    
-10.  See [press release of 20 February 2025.](/press/pr/date/2025/html/ecb.pr250220_1~ce3286f97b.en.html)
-     
-11.  **Distributed ledger technology** (DLT): A technology that enables the operation and use of distributed ledgers (as defined in Article 2(1) of the DLT Pilot Regime Regulation). **Distributed ledger**: An information repository that keeps records of transactions and is shared across, and synchronised between, a set of DLT network nodes using a consensus mechanism (as defined in Article 2(2) of the DLT Pilot Regime Regulation).
-     
-12.  Two dedicated market outreach activities were undertaken in 2022 to help inform the analysis: a questionnaire in May 2022 followed by an interactive multilateral stakeholder engagement meeting in September 2022.
-     
-13.  **Smart contract:** Automatable, “contract-type” arrangement embedded in computer software. The software can validate, execute and record automatically on a DLT platform as soon as certain pre-programmed/predefined conditions have been met, based on information fed into the distributed ledger itself or received from a predefined (external) source.
-     
-14.  [Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU (OJ L 151, 2.6.2022, p. 1)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0858).
-     
-15.  This assumption was confirmed by market stakeholders responding to a questionnaire shared in August 2024 in the context of the exploratory work. The stakeholders highlighted that in the absence of CeBM as settlement asset, the usage of stablecoins as a settlement asset for wholesale markets would emerge.
-     
-
-17.  **Market DLT platform**: DLT platform provided by an eligible market DLT operator where assets are settled and delivered during exploratory work.
-     
-18.  [Guideline (EU) 2022/912 of the European Central Bank of 24 February 2022 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) and repealing Guideline ECB/2012/27 (ECB/2022/8) (OJ L 163, 17.6.2022, p. 84)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELLAR:b84da301-7581-11ed-9887-01aa75ed71a1).
-     
-19.  **Escrow account**: In the context of the exploratory work, an RTGS account held by the national central bank of the eligible participants. In the trials with both the TIPS Hash-Link solution, provided by the Banca d’Italia, and the Full DLT Interoperability solution, provided by the Banque de France, the escrow account was used to provide funding via liquidity transfers (i.e. transfers of CeBM from the participant’s dedicated cash account) and to request the minting of exploratory liquidity. The funds on the escrow account belonged to the national central bank and were held on an intraday only basis.
-     
-20.  Integration of the solutions within the perimeter of TARGET Services was not in the scope of the trials and experiments, which were conducted according to the principle of not changing the current legal, technical and operational framework of TARGET Services.
-     
-21.  ESMIG is the single access point or gateway for all external inbound and outbound communication to all the TARGET Services.
-     
-22.  Trials using the TIPS Hash-Link and Full DLT Interoperability solutions relied on the use of escrow accounts to lock/transfer liquidity from T2.
-     
-23.  **Hashed timelock contract (HTLC)**: A conditional transfer agreement of certain assets where the condition is enforced by the underlying protocol. Time lock ensures that a transaction is time-bounded: the recipient only has a certain amount of time to accept the payment; otherwise, the asset is returned to the sender. Hash lock prevents counterparties to a transfer from claiming the assets without fulfilling the conditions stated in the transaction agreement. The combination of hash lock and time lock ensures secure asset transfer and can be used for delivery versus payment between different chains/protocols.
-     
-24.  **Atomic settlement**: A form of settlement where (i) technical solutions are in place to automatically ensure that either both legs of the transaction are executed or neither leg is executed, and (ii) both legs are executed as close to simultaneously as possible. The concept of atomicity focuses on the technical dimension, rather than on the legal aspects.
-     
-25.  **Delivery versus payment (DvP)**: A securities settlement mechanism which links a securities transfer and a funds transfer in such a way as to ensure that delivery occurs if – and only if – the corresponding payment occurs.
-     
-26.  **Payment versus payment (PvP)**: A mechanism which ensures that the final transfer of a payment in one currency occurs if – and only if – the final transfer of a payment in another currency or currencies takes place.
-     
-27.  **Use case**: For the purposes of this report, a use case is a business scenario implemented technically and operationally during exploratory work in mock settings (experiments) or real settings (trials) with one of the three solutions provided by the Eurosystem. The same scenario implemented across the three solutions counts as three distinct use cases.
-     
-28.  Including market-led trials and experiments, Eurosystem-internal experiments and Eurosystem experiments in collaboration with other central banks.
-     
-29.  A total of 61 participants provided qualitative feedback in a KPI survey and 93 market stakeholders participated in the technical workshop to validate the high-level findings from the exploratory work. For details on the KPIs see “[Proposed learning objectives for the Eurosystem exploratory work and Key Performance Indicators for the assessment of the findings](/paym/groups/ntwcg/pdf/ecb.ntwdocs240125_outcome_written_consultation_6th_ntwcg_meeting.de.pdf?58c377eed548714b12a5dabbcf1decbc)” on the ECB’s website.
-     
-30.  **Interoperability**: The set of arrangements/procedures that allows participants in different systems to conduct and settle payments or securities transactions across systems while continuing to operate only in their own respective systems.
-     
-31.  **Programmability:** The ability to automate processes by predefining actions to be taken if a specific event occurs.
-     
-32.  In 2023, Project Meridian explored the concept of synchronisation through the development of a synchronisation operator – a new entity that was designed to implement the simultaneous transfer of tokenised digital assets and funds in a mock UK housing transaction.
-     
-33.  See “[Project Meridian FX: exploring synchronised settlement in FX](https://www.bis.org/publ/othp94.htm)” on the BIS’s website.
-     
-34.  Programmability of the whole, end-to-end transaction chain was not possible for all transactions, but was instead simulated. This was due to the interfaced nature of the interaction with the CeBM cash leg (i.e. use of escrow accounts). This construct was specific to the operational framework designed for the exploratory work. Two use cases tested programmability deployed directly in the Eurosystem solutions: one in the Trigger Solution (smart contract of derivatives); another in the Full DLT Interoperability (smart contract to enable partial settlement).
-     
-35.  Market stakeholders also referred to the specific implementation of the TIPS Hash-Link solution, where cancellation keys are provided by the Eurosystem via an API gateway to the parties to the transaction. Under certain conditions, these enable the buyer/seller to unlock securities locked on the market DLT during the DvP process.
-     
-36.  For example, this design feature avoided the need for complex temporary rules governing minimum reserve holdings.
-     
-37.  Different approaches were taken across the Eurosystem’s solutions, with either greater responsibility and discretion left to the market on how DvP is implemented (Trigger Solution) or the stronger involvement of the Eurosystem via its technical solution, its interoperability mechanism and the attached onboarding and connectivity requirements (TIPS Hash-Link and Full DLT Interoperability).
-     
-38.  “Conditional transactions” refers to XvP, where the payment is executed atomically in conjunction with the settlement of one or more assets “X” on the market DLT side (two-leg or multi-leg transactions).
-     
-39.  See [press release of 20 February 2025](/press/pr/date/2025/html/ecb.pr250220_1~ce3286f97b.en.html).
-     
-
-Annexes
-
-1 July 2025
-
-[Annex I - Eurosystem developed interoperability-based solutions](/pub/pdf/other/ecb.exploratoryworknewtechnologies202506_annex01.en.pdf)
-
-1 July 2025
-
-[Annex II – Comprehensive overview of trials and experiments](/pub/pdf/other/ecb.exploratoryworknewtechnologies202506_annex02.en.pdf)

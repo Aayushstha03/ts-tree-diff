@@ -1,11 +1,3 @@
-Monetary developments in the euro area: August 2025
-===================================================
-
-*   PRESS RELEASE
-
-Monetary developments in the euro area: August 2025
-===================================================
-
 25 September 2025
 
 Components of the broad monetary aggregate M3
@@ -60,29 +52,3 @@ Adjusted loans to the private sector
 *   Data in this press release are adjusted for seasonal and end-of-month calendar effects, unless stated otherwise.
 *   "Private sector" refers to euro area non-MFIs excluding general government.
 *   Hyperlinks lead to data that may change with subsequent releases as a result of revisions. Figures shown in annex tables are a snapshot of the data as at the time of the current release.
-
-#### Related topics
-
-**Disclaimer** Please note that related topic tags are currently available for selected content only.
-
-CONTACT
-
-European Central Bank
----------------------
-
-### Directorate General Communications
-
-*   Sonnemannstrasse 20
-*   60314 Frankfurt am Main, Germany
-*   [+49 69 1344 7455](tel:+49 69 1344 7455)
-*   [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
-
-Reproduction is permitted provided that the source is acknowledged.
-
-[Media contacts](/press/contacts/html/index.en.html)
-
-Annexes
-
-24 September 2025
-
-[Table: Annex to the press release on monetary developments in the euro area](/press/pdf/md/ecb.md2508_annex~202a59eac2.en.pdf)

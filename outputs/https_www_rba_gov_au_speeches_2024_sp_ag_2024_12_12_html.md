@@ -1,15 +1,3 @@
-The Future of the Payments System | Speeches | RBA
-==================================================
-
-Speech The Future of the Payments System
-========================================
-
-![Photograph of Brad Jones](/assets/images/people/brad-jones.jpg)
-
-**Brad Jones**[\[\*\]](#fn0) Assistant Governor (Financial System)
-
-**AusPayNet Summit 2024** Sydney – 12 December 2024
-
 [Watch video: The Future of the Payments System - Speech delivered by Brad Jones, Assistant Governor (Financial System), AusPayNet Summit 2024, Sydney](https://www.youtube.com/watch?v=gHRoakg2ydM)
 
 Thank you for the invitation to open the batting at this year’s AusPayNet Summit. This forum is always a highlight on the calendar − for industry and policymakers alike − and I am sure this year will be no different.

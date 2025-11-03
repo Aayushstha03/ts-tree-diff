@@ -1,6 +1,36 @@
 <html lang="en"><head>
-
-
+<script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js" data-routing="env=prod,tier=publish,ams=World Bank"></script>
+<script data-rh="true" type="application/ld+json" data-reactroot="">
+    {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Japan-World Bank Program for Mainstreaming Disaster Risk Management in Developing Countries - List of Projects (South Asia)",
+    "uploadDate": "2025-10-15T01:02:07.491",
+    "description": "Japan-World Bank Program for Mainstreaming Disaster Risk Management in Developing Countries - List of Projects (South Asia)",
+    "thumbnailUrl": "https://worldbank.scene7.com/is/image/worldbankprod/drmhub-south-asia",
+    "contentUrl": "",
+    "inLanguage": "en",
+    "duration":"",
+    "author": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "World Bank Group",
+        "url": "http://www.worldbank.org",
+        "sameAs": "[https://twitter.com/WorldBank, http://www.youtube.com/WorldBank, https://www.linkedin.com/company/the-world-bank/, https://www.facebook.com/worldbank, https://www.instagram.com/worldbank/, https://www.flickr.com/photos/worldbank]",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+            "width": 780,
+            "height": 439
+        }
+    }
+}
+</script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" href="/content/dam/wbr-redesign/logos/wbg-favicon.png" type="image/png">
 	<meta name="viewport" content="width=device-width">
@@ -32,9 +62,9 @@
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet" type="text/css">
 
    <link href="/etc/designs/wbrrdesign/clientlibs-wbrredsign/css/print.css" rel="stylesheet" type="text/css" media="print">
-    
-    
-
+    <script src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/jquery-3.6.0.min.js"></script>
+    <script src="/etc/designs/wbr/components/wbgajax.js"></script>
+<script src="//assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/launch-7bc0cdc67098.min.js" async=""></script>
         
 
 </head>
@@ -78,8 +108,36 @@
 <link href="/etc/designs/wbr/clientlibs/css/home-banner.css" type="text/css" rel="stylesheet">
 
 
+<script>
+function wb_survey_yes(url) {
+	wb_note_setcookie('wb_note','1',1);
+	$('#survey').hide();
+	window.open(url,'_blank');
+}
 
+function wb_note_setcookie(cname, cvalue, exdays) {
+	var d = new Date();
+	d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	var expires = "expires="+d.toUTCString();
+	document.cookie = cname + "=" + cvalue + "; " + expires;
+}
 
+function wb_close() {
+	document.getElementById('wb_banner').style.display = 'none';
+	wb_banner_setcookie("wb_banner","1",1);
+};
+
+</script>
+<script>jQuery(document).ready(function($) {
+			var wb_note = document.cookie.replace(/(?:(?:^|.*;\s*)wb_note\s*\=\s*([^;]*).*$)|^.*$/, '$1');
+			if(wb_note != 1) {			
+				$("#banner").show();
+				$('.delete_icon a').click(function() {
+					wb_note_setcookie('wb_note','1',1);
+					$('#banner').hide();					
+				});				
+			}
+		});</script>
 
 
 
@@ -92,9 +150,21 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.css" type="text/css">
 <header></header>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/headerservice/clientlibs/site.js"></script>
  
-<div class="lang-toggler language_toggler parbase"><div class="breadcrumb-section breadcrumb_05" 123style="">
+<script>
+        const headeroptions = {
+            
+			languageToggler: { default: false},
+            
+            languagecode: 'en',
+            enabletrendingdata: true,
+			selector:'header',
+			serviceEndpoint:'/wbg/aem/service/header/en'
+        };
+		populateHeader(headeroptions);
+
+    </script><div class="lang-toggler language_toggler parbase"><div class="breadcrumb-section breadcrumb_05" 123style="">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
@@ -162,7 +232,80 @@
 
 
 <div class="clearix"></div>
+<script>
 
+$(document).ready(function() {
+    
+    var cuurpage = "/content/wb-home/en/data/interactive/2020/03/01/tokyo-drm-hub-south-asia";
+    var pageLocale = "en";
+    
+    var activeLink =$(".breadcrumb_redesign li" ).first().children("a").attr('href');
+    
+    if (typeof activeLink !== 'undefined'){
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        
+        //adedd for D&R to Highlight menu 
+        if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+            activeLink = "/" + activeLink.split("/").slice(3).join("/");                
+        }//end
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            if ($(this).children("a").attr('href') == activeLink){
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    
+    var isCPF = "false";
+    
+    var activeLink = "";
+    
+    if (isCPF == "true" && typeof activeLink !== 'undefined'){		
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            
+            if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+            {
+                $(this).addClass("active");
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+
+
+        var activeLink1 =$(".breadcrumb_redesign li" ).first().children("a").attr('href');
+        
+        if (typeof activeLink1 !== 'undefined'){
+            $(".navbar-collapse>.navbar-nav>li.mega-menu>a, .navbar-collapse>.navbar-nav>li.mega-menu").removeClass("active");
+            
+            //adedd for D&R to Highlight menu 
+            if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+                activeLink1 = "/" + activeLink1.split("/").slice(3).join("/");                
+            }//end
+            $(".navbar-collapse>.navbar-nav>li.mega-menu").each(function(index, obj) {
+                if ($(this).children("a").attr('href') == activeLink1){
+                    $(this).children("a").addClass("active");
+                }
+            });
+        }
+
+        
+        if (isCPF == "true" && typeof activeLink !== 'undefined'){        
+            $(".navbar-collapse>.navbar-nav>li.mega-menu>a, .navbar-collapse>.navbar-nav>li.mega-menu").removeClass("active");
+            $(".navbar-collapse>.navbar-nav>li.mega-menu").each(function(index, obj) {
+                
+                if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+                {
+                    $(this).addClass("active");
+                    $(this).children("a").addClass("active");
+                }
+            });
+        }
+        
+    });
+
+ 
+
+</script>
 
 
 </div>
@@ -251,9 +394,35 @@
     </div>
 </div>
 
+<script>
+    $( document ).ready(function() {
+        var mobileAnchorLabel = $('li a[data-device=mobile].active').html();
+        var mobileAnchorLink = $('li a[data-device=mobile].active').attr('href');
+        
+        if (typeof mobileAnchorLabel != "undefined" && mobileAnchorLink != 'undefined')
+        {	 
 
+            var parentLink = $('.n01v1-nav-list-main li a').attr('href');
+            var parentLabel = $('.n01v1-nav-list-main li a').html();
+            if(typeof parentLink != "undefined" && typeof parentLabel != "undefined")
+            {
+                console.log("parent data:"+ parentLink +"::"+ parentLabel);
+                var pageTitle = $('.c01v1-page-title').html();
+                if (typeof pageTitle != "undefined")
+                {
+                    var parentPageTitle = "<h5 class='mrg-t-10 font hidden-lg hidden-md'>"+ "<a href='"+parentLink+"'>"+parentLabel+"</a></h5>";
+                    $('.c01v1-page-title').before(parentPageTitle);
+                }
+            }
+
+        }
+
+    });
+</script>
 <!-- script for showing parent page link in title end -->
-</div>
+<style>
+    .mrg-15{margin-bottom:-15px;}
+</style></div>
 
 
 
@@ -302,13 +471,14 @@
 
  
 
+<script src="/etc/designs/wbrrdesign/components/audiotracking.js"></script>
 
-
-<div class=""><iframe title="South Asia" aria-label="Table" id="datawrapper-chart-M7Id3" src="//datawrapper.dwcdn.net/M7Id3/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2998"></iframe></div>
+<div class=""><iframe title="South Asia" aria-label="Table" id="datawrapper-chart-M7Id3" src="//datawrapper.dwcdn.net/M7Id3/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2998"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script></div>
 
 
 </div>
-<div class="f03v1_pagetools parbase section">
+<div class="f03v1_pagetools parbase section"><script src="/etc/designs/wbr/components/f03v1_pagetools_clientlib.js"></script>
 <div class=" clearfix">
         <div id="f03v1-social-sharing" class="pagetools" style=";"><div class="btn-group" style="width: 100%;">
         <ul>
@@ -397,7 +567,16 @@
         </div>
         </div>
         </div>
-        
+        <script>
+    var emailcid ="EXT_WBEmailShare_EXT";
+$(document).ready(function() {
+   var body = window.location.href+"?cid="+emailcid;
+    body= encodeURIComponent(body);
+   var subject =$('title').text();
+    subject =  encodeURIComponent(subject);
+	$('#wbgmailto').attr('href','mailto:'+'?body='+body+'&subject='+subject);
+ });
+</script>
 
 </div>
 <div class="gridlayout parbase section">
@@ -493,7 +672,11 @@
         <p><b>List of Projects</b></p><ul><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-portfolio">Interactive Map</a></li><li>Sortable tables<ul><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-global">Global</a><br></li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-africa">Africa&nbsp;</a></li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-eap">East Asia and Pacific</a></li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-eca">Europe and Central Asia</a></li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-lac">Latin America and the Caribbean</a></li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-mena">Middle East, North Africa, Afghanistan, and Pakistan</a></li><li>South Asia</li><li><a href="/en/data/interactive/2020/03/01/tokyo-drm-hub-knowledge-program">Knowledge Program</a></li></ul></li></ul>
 </div></section>
 
-
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".c14v1-body table").find("td").find("div.c14v1-full").closest("td").addClass("width30");
+    });
+</script>
 
 
 
@@ -524,7 +707,12 @@
 
 
 
-</div>
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
 
 
 
@@ -629,9 +817,17 @@
 
 <link rel="stylesheet" href="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.css" type="text/css">
 <footer id="wbg_service_ext_footer"></footer>
-
+<script src="/etc.clientlibs/worldbankgroup/components/global/service/footerservice/clientlibs/site.js"></script>
  
-
+<script>
+        const footeroptions = {
+            languagecode: 'en',
+			selector:'footer',
+			serviceEndpoint:'/wbg/aem/service/footer/en'
+        };
+		populateFooter(footeroptions);
+ 
+    </script>
 
 <!-- <div class="floating-bars">
         <a class="btn btn-help-to-improve " href='https://blogs.worldbank.org/voices/bold-new-worldbankorg'>Welcome</a>
@@ -640,14 +836,37 @@
         <button type="button" class="btn btn-talk-to-help hidden-md hidden-lg" onclick="window.location=''" id="feedbut1">
             Feedback Survey</button>
     </div>-->
-        
+    <script>
+        $(function() {
+            $('[data-ajax-component-banner]').each(function() {
+                var $this = $(this),
+                    url = $this.data('url'),
+                    queryParams = $this.data('ajax-query-parameters');
+                url = url+"?";
+                if (queryParams) {
+                    url +=  queryParams;
+                }
+                $.get(url).success(function(data) {
+                    $this.replaceWith(data);
+                });
+            });
+ 		});
+    </script>    
 	
 
 
 
 
 
+<script type="text/javascript">
+var appInsights=window.appInsights||function(a){
+  function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+  }({
+      instrumentationKey:"2ddee9f8-57ef-4c0e-8810-a2f743116654"
+  });
 
+window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+</script>
 
 
 
@@ -660,6 +879,7 @@
 
 
 
+<script type="text/javascript" src="/etc/designs/wbg/clientlib/js/WebStatsUtil.js?q=nocache"></script>
 
 
 
@@ -667,15 +887,214 @@
 
 
 
+<script>   
+    
+    var filters = [], queryParamValue,section=[],sFilters="",sSection="";
+    var query_string = window.location.search;
+    var paramMap = {
+        'displayconttype_exact': 'type',
+        'topic_exact': 'topic',
+        'admreg_exact':'region',
+        'count_exact':'country',
+        'strdate':'startdate',
+        'enddate':'enddate',
+        'lang_exact':'language',
+        'tf':'timeframe',
+        'docty_exact':'document type',
+        'lang_spoken_exact':'languages spoken',
+        'job_title_exact':'role',
+        'unit_exact':'unit',
+        'first_name_AlphaBucket_exact':'first name',
+        'surname_AlphaBucket_exact':'last name',
+        'sector_exact':'sector',
+        'status_exact':'status',
+        'majdocty_exact':'major document type',
+        'majtheme_exact':'theme',
+        'teratopic_exact':'topic'
+        
+    };
+    
+    if(query_string){
+        var queryPair = query_string.slice(1).split('&');
+        for (var i = 0; i < queryPair.length; i++) {
+            queryParamValue = queryPair[i].split('=')[1];
+            
+            queryParamName = queryPair[i].split('=')[0];
+            
+            if((typeof paramMap[queryParamName]!='undefined')  && (queryParamName!='lang_exact') && (queryParamName!='pastevents') && (queryParamName!='futureevents') && (queryParamName!='srt') && (queryParamName!='qterm') && (queryParamName!='x')&&(queryParamName!='y')){
+                
+                
+                section.push(paramMap[queryParamName]);
+                
+                
+            }
+            
+            
+            if((queryParamName!='qterm') && (queryParamName!='futureevents') && (queryParamName!='pastevents') && (queryParamName!='srt') && (queryParamName!='os') && (queryParamName!='x') && (queryParamName!='lang_exact') &&(queryParamName!='y')){
+                if(queryParamValue != ''){
+                    filters.push(queryParamValue);
+                }
+            }
+        }
+        sFilters = filters.join(':');
+        sSection = section.join(':');
+        
+        sSection = decodeURIComponent(sSection);
+        
+        sSection = sSection.replace(new RegExp("\\+","g"),' ');
+        
+        //s.eVar50= section;
+        
+        sFilters = decodeURIComponent(sFilters);
+        
+        sFilters = sFilters.replace(new RegExp("\\+","g"),' ');
+        //s.list1 =filters;
+    } 
+</script> 
 
- 
 
 
+<script> 
+    var wbgData = wbgData || {};
+    wbgData.page = {
+        pageInfo: {
+            pageName: "en:data:interactive:2020:03:01:tokyo-drm-hub-south-asia",
+            pageCategory: "content page",
+            pageUid: "1c262b26-2d24-4a11-9d19-b81fc6ef0d07", 
+            pageFirstPub: "04-13-2020", 
+            pageLastMod: "10-15-2025", 
+            contentType:"Multimedia",
+            topicTag:"",
+            hier1:"ecrcc~other~data~interactive",
+            channel:"DEC Statistical Capacity Building EXT",
+            webpackage:"",
+            
+        },
+        sectionInfo: {
+            siteSection: "other",
+            subsectionP2:"data",
+            subsectionP3:"interactive",
+            subsectionP4:"",
+            subsectionP5:""
+            
+        }
+    },
+        wbgData.site = {
+            siteInfo: {
+                siteLanguage: "en", 
+                siteCountry: "", 
+                siteEnv: "prod", 
+                userIpaddressType:"10.48.0.8",
+                siteRegion:"",
+                siteType:"main",
+            },
+            
+            techInfo: {
+                cmsType: "AEM",
+                bussVPUnit: "EXT",
+                bussUnit: "ECRCC",
+                bussUserGroup: "External",
+                bussAgency: "ibrd"
+            }
+            
+			  
+            
+            
+        }
+        
+        
+        
+         
+            
+            
+            
+            
+            
+                
+</script>
 
 
-
-
-
+<script type="text/javascript">
+    var wbgDataOld = {};
+    wbgDataOld.page= {
+        pageInfo: {
+            pageName: "en:data>interactive>2020>03>01>tokyo-drm-hub-south-asia",
+            pageTitle:"Japan-World Bank Program for Mainstreaming Disaster Risk Management in Developing Countries - List of Projects (South Asia)",
+            pageDate:"2025/09/15",
+            hier1: "ecrcc~other~data~interactive", 
+            hier2: "wbg~en~english~other~data~interactive",
+            server:"10.48.0.136",
+            channel:"DEC Statistical Capacity Building EXT"
+            
+        },
+        docInfo: {
+            docAuthor: "",//Document author  						  
+            docDate:"",//Document date					  
+            docRegion:"",//Region								  
+            docCountry:"" 
+        },
+        
+        teragramInfo: {													 	
+            teragramTopic:"",  										  
+            teragramKeyword:""	
+        },
+        siteInfo: {
+            siteSection:"other",                                 
+            subSection1:"other~data",						      
+            subSection2:"other~data~interactive",              
+            subSection3:"other~data~interactive",              
+            siteLanguage:"English",                                        
+            siteRank:"1",											  
+            contentType:"data"   										  
+        },
+        packageInfo:{
+            
+            webpackage:""
+            
+        },
+        
+        
+        
+           
+            vpuInfo: {
+                vpuLegacy:"EXT",											 
+                    vpu:"ECRCC"													 
+            },
+                
+    }
+    
+    
+    
+    
+    
+    
+    var opsAanalytics ={
+        "projectId" :"NODATA", 
+        "upi":"NODATA",
+        "pageName":"other", 
+        "tabName":"other", 
+        "serverDate":"",  
+        "clientDate":new Date().getTime(), 
+        "totalResponseTime":"",
+        "pageUrl":(document.URL).replace("https://","").replace("http://",""),
+        "userAgent" :navigator.userAgent,
+        "server":"www.worldbank.org", 
+        "appId":"wbgext", 
+        "key1":"data",
+        "key2":"interactive",
+        "key3":"",
+        "key4":"",
+        "key5":"",
+        "key6":"Anonymous",
+        "key7":"",
+        "key8":"",
+        "key9":"", 
+        "key10":""
+    };
+    
+    
+    
+</script>
 
 
 
@@ -688,17 +1107,42 @@
 
 
 
-    
+<style>
+        button.editMode {
+            border: 0px;
+            line-height: 16px;
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            font-size: 12px;
+            padding: 10px 22px;
+            position: fixed;
+            right: 5%;
+            float: right;
+            background-color: #39beea;
+            top: 64px;
+            z-index: 1111;
+            right: 98px;
+        }
+    </style>    
 
-   
+ <script>
+        function togglePreviewMode(){
+            var previewURL = window.location.href;
+            previewURL = previewURL.replace("/content","/cf#/content");
+            previewURL = previewURL.replace("?wcmmode=disabled","");
+            window.open(previewURL, "_self"); 
+            }
+   </script>  
 
 
 
 
- 
+ <script src="/etc/designs/wbrrdesign/clientlibs-wbrredsign.js"></script>
 <div data-ajax-component-wbg="" data-url="/wbg/aem/service/ampopup" data-ajax-query-parameters="language=en&amp;pageName=/wb-home/en/data/interactive/2020/03/01/tokyo-drm-hub-south-asia"></div>
 
-
+<script type="text/javascript">_satellite.pageBottom();</script>
 
         <div class="cloudservices servicecomponents">
 </div>

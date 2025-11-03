@@ -1,31 +1,3 @@
-Latest results from the Decision Maker Panel survey - 2025 Q1 | Bank of England
-===============================================================================
-
-Latest results from the Decision Maker Panel survey - 2025 Q1
-=============================================================
-
-The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views. This is a summary of results up until February 2025.
-
-![](/-/media/boe/images/icons/aqua-background/dmp-survey-price-growth.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=5393E46562F6045F1401902DBB698ABC)
-
-### Price growth
-
-Firms’ year-ahead expected price growth has edged above realised price growth.
-
-![](/-/media/boe/images/icons/h/hand-holding-money-bag.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=76F1A2D1597A81E0A2A04B25D5BF1325)
-
-### Wage expectations
-
-Firms’ expected wage growth has remained unchanged since July 2024.
-
-![](/-/media/boe/images/icons/c/chart-9.svg?h=40&iar=0&mh=40&mw=40&w=40&hash=F88DB78A1626F18C2BFDE476F2B8D65E)
-
-### Employment expectations
-
-Employment growth is expected to fall over the year ahead.
-
-Published on 20 March 2025
-
 Output price inflation
 ----------------------
 
@@ -134,7 +106,3 @@ Further [monthly data from the February survey](https://www.bankofengland.co.uk/
 The panel was set up in August 2016. It is run by the Bank of England in collaboration with King’s College London and the University of Nottingham. It was designed to be representative of the population of UK businesses. All results are weighted using employment data. See [Bunn et al (2024)](https://www.bankofengland.co.uk/working-paper/2024/the-decision-maker-panel-a-users-guide) for more details.
 
 The DMP receives funding from the Economic and Social Research Council.
-
-Convert this page to PDF
-
-[Back to top](#)

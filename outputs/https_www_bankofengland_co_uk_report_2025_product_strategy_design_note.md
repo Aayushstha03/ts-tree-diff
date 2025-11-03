@@ -1,13 +1,3 @@
-Design note – Product strategy | Bank of England
-================================================
-
-Design note - Product strategy
-==============================
-
-This design note outlines the Bank's emerging thinking on the product strategy for a potential digital pound.
-
-Published on 16 July 2025
-
 This design note outlines the Bank’s emerging thinking on the product strategy for a potential digital pound. It forms part of the design phase and contributes to the development of a blueprint that will inform a future decision on whether to proceed with a digital pound. This note is exploratory and does not represent final policy or design decisions.
 
 Design notes
@@ -107,6 +97,9 @@ As an **individual**, I can receive a refund immediately once a returned good ha
 As a **business**, I can receive digital pound payments in real time and use them immediately to purchase goods and services (experience, end-user control).
 
 #### Footnotes
+
+*   (a) As stated in the ‘commercial bank deposits’ section in the Interoperability design note, this use case would only be possible if the merchant can accept account-to-account payments.
+*   (b) As set out in our design principles, a digital pound could not be programmed by the Bank or the Government. Legislation introduced by the Government for a digital pound would guarantee that the Bank and the Government would not program users’ digital pounds.
 
 Digital pound product roadmap
 -----------------------------
@@ -273,97 +266,3 @@ Further updates on the design phase and related publications are available on [T
 4.  For example, stablecoins, other central bank digital currencies (CBDCs) and A2A payments.
     
 5.  As demonstrated in our PoS proof of concept, existing PoS terminals may not require any software updates to accept digital pound payments, but this could have significant operational, legal, and commercial implications that were not tested in the [PoS experiment](https://www.bankofengland.co.uk/report/2024/point-of-sale-proof-of-concept).
-    
-
-As demonstrated in our PoS proof of concept, existing PoS terminals may not require any software updates to accept digital pound payments, but this could have significant operational, legal, and commercial implications that were not tested in the [PoS experiment](https://www.bankofengland.co.uk/report/2024/point-of-sale-proof-of-concept).
-
-Close
-
-For example, stablecoins, other central bank digital currencies (CBDCs) and A2A payments.
-
-Close
-
-Report produced by BCG for the Bank of England on the UK retail payment market and considerations for the digital pound.
-
-Close
-
-See interoperability design note for more information on how the digital pound can be exchanged between commercial bank deposits and cash.
-
-Close
-
-Closer to the launch of a digital pound, we would establish a more detailed plan for the Initial stage including a more precise expected duration, which would be communicated with potential intermediaries, businesses, and the public.
-
-Close
-
-Convert this page to PDF
-
-Other publications
-------------------
-
-[
-
-Publication // Weekly report
-
-30 October 2025
-
-### Bank of England Weekly Report 29 October...
-
-### Bank of England Weekly Report 29 October 2025
-
-
-
-
-
-](/weekly-report/2025/29-october-2025)
-
-[
-
-Publication // Wholesale cash distribution
-
-30 October 2025
-
-### The Bank of England’s wholesale cash distribution...
-
-### The Bank of England’s wholesale cash distribution market oversight regime - Annual Report 2025
-
-
-
-
-
-](/banknotes/wholesale-cash-supervision/boe-wholesale-cash-distribution-market-oversight-regime-annual-report-2025)
-
-[
-
-Publication // Working Paper
-
-24 October 2025
-
-### Wage information and applicant selection
-
-### Wage information and applicant selection
-
-
-
-
-
-](/working-paper/2025/wage-information-and-applicant-selection)
-
-[
-
-Publication // Working Paper
-
-24 October 2025
-
-### Credit constraints and the redistribution...
-
-### Credit constraints and the redistribution of housing wealth
-
-
-
-
-
-](/working-paper/2025/credit-constraints-and-the-redistribution-of-housing-wealth)
-
-[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&InfiniteScrolling=False&Direction=Latest)
-
-[Back to top](#)

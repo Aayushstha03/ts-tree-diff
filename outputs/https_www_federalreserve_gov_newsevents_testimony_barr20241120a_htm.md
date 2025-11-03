@@ -1,25 +1,3 @@
-Testimony by Vice Chair for Supervision Barr on supervision and regulation - Federal Reserve BoardLock
-======================================================================================================
-
-Testimony
----------
-
-[PDF](/newsevents/testimony/files/barr20241120a.pdf)
-
-**Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.**
-
-November 20, 2024
-
-### _Supervision and Regulation_
-
-Vice Chair for Supervision Michael S. Barr
-
-Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
-
-*   [Share](# "Share")
-
-[Watch Live](https://financialservices.house.gov/)
-
 Chairman McHenry, Ranking Member Waters, and other members of the Committee, thank you for the opportunity to testify on the Federal Reserve's supervisory and regulatory activities. Accompanying my testimony is the Federal Reserve's semiannual [_Supervision and Regulation Report_](https://www.federalreserve.gov/publications/supervision-and-regulation-report.htm). Today, I will discuss current conditions in the banking sector, and our recent supervisory and regulatory activities.
 
 **Banking Conditions** Overall, the banking system remains sound and resilient. Banks continue to report capital and liquidity ratios above minimum regulatory levels, and asset quality generally remains sound. Bank lending has continued to grow, albeit at a modest pace that reflects decreased demand and tighter lending standards than we have seen since early last year.
@@ -43,12 +21,3 @@ Last year, the bank regulatory agencies also invited comment on a proposal to re
 These initiatives have been joint efforts among the Federal Reserve, FDIC, and OCC, and we look forward to that continued collaboration next year. We will continue to seek an approach that helps to ensure financial system resilience and supports the flow of credit to households and businesses through the economic cycle.
 
 Thank you. I am happy to take your questions.
-
-##### Related Content
-
-*   [Congressional Hearing Transcripts](http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CHRG)
-*   Hearing transcripts are posted to this website as they become available.
-
-[Back to Top](# "Scroll To Top")
-
-Last Update: November 19, 2024

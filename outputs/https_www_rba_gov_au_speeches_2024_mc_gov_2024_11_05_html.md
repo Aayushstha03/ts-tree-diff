@@ -1,17 +1,3 @@
-Monetary Policy Decision | Speeches | RBA
-=========================================
-
-Media Conference Monetary Policy Decision
-=========================================
-
-**Michele Bullock** Governor
-
-Sydney – 5 November 2024
-
-*   [Audio 39.8MB](/speeches/2024/audio/mc-gov-2024-11-05-audio.mp3 "Downloadable audio file of Media Conference held on 5 November 2024.")
-
-[Watch video: Media Conference – Monetary Policy Decision, Sydney](https://youtu.be/3E63hcw2t48)
-
 Transcript
 ----------
 
@@ -244,24 +230,3 @@ Governor, Michael Heath from Bloomberg News. In the statement on monetary policy
 Well, there’s a lot of uncertainty around those neutral rates, as you highlight. I think the point I would draw - I don’t want to get drawn on how low interest rates will go - but I will make the point that the interest rates that we saw through COVID, unless we’re back in another absolutely disastrous situation, that is not normal. Interest rates around the world and in Australia in that period were at emergency lows. So when interest rates are coming down overseas, as they are, and if and when they start to come down in Australia, they’re not going back where they were in COVID. The neutral way is one way of thinking about that, but I wouldn’t like to put too much of a precise point on what the neutral rate is and therefore that’s where we’re heading because I think it’s very difficult and it’s very uncertain. But you’re quite right to make the point that they’re not going back to where they were in COVID. That was emergency settings.
 
 Thank you all. Thanks.
-
-More on the November 2024 monetary policy decision...
------------------------------------------------------
-
-### Reserve Bank Board Statement
-
-The Board decided to leave the cash rate target unchanged at 4.35 per cent.
-
-[Monetary Policy Board Statement](/media-releases/2024/mr-24-24.html)
-
-### Monetary Policy Minutes
-
-Minutes of the Reserve Bank Board meeting, published two weeks after the decision.
-
-[Monetary Policy Minutes](/monetary-policy/rba-board-minutes/2024/2024-11-05.html)
-
-### Statement on Monetary Policy
-
-The RBA's assessment of the economy that the Board considered in making its decision.
-
-[Statement on Monetary Policy](/publications/smp/2024/nov/)

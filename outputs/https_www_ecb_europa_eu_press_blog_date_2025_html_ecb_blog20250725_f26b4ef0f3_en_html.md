@@ -1,14 +1,4 @@
-Time to be strategic: how public money could power Europe’s green, digital and defence transitions
-==================================================================================================
-
-*   THE ECB BLOG
-
-Time to be strategic: how public money could power Europe’s green, digital and defence transitions
-==================================================================================================
-
 25 July 2025
-
-By Othman Bouabdallah, Ettore Dorrucci, Carolin Nerlich, Christiane Nickel and Aurelian Vlad
 
 Following the June NATO summit, Europe is confronting heightened challenges in financing its green, digital and defence transitions as new defence commitments place increased pressure on national and EU budgets. Balancing strategic priorities with debt sustainability is crucial. This blog outlines a three-pronged strategy: (i) relying on existing fiscal mechanisms; (ii) additional fiscal measures at the national level; and (iii) fostering a more cohesive and productive Europe.
 
@@ -141,54 +131,3 @@ _The views expressed in each blog entry are those of the author(s) and do not ne
 [**Check out**](/press/blog/html/index.en.html) The ECB Blog and [**subscribe**](/press/blog/html/register.en.html) for future posts.
 
 For topics relating to banking supervision, why not have a look at [**The Supervision Blog**](https://www.bankingsupervision.europa.eu/press/blog/html/index.en.html)
-
-1.  The additional public and private spending needs are estimated as the difference between (i) total strategic spending needs and (ii) historical strategic spending for the green, digital and defence transitions in the EU. For methodological details, see Bouabdallah, O., Dorrucci, E., Hoendervangers, L. and Nerlich, C. (2024), “[Mind the gap: Europe’s strategic investment needs and how to support them](/press/blog/date/2024/html/ecb.blog240627~2e939aa430.en.html)”, _The ECB Blog_, ECB, 27 June; and Draghi, M. (2024), “[The future of European Competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)”, European Commission, September.
-    
-2.  The figure of €1,200 billion per year is updated with the latest estimates by the European Commission on the green and digital transitions and the outcome of the June 2025 NATO summit. The cut-off date for our calculations is 18 July 2025. The digital investment needs also take into account digital innovation in line with the Draghi report (2024). EU funding for the green transition includes revenues from the [EU Emissions Trading System (ETS)](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en), which are earmarked for use by Member States in the green transition. EU funding for defence includes the new EU instrument [Security Action for Europe (SAFE)](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1340), the repurposing of cohesion funds and a larger share of defence spending in the new multiannual financial framework. The investment need estimates are subject to a high degree of uncertainty and do not account for potential spillover effects between the three transitions.
-    
-3.  The chosen period (2025-31) reflects the EU economic governance reform introduced in 2024, which envisaged the adoption by Member States of medium-term fiscal-structural plans lasting up to seven years.
-    
-4.  See [The Hague Summit Declaration](https://www.nato.int/cps/en/natohq/official_texts_236705.htm) of 25 June 2025: “Allies will allocate at least 3.5% of GDP annually (…) by 2035 to resource core defence requirements (…). And Allies will account for up to 1.5% of GDP annually to _inter alia_ protect our critical infrastructure, defend our networks, ensure our civil preparedness and resilience, unleash innovation, and strengthen our defence industrial base”.
-    
-5.  For the four non-NATO EU members (Ireland, Cyprus, Malta and Austria), it is assumed that they will increase their defence spending to reach the current NATO spending average of 2% of GDP by 2035.
-    
-6.  As discussed above, the amount of €510 billion annually represents the 43% public share of €1,200 billion per year and corresponds to the yellow and red bars in Chart 1.
-    
-7.  With respect to Chart 1, the status quo includes all existing EU public financing mechanisms (yellow bars) and the share of the public funding gap that could be financed from existing national sources, which is a fraction of the red bars.
-    
-8.  The EU countries with officially recognised fiscal space are Estonia, Ireland, Cyprus, Latvia, Luxembourg and the Netherlands (all in the euro area) and Denmark and Sweden (outside the euro area). Based on the recently reformed EU fiscal governance framework, fiscal space can be defined as the flexibility available to a Member State within its medium-term fiscal adjustment plan to increase spending or reduce taxes while adhering to the revised fiscal rules. These rules emphasise debt sustainability, country-specific fiscal trajectories defined in terms of compliance with net expenditure paths, and a focus on balancing growth-friendly investments with prudent fiscal management.
-    
-9.  On top of this mechanism, it should be borne in mind that, once the adjustment phase is over, the new SGP will allow a structural public deficit of 1.5% of GDP – a higher ceiling than before. This will create up to one percentage point of additional fiscal space for strategic investment.
-    
-10.  The extension of the plans from four to seven years has been requested by Belgium, Germany, Spain, France, Italy, Austria, Romania and Finland. Given the cut-off date of this blog (18 July 2025), we were not able to assess the exact trajectory embedded in the finalised medium-term fiscal plan of Germany. Therefore, the technical trajectory used for Germany is based on the European Commission’s Spring 2025 forecast.
-     
-11.  The 16 countries that have made use of the NEC so far are Belgium, Bulgaria, the Czech Republic, Denmark, Germany, Estonia, Greece, Croatia, Latvia, Lithuania, Hungary, Poland, Portugal, Slovenia, Slovakia and Finland. Other EU members may resort to the NEC in the coming years.
-     
-12.  Owing to the relatively small size of most of these countries (with the notable exception of Germany), the additional fiscal space that the NEC could generate between 2025 and 2028 period is estimated to be around €110 billion per year on average.
-     
-13.  For a comprehensive assessment of the available EU toolkit to finance higher defence spending, see Ardagna, S., Cena, M. and Nadra-Yazji, S. (2025), “Europe plays defence (II)”, _Euro Themes_, Barclays, 20 June.
-     
-14.  See Blanchard, O. (2025), “La-France doit créer un impôt spécial pour financer l’effort de réarmement”, interview, _Les Echos_, 7 May; and Vallée, S. and de Weck, J. (2025), “[Europe does not have to choose between guns and butter. There is another way](https://www.theguardian.com/commentisfree/2025/jul/07/europe-guns-butter-defence-spending-welfare-state?CMP=Share_iOSApp_Other)”, _The Guardian_, 7 July.
-     
-15.  As illustrated in Chart 2, the budgetary flexibility currently allowed under the NEC will only remain in place until 2028. Beyond that year, financing higher defence spending will need to become a permanent feature of national budgets. Chart 2, panel a) shows that, in line with the EU fiscal rules, the adoption of the NEC only shifts debt consolidation requirements over time (yellow versus blue lines in the chart). In the absence of consolidation, debt would become unsustainable (red line). Chart 2, panel b) complements the picture by indicating the fiscal adjustment needs before (blue bars) and after (yellow bars) the adoption of the NEC. In the absence of innovative European solutions, individual countries could only implement this adjustment via higher taxation or lower non-defence expenditure.
-     
-16.  See, for instance, Anev Janse, K. and Beetsma, R. (2024), “[Financing Europe’s grand ideas](https://cepr.org/voxeu/columns/financing-europes-grand-ideas)”, _VoxEU_, 13 November. Anev Janse and Beetsma propose maximising the capacity of EU financial instruments such as the European Stability Mechanism (ESM), European Investment Bank (EIB) and unused portions of the Next Generation EU (NGEU) programme.
-     
-17.  A reform of the EU budget in the next cycle is also proposed in Darvas, Z., Dom, R., Lappe, M-S., Saint-Amans, P. and Steinbach, A. (2025), “[Bigger, better funded and focused on public goods: how to revamp the European Union budget](https://www.bruegel.org/book/bigger-better-funded-and-focused-public-goods-how-revamp-european-union-budget)”, _Blueprint Series_, No 37, Bruegel, 10 July.
-     
-18.  The most advanced and comprehensive proposal on joint military procurement can be found in Wolff, G.B., Steinbach, A. and Zettelmeyer, J. (2025), “[The governance and funding of European rearmament](https://www.bruegel.org/policy-brief/governance-and-funding-european-rearmament)”, _Policy Brief_, No 15/2025, Bruegel, 7 April. These authors propose the establishment of a European Defence Mechanism (EDM), which would not only act as a defence procurement agent but also issue common debt and retain ownership of the procured military equipment, with participating countries paying a service fee to access these assets.
-     
-19.  In the context of European military expenditure, “strategic enablers” refers to critical capabilities and resources that support the effective planning and execution of military operations, thereby enhancing operational readiness among Member States. Key examples include logistics, transport and mobility, intelligence, and cybersecurity.
-     
-20.  Military interoperability is the ability of different military forces, systems or organisations to operate together effectively, sharing information, resources and procedures to achieve common objectives.
-     
-21.  A public good can be defined as a good from which everybody benefits and where the benefits for one individual do not reduce the benefits for others. It is argued that investments in the three transitions require a response not only at national but also at European level, as underinvestment in some EU countries would produce negative externalities in other countries and ultimately affect all EU citizens. The case for strategic investment in European public goods is made, for instance, in Panetta, F. (2022), “[Investing in Europe’s future: The case for a rethink](/press/key/date/2022/html/ecb.sp221111~9dfd501542.en.html)”, speech delivered at the Istituto per gli Studi di Politica Internazionale (ISPI), Milan, 11 November.
-     
-22.  In addition to EU-wide initiatives, there could also be scope for common issuance by sub-groups of countries in the context of possible “coalition of the willing” shared investment projects. See Lane, P. (2025), “[The monetary agenda at the ECB](/press/key/date/2025/html/ecb.sp250709~7ce2ac26a7.en.html)”, remarks at the House of the Euro, Brussels, 9 July.
-     
-23.  See, among others, Lagarde, C. (2025), “[Earning influence: lessons from the history of international currencies](/press/key/date/2025/html/ecb.sp250526~d8d4541ce5.en.html)”, speech at an event on Europe’s role in a fragmented world organised by Jacques Delors Centre at Hertie School, Berlin, 26 May; Lane, P. (2025), “[The euro area bond market](/press/key/date/2025/html/ecb.sp250611_1~cd38594925.en.html)”, keynote speech at the Government Borrowers Forum 2025, Dublin, 11 June; and Blanchard, O. and Uribe, Á. (2025), “[Now is the time for Eurobonds: A specific proposal](https://www.piie.com/blogs/realtime-economics/2025/now-time-eurobonds-specific-proposal)”, _RealTime Economics_, Peterson Institute for International Economics, 30 May.
-     
-
-#### Related topics
-
-**Disclaimer** Please note that related topic tags are currently available for selected content only.
