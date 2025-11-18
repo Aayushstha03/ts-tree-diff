@@ -54,24 +54,9 @@ export async function processArticles(urls: string[]) {
 		const notFoundTree = new DomTree(notFoundHtmlRaw);
 
 		// For now, just print root tags and text lengths
-		console.log(
-			"Article root tag:",
-			articleTree.root.tag,
-			"text length:",
-			articleTree.root.extractText().length,
-		);
-		console.log(
-			"Homepage root tag:",
-			homepageTree.root.tag,
-			"text length:",
-			homepageTree.root.extractText().length,
-		);
-		console.log(
-			"404 root tag:",
-			notFoundTree.root.tag,
-			"text length:",
-			notFoundTree.root.extractText().length,
-		);
+		console.log("Article root tag:", articleTree.root.tag);
+		console.log("Homepage root tag:", homepageTree.root.tag);
+		console.log("404 root tag:", notFoundTree.root.tag);
 
 		// Collect normalized labels from homepage and 404 DOMs
 		function collectLabels(node: DomNode, set: Set<string>) {
@@ -109,7 +94,7 @@ export async function processArticles(urls: string[]) {
 		const uniqueHtmls = collectUniqueHtml(articleTree.root);
 		let uniqueHtml = uniqueHtmls.join("<br>\n");
 		console.log(`Collected ${uniqueHtmls.length} unique HTML blocks.`);
-		// uniqueHtml = cleanHtml(uniqueHtml);
+		uniqueHtml = cleanHtml(uniqueHtml);
 		console.log("Cleaned unique HTML.");
 
 		// Convert unique HTML to Markdown

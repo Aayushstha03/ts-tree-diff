@@ -9,7 +9,7 @@
  * - DomTree and DomNode classes for DOM traversal, labeling, and comparison
  * - Methods for extracting normalized representations and text from DOM nodes
  *
- * Used for DOM diffing, content extraction, and HTML analysis in scripts and pipelines.
+ * Used for DOM diffing
  */
 
 import * as cheerio from "cheerio";
@@ -180,38 +180,65 @@ export class DomNode {
 			.join("");
 		return `<${this.tag}${attributeString}>${text}${internalElements}</${this.tag}>`;
 	}
+}
 
-	extractText(): string {
-		// Find <body> if present
-		let node = this.el;
-		const body = this.$("body").get(0);
-		if (body) node = body;
-		const text = this._extractText(node).join("");
-		return normalizeString(text);
+/**
+ * Given three raw HTML strings (article, homepage, notFound),
+ * return the cleaned/normalized unique HTML for the article by
+ * diffing against the homepage and not-found DOMs.
+ */
+export function extractUniqueNormalizedHtml(
+	articleHtmlRaw: string,
+	homepageHtmlRaw: string,
+	notFoundHtmlRaw: string,
+): string {
+	const articleTree = new DomTree(articleHtmlRaw);
+	const homepageTree = new DomTree(homepageHtmlRaw);
+	const notFoundTree = new DomTree(notFoundHtmlRaw);
+
+	const homepageLabels = new Set<string>();
+	const notFoundLabels = new Set<string>();
+
+	function collectLabels(node: DomNode, set: Set<string>) {
+		set.add(node.normalizedRepresentation());
+		for (const child of node.getchildren()) {
+			collectLabels(child, set);
+		}
 	}
 
-	private _extractText(node: any): string[] {
-		const result: string[] = [];
-		this.$(node)
-			.children()
-			.each((_, child: any) => {
-				if (BLACKLIST_TAGS.has(child.tagName)) return;
-				// Block element?
-				const isBlock = !INLINE_ELEMENTS.has(child.tagName);
-				if (isBlock) result.push("\n");
-				if (child.tagName === "li") result.push(`${LIST_INDICATOR_CHAR} `);
-				const childText = this.$(child)
-					.contents()
-					.filter(function (this: any) {
-						return this.type === "text";
-					})
-					.text();
-				if (childText?.trim()) result.push(childText);
-				if (child.tagName === "br") result.push("\n");
-				else result.push(...this._extractText(child));
-				// Cheerio does not have tail, but we can get next sibling's text if needed
-				if (isBlock) result.push("\n");
-			});
-		return result;
+	collectLabels(homepageTree.root, homepageLabels);
+	collectLabels(notFoundTree.root, notFoundLabels);
+
+	function collectUniqueHtml(node: DomNode): string[] {
+		const label = node.normalizedRepresentation();
+		if (homepageLabels.has(label) || notFoundLabels.has(label)) {
+			return [];
+		}
+		if (typeof node.toHtml === "function") {
+			return [node.toHtml()];
+		}
+		let results: string[] = [];
+		for (const child of node.getchildren()) {
+			results = results.concat(collectUniqueHtml(child));
+		}
+		return results;
 	}
+
+	const uniqueHtmls = collectUniqueHtml(articleTree.root);
+	const uniqueHtml = uniqueHtmls.join("<br>\n");
+	return uniqueHtml;
+}
+
+function getDomain(url: string): string {
+	try {
+		const u = new URL(url.startsWith("http") ? url : `https://${url}`);
+		return u.origin;
+	} catch {
+		throw new Error(`Invalid URL: ${url}`);
+	}
+}
+
+function get404Url(url: string): string {
+	const domain = getDomain(url);
+	return `${domain}/error_page_hehe`;
 }

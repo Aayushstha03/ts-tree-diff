@@ -278,7 +278,7 @@ export function cleanHtml(html: string): string {
 	const $ = cheerio.load(html);
 
 	// Remove script and style elements
-	$("script, style").remove();
+	$("style").remove();
 
 	// Remove inline styles
 	$("*").removeAttr("style");
@@ -293,6 +293,9 @@ export function cleanHtml(html: string): string {
 	$("nav").remove();
 	$('[class*="nav"]').remove();
 	$('[id*="nav"], [id*="menu"], [id*="footer"], [id*="header"]').remove();
+
+	// remove footers
+	$("footer").remove();
 
 	// Clean up empty tags
 	const cleanedHtml = removeEmptyTags($.html());

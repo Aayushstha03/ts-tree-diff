@@ -1,0 +1,85 @@
+<html lang="en" class="no-js">
+<head></head>
+<body>
+<div id="content" class="container container__main" role="main">
+        <div class="row">
+            <div class="page-header">
+                <div class="header-group">
+                    <div id="page-title" class="page-title">
+                        <h2>
+                            Board Meetings  
+                        </h2>
+                    </div>
+                    <div class="shareDL">
+                        <a href="/feeds/boardmeetings.xml" class="btn btn-default shareDL__button">
+                            <span class="icon icon__sm icon--centered icon-RSS"></span>
+                            <span class="shareDL__iconTitle">RSS</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <noscript>
+<div class="js-disabled text-center">
+    <span class='icon icon-alert icon--jsAlert'></span>
+    <span><strong>Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.</strong> </span>
+</div>
+</noscript>
+        </div>
+        <div class="row" ng-app="neApp">
+                <div class="col-xs-12 col-sm-8">
+                    <p>The Board of Governors meets regularly, typically every other Monday. The public is invited to attend meetings that are open under the Government in the Sunshine Act.</p>
+                    <a href="/aboutthefed/board-meeting-sunshine.htm">Government in the Sunshine: A Guide to Board Meetings</a>
+                    <a href="/monetarypolicy/fomccalendars.htm">FOMC Meetings</a>
+                </div>
+                <div class="col-xs-12 col-sm-8 col-md-10 angularEvents" ng-include="'neForm.html'">
+                </div>
+                <div class="nojsEvents col-xs-12 col-sm-8 col-md-8 js__Hide">
+                    <h3>View Board Meetings by Year:</h3>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2 hidden-sm"></div>
+                <div id="article" class="col-xs-12 col-sm-8 col-md-8">
+                    <div class="angularEvents meetings" ng-include="'meetings.html'">
+                    </div>    
+                    <div class="nojsEvents meetings js__Hide">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <ul class="list-unstyled panel-body__list">
+                                        <a href="/aboutthefed/boardmeetings/2025-boardmeeting.htm">2025</a>
+                                        <a href="/aboutthefed/boardmeetings/2024-boardmeeting.htm">2024</a>
+                                        <a href="/aboutthefed/boardmeetings/2023-boardmeeting.htm">2023</a>
+                                        <a href="/aboutthefed/boardmeetings/2022-boardmeeting.htm">2022</a>
+                                        <a href="/aboutthefed/boardmeetings/2021-board-meetings.htm">2021</a>
+                                        <a href="/aboutthefed/boardmeetings/2020-board-meetings.htm">2020</a>
+                                        <a href="/aboutthefed/boardmeetings/2019-board-meeting.htm">2019</a>
+                                        <a href="/aboutthefed/boardmeetings/2018-board-meetings.htm">2018</a>
+                                        <a href="/aboutthefed/boardmeetings/2017-board-meetings.htm">2017</a>
+                                        <a href="/aboutthefed/boardmeetings/board-meeting-archive.htm">Board Meetings Archive</a>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <ul uib-pagination="" aria-label="pagination" ng-show="filtered.length !==0" class="hidden-xs" total-items="total" ng-model="currentPage" max-size="8" items-per-page="itemsPerPage" ng-change="pageChanged()" rotate="false"></ul><ul uib-pagination="" aria-label="pagination" ng-show="filtered.length !==0" class="visible-xs-inline-block" total-items="total" ng-model="currentPage" max-size="4" items-per-page="itemsPerPage" ng-change="pageChanged()" rotate="false"></ul>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+<div class="panel panel-related">
+    <div class="panel-heading">
+        <h5 class="panel-title text-capitalize">Related Content</h5>
+    </div>
+    <div class="panel-body">
+        <ul class="panel__list list-unstyled"> 
+                <li class="panel__listItem"><a href="/aboutthefed/bios/board/default.htm">Board Members</a></li>
+                <li class="panel__listItem"><a href="/aboutthefed/boardvotes.htm">Board Votes</a></li>
+        </ul>
+    </div>
+</div>
+                </div>
+        </div> 
+        <a id="back-top" class="icon__backTop icon-backtop" href="#" title="Scroll To Top"><span class="sr-only">Back to Top</span></a>
+        <div class="row">
+            <div class="lastUpdate" id="lastUpdate">Last Update:
+                            March 14, 2017
+            </div>
+        </div>
+    </div>
+</body>
+</html>
