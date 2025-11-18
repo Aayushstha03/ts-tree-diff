@@ -42,8 +42,8 @@ export async function fetchHtmlCached(url: string): Promise<string> {
 	}
 }
 
-// Example usage:
-(async () => {
-	const html = await fetchHtmlCached("https://www.bbc.com/");
-	console.log(html.slice(0, 500));
-})();
+// // Example usage:
+// (async () => {
+// 	const html = await fetchHtmlCached("https://www.bbc.com/");
+// 	console.log(html.slice(0, 500));
+// })();
