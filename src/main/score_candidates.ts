@@ -90,12 +90,17 @@ export class MainContentScorer {
             score += calculateSemanticScore($);
             score += punctuationScore($);
 
+            console.log(`foundBy: ${candidate.foundBy}`);
+            console.log(`score: ${score}`);
+
             if (score > bestScore) {
                 bestScore = score;
                 bestCandidate = { ...candidate, score };
             }
         }
-        console.log(bestCandidate);
+        console.log(`found by : ${bestCandidate?.foundBy}`);
+        console.log(`score : ${bestCandidate?.score}`);
+        console.log(`id : ${bestCandidate?.id}`);
         return bestCandidate;
     }
 }

@@ -26,117 +26,12 @@ Manage your account
 
 ](https://login.yahoo.com/myaccount/overview?lang=en-US&activity=ybar-acctinfo)
 
-*   [
-    
-    ](https://mail.yahoo.com/)
-*   [Help](https://help.yahoo.com/kb/account)
+[](https://mail.yahoo.com/)*   [Help](https://help.yahoo.com/kb/account)
 *   Add or switch accounts
 
 [Sign out](https://login.yahoo.com/account/logout?logout_all=1&src=sports)
 
-*   [
-    
-    ![NFL](https://s.yimg.com/cv/apiv2/ybar/icons/logo_nfl@3x.png)![NFL](https://s.yimg.com/cv/apiv2/ybar/icons/logo_nfl@3x.png)NFL
-    
-    ](/nfl/)
-*   [
-    
-    Scores/Schedule
-    
-    ](/nfl/scoreboard/)
-*   [
-    
-    News
-    
-    ](/nfl/news/)
-*   [
-    
-    Standings
-    
-    ](/nfl/standings/)
-*   [
-    
-    Power Rankings
-    
-    ](/nfl/article/nfl-power-rankings-week-13-bears-can-legitimize-their-run-on-black-friday-vs-eagles-who-take-a-tumble-171708588.html)
-*   [
-    
-    Stats
-    
-    ](/nfl/stats/)
-*   [
-    
-    Teams
-    
-    ](/nfl/teams/)
-*   [
-    
-    Players
-    
-    ](/nfl/players/)
-*   [
-    
-    Odds
-    
-    ](/nfl/odds/)
-*   [
-    
-    Injuries
-    
-    ](/nfl/injuries/)
-*   [
-    
-    Super Bowl
-    
-    ](/nfl/topic/super-bowl/)
-*   [
-    
-    2026 Mock Draft
-    
-    ](/nfl/article/2026-nfl-mock-draft-30-jets-raiders-pick-qbs-at-1-2-after-trades-while-2-ohio-state-defenders-go-top-10-050102300.html)
-*   [
-    
-    Football 301
-    
-    ](/videos/shows/football301/)
-*   [
-    
-    Inside Coverage
-    
-    ](/videos/shows/inside-coverage/)
-*   [
-    
-    GameChannel
-    
-    ](/nfl/gamechannel/)
-*   [
-    
-    Playoff Bracket
-    
-    ](/nfl/bracket/)
-*   [
-    
-    2025 NFL Draft
-    
-    ](/nfl/draft/)
-
 ...
-
-*   [
-    
-    ![Fantasy](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Fantasy_Dark.svg)![Fantasy](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Fantasy_Light.svg)Fantasy
-    
-    ](/fantasy)
-*   [
-    
-    ![Watch](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Videos_Dark.svg)![Watch](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Videos_Light.svg)Watch
-    
-    ](/watch/)
-*   [
-    
-    ![Network](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Network_Dark.svg)![Network](https://s.yimg.com/cv/apiv2/sports/nav-redesign/product-switcher/Network_Light.svg)Network
-    
-    ](/)
 
 Advertisement
 
@@ -148,27 +43,10 @@ Advertisement
 
 TRENDING
 
-*   [Holiday TV schedule](/articles/feast-sports-week-watch-during-220900718.html)
-    
-*   [Steph Curry injured](/nba/article/warriors-stephen-curry-reportedly-set-to-miss-a-week-or-a-little-more-after-suffering-quad-contusion-against-rockets-132436028.html)
-    
-*   [NBA Cup latest scenarios](/nba/article/nba-cup-2025-standings-schedule-and-whats-at-stake-for-teams-battling-for-final-spots-in-knockout-round-151036170.html)
-    
-*   [Jays make a big splash](/mlb/article/toronto-blue-jays-set-the-tone-of-their-offseason-with-210-million-signing-of-dylan-cease-052353635.html)
-    
-*   [Latest CFP rankings](/college-football/breaking-news/article/college-football-playoff-rankings-oregon-moves-to-no-6-after-win-over-usc-010116108.html)
-    
-
 Chiefs Make Decision to Terminate Wide Receiver’s Contract Amid NFL Season
 ==========================================================================
 
-Story by[
-
-![Athlon Sports](https://s.yimg.com/ny/api/res/1.2/rxK2PHstSOaUAFg3VLXoPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNDtoPTU2O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a2de3f90-0a49-11f0-b7f7-fa75d2ae501d)
-
-![Athlon Sports](https://s.yimg.com/ny/api/res/1.2/uJz90_44L4Z6jUpsBuSGTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNDtoPTU2O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/903ecad0-0a49-11f0-8f1f-bf5e4290b3ee)
-
-](https://athlonsports.com/)
+Story by[![Athlon Sports](https://s.yimg.com/ny/api/res/1.2/rxK2PHstSOaUAFg3VLXoPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNDtoPTU2O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a2de3f90-0a49-11f0-b7f7-fa75d2ae501d)![Athlon Sports](https://s.yimg.com/ny/api/res/1.2/uJz90_44L4Z6jUpsBuSGTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNDtoPTU2O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/903ecad0-0a49-11f0-8f1f-bf5e4290b3ee)](https://athlonsports.com/)
 
 ![Video Player Cover](https://s.yimg.com/lo/mysterio/api/D3F999ED46FAEE981BF48487C6A86F0E83717CC3A92828B1E2340B91E376CA02/subgraphmysterio/resizefit_w640_h360;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F76b9a290-c8d2-11f0-b4ef-94c9bb628b74)
 
@@ -231,53 +109,5 @@ Advertisement
 Advertisement
 
 [](https://sports.yahoo.com/)
-
-*   [NFL](https://sports.yahoo.com/nfl/)
-*   [NCAAF](https://sports.yahoo.com/college-football/)
-*   [Fantasy](https://sports.yahoo.com/fantasy/)
-*   [NBA](https://sports.yahoo.com/nba/)
-*   [NHL](https://sports.yahoo.com/nhl/)
-*   [NCAAB](https://sports.yahoo.com/college-basketball/)
-*   [NCAAW](https://sports.yahoo.com/college-womens-basketball/)
-*   [MLB](https://sports.yahoo.com/mlb/)
-*   [WNBA](https://sports.yahoo.com/wnba/)
-*   [Betting](https://sports.yahoo.com/betting/)
-*   [Golf](https://sports.yahoo.com/golf/)
-*   [Tennis](https://sports.yahoo.com/tennis/)
-*   [Racing](https://sports.yahoo.com/racing/)
-*   [Watch](https://sports.yahoo.com/watch/)
-*   [Daily Draw](https://sports.yahoo.com/dailydraw/)
-*   [Soccer](https://sports.yahoo.com/soccer/)
-*   [Combat](https://sports.yahoo.com/combat/)
-*   [MMA](https://sports.yahoo.com/mma/)
-*   [Boxing](https://sports.yahoo.com/boxing/)
-*   [Wrestling](https://sports.yahoo.com/wrestling/)
-*   [Boardroom](https://sports.yahoo.com/boardroom/)
-*   [Collectibles](https://sports.yahoo.com/collectibles/)
-*   [Women's Sports](https://sports.yahoo.com/womens-sports/)
-*   [College & High School](https://sports.yahoo.com/on3/)
-*   [Fantasy Football Draft Kit](https://sports.yahoo.com/fantasy/article/2025-fantasy-football-draft-kit-strategy-cheat-sheets-mock-drafts-rankings-143656557.html)
-*   [College Sports](https://sports.yahoo.com/college-sports/)
-*   [Horse Racing](https://sports.yahoo.com/horse-racing/)
-*   [UFL](https://sports.yahoo.com/ufl/)
-*   [Cycling](https://sports.yahoo.com/cycling/)
-*   [Olympics](https://sports.yahoo.com/olympics/)
-*   [Cricket](https://sports.yahoo.com/topic/cricket/)
-*   [Curling](https://sports.yahoo.com/topic/curling/)
-*   [What & How To Watch](https://sports.yahoo.com/topic/how-to-watch/)
-*   [Newsletters](https://sports.yahoo.com/newsletters/)
-*   [GameChannel](https://sports.yahoo.com/mlb/gamechannel/)
-*   [Watch](https://sports.yahoo.com/watch/)
-*   [RSS](https://sports.yahoo.com/syndication/)
-*   [Jobs](https://sports.yahoo.com/jobs/)
-*   [Help](https://help.yahoo.com/kb/index?locale=en_US&page=product&y=PROD_SPORTS_SPNEWS)
-*   [More News](https://sports.yahoo.com/news/)
-
-* * *
-
-*   [Help](https://help.yahoo.com/kb/account)
-*   [Share Your Feedback](https://yahoo.uservoice.com/forums/376677)
-*   [About Us](https://www.yahooinc.com/about/)
-*   [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
 © 2025 Yahoo. All rights reserved.

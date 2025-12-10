@@ -1,25 +1,25 @@
+                Free Family Events at the Bank of Canada Museum for Financial Literacy Month - Bank of Canada                                  
+
+[Home](https://www.bankofcanada.ca/ "Home")
+
+Search the site 
+
+Search
+
+[FR](https://www.banqueducanada.ca/2025/10/activites-familiales-gratuites-musee-banque-canada-mois-litteratie-financiere/)
+
+Change theme
+
+Change theme
+
+Change theme
+
+Change theme
+
 Free Family Events at the Bank of Canada Museum for Financial Literacy Month
 ============================================================================
 
 October 27, 2025
-
-[
-
-Share this page on Facebook
-
-Share this page on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F10%2Ffree-family-events-bank-canada-museum-financial-literacy-month%2F "Share this page on Facebook")[
-
-Share this page on X
-
-Share this page on X](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F10%2Ffree-family-events-bank-canada-museum-financial-literacy-month%2F "Share this page on X")[
-
-Share this page on LinkedIn
-
-Share this page on LinkedIn](https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F10%2Ffree-family-events-bank-canada-museum-financial-literacy-month%2F "Share this page on LinkedIn")[
-
-Share this page by email
-
-Share this page by email](mailto:?Subject=Free Family Events at the Bank of Canada Museum for Financial Literacy Month&body=Currently reading%3A https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F10%2Ffree-family-events-bank-canada-museum-financial-literacy-month%2F "Share this page by email")
 
 This November, the Bank of Canada Museum invites visitors to celebrate the 15th anniversary of Financial Literacy Month (FLM) with a full lineup of free, hands-on activities that make money management approachable, practical, and fun for all ages.
 
@@ -49,3 +49,23 @@ To arrange interviews, request Museum access, or receive additional background m
 Media requests are encouraged by October 29 to ensure timely access and support.
 
 Content Type(s): [Press](https://www.bankofcanada.ca/search/?content_type[]=press), [Announcements](https://www.bankofcanada.ca/search/?content_type[]=announcements)
+
+About
+-----
+
+Affiliate sites
+---------------
+
+Legal
+-----
+
+Connect with us
+---------------
+
+Back to top
+
+Back to top
+
+We use [cookies](https://www.bankofcanada.ca/privacy/website-privacy-practices/) to help us keep improving this website.
+
+[Accept and continue](https://www.bankofcanada.ca/privacy/website-privacy-practices/)

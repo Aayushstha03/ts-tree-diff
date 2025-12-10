@@ -6,8 +6,8 @@ import TurndownService from "turndown";
  * Converts HTML to Markdown using Turndown.
  */
 export function htmlToMarkdown(html: string): string {
-	const turndownService = new TurndownService();
-	return turndownService.turndown(html);
+    const turndownService = new TurndownService();
+    return turndownService.turndown(html);
 }
 
 /**
@@ -15,21 +15,24 @@ export function htmlToMarkdown(html: string): string {
  * Use this before DOM parsing for main content extraction.
  */
 export function cleanHtmlPreDom(html: string): string {
-	// Remove <script>...</script> and <style>...</style>
-	let cleaned = html
-		.replace(/<script[\s\S]*?<\/script>/gi, "")
-		.replace(/<style[\s\S]*?<\/style>/gi, "");
-	// Remove skip links (e.g., <a ...>skip to main content</a>)
-	cleaned = cleaned.replace(/<a[^>]*>(\s*skip[^<]{0,40}content\s*)<\/a>/gi, "");
-	return cleaned;
+    // Remove <script>...</script> and <style>...</style>
+    let cleaned = html
+        .replace(/<script[\s\S]*?<\/script>/gi, "")
+        .replace(/<style[\s\S]*?<\/style>/gi, "");
+    // Remove skip links (e.g., <a ...>skip to main content</a>)
+    cleaned = cleaned.replace(
+        /<a[^>]*>(\s*skip[^<]{0,40}content\s*)<\/a>/gi,
+        "",
+    );
+    return cleaned;
 }
 
 // Utility to remove <script> and <style> tags from HTML before parsing
 export function stripScriptAndStyleTags(html: string): string {
-	// Remove <script>...</script> and <style>...</style> blocks (greedy)
-	return html
-		.replace(/<script[\s\S]*?<\/script>/gi, "")
-		.replace(/<style[\s\S]*?<\/style>/gi, "");
+    // Remove <script>...</script> and <style>...</style> blocks (greedy)
+    return html
+        .replace(/<script[\s\S]*?<\/script>/gi, "")
+        .replace(/<style[\s\S]*?<\/style>/gi, "");
 }
 
 /**
@@ -41,81 +44,81 @@ export function stripScriptAndStyleTags(html: string): string {
  * Returns the cleaned HTML string.
  */
 export function removeEmptyTags(html: string): string {
-	const $ = cheerio.load(html);
+    const $ = cheerio.load(html);
 
-	// Helper function to check if an element has valuable attributes
-	function hasValuableAttributes(el: cheerio.Cheerio<any>): boolean {
-		const valuableAttrs = [
-			"value",
-			"datetime",
-			"content",
-			"href",
-			"src",
-			"alt",
-			"title",
-		];
-		for (const attr of valuableAttrs) {
-			if (el.attr(attr)) return true;
-		}
-		// Check for data- attributes
-		if (el[0]?.attribs) {
-			for (const attr in el[0].attribs) {
-				if (attr.startsWith("data-")) return true;
-			}
-		}
-		return false;
-	}
+    // Helper function to check if an element has valuable attributes
+    function hasValuableAttributes(el: cheerio.Cheerio<any>): boolean {
+        const valuableAttrs = [
+            "value",
+            "datetime",
+            "content",
+            "href",
+            "src",
+            "alt",
+            "title",
+        ];
+        for (const attr of valuableAttrs) {
+            if (el.attr(attr)) return true;
+        }
+        // Check for data- attributes
+        if (el[0]?.attribs) {
+            for (const attr in el[0].attribs) {
+                if (attr.startsWith("data-")) return true;
+            }
+        }
+        return false;
+    }
 
-	// Iteratively remove empty elements and unwrap wrappers
-	let changed = true;
-	while (changed) {
-		changed = false;
+    // Iteratively remove empty elements and unwrap wrappers
+    let changed = true;
+    while (changed) {
+        changed = false;
 
-		// Remove empty elements (no children, no text, no valuable attrs)
-		$("*").each(function () {
-			const el = $(this);
-			if (
-				!hasValuableAttributes(el) &&
-				!el.children().length &&
-				el.text().trim() === ""
-			) {
-				el.remove();
-				changed = true;
-			}
-		});
+        // Remove empty elements (no children, no text, no valuable attrs)
+        $("*").each(function () {
+            const el = $(this);
+            if (
+                !hasValuableAttributes(el) &&
+                !el.children().length &&
+                el.text().trim() === ""
+            ) {
+                el.remove();
+                changed = true;
+            }
+        });
 
-		// Collect wrapper elements to unwrap (no valuable attrs, no text, but have children)
-		let toUnwrap: cheerio.Cheerio<any>[] = [];
-		$("*").each(function () {
-			const el = $(this);
-			if (
-				!hasValuableAttributes(el) &&
-				el.text().trim() === "" &&
-				el.children().length > 0
-			) {
-				toUnwrap.push(el);
-			}
-		});
+        // Collect wrapper elements to unwrap (no valuable attrs, no text, but have children)
+        let toUnwrap: cheerio.Cheerio<any>[] = [];
+        $("*").each(function () {
+            const el = $(this);
+            if (
+                !hasValuableAttributes(el) &&
+                el.text().trim() === "" &&
+                el.children().length > 0
+            ) {
+                toUnwrap.push(el);
+            }
+        });
 
-		// Unwrap the collected elements (move children up)
-		for (const el of toUnwrap) {
-			el.children().unwrap();
-			changed = true;
-		}
-	}
+        // Unwrap the collected elements (move children up)
+        for (const el of toUnwrap) {
+            el.children().unwrap();
+            changed = true;
+        }
+    }
 
-	let result = $.html();
-	result = result
-		.split("\n")
-		.filter((line) => line.trim() !== "")
-		.join("\n");
-	return result;
+    let result = $.html();
+    result = result
+        .split("\n")
+        .filter((line) => line.trim() !== "")
+        .join("\n");
+    return result;
 }
 
 export function removeNavTags(html: string): string {
-	const $ = cheerio.load(html);
-	$("nav").remove();
-	return $.html();
+    const $ = cheerio.load(html);
+    $("nav").remove();
+    return $.html();
 }
 
 /**
@@ -124,35 +127,35 @@ export function removeNavTags(html: string): string {
  * Linked chars include anchor text and image alt text inside anchors.
  */
 export function calculateLinkDensity(element: cheerio.Cheerio<any>): number {
-	const totalVisibleChars = element.text().length;
-	let linkedChars = 0;
+    const totalVisibleChars = element.text().length;
+    let linkedChars = 0;
 
-	element.find("a").each((_: number, anchor: any) => {
-		const $anchor = element.find("a").filter((_, el) => el === anchor);
-		const linkText = $anchor.text();
-		linkedChars += linkText.length;
+    element.find("a").each((_: number, anchor: any) => {
+        const $anchor = element.find("a").filter((_, el) => el === anchor);
+        const linkText = $anchor.text();
+        linkedChars += linkText.length;
 
-		// If anchor has no text, check for <img> and use its alt text
-		if (linkText.length === 0) {
-			const img = $anchor.find("img");
-			if (img.length > 0) {
-				const alt = img.attr("alt");
-				if (alt && alt.length > 0) {
-					linkedChars += alt.length;
-				}
-			}
-		}
-	});
+        // If anchor has no text, check for <img> and use its alt text
+        if (linkText.length === 0) {
+            const img = $anchor.find("img");
+            if (img.length > 0) {
+                const alt = img.attr("alt");
+                if (alt && alt.length > 0) {
+                    linkedChars += alt.length;
+                }
+            }
+        }
+    });
 
-	// Handle division by zero
-	if (totalVisibleChars === 0) {
-		if (linkedChars > 0) {
-			return 1.0;
-		} else {
-			return 0.0;
-		}
-	}
-	return linkedChars / totalVisibleChars;
+    // Handle division by zero
+    if (totalVisibleChars === 0) {
+        if (linkedChars > 0) {
+            return 1.0;
+        } else {
+            return 0.0;
+        }
+    }
+    return linkedChars / totalVisibleChars;
 }
 
 /**
@@ -164,38 +167,38 @@ export function calculateLinkDensity(element: cheerio.Cheerio<any>): number {
  * @returns Cleaned HTML string.
  */
 export function removeBoilerplateLinkClusters(
-	htmlContent: string,
-	densityThreshold = 0.35,
-	minSiblingLinks = 2,
+    htmlContent: string,
+    densityThreshold = 0.35,
+    minSiblingLinks = 2,
 ): string {
-	if (!htmlContent) return "";
-	const $ = cheerio.load(htmlContent);
+    if (!htmlContent) return "";
+    const $ = cheerio.load(htmlContent);
 
-	// Find all <a> tags
-	$("a").each(function () {
-		const $link = $(this);
-		const $parent = $link.parent();
+    // Find all <a> tags
+    $("a").each(function () {
+        const $link = $(this);
+        const $parent = $link.parent();
 
-		// Count sibling <a> tags (including itself)
-		const siblingLinks = $parent.children("a").length;
+        // Count sibling <a> tags (including itself)
+        const siblingLinks = $parent.children("a").length;
 
-		if (siblingLinks >= minSiblingLinks) {
-			// Check if we haven't already processed this parent
-			if (!$parent.data("processed")) {
-				$parent.data("processed", true);
-				const density = calculateLinkDensity($parent);
-				if (density > densityThreshold) {
-					const tag = $parent.prop("tagName") || "unknown";
-					console.log(
-						`[removeBoilerplate] Removing block <${tag}> (density: ${density.toFixed(2)}, sibling links: ${siblingLinks})`,
-					);
-					$parent.remove();
-				}
-			}
-		}
-	});
+        if (siblingLinks >= minSiblingLinks) {
+            // Check if we haven't already processed this parent
+            if (!$parent.data("processed")) {
+                $parent.data("processed", true);
+                const density = calculateLinkDensity($parent);
+                if (density > densityThreshold) {
+                    const tag = $parent.prop("tagName") || "unknown";
+                    console.log(
+                        `[removeBoilerplate] Removing block <${tag}> (density: ${density.toFixed(2)}, sibling links: ${siblingLinks})`,
+                    );
+                    $parent.remove();
+                }
+            }
+        }
+    });
 
-	return $("body").length ? $("body").html() || "" : $.root().html() || "";
+    return $("body").length ? $("body").html() || "" : $.root().html() || "";
 }
 
 /**
@@ -207,33 +210,33 @@ export function removeBoilerplateLinkClusters(
  * @returns Cleaned HTML string.
  */
 export function removeBreadcrumbs(htmlContent: string): string {
-	if (!htmlContent) return "";
-	const $ = cheerio.load(htmlContent);
-	// Remove elements with class "breadcrumb"
-	$(".breadcrumb").remove();
+    if (!htmlContent) return "";
+    const $ = cheerio.load(htmlContent);
+    // Remove elements with class "breadcrumb"
+    $(".breadcrumb").remove();
 
-	// Remove <ol> or <ul> that look like breadcrumbs: multiple <li> with <a> and separators
-	$("ol, ul").each(function () {
-		const $list = $(this);
-		const $lis = $list.children("li");
-		if ($lis.length >= 2) {
-			// At least 2 items for a breadcrumb
-			let isBreadcrumb = true;
-			$lis.each(function () {
-				const $li = $(this);
-				const text = $li.text().trim();
-				// Check if it has a link or is a separator
-				if (!$li.find("a").length && !/^\s*[>\/|]\s*$/.test(text)) {
-					isBreadcrumb = false;
-					return false; // break
-				}
-			});
-			if (isBreadcrumb) {
-				console.log("[removeBreadcrumbs] Removing breadcrumb list");
-				$list.remove();
-			}
-		}
-	});
+    // Remove <ol> or <ul> that look like breadcrumbs: multiple <li> with <a> and separators
+    $("ol, ul").each(function () {
+        const $list = $(this);
+        const $lis = $list.children("li");
+        if ($lis.length >= 2) {
+            // At least 2 items for a breadcrumb
+            let isBreadcrumb = true;
+            $lis.each(function () {
+                const $li = $(this);
+                const text = $li.text().trim();
+                // Check if it has a link or is a separator
+                if (!$li.find("a").length && !/^\s*[>\/|]\s*$/.test(text)) {
+                    isBreadcrumb = false;
+                    return false; // break
+                }
+            });
+            if (isBreadcrumb) {
+                // console.log("[removeBreadcrumbs] Removing breadcrumb list");
+                $list.remove();
+            }
+        }
+    });
 
-	return $.html();
+    return $.html();
 }

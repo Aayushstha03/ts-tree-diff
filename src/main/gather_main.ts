@@ -214,10 +214,13 @@ export class MainContentExtractor {
             foundBy: "fallback-dom-diffed",
             score: 0.5,
             id: "fallback",
-            element: this.$.html() || "",
+            element: domString || "",
         };
         candidates.push(fallbackDom);
         console.log(`>>> found = ${candidates.length} candidates`);
+        for (const cand of candidates) {
+            console.log(`>>> ${cand.foundBy}`);
+        }
         return candidates;
     }
 }

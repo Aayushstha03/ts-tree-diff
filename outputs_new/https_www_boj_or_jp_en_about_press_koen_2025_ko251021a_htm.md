@@ -1,9 +1,24 @@
+ Speech by Deputy Governor HIMINO at the 2025 GZERO Summit Japan (Prophets, Armed and Unarmed: The Roles of Power and Knowledge in International Prudential Standards) : 日本銀行 Bank of Japan             
+
+![Open the menu](/common2/img/common/menu.png) ![Close the menu](/common2/img/common/close.png)
+
+[![日本銀行 Bank of Japan](/common2/img/common/logo.jpg)](/en/)
+
+*   [日本語](/)
+*   _English_
+
+[Social Networking Site Management Policy](/en/snspolicy.htm)
+
+[![日本銀行 Bank of Japan](/common2/img/common/logo_s.jpg)](/en/) 
+
+About the Bank
+
+     
+
 \[Speech\]Prophets, Armed and Unarmed: The Roles of Power and Knowledge in International Prudential StandardsSpeech at the 2025 GZERO Summit Japan
 ==================================================================================================================================================
 
-HIMINO Ryozo  
-Deputy Governor of the Bank of Japan  
-October 21, 2025
+HIMINO Ryozo Deputy Governor of the Bank of Japan October 21, 2025
 
 *   [Full Text \[PDF 169KB\]](/en/about/press/koen_2025/data/ko251021a.pdf)
 
@@ -41,17 +56,13 @@ That would indeed be a beautiful world. But if that were all it took, then a gro
 
 At the opposite end of the spectrum sits the perspective that emphasizes power.
 
-In his book _The Prince_,2 Niccolò Machiavelli writes as follows:  
-_It ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things, because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new._
+In his book _The Prince_,2 Niccolò Machiavelli writes as follows: _It ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things, because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new._
 
-He continues,  
-_It is necessary, therefore, . . . to inquire . . . whether, to consummate their enterprise, have they to use prayers or can they use force? In the first instance they always succeed badly, and never compass anything; but when they can rely on themselves and use force, then they are rarely endangered._
+He continues, _It is necessary, therefore, . . . to inquire . . . whether, to consummate their enterprise, have they to use prayers or can they use force? In the first instance they always succeed badly, and never compass anything; but when they can rely on themselves and use force, then they are rarely endangered._
 
-Then there comes one of his famous quotes:  
-_All armed prophets have conquered, and the unarmed ones have been destroyed._
+Then there comes one of his famous quotes: _All armed prophets have conquered, and the unarmed ones have been destroyed._
 
-Machiavelli continues with another reason why reforms require power:  
-_The nature of the people is variable, and whilst it is easy to persuade them, it is difficult to fix them in that persuasion. And thus it is necessary to take such measures that, when they believe no longer, it may be possible to make them believe by force._
+Machiavelli continues with another reason why reforms require power: _The nature of the people is variable, and whilst it is easy to persuade them, it is difficult to fix them in that persuasion. And thus it is necessary to take such measures that, when they believe no longer, it may be possible to make them believe by force._
 
 1.  Ryozo Himino, "Basel II-towards a new common language," _BIS Quarterly Review_, September 2004, https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=1967506.
 2.  Translated by W. K. Marriott.
@@ -158,3 +169,17 @@ Let me conclude. Power gives knowledge its effectiveness, and knowledge gives po
 Lastly, I would like to emphasize that the views I expressed today are my own and not necessarily those of the Bank of Japan.
 
 Thank you.
+
+[![日本銀行 Bank of Japan](/common2/img/common/logo.gif)](/en/)
+
+2-1-1 Nihonbashi-Hongokucho,Chuo-ku,Tokyo ([location](/en/about/outline/location/index.htm)) Tel:+81-3-3279-1111
+
+[![日本銀行 Bank of Japan](/common2/img/common/logo.gif)](/en/)
+
+2-1-1 Nihonbashi-Hongokucho,Chuo-ku,Tokyo ([location](/en/about/outline/location/index.htm)) Tel:+81-3-3279-1111
+
+Other Links
+
+[Institute for Monetary and Economic Studies](https://www.imes.boj.or.jp/en/index.html)
+
+Copyright Bank of Japan All Rights Reserved. [![Page top](/common2/img/common/page_top.gif)](#header_area)

@@ -1,3 +1,9 @@
+Hemp law threatens THC drinks market : NPR                                                 
+
+Accessibility links
+
+*   [Keyboard shortcuts for audio player](https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player)
+
 **Hemp law threatens THC drinks market** **Drinks infused with cannabis' buzzy compound THC are wildly popular and available in many states. But a year from now, the hemp-based products could be banned under a newly approved federal law.**
 
 ### [National](https://www.npr.org/sections/national/)
@@ -48,8 +54,6 @@ With names like Mountain High, Buzzin' Breeze and Citrus Bliss, most of the drin
 
 "This one is the Mary Jane Mule," says Nathan Wilkinson, as he puts a can in his shopping basket. "So that's kind of clever, but it's a Moscow mule. It tastes like ginger beer, you can have it with a little bit of lime and put it on ice."
 
-Sponsor Message
-
   ![A display of THC drinks at Total Wine and More in Arlington, Va., includes a sign that says "The New Happy Hour."](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2672x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Ff5%2Fd8490ea14a1ca7c76bfbc1cd75d7%2Fnew-happy-hour.JPG)
 
 A display of THC drinks at Total Wine and More in Arlington, Va. **Bill Chappell** ****hide caption****
@@ -70,13 +74,11 @@ The transaction is unremarkable except for a key detail: Virginia law [forbids](
 
 ### [Can weed help you drink less? Scientists study how well 'California sober' works](https://www.npr.org/sections/shots-health-news/2025/11/19/nx-s1-5604813/marijuana-drinking-california-sober)
 
-That market is buzzing, but that boom may come crashing down soon, thanks to a new law. When Congress recently approved a spending bill ending the government shutdown, it also [set a one-year deadline](https://www.npr.org/2025/11/16/nx-s1-5608020/a-year-from-now-hemp-shops-could-disappear-under-a-new-federal-ban) to close the hemp loophole, with new restrictions. The move threatens the broader hemp market — estimated to be worth [tens of billions of dollars](https://www.npr.org/2025/11/13/nx-s1-5607122/hemp-industry-warns-provision-in-the-government-funding-bill-will-kill-30b-market) — with what one economist [calls](https://www.houstonpublicmedia.org/articles/news/2025/11/13/536085/thc-ban-is-an-extinction-level-event-for-texas-hemp-industry-economist-says/) "an extinction-level event."
+That market is buzzing, but that boom may come crashing down soon, thanks to a new law.When Congress recently approved a spending bill ending the government shutdown, it also [set a one-year deadline](https://www.npr.org/2025/11/16/nx-s1-5608020/a-year-from-now-hemp-shops-could-disappear-under-a-new-federal-ban) to close the hemp loophole, with new restrictions. The move threatens the broader hemp market — estimated to be worth [tens of billions of dollars](https://www.npr.org/2025/11/13/nx-s1-5607122/hemp-industry-warns-provision-in-the-government-funding-bill-will-kill-30b-market) — with what one economist [calls](https://www.houstonpublicmedia.org/articles/news/2025/11/13/536085/thc-ban-is-an-extinction-level-event-for-texas-hemp-industry-economist-says/) "an extinction-level event."
 
 ### An 'explosion of demand'
 
-THC drinks first appeared on the counters of gas stations and corner shops. But [with more Americans like Wilkinson seeking alternatives to alcohol](https://news.gallup.com/poll/693362/drinking-rate-new-low-alcohol-concerns-surge.aspx), they've gone mainstream in places like Total Wine; Target [recently started selling them](https://www.mprnews.org/story/2025/10/15/target-begins-selling-thc-drinks-in-some-minnesota-locations) at stores in Minnesota.
-
-Sponsor Message
+THC drinksfirst appeared on the counters of gas stations and corner shops. But [with more Americans like Wilkinson seeking alternatives to alcohol](https://news.gallup.com/poll/693362/drinking-rate-new-low-alcohol-concerns-surge.aspx), they've gone mainstream in places like Total Wine; Target [recently started selling them](https://www.mprnews.org/story/2025/10/15/target-begins-selling-thc-drinks-in-some-minnesota-locations) at stores in Minnesota.
 
 "It has been a complete explosion of demand," says Tanner Johnson, CEO of Pure Shenandoah, a THC and hemp company based near Harrisonburg, Va. The family-run business got into THC beverages a few years ago; Johnson says the company's distribution deal with Total Wine took things to a new level.
 
@@ -110,7 +112,7 @@ Despite U.S. policy distinctions, hemp and marijuana are cultivars of the same p
 
 As a result, hemp-derived THC products can be shipped from state to state and sold where local laws allow. Compare that to cannabis plants that have higher levels of THC and are classified as [a Schedule I drug](https://www.dea.gov/drug-information/drug-scheduling), alongside heroin. They remain subject to onerous federal restrictions, including a ban against interstate trade.
 
-Strong customer demand and the ability to operate as legitimate businesses drove the hemp-derived THC drinks industry to mature rapidly, says Christopher Lackner, founder and president of the Hemp Beverage Alliance, a trade association.
+Strong customer demand and the ability to operate as legitimate businesses drove the hemp-derivedTHC drinks industry to mature rapidly, says Christopher Lackner, founder and president of the Hemp Beverage Alliance, a trade association.
 
 Producers who started out driving their drinks to market personally are now shipping them in semitrucks, he says.
 
@@ -129,8 +131,6 @@ The THC beverage sector blossomed into a billion-dollar industry. But Johnson sa
 ### Expanded access tapped into a new group of consumers
 
 The meteoric growth of THC drinks crystallized a revelation for the cannabis industry: A sizable segment of U.S. consumers wants access to legal, low-dose THC.
-
-Sponsor Message
 
 Hemp-based drinks "introduced a whole new tier of folks that enjoyed THC" but prefer to visit a neighborhood store rather than a dispensary, says Terry Mendez, CEO of Safe Harbor Financial, which provides banking services in the cannabis industry.
 
@@ -152,7 +152,7 @@ While THC drinks are available in some states with regulated recreational market
 
 ### [Texas may ban THC products just a few years after legalization started a big business](https://www.npr.org/2025/04/17/nx-s1-5360052/texas-thc-ban-legislature-cannabis)
 
-Justin Garcia, chief marketing officer of SunMed Growers in Maryland, a company that works in the state's regulated cannabis market, wants to see THC drinks remain on liquor store shelves — but only if hemp producers meet the rigorous standards states require of legal cannabis companies.
+Justin Garcia, chief marketing officer of SunMed Growers in Maryland, a company that works in the state's regulated cannabis market, wants to see THC drinks remain on liquor store shelves — but only if hemp producers meetthe rigorous standards states require of legal cannabis companies.
 
 "We think that this drink thing is huge," he says. "I think it's how the next wave of consumers enters the cannabis space. You know, smoking is never really going to be perceived to be healthy, but drinking an adult beverage is something that people can wrap their minds around a little bit easier."
 
@@ -169,8 +169,6 @@ Attendees of the Cannabis Capital & Policy Summit chat with each other in Washin
 Ryan Wiramidjaja/for NPR
 
 The contentious vote in Congress to tighten rules on hemp came after dozens of state attorneys general [issued a letter](https://www.naag.org/press-releases/bipartisan-coalition-of-39-state-and-territory-attorneys-general-urges-clarify-federal-definition-of-hemp/) warning of the risks of an unregulated hemp THC market, and the dangers it could pose to children.
-
-Sponsor Message
 
 The restrictions were a hot topic for investors and entrepreneurs at the Cannabis Capital & Policy Summit, held last week in Washington, D.C. Speakers repeatedly noted that the hemp industry is on a countdown to find a way to survive. They included Democratic Sen. Cory Booker of New Jersey, who told an audience, "This is not a partisan issue" — and pointed to his vote alongside Republican Sen. Rand Paul of Kentucky, who opposes the hemp crackdown.
 
@@ -202,61 +200,15 @@ Despite uncertainty over how federal laws might change, the hemp THC beverage ma
 
 "They said, 'Yeah, we heard about it. We need 24 pallets of your product shipped straight away.'"
 
-*   [cannabis](https://www.npr.org/tags/421783217/cannabis)
-*   [hemp](https://www.npr.org/tags/640664158/hemp)
-*   [THC](https://www.npr.org/tags/777835711/thc)
-*   [delta-8 THC](https://www.npr.org/tags/1238460148/delta-8-thc)
-*   [marijuana](https://www.npr.org/tags/127018313/marijuana)
-*   [cannabis business](https://www.npr.org/tags/522247145/cannabis-business)
-
-*   **Facebook**
-*   **Flipboard**
-*   **Email**
-
 ###### Read & Listen
-
-*   [Home](/)
-*   [News](/sections/news/)
-*   [Culture](/sections/culture/)
-*   [Music](/music/)
-*   [Podcasts & Shows](/podcasts-and-shows)
 
 ###### Connect
 
-*   [Newsletters](/newsletters/)
-*   [Facebook](https://www.facebook.com/NPR/)
-*   [Instagram](https://www.instagram.com/npr/)
-*   [Press](/series/750003/press-room/)
-*   [Public Editor](/sections/publiceditor/)
-*   [Corrections](/corrections/)
-*   [Transcripts](/transcripts/)
-*   [Contact & Help](https://help.npr.org/contact/s/)
-
 ###### About NPR
 
-*   [Overview](/about/)
-*   [Diversity](/diversity/)
-*   [NPR Network](/network/)
-*   [Accessibility](/about-npr/1136563345/accessibility)
-*   [Ethics](/ethics/)
-*   [Finances](/about-npr/178660742/public-radio-finances)
-
 ###### Get Involved
-
-*   [Support Public Radio](/support/)
-*   [Sponsor NPR](/about-npr/186948703/corporate-sponsorship)
-*   [NPR Careers](/careers/)
-*   [NPR Shop](https://shopnpr.org/)
-*   [NPR Events](https://www.nprpresents.org)
-*   [NPR Extra](/sections/npr-extra/)
 
 *   [Terms of Use](/about-npr/179876898/terms-of-use)
 *   [Privacy](/about-npr/179878450/privacy-policy)
 *   [Your Privacy Choices](/about-npr/179878450/privacy-policy#yourchoices)
 *   [Text Only](https://text.npr.org/)
-
-Sponsor Message
-
-Sponsor Message
-
-[Become an NPR sponsor](/about-npr/186948703/corporate-sponsorship)

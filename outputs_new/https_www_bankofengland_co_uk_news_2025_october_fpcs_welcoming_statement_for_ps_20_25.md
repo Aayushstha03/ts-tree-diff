@@ -1,6 +1,35 @@
-1.  [Home](/)
-2.  [News and publications](/news)
-3.  FPC’s welcoming statement for policy statement (PS) 20/25
+      FPC’s welcoming statement for policy statement (PS) 20/25 | Bank of England                         
+
+Our use of cookies
+------------------
+
+We use necessary cookies to make our site work (for example, to manage your session). We’d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking ‘Accept recommended settings’ on this banner, you accept our use of optional cookies.
+
+Necessary cookies
+
+Analytics cookies
+
+Yes
+
+Yes
+
+Accept recommended cookies
+
+Yes
+
+No
+
+Proceed with necessary cookies only
+
+### Necessary cookies
+
+Necessary cookies enable core functionality on our website such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+### Analytics cookies
+
+We use analytics cookies so we can keep track of the number of visitors to various parts of the site and understand how our website is used. For more information on how these cookies work please see our [Cookie policy](/legal/privacy-and-cookie-policy).
+
+[![Bank of England home](/-/media/boe/images/logo/logo-boe.svg?iar=0&mh=61&hash=2C88D4FFDD47844D6BD2541F5A92D70F)](/)
 
 FPC’s welcoming statement for policy statement (PS) 20/25 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers (SDDTs) – near final
 =================================================================================================================================================================================
@@ -94,3 +123,20 @@ News // Minutes
 [View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&InfiniteScrolling=False&Direction=Latest)
 
 [Back to top](#)
+
+*   ### Useful links Useful links
+    
+
+### Bank of England
+
+*   Threadneedle Street, London, EC2R 8AH
+*   Switchboard: [+44(0)20 3461 4444](tel://00442034614444 "Switchboard")
+*   Enquiries: [+44(0)20 3461 4878](tel://00442034614878 "Enquiries")
+
+### Bank of England Museum
+
+*   Bartholomew Lane, London, EC2R 8AH
+
+[![Bank of England home](/-/media/boe/images/logo/footer-logo.svg?h=50&iar=0&mh=50&mw=240&w=50&hash=21937D63AC8E857977043CB73AE10F74)](/)
+
+©2025 Bank of England
