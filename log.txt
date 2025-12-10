@@ -1,0 +1,807 @@
+Starting main content extraction and scoring...
+Processing: https_www_bbc_com_news_articles_c4g7d39n6vgo.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 26.342831654072207
+foundBy: <main> tag
+score: 26.24283165407221
+foundBy: id contains "main"
+score: -24.39648404701931
+foundBy: id contains "main"
+score: 25.942831654072208
+foundBy: fallback-dom-diffed
+score: 26.464525608732156
+found by : fallback-dom-diffed
+score : 26.464525608732156
+id : fallback
+Processing: https_www_bankofcanada_ca_2025_10_free_family_events_bank_canada_museum_financial_literacy_month_.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 41.16109773712085
+foundBy: <main> tag
+score: 41.061097737120846
+foundBy: role="main"
+score: 40.961097737120845
+foundBy: id contains "main"
+score: 40.76109773712085
+foundBy: fallback-dom-diffed
+score: 45.68955223880597
+found by : fallback-dom-diffed
+score : 45.68955223880597
+id : fallback
+Processing: https_www_bankofcanada_ca_2025_08_summary_of_governing_council_deliberations_fixed_announcement_date_of_july_30_2025_.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 46.4845145745181
+foundBy: <main> tag
+score: 46.3845145745181
+foundBy: role="main"
+score: 46.2845145745181
+foundBy: id contains "main"
+score: 46.0845145745181
+foundBy: fallback-dom-diffed
+score: 46.003555477197935
+found by : accessibility-skip-link
+score : 46.4845145745181
+id : main-content
+Processing: https_www_bankofcanada_ca_2025_05_financial_stability_report_2025_.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 46.80188935707489
+foundBy: <main> tag
+score: 46.7018893570749
+foundBy: role="main"
+score: 46.601889357074896
+foundBy: id contains "main"
+score: 46.40188935707489
+foundBy: fallback-dom-diffed
+score: 46.19723845770468
+found by : accessibility-skip-link
+score : 46.80188935707489
+id : main-content
+Processing: https_www_federalreserve_gov_econres_feds_evaluating_macroeconomic_outcomes_under_asymmetries_expectations_matter_htm.html 
+>>> found = 3 candidates
+>>> accessibility-skip-link
+>>> role="main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 31.124812067755837
+foundBy: role="main"
+score: 30.924812067755838
+foundBy: fallback-dom-diffed
+score: 30.6364388092613
+found by : accessibility-skip-link
+score : 31.124812067755837
+id : content
+Processing: https_www_federalreserve_gov_publications_April_2025_financial_stability_Purpose_and_Framework_htm.html 
+>>> found = 3 candidates
+>>> accessibility-skip-link
+>>> role="main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 31.19720428614409
+foundBy: role="main"
+score: 30.99720428614409
+foundBy: fallback-dom-diffed
+score: 45.680286514383575
+found by : fallback-dom-diffed
+score : 45.680286514383575
+id : fallback
+Processing: https_www_ecb_europa_eu_press_stats_md_html_ecb_md2508_b1d4890d51_en_html.html 
+>>> found = 4 candidates
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 51.144459053343354
+foundBy: id contains "main"
+score: -14.012180691209618
+foundBy: id contains "main"
+score: 50.850704357625844
+foundBy: fallback-dom-diffed
+score: 40.91176746806912
+found by : <main> tag
+score : 51.144459053343354
+id : 
+Processing: https_www_ecb_europa_eu_press_economic_bulletin_articles_2025_html_ecb_ebart202506_01_d41c118e13_en_html.html 
+>>> found = 4 candidates
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 41.617307625619866
+foundBy: id contains "main"
+score: -14.256798557408885
+foundBy: id contains "main"
+score: 41.322630648125674
+foundBy: fallback-dom-diffed
+score: 41.2763290217429
+found by : <main> tag
+score : 41.617307625619866
+id : 
+Processing: https_www_boj_or_jp_en_about_press_koen_2025_ko251021a_htm.html 
+>>> found = 4 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 46.67709885742673
+foundBy: <main> tag
+score: 46.577098857426726
+foundBy: id contains "main"
+score: 20.62014180553674
+foundBy: fallback-dom-diffed
+score: 51.21905342546177
+found by : fallback-dom-diffed
+score : 51.21905342546177
+id : fallback
+Processing: https_www_bankofengland_co_uk_paper_2025_ps_amendments_to_the_boes_approach_to_setting_a_mrel.html 
+>>> found = 6 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 46.759446640316206
+foundBy: <main> tag
+score: 46.659446640316204
+foundBy: role="main"
+score: 46.5594466403162
+foundBy: id contains "main"
+score: -29.203383399209486
+foundBy: id contains "main"
+score: 46.35944664031621
+foundBy: fallback-dom-diffed
+score: 46.26483794466403
+found by : accessibility-skip-link
+score : 46.759446640316206
+id : main-content
+Processing: https_www_bankofengland_co_uk_news_2025_october_fpcs_welcoming_statement_for_ps_20_25.html 
+>>> found = 6 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 31.104726243476723
+foundBy: <main> tag
+score: 31.00472624347672
+foundBy: role="main"
+score: 30.904726243476723
+foundBy: id contains "main"
+score: -28.6666804257452
+foundBy: id contains "main"
+score: 30.704726243476724
+foundBy: fallback-dom-diffed
+score: 50.641698853082524
+found by : fallback-dom-diffed
+score : 50.641698853082524
+id : fallback
+Processing: https_www_bancaditalia_it_pubblicazioni_interventi_direttorio_int_dir_2025_20250918_scotti_index_html_com_dotmarketing_htmlpage_language_1.html 
+>>> found = 5 candidates
+>>> role="main"
+>>> id="main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: role="main"
+score: 61.27672217563196
+foundBy: id="main"
+score: 61.176722175631966
+foundBy: id contains "main"
+score: -18.935222235533725
+foundBy: id contains "main"
+score: 61.076722175631964
+foundBy: fallback-dom-diffed
+score: 60.85404336887505
+found by : role="main"
+score : 61.27672217563196
+id : main
+Processing: http_www_pbc_gov_cn_en_3688229_3688353_3688359_index_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 20.526126257471937
+found by : fallback-dom-diffed
+score : 20.526126257471937
+id : fallback
+Processing: https_www_bankofcanada_ca_publications_annual_reports_quarterly_financial_reports_content_type_628_content_type_22322.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 51.217940315462926
+foundBy: <main> tag
+score: 51.117940315462924
+foundBy: role="main"
+score: 51.01794031546293
+foundBy: id contains "main"
+score: 50.81794031546293
+foundBy: fallback-dom-diffed
+score: 50.74127233800848
+found by : accessibility-skip-link
+score : 51.217940315462926
+id : main-content
+Processing: https_www_nbcnews_com_politics_trump_administration_trump_says_ukraine_expressed_zero_gratitude_us_help_peace_plan_talks_rcna245412.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 31.27851918388297
+found by : fallback-dom-diffed
+score : 31.27851918388297
+id : fallback
+Processing: https_www_nbcnews_com_business_consumer_shoppers_plan_cut_black_friday_spending_rcna245116.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 41.302392418828646
+found by : fallback-dom-diffed
+score : 41.302392418828646
+id : fallback
+Processing: https_www_nbcnews_com_politics_trump_administration_treasury_secretary_bessent_us_wont_enter_recession_2026_economy_rcna245411.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 41.263540090771556
+found by : fallback-dom-diffed
+score : 41.263540090771556
+id : fallback
+Processing: https_www_nbcnews_com_world_asia_china_criticizes_japans_plan_deploy_missiles_island_taiwan_rcna244926.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 41.21025056947608
+found by : fallback-dom-diffed
+score : 41.21025056947608
+id : fallback
+Processing: https_www_usatoday_com_story_news_nation_2025_11_21_what_considered_professional_degree_explained_87396245007_.html 
+>>> found = 2 candidates
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 61.62118005451339
+foundBy: fallback-dom-diffed
+score: 51.41951258617925
+found by : <main> tag
+score : 61.62118005451339
+id : 
+Processing: https_www_usatoday_com_story_news_politics_2025_11_23_tatiana_schlossberg_kennedy_rfk_illness_87436356007_.html 
+>>> found = 2 candidates
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 41.68129315756434
+foundBy: fallback-dom-diffed
+score: 31.436974262397992
+found by : <main> tag
+score : 41.68129315756434
+id : 
+Processing: https_www_usatoday_com_story_entertainment_music_2025_11_23_taylor_swift_jumps_joy_chiefs_week_12_colts_dallas_cowboys_86114294007_.html 
+>>> found = 2 candidates
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 31.458482822532602
+foundBy: fallback-dom-diffed
+score: 26.168167074865956
+found by : <main> tag
+score : 31.458482822532602
+id : 
+Processing: https_www_usatoday_com_story_life_health_wellness_2025_11_23_baylen_out_loud_tourette_syndrome_interview_87342413007_.html 
+>>> found = 2 candidates
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: <main> tag
+score: 56.69958582604694
+foundBy: fallback-dom-diffed
+score: 46.44224574321215
+found by : <main> tag
+score : 56.69958582604694
+id : 
+Processing: https_www_bbc_com_news_articles_c8676qpxgnqo.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 26.437148297017135
+foundBy: <main> tag
+score: 26.337148297017137
+foundBy: id contains "main"
+score: -24.397165221070445
+foundBy: id contains "main"
+score: 26.037148297017136
+foundBy: fallback-dom-diffed
+score: 26.478760313094988
+found by : fallback-dom-diffed
+score : 26.478760313094988
+id : fallback
+Processing: https_www_bbc_com_news_articles_cy840l75gx3o.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 26.230132546159634
+foundBy: <main> tag
+score: 26.130132546159633
+foundBy: id contains "main"
+score: -24.396122011923367
+foundBy: id contains "main"
+score: 25.830132546159636
+foundBy: fallback-dom-diffed
+score: 16.475979626092492
+found by : accessibility-skip-link
+score : 26.230132546159634
+id : main-content
+Processing: https_www_bbc_com_news_articles_cql9lkv5y7zo.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 41.49689699538334
+foundBy: <main> tag
+score: 41.39689699538334
+foundBy: id contains "main"
+score: -24.397464618179065
+foundBy: id contains "main"
+score: 41.09689699538333
+foundBy: fallback-dom-diffed
+score: 31.479981836070536
+found by : accessibility-skip-link
+score : 41.49689699538334
+id : main-content
+Processing: https_www_npr_org_2025_11_24_nx_s1_5615440_food_mood_mental_health.html 
+>>> found = 7 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: 20.95376261330597
+foundBy: accessibility-skip-link-nextAll-siblings
+score: 20.95376261330597
+foundBy: <main> tag
+score: 41.60349466963115
+foundBy: id contains "main"
+score: -14.183022632689129
+foundBy: id contains "main"
+score: 41.27231058662562
+foundBy: id contains "main"
+score: -9.39270281055812
+foundBy: fallback-dom-diffed
+score: 41.11917792600194
+found by : <main> tag
+score : 41.60349466963115
+id : 
+Processing: https_www_npr_org_2025_11_24_nx_s1_5615322_future_trucking_driverless_autonomous_trucks.html 
+>>> found = 7 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: -24.04924192485168
+foundBy: accessibility-skip-link-nextAll-siblings
+score: -24.04924192485168
+foundBy: <main> tag
+score: 41.72834541858932
+foundBy: id contains "main"
+score: -14.274555042847727
+foundBy: id contains "main"
+score: 41.41420566908372
+foundBy: id contains "main"
+score: -9.395781147000658
+foundBy: fallback-dom-diffed
+score: 41.24449571522742
+found by : <main> tag
+score : 41.72834541858932
+id : 
+Processing: https_www_npr_org_2025_11_24_nx_s1_5609336_hemp_thc_drinks_cannabis_marijuana_farm_bill.html 
+>>> found = 7 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: -24.048466010011303
+foundBy: accessibility-skip-link-nextAll-siblings
+score: -24.048466010011303
+foundBy: <main> tag
+score: 31.692168577426127
+foundBy: id contains "main"
+score: -14.254416276441143
+foundBy: id contains "main"
+score: 31.375843694493785
+foundBy: id contains "main"
+score: -9.392539964476022
+foundBy: fallback-dom-diffed
+score: 41.16956240917165
+found by : fallback-dom-diffed
+score : 41.16956240917165
+id : fallback
+Processing: https_www_npr_org_2025_11_24_nx_s1_5611448_thanksgiving_feast_turkey_cost.html 
+>>> found = 7 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> <main> tag
+>>> id contains "main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: -24.048408104196817
+foundBy: accessibility-skip-link-nextAll-siblings
+score: -24.048408104196817
+foundBy: <main> tag
+score: 51.524023154848045
+foundBy: id contains "main"
+score: -14.124602026049203
+foundBy: id contains "main"
+score: 51.194066570188134
+foundBy: id contains "main"
+score: -9.390738060781477
+foundBy: fallback-dom-diffed
+score: 51.03234442836469
+found by : <main> tag
+score : 51.524023154848045
+id : 
+Processing: https_www_nytimes_com_2025_11_22_style_luxury_micro_weddings_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_nytimes_com_2025_11_22_business_dealbook_full_body_mri_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_nytimes_com_2025_11_23_world_africa_g20_united_states_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.432584269662922
+found by : fallback-dom-diffed
+score : 11.432584269662922
+id : fallback
+Processing: https_www_nytimes_com_2025_11_23_world_europe_ukraine_switzerland_russia_peace_talks_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_finance_yahoo_com_news_live_stock_market_today_dow_sp_500_nasdaq_futures_inch_down_after_techs_biggest_rally_since_may_235115825_html.html 
+>>> found = 4 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 31.65858152517669
+foundBy: <main> tag
+score: 31.558554024695432
+foundBy: id contains "main"
+score: 31.181937683909467
+foundBy: fallback-dom-diffed
+score: 31.13000852514919
+found by : accessibility-skip-link
+score : 31.65858152517669
+id : nimbus-app
+Processing: https_finance_yahoo_com_news_vibe_coding_startups_face_big_060944385_html.html 
+>>> found = 4 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 41.353162179085786
+foundBy: <main> tag
+score: 41.25310999791275
+foundBy: id contains "main"
+score: 55.80773324984346
+foundBy: fallback-dom-diffed
+score: 50.80233771655187
+found by : id contains "main"
+score : 55.80773324984346
+id : main-content-wrapper
+Processing: https_www_yahoo_com_news_articles_volcano_erupts_first_time_12_170053984_html.html 
+>>> found = 3 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 41.89400805639476
+foundBy: <main> tag
+score: 41.794008056394766
+foundBy: fallback-dom-diffed
+score: 31.371097683786505
+found by : accessibility-skip-link
+score : 41.89400805639476
+id : article-container
+Processing: https_www_yahoo_com_news_articles_confused_trump_79_mistakenly_amplifies_230321826_html.html 
+>>> found = 3 candidates
+>>> accessibility-skip-link
+>>> <main> tag
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link
+score: 41.90760749724366
+foundBy: <main> tag
+score: 41.80760749724366
+foundBy: fallback-dom-diffed
+score: 41.38710033076075
+found by : accessibility-skip-link
+score : 41.90760749724366
+id : article-container
+Processing: https_sports_yahoo_com_articles_chiefs_decision_terminate_wide_receiver_215046550_html.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 46.29898218829516
+found by : fallback-dom-diffed
+score : 46.29898218829516
+id : fallback
+Processing: https_www_benzinga_com_markets_equities_25_11_49049351_nasdaq_jumps_600_points_amid_fed_dovish_signals_fear_greed_index_remains_in_extreme_fear_zone_utm_source_snapi.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.397579539820946
+foundBy: fallback-dom-diffed
+score: -8.545959581231227
+found by : fallback-dom-diffed
+score : -8.545959581231227
+id : fallback
+Processing: https_www_benzinga_com_news_health_care_25_11_49027788_exclusive_enlivex_raises_over_200_million_to_launch_first_public_company_prediction_markets_play.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.39416150815982
+foundBy: fallback-dom-diffed
+score: 36.38942037141249
+found by : fallback-dom-diffed
+score : 36.38942037141249
+id : fallback
+Processing: https_www_benzinga_com_news_entertainment_25_11_49049435_jackie_chan_to_play_changpeng_zhao_in_netflix_feature_heres_what_the_crypto_billionaire_said.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.395772854596384
+foundBy: fallback-dom-diffed
+score: 11.419633307868601
+found by : fallback-dom-diffed
+score : 11.419633307868601
+id : fallback
+Processing: https_www_benzinga_com_analyst_stock_ratings_price_target_25_11_49049330_top_wall_street_forecasters_revamp_best_buy_expectations_ahead_of_q3_earnings.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.39392297554547
+foundBy: fallback-dom-diffed
+score: 1.3840240152291696
+found by : fallback-dom-diffed
+score : 1.3840240152291696
+id : fallback
+Processing: https_www_benzinga_com_markets_equities_25_11_48980413_whats_going_on_with_bigbear_ai_stock_today.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.395873110580748
+foundBy: fallback-dom-diffed
+score: 16.421837708830548
+found by : fallback-dom-diffed
+score : 16.421837708830548
+id : fallback
+Processing: https_www_benzinga_com_analyst_stock_ratings_analyst_color_25_11_49047581_draftkings_flutter_sell_off_overdone_analyst_says_prediction_markets_provide_5_billion_opportunity.html 
+>>> found = 2 candidates
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: id contains "main"
+score: -29.37112218719198
+foundBy: fallback-dom-diffed
+score: 1.1776534243032204
+found by : fallback-dom-diffed
+score : 1.1776534243032204
+id : fallback
+Processing: https_www_reuters_com_world_europe_us_holds_secret_russia_ukraine_peace_talks_abu_dhabi_ft_reports_2025_11_25_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_reuters_com_world_asia_pacific_taiwan_says_no_information_cooperation_with_south_korea_us_chip_tariffs_2025_11_25_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_reuters_com_business_apple_cuts_jobs_across_its_sales_organization_bloomberg_news_reports_2025_11_24_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_reuters_com_business_energy_nigerias_dangote_picks_honeywell_help_fulfill_ambitious_capacity_expansion_2025_11_25_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_reuters_com_business_retail_consumer_amazon_invest_15_billion_indiana_boost_data_center_infrastructure_2025_11_24_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_reuters_com_sustainability_boards_policy_regulation_comcast_pay_15_million_us_fine_after_vendor_data_breach_2025_11_24_.html 
+>>> found = 1 candidates
+>>> fallback-dom-diffed
+foundBy: fallback-dom-diffed
+score: 11.5
+found by : fallback-dom-diffed
+score : 11.5
+id : fallback
+Processing: https_www_cnbc_com_2025_11_25_european_markets_on_nov_25_2025_stoxx_600_ftse_dax_cac_html.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: 41.6330296642072
+foundBy: accessibility-skip-link-nextAll-siblings
+score: 41.6330296642072
+foundBy: role="main"
+score: 41.483029664207194
+foundBy: id contains "main"
+score: 5.635687396476435
+foundBy: fallback-dom-diffed
+score: 21.41477187170607
+found by : accessibility-skip-link-next-sibling
+score : 41.6330296642072
+id : MainContent
+Processing: https_www_cnbc_com_2025_11_24_amazon_to_spend_up_to_50_billion_on_ai_services_for_us_government_html.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: 46.30907394714797
+foundBy: accessibility-skip-link-nextAll-siblings
+score: 46.30907394714797
+foundBy: role="main"
+score: 46.160216282080576
+foundBy: id contains "main"
+score: 20.641733302871067
+foundBy: fallback-dom-diffed
+score: 6.368387784631787
+found by : accessibility-skip-link-next-sibling
+score : 46.30907394714797
+id : MainContent
+Processing: https_www_cnbc_com_2025_11_24_this_26_year_olds_blue_collar_business_brings_in_1point3_million_a_year_html.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: 56.85862395241957
+foundBy: accessibility-skip-link-nextAll-siblings
+score: 56.85862395241957
+foundBy: role="main"
+score: 56.70862395241957
+foundBy: id contains "main"
+score: 30.6485266288186
+foundBy: fallback-dom-diffed
+score: 46.424168694241686
+found by : accessibility-skip-link-next-sibling
+score : 56.85862395241957
+id : MainContent
+Processing: https_www_cnbc_com_2025_11_25_trump_xi_taikaichi_call_us_china_japan_beijing_tokyo_spat_taiwan_taipei_pla_jsdf_senkaku_diaoyu_html.html 
+>>> found = 5 candidates
+>>> accessibility-skip-link-next-sibling
+>>> accessibility-skip-link-nextAll-siblings
+>>> role="main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: accessibility-skip-link-next-sibling
+score: 51.68656601842375
+foundBy: accessibility-skip-link-nextAll-siblings
+score: 51.68656601842375
+foundBy: role="main"
+score: 51.53656601842375
+foundBy: id contains "main"
+score: 30.631729785056294
+foundBy: fallback-dom-diffed
+score: 16.42272262026612
+found by : accessibility-skip-link-next-sibling
+score : 51.68656601842375
+id : MainContent
+Processing: https_www_globenewswire_com_news_release_2025_08_18_3135071_0_en_AEHL_Signs_Strategic_Agreement_with_BitGo_to_Advance_Bitcoin_Acquisition_and_Security_html.html 
+>>> found = 4 candidates
+>>> role="main"
+>>> id contains "main"
+>>> id contains "main"
+>>> fallback-dom-diffed
+foundBy: role="main"
+score: 46.707832506632826
+foundBy: id contains "main"
+score: 46.485799976929286
+foundBy: id contains "main"
+score: 31.316345599261737
+foundBy: fallback-dom-diffed
+score: 46.45109009112931
+found by : role="main"
+score : 46.707832506632826
+id : 
