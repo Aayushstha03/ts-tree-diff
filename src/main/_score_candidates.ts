@@ -1,52 +1,20 @@
 import type { Cheerio } from "cheerio";
 import type { Element } from "domhandler";
 
-/**
- * Score a content candidate based on heuristics
- */
-export const scoreCandidate = (el: Cheerio<Element>): number => {
-    let score = 0;
-    const text = el.text().trim();
-    const textLength = text.length;
-
-    // Heavier weight for text length
-    score += textLengthScore(textLength);
-
-    // Bonus for images and videos
-    score += mediaScore(el);
-
-    // Penalize if too many links
-    score += linkPenalty(el);
-
-    // Bonus for data-* attributes
-    score += dataAttributeBonus(el);
-
-    // Use original semantic, keyword, and tag bonuses/penalties if desired
-    score += calculateSemanticScore(el);
-    score += calculateKeywordScore(el);
-    score += calculateStructuralPenalties(el);
-    score += calculateLengthPenalty(textLength);
-    score += calculateTagBonus(el);    return Math.max(0, score);
-};
-
 // Scoring functions
 
-const textLengthScore = (textLength: number, totalTextLength: number): number => {
+const textLengthScore = (
+    textLength: number,
+    totalTextLength: number,
+): number => {
     // Normalize the score: ratio of this element's text length to total text length in DOM, scale 0-1
     if (totalTextLength === 0) return 0;
     return Math.min(textLength / totalTextLength, 1);
 };
 
-const mediaScore = (el: Cheerio<Element>): number => {
-    // Bonus for images and videos
-    const imgCount = el.find("img").length;
-    const videoCount = el.find("video").length;
-    return imgCount * 5 + videoCount * 10;
-};
-
 const dataAttributeBonus = (el: Cheerio<Element>): number => {
     // Bonus if element has any data-* attributes
-    const attribs = (el[0]?.attribs) || {};
+    const attribs = el[0]?.attribs || {};
     return Object.keys(attribs).some((k) => k.startsWith("data-")) ? 10 : 0;
 };
 
@@ -84,7 +52,7 @@ const calculateSemanticScore = (el: Cheerio<Element>): number => {
         score -= 10; // Too many images, likely gallery
     }
 
-// Link Density Penalty
+    // Link Density Penalty
     const totalText = el.text().replace(/\s+/g, "");
     const linkText = el.find("a").text().replace(/\s+/g, "");
     let linkDensity = 0;
@@ -101,10 +69,9 @@ const calculateSemanticScore = (el: Cheerio<Element>): number => {
     return score;
 };
 
-
 const punctuationScore = (text: string): number => {
     // Count punctuation marks: . , ; : ! ? " ' ( ) [ ] { } - – — … etc.
-    const punctuationRegex = /[.,;:!?'"“”‘’()\[\]{}\-–—…]/g;
+    const punctuationRegex = /[.,;:!?'"“”‘’()\-–—…]/g;
     const matches = text.match(punctuationRegex);
     const count = matches ? matches.length : 0;
 

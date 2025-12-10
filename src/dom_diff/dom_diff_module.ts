@@ -46,9 +46,13 @@ export async function processArticles(urls: string[]) {
 		console.log("Fetching article:", articleUrl);
 		const articleHtmlRaw = await fetchHtmlCached(articleUrl);
 		console.log("Fetching homepage:", homepageUrl);
-		const homepageHtmlRaw = await fetchHtmlCached(homepageUrl);
+		const homepageHtmlRaw = await fetchHtmlCached(
+			"http://www.pbc.gov.cn/en/3688229/3688353/3688356/index.html",
+		);
 		console.log("Fetching 404 page:", notFoundUrl);
-		const notFoundHtmlRaw = await fetchHtmlCached(notFoundUrl);
+		const notFoundHtmlRaw = await fetchHtmlCached(
+			"http://www.pbc.gov.cn/en/3688229/index.html",
+		);
 
 		// Preliminary clean: remove <script> and <style> tags
 		const articleHtml = stripScriptAndStyleTags(articleHtmlRaw);
@@ -136,16 +140,5 @@ export async function processArticles(urls: string[]) {
 // Usage:
 // import { processArticles } from "./dom_diff_module";
 await processArticles([
-	"https://www.bbc.com/news/articles/c4g7d39n6vgo",
-	"https://www.bankofcanada.ca/2025/10/free-family-events-bank-canada-museum-financial-literacy-month/",
-	"https://www.bankofcanada.ca/2025/08/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-30-2025/",
-	"https://www.bankofcanada.ca/2025/05/financial-stability-report-2025/",
-	"https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2025/20250918-scotti/index.html?com.dotmarketing.htmlpage.language=1",
-	"https://www.federalreserve.gov/econres/feds/evaluating-macroeconomic-outcomes-under-asymmetries-expectations-matter.htm",
-	"https://www.federalreserve.gov/publications/April-2025-financial-stability-Purpose-and-Framework.htm",
-	"https://www.ecb.europa.eu/press/stats/md/html/ecb.md2508~b1d4890d51.en.html",
-	"https://www.ecb.europa.eu/press/economic-bulletin/articles/2025/html/ecb.ebart202506_01~d41c118e13.en.html",
-	"https://www.boj.or.jp/en/about/press/koen_2025/ko251021a.htm",
-	"https://www.bankofengland.co.uk/paper/2025/ps/amendments-to-the-boes-approach-to-setting-a-mrel",
-	"https://www.bankofengland.co.uk/news/2025/october/fpcs-welcoming-statement-for-ps-20-25",
+	"https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/?content_type[]=628&content_type[]=22322",
 ]);

@@ -172,6 +172,19 @@ export function semanticMainCandidatesBased(
         }
     });
 
+    // id contains main
+    $('[id*="main"]').each((_, el) => {
+        const id = $(el).attr("id") || "";
+        if ($(el).text().trim().length > 0) {
+            candidates.push({
+                foundBy: 'id contains "main"',
+                score: 0.6,
+                id,
+                element: $(el).html() || "",
+            });
+        }
+    });
+
     return candidates;
 }
 
