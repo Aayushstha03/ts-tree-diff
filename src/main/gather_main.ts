@@ -2,9 +2,11 @@ import type * as cheerio from "cheerio";
 import * as Cheerio from "cheerio";
 import {
     cleanHtmlPreDom,
+    removeBoilerplateLinkClusters,
     removeBreadcrumbs,
     removeEmptyTags,
     removeNavTags,
+    stripScriptAndStyleTags,
 } from "../../utils/dom_utils";
 
 interface MainContentCandidate {
@@ -47,7 +49,44 @@ export class MainContentExtractor {
     private $: cheerio.CheerioAPI;
 
     constructor(domString: string) {
+        // high chance of missing smth if we clean if before we attept candidate extraction and stuff
+        // const cleanDom = this.cleanDom(domString);
+        // this.$ = Cheerio.load(cleanDom);
         this.$ = Cheerio.load(domString);
+    }
+
+    private cleanDom(domString: string): string {
+        // remove style and script tags
+        let cleanedDom = stripScriptAndStyleTags(domString);
+        // remove breadcrumb style link blocks
+        cleanedDom = removeBreadcrumbs(cleanedDom);
+        // this methods attempts to clean social media share style elements
+        // working with a high threslold to avoid removing actual content!
+        cleanedDom = removeBoilerplateLinkClusters(cleanedDom, 0.65);
+        // remove nav tags if leftover after dom diff, but not too strict
+        cleanedDom = removeNavTags(cleanedDom);
+        // remove empty tags, fold tags, propagate text upwards
+        cleanedDom = removeEmptyTags(cleanedDom);
+        return cleanedDom;
+    }
+
+    // method to try and remove social media related elements, move the dom diff/utils later
+    private removeSocialCues($: cheerio.CheerioAPI) {
+        const regexes = removeList.map(
+            (word) => new RegExp(`(^|[^a-zA-Z])${word}([^a-zA-Z]|$)`, "i"),
+        );
+        $("[class], [id], [aria-label]").each((_, el) => {
+            const $el = $(el);
+            const className = $el.attr("class") || "";
+            const id = $el.attr("id") || "";
+            const ariaLabel = $el.attr("aria-label") || "";
+            for (const rx of regexes) {
+                if (rx.test(className) || rx.test(id) || rx.test(ariaLabel)) {
+                    $el.remove();
+                    break;
+                }
+            }
+        });
     }
 
     private skipLinksBased($: cheerio.CheerioAPI): MainContentCandidate[] {
@@ -78,7 +117,7 @@ export class MainContentExtractor {
                         if (targetEl.text().trim().length > 0) {
                             const candidate: MainContentCandidate = {
                                 foundBy: "accessibility-skip-link",
-                                score: 1.0,
+                                score: 10,
                                 id: targetId,
                                 element: targetEl.html() || "",
                             };
@@ -94,7 +133,7 @@ export class MainContentExtractor {
                                 const candidate: MainContentCandidate = {
                                     foundBy:
                                         "accessibility-skip-link-next-sibling",
-                                    score: 0.95,
+                                    score: 9,
                                     id: targetId,
                                     element: nextSibling.html() || "",
                                 };
@@ -109,7 +148,7 @@ export class MainContentExtractor {
                                 const candidate: MainContentCandidate = {
                                     foundBy:
                                         "accessibility-skip-link-nextAll-siblings",
-                                    score: 0.95,
+                                    score: 9,
                                     id: targetId,
                                     element: siblings.html() || "",
                                 };
@@ -130,7 +169,7 @@ export class MainContentExtractor {
             if ($(el).text().trim().length > 0) {
                 candidates.push({
                     foundBy: "<main> tag",
-                    score: 0.9,
+                    score: 9,
                     id,
                     element: $(el).html() || "",
                 });
@@ -141,7 +180,7 @@ export class MainContentExtractor {
             if ($(el).text().trim().length > 0) {
                 candidates.push({
                     foundBy: 'role="main"',
-                    score: 0.8,
+                    score: 8,
                     id,
                     element: $(el).html() || "",
                 });
@@ -151,7 +190,7 @@ export class MainContentExtractor {
             if ($(el).text().trim().length > 0) {
                 candidates.push({
                     foundBy: 'id="main"',
-                    score: 0.7,
+                    score: 7,
                     id: "main",
                     element: $(el).html() || "",
                 });
@@ -162,32 +201,13 @@ export class MainContentExtractor {
             if ($(el).text().trim().length > 0) {
                 candidates.push({
                     foundBy: 'id contains "main"',
-                    score: 0.6,
+                    score: 6,
                     id,
                     element: $(el).html() || "",
                 });
             }
         });
         return candidates;
-    }
-
-    // method to try and remove social media related elements, move the dom diff/utils later
-    private removeSocialCues($: cheerio.CheerioAPI) {
-        const regexes = removeList.map(
-            (word) => new RegExp(`(^|[^a-zA-Z])${word}([^a-zA-Z]|$)`, "i"),
-        );
-        $("[class], [id], [aria-label]").each((_, el) => {
-            const $el = $(el);
-            const className = $el.attr("class") || "";
-            const id = $el.attr("id") || "";
-            const ariaLabel = $el.attr("aria-label") || "";
-            for (const rx of regexes) {
-                if (rx.test(className) || rx.test(id) || rx.test(ariaLabel)) {
-                    $el.remove();
-                    break;
-                }
-            }
-        });
     }
 
     public getMainContentCandidates(): MainContentCandidate[] {
@@ -204,19 +224,25 @@ export class MainContentExtractor {
         }
 
         // Fallback whole dom-diffed DOM
-        this.removeSocialCues(this.$);
+        // have already cleaned the DOM for one round
         let domString = this.$.html();
-        domString = cleanHtmlPreDom(domString);
-        domString = removeBreadcrumbs(domString);
-        domString = removeNavTags(domString);
-        domString = removeEmptyTags(domString);
         const fallbackDom: MainContentCandidate = {
             foundBy: "fallback-dom-diffed",
-            score: 0.5,
+            score: 5,
             id: "fallback",
             element: domString || "",
         };
         candidates.push(fallbackDom);
+
+        let cleanedDomString = this.cleanDom(this.$.html());
+        const fallbackCleanedDom: MainContentCandidate = {
+            foundBy: "fallback-cleaned-dom-diffed",
+            score: 5,
+            id: "fallback-cleaned",
+            element: cleanedDomString,
+        };
+        candidates.push(fallbackCleanedDom);
+
         console.log(`>>> found = ${candidates.length} candidates`);
         for (const cand of candidates) {
             console.log(`>>> ${cand.foundBy}`);

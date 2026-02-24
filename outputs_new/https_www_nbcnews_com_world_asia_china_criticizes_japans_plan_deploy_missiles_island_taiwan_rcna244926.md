@@ -1,5 +1,3 @@
-China criticizes Japan's plan to deploy missiles on island near Taiwan
-
 IE 11 is not supported. For an optimal experience visit our site on another browser.
 
 Skip to Content
@@ -14,6 +12,12 @@ The remarks come amid the two countries’ worst diplomatic crisis in years afte
 ![Japan Defense Minister Shinjiro Koizumi Visits Yonaguni](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-11/251124-Shinjiro-Koizumi--rs-c0c2c8.jpg)
 
 Japanese Defense Minister Shinjiro Koizumi, center, during a visit to Yonaguni on Sunday.Alastair Gale / Bloomberg via Getty Images
+
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/world/asia/china-criticizes-japans-plan-deploy-missiles-island-taiwan-rcna244926&cid=[object Object]_facebook)
+*   [](https://x.com/intent/post?text=China%20criticizes%20Japan's%20plan%20to%20deploy%20missiles%20on%20island%20near%20Taiwan&via=nbcnews&url=https://www.nbcnews.com/world/asia/china-criticizes-japans-plan-deploy-missiles-island-taiwan-rcna244926&original_referer=https://www.nbcnews.com/world/asia/china-criticizes-japans-plan-deploy-missiles-island-taiwan-rcna244926&cid=[object Object]_twitter)
+*   [](mailto:?subject=China criticizes Japan's plan to deploy missiles on island near Taiwan&body=https://www.nbcnews.com/world/asia/china-criticizes-japans-plan-deploy-missiles-island-taiwan-rcna244926)
+
+*   [](sms:?&body=China criticizes Japan's plan to deploy missiles on island near Taiwan via nbcnews - https://www.nbcnews.com/world/asia/china-criticizes-japans-plan-deploy-missiles-island-taiwan-rcna244926)
 
 Nov. 24, 2025, 5:01 AM EST / Source: [Reuters](https://www.reuters.com)
 
@@ -54,5 +58,3 @@ Reuters
 [](https://www.nbcnews.com)
 
 © 2025 NBCUniversal Media, LLC
-
-[NBC News Logo](https://www.nbcnews.com)[Today Logo](https://www.today.com)

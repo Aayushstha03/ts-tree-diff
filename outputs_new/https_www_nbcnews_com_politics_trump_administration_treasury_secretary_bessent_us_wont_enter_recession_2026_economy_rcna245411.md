@@ -1,5 +1,3 @@
-Treasury secretary says there won't be a recession in 2026
-
 IE 11 is not supported. For an optimal experience visit our site on another browser.
 
 Skip to Content
@@ -17,6 +15,12 @@ Scott Bessent said he was optimistic about the economy as a whole but acknowledg
 
 ![](https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2025_11/1763908861695_mtp_clip_bessentrecession_251123_1920x1080-hosyg8.jpg)
 
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958&cid=mbt_video_socialShare_facebook)
+*   [](https://x.com/intent/post?text=Scott%20Bessent%20says%20U.S.%20won't%20enter%20recession%20despite%20some%20sectors%20showing%20warning%20signs&via=nbcnews&url=https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958&original_referer=https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958&cid=mbt_video_socialShare_twitter)
+*   [](mailto:?subject=Scott Bessent says U.S. won't enter recession despite some sectors showing warning signs&body=https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958)
+
+*   [](sms:?&body=Scott Bessent says U.S. won't enter recession despite some sectors showing warning signs via nbcnews - https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958)
+
 [Scott Bessent says U.S. won't enter recession despite some sectors showing warning signs](https://www.nbcnews.com/meet-the-press/video/scott-bessent-says-u-s-will-not-enter-recession-despite-some-sectors-showing-warning-signs-252751429958)
 
 02:04
@@ -27,15 +31,29 @@ Get more newsLiveon
 
 ](https://www.nbcnews.com/watch)
 
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411&cid=[object Object]_facebook)
+*   [](https://x.com/intent/post?text=Treasury%20secretary%20says%20there%20won't%20be%20a%20recession%20in%202026&via=nbcnews&url=https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411&original_referer=https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411&cid=[object Object]_twitter)
+*   [](mailto:?subject=Treasury secretary says there won't be a recession in 2026&body=https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411)
+
+*   [](sms:?&body=Treasury secretary says there won't be a recession in 2026 via nbcnews - https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411)
+
 Nov. 23, 2025, 10:33 AM EST / Updated Nov. 23, 2025, 12:09 PM EST
 
 By [Alexandra Marquez](https://www.nbcnews.com/author/alexandra-marquez-ncpn1256666)
+
+Treasury Secretary Scott Bessent on Sunday said “no” when asked whether the U.S. was at risk of entering a recession in 2026, telling NBC News’ “Meet the Press” he’s confident Americans will feel economic relief next year stemming from President Donald Trump’s tariff agenda and trade deals.
 
 “I am very, very optimistic on 2026. We have set the table for a very strong, noninflationary growth economy,” Bessent told moderator Kristen Welker.
 
 He also said, “We believe health care is going to come down,” adding that the Trump administration would have news on that front this week.
 
 ![](https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2025_11/1763907708722_mtp_full_bessent_251123_1920x1080-fdz2rb.jpg)
+
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525&cid=mbt_video_socialShare_facebook)
+*   [](https://x.com/intent/post?text=Bessent%20says%20inflation%20%E2%80%98has%20nothing%20to%20do%20with%20tariffs%E2%80%99%20as%20U.S.%20rolls%20them%20back%3A%20Full%20interview&via=nbcnews&url=https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525&original_referer=https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525&cid=mbt_video_socialShare_twitter)
+*   [](mailto:?subject=Bessent says inflation ‘has nothing to do with tariffs’ as U.S. rolls them back: Full interview&body=https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525)
+
+*   [](sms:?&body=Bessent says inflation ‘has nothing to do with tariffs’ as U.S. rolls them back: Full interview via nbcnews - https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525)
 
 [Bessent says inflation ‘has nothing to do with tariffs’ as U.S. rolls them back: Full interview](https://www.nbcnews.com/meet-the-press/video/bessent-says-inflation-has-nothing-to-do-with-tariffs-as-u-s-rolls-them-back-full-interview-252749893525)
 
@@ -77,7 +95,7 @@ He added that he has not spoken to the president about an alleged timeline for n
 
 [![](https://media-cldnry.s-nbcnews.com/image/upload/t_focal-60x60,f_auto,q_auto:best/newscms/2024_38/3662645/240613-alexandra-sasha-marquez.jpg)](https://www.nbcnews.com/author/alexandra-marquez-ncpn1256666)
 
-[Alexandra Marquez](https://www.nbcnews.com/author/alexandra-marquez-ncpn1256666)
+[Alexandra Marquez](https://www.nbcnews.com/author/alexandra-marquez-ncpn1256666)[](https://x.com/alexandramrqz)[](mailto:alexandra.marquez@nbcuni.com)
 
 Alexandra Marquez is a politics reporter for NBC News.
 
@@ -86,5 +104,3 @@ Megan Shannon contributed.
 [](https://www.nbcnews.com)
 
 © 2025 NBCUniversal Media, LLC
-
-[NBC News Logo](https://www.nbcnews.com)[Today Logo](https://www.today.com)

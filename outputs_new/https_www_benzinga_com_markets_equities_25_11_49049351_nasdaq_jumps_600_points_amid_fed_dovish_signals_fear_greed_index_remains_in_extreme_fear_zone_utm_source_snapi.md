@@ -1,5 +1,3 @@
-Nasdaq Jumps 600 Points Amid Fed Dovish Signals: Fear & Greed Index Remains In 'Extreme Fear' Zone - Alphabet (NASDAQ:GOOGL) - Benzinga
-
 [](/)
 
 [España](https://es.benzinga.com)
@@ -253,6 +251,8 @@ by [Avi Kapoor](/author/avi-kapoor-vedainformatics-com) Benzinga Staff Writer
 
 Follow
 
+[](https://twitter.com/benzinga)
+
 [
 
 ![GOOGL Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -270,92 +270,6 @@ $319.90\-0.09%
 ](/quote/GOOGL)
 
 [Overview](/quote/GOOGL)
-
-[
-
-![BABA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![BABA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US01609W1027/mark_vector_light__ebdd01e19e6b9cc66abdeae01f333d7c.svg?x-bz-cred=sb~t1ZmEpDGNxAEmy_hu2eEWhT2zXENDv7p-RY50HMGMZfUG6lIvqDEICEtOD3VaNhsvxTVf46rFoSSfKFAOAqoQq2T8ZYFRW9fm--KkPxlCH88hQFcJ7CD8LEAWPSnIb0j8lf7RiR1sr_im3nrkuQbxQaKvQ6v&x-bz-exp=1764569268&x-bz-security-isin=US01609W1027&x-bz-security-symbol=BABA&x-bz-signature=fe21ee6f60be3897425428bd823ee15a93d1570fafe399e387ea3a7db659d5f0)
-
-BABAAlibaba Group Holding Ltd
-
-$157.05\-0.16%
-
-
-
-
-
-](/quote/BABA)[
-
-![GOOG Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![GOOG Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US02079K1079/mark_vector_light__05b325cd2c4125bb2bb57e65373ca718.svg?x-bz-cred=sb~org8or_f4V1MbirZzTCgiPUQbu67sCsBAlv8ZAqMNVav9QsazHSMCDyfg2R1Oe9T5gK_Ih6SDD1ytWvB8a7I5Ptqm3su-y6UzU8IfmmQ-7kD8Gj18U1oSiRBnhko21PaTo9tBrVk7qmPI2Kp7yKqWOArJvfl&x-bz-exp=1764569268&x-bz-security-isin=US02079K1079&x-bz-security-symbol=GOOG&x-bz-signature=b93627286fe1d7aacaad638fbd5fc940f084fce8fab22772f5a9eb15b040a941)
-
-GOOGAlphabet Inc
-
-$319.86\-0.08%
-
-
-
-
-
-](/quote/GOOG)[
-
-![HPQ Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![HPQ Logo](https://image-util.benzinga.com/api/v2/logos/file/image/47217/mark_vector_light__fa4c614c0aabd466c3c5535f3e1a903f.svg?x-bz-cred=sb~xuXqqGAhzepvrzp-HSKKJ5jnDfg0wc7q-qyIy8xjJGhA9vvuPU7sceV7Hn0wpE3Z0TufJMpsi64_OFlOW6VOBIHPUyxJs5s1VvNvkEDMGy6nmOkEUMIF5TvTglQY6XaIZYwD_jYc84P93y9lIHz-46FUIGmY&x-bz-exp=1764569268&x-bz-security-isin=US40434L1052&x-bz-security-symbol=HPQ&x-bz-signature=39b0160f3533c876edb78b3ba8ee22eecb936976e9b67712b4a966af6f6eb650)
-
-HPQHP Inc
-
-$24.39\-0.12%
-
-
-
-
-
-](/quote/HPQ)[
-
-![MSFT Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![MSFT Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US5949181045/mark_vector_light__1c1dd9ce72a2538fa97ecede24e5bbd5.svg?x-bz-cred=sb~_fwXvq4phsrmfJTvFDNCXzBJy8jdW9RbUuKngrt6Ny27nOZTuTl10nUIU3fAUToVyeYxeIm6ZB4_G3td6mlWIAqHGTVUXcdnKhVA2B8gAzAAgFTNYxtHMCSOwI2IBB780h3BIQCr0qdT3ZYFv8haBDS77Uxn&x-bz-exp=1764569268&x-bz-security-isin=US5949181045&x-bz-security-symbol=MSFT&x-bz-signature=f510b3e48a21ccd6935744e12c361d43ffa5afd4ae7ef6611ff1404ea0db2844)
-
-MSFTMicrosoft Corp
-
-$492.150.03%
-
-
-
-
-
-](/quote/MSFT)[
-
-![SJM Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![SJM Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US8326964058/mark_vector_light__e83ce2daaa1a948d30b99bc100090f9e.svg?x-bz-cred=sb~alGUGlUgfz7g-v2WP2DVTVQ-h7CDc2lSxrPrxbuk5M60eCb-zW7zMX5vROHOqvH-HgsmW78pw1F40JTejFn0tHTLGeGRxQ2ArszwTBXXgDQAfutB6ZYMyGLDZPgJjrPSixNrcc5_y14IwTBG3q_NxK69jD5-&x-bz-exp=1764569268&x-bz-security-isin=US8326964058&x-bz-security-symbol=SJM&x-bz-signature=c61363a2d61cef9c2912fa3752848da6e6975c3a4cb4f981ecb92b63e1786d4d)
-
-SJMJM Smucker Co
-
-$104.18\-%
-
-
-
-
-
-](/quote/SJM)[
-
-![TSLA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![TSLA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/1318605/mark_vector_light__08f75f3a152d8e7aa1e787f38616953d.svg?x-bz-cred=sb~uhq0AKaQ144Wwcm8ohk0ZLp5xw6rENea2Khdn7Jo6uFSsuRRxvfcUF9IO-6G79zLY1UE58EJTgEsGmXfpOaUHi15_9XOdXV0kH8hScgljjIn6sGbDU7nl2qLCfRKNZuqFmonmJZxC46U7StL6NwQm3xUyEL_&x-bz-exp=1764569268&x-bz-security-isin=US88160R1014&x-bz-security-symbol=TSLA&x-bz-signature=e15bc9ffe1d7a58789350ee3cdd93eb177097a2499a5495fc6e26149ea133389)
-
-TSLATesla Inc
-
-$430.200.01%
-
-
-
-
-
-](/quote/TSLA)
 
 The CNN Money Fear and Greed index showed some easing in the overall fear level, while the index remained in the “Extreme Fear” zone on Monday.
 
@@ -409,107 +323,21 @@ $319.90\-0.09%
 
 [Overview](/quote/GOOGL)
 
-[
-
-![BABA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![BABA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US01609W1027/mark_vector_light__ebdd01e19e6b9cc66abdeae01f333d7c.svg?x-bz-cred=sb~t1ZmEpDGNxAEmy_hu2eEWhT2zXENDv7p-RY50HMGMZfUG6lIvqDEICEtOD3VaNhsvxTVf46rFoSSfKFAOAqoQq2T8ZYFRW9fm--KkPxlCH88hQFcJ7CD8LEAWPSnIb0j8lf7RiR1sr_im3nrkuQbxQaKvQ6v&x-bz-exp=1764569268&x-bz-security-isin=US01609W1027&x-bz-security-symbol=BABA&x-bz-signature=fe21ee6f60be3897425428bd823ee15a93d1570fafe399e387ea3a7db659d5f0)
-
-BABAAlibaba Group Holding Ltd
-
-$157.05\-0.16%
-
-
-
-
-
-](/quote/BABA)[
-
-![GOOG Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![GOOG Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US02079K1079/mark_vector_light__05b325cd2c4125bb2bb57e65373ca718.svg?x-bz-cred=sb~org8or_f4V1MbirZzTCgiPUQbu67sCsBAlv8ZAqMNVav9QsazHSMCDyfg2R1Oe9T5gK_Ih6SDD1ytWvB8a7I5Ptqm3su-y6UzU8IfmmQ-7kD8Gj18U1oSiRBnhko21PaTo9tBrVk7qmPI2Kp7yKqWOArJvfl&x-bz-exp=1764569268&x-bz-security-isin=US02079K1079&x-bz-security-symbol=GOOG&x-bz-signature=b93627286fe1d7aacaad638fbd5fc940f084fce8fab22772f5a9eb15b040a941)
-
-GOOGAlphabet Inc
-
-$319.86\-0.08%
-
-
-
-
-
-](/quote/GOOG)[
-
-![HPQ Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![HPQ Logo](https://image-util.benzinga.com/api/v2/logos/file/image/47217/mark_vector_light__fa4c614c0aabd466c3c5535f3e1a903f.svg?x-bz-cred=sb~xuXqqGAhzepvrzp-HSKKJ5jnDfg0wc7q-qyIy8xjJGhA9vvuPU7sceV7Hn0wpE3Z0TufJMpsi64_OFlOW6VOBIHPUyxJs5s1VvNvkEDMGy6nmOkEUMIF5TvTglQY6XaIZYwD_jYc84P93y9lIHz-46FUIGmY&x-bz-exp=1764569268&x-bz-security-isin=US40434L1052&x-bz-security-symbol=HPQ&x-bz-signature=39b0160f3533c876edb78b3ba8ee22eecb936976e9b67712b4a966af6f6eb650)
-
-HPQHP Inc
-
-$24.39\-0.12%
-
-
-
-
-
-](/quote/HPQ)[
-
-![MSFT Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![MSFT Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US5949181045/mark_vector_light__1c1dd9ce72a2538fa97ecede24e5bbd5.svg?x-bz-cred=sb~_fwXvq4phsrmfJTvFDNCXzBJy8jdW9RbUuKngrt6Ny27nOZTuTl10nUIU3fAUToVyeYxeIm6ZB4_G3td6mlWIAqHGTVUXcdnKhVA2B8gAzAAgFTNYxtHMCSOwI2IBB780h3BIQCr0qdT3ZYFv8haBDS77Uxn&x-bz-exp=1764569268&x-bz-security-isin=US5949181045&x-bz-security-symbol=MSFT&x-bz-signature=f510b3e48a21ccd6935744e12c361d43ffa5afd4ae7ef6611ff1404ea0db2844)
-
-MSFTMicrosoft Corp
-
-$492.150.03%
-
-
-
-
-
-](/quote/MSFT)[
-
-![SJM Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![SJM Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US8326964058/mark_vector_light__e83ce2daaa1a948d30b99bc100090f9e.svg?x-bz-cred=sb~alGUGlUgfz7g-v2WP2DVTVQ-h7CDc2lSxrPrxbuk5M60eCb-zW7zMX5vROHOqvH-HgsmW78pw1F40JTejFn0tHTLGeGRxQ2ArszwTBXXgDQAfutB6ZYMyGLDZPgJjrPSixNrcc5_y14IwTBG3q_NxK69jD5-&x-bz-exp=1764569268&x-bz-security-isin=US8326964058&x-bz-security-symbol=SJM&x-bz-signature=c61363a2d61cef9c2912fa3752848da6e6975c3a4cb4f981ecb92b63e1786d4d)
-
-SJMJM Smucker Co
-
-$104.18\-%
-
-
-
-
-
-](/quote/SJM)[
-
-![TSLA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![TSLA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/1318605/mark_vector_light__08f75f3a152d8e7aa1e787f38616953d.svg?x-bz-cred=sb~uhq0AKaQ144Wwcm8ohk0ZLp5xw6rENea2Khdn7Jo6uFSsuRRxvfcUF9IO-6G79zLY1UE58EJTgEsGmXfpOaUHi15_9XOdXV0kH8hScgljjIn6sGbDU7nl2qLCfRKNZuqFmonmJZxC46U7StL6NwQm3xUyEL_&x-bz-exp=1764569268&x-bz-security-isin=US88160R1014&x-bz-security-symbol=TSLA&x-bz-signature=e15bc9ffe1d7a58789350ee3cdd93eb177097a2499a5495fc6e26149ea133389)
-
-TSLATesla Inc
-
-$430.200.01%
-
-
-
-
-
-](/quote/TSLA)
-
 [Market News and Data brought to you by Benzinga APIs](https://www.benzinga.com/apis?utm_source=benzinga.com&utm_campaign=article-bottom)
 
 © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
 
+Add Comment|1
+
 **Posted In:**
 
-[Equities](/topic/equities)[Long Ideas](/trading-ideas/long-ideas)[Pre-Market Outlook](/pre-market-outlook)[Markets](/markets)[Trading Ideas](/trading-ideas)
+##### Comments
 
 Close menu
 
 Loading...
 
 Connect With Us
-
-[](https://play.google.com/store/apps/details?id=com.benzinga.app&hl=en_NZ&gl=US)[](https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481)
 
 About Benzinga
 

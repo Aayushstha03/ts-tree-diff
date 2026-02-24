@@ -1,5 +1,3 @@
-What's Going On With BigBear.ai Stock Today? - BigBear.ai Hldgs (NYSE:BBAI) - Benzinga
-
 [](/)
 
 [España](https://es.benzinga.com)
@@ -253,6 +251,8 @@ by [Nabaparna Bhattacharya](/author/nabaparna-bhattacharya) Benzinga Editor
 
 Follow
 
+[](https://twitter.com/benzinga)
+
 [
 
 ![BBAI Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -270,36 +270,6 @@ $6.33\-0.16%
 ](/quote/BBAI)
 
 [Overview](/quote/BBAI)
-
-[
-
-![MEME Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![MEME Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US77926X8175/mark_vector_light__0e301834f0164ebc5b6417632d2ef581.svg?x-bz-cred=sb~5dsyp-OtqGr3QhjPoKqr2nv654bUIMayedt_58I0nYiEWXP0jDZudrr91Jqlge17vq_BdyIAwnHlME8s8nBTswFHWZYqZZYREK4RO5L64QKPzPT1r0jUw2X6ZoUZM7VrouXw0BYxNxFuj62FHWpHuEFJJBWQ&x-bz-exp=1764549106&x-bz-security-isin=US77926X8175&x-bz-security-symbol=MEME&x-bz-signature=7d7f0d2d490f936617a5da450803fbac7c1750664d691b76903713b3919c1165)
-
-MEMERoundhill Meme Stock ETF
-
-Not Available\-%
-
-
-
-
-
-](/quote/MEME)[
-
-![NVDA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![NVDA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/1045810/mark_vector_light__038c60be9edab70563635128658b9853.svg?x-bz-cred=sb~23oq4mtKqLXitUP2F3oMkISuSWPfxCt-REELajISreMPncekGDtotBm2xGAScoIFNDk1-zkWSmEVHOvWMKXWgHFj4de1NBSFUx57yeAe2bhq4HL8O0puJEBxH03SjmNsdhbZxfwyZInnAVIlLnG91FLV2o_i&x-bz-exp=1764549106&x-bz-security-isin=US67066G1040&x-bz-security-symbol=NVDA&x-bz-signature=1de74a160dcbbf8df5cc4857d1a31acbf9429789a7de819bf3ae3915fab78ded)
-
-NVDANVIDIA Corp
-
-$176.63\-0.21%
-
-
-
-
-
-](/quote/NVDA)
 
 **BigBear.ai, Inc.** [(NYSE:](https://www.benzinga.com/quote/BBAI)[BBAI](https://www.benzinga.com/quote/BBAI)) traded higher Thursday as the artificial intelligence company announced a new international collaboration aimed at accelerating advanced [aerospace and security technologies.](https://www.benzinga.com/pressreleases/25/11/b48974447/bigbear-ai-easy-lease-and-vigilix-sign-mou-to-advance-pahang-aerospace-city-development-southeast-)
 
@@ -362,51 +332,21 @@ $6.33\-0.16%
 
 [Overview](/quote/BBAI)
 
-[
-
-![MEME Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![MEME Logo](https://image-util.benzinga.com/api/v2/logos/file/image/US77926X8175/mark_vector_light__0e301834f0164ebc5b6417632d2ef581.svg?x-bz-cred=sb~5dsyp-OtqGr3QhjPoKqr2nv654bUIMayedt_58I0nYiEWXP0jDZudrr91Jqlge17vq_BdyIAwnHlME8s8nBTswFHWZYqZZYREK4RO5L64QKPzPT1r0jUw2X6ZoUZM7VrouXw0BYxNxFuj62FHWpHuEFJJBWQ&x-bz-exp=1764549106&x-bz-security-isin=US77926X8175&x-bz-security-symbol=MEME&x-bz-signature=7d7f0d2d490f936617a5da450803fbac7c1750664d691b76903713b3919c1165)
-
-MEMERoundhill Meme Stock ETF
-
-Not Available\-%
-
-
-
-
-
-](/quote/MEME)[
-
-![NVDA Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![NVDA Logo](https://image-util.benzinga.com/api/v2/logos/file/image/1045810/mark_vector_light__038c60be9edab70563635128658b9853.svg?x-bz-cred=sb~23oq4mtKqLXitUP2F3oMkISuSWPfxCt-REELajISreMPncekGDtotBm2xGAScoIFNDk1-zkWSmEVHOvWMKXWgHFj4de1NBSFUx57yeAe2bhq4HL8O0puJEBxH03SjmNsdhbZxfwyZInnAVIlLnG91FLV2o_i&x-bz-exp=1764549106&x-bz-security-isin=US67066G1040&x-bz-security-symbol=NVDA&x-bz-signature=1de74a160dcbbf8df5cc4857d1a31acbf9429789a7de819bf3ae3915fab78ded)
-
-NVDANVIDIA Corp
-
-$176.63\-0.21%
-
-
-
-
-
-](/quote/NVDA)
-
 [Market News and Data brought to you by Benzinga APIs](https://www.benzinga.com/apis?utm_source=benzinga.com&utm_campaign=article-bottom)
 
 © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
 
+Add Comment
+
 **Posted In:**
 
-[Equities](/topic/equities)[News](/news)[Markets](/markets)[Movers](/movers)[Tech](/tech)[General](/general)[Briefs](/briefs)[Stories That Matter](/topic/stories-that-matter)[top stories](/topic/top-stories)[why it's moving](/topic/why-its-moving)
+##### Comments
 
 Close menu
 
 Loading...
 
 Connect With Us
-
-[](https://play.google.com/store/apps/details?id=com.benzinga.app&hl=en_NZ&gl=US)[](https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481)
 
 About Benzinga
 

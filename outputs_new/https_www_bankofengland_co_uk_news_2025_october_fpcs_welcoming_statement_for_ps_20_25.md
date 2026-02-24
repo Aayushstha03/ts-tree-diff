@@ -1,5 +1,3 @@
-      FPC’s welcoming statement for policy statement (PS) 20/25 | Bank of England                         
-
 Our use of cookies
 ------------------
 
@@ -28,6 +26,8 @@ Necessary cookies enable core functionality on our website such as security, net
 ### Analytics cookies
 
 We use analytics cookies so we can keep track of the number of visitors to various parts of the site and understand how our website is used. For more information on how these cookies work please see our [Cookie policy](/legal/privacy-and-cookie-policy).
+
+[Skip to main content](#main-content)
 
 [![Bank of England home](/-/media/boe/images/logo/logo-boe.svg?iar=0&mh=61&hash=2C88D4FFDD47844D6BD2541F5A92D70F)](/)
 
@@ -123,6 +123,11 @@ News // Minutes
 [View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&InfiniteScrolling=False&Direction=Latest)
 
 [Back to top](#)
+
+*   ### Follow us Follow us
+    
+    ### Museum
+    
 
 *   ### Useful links Useful links
     

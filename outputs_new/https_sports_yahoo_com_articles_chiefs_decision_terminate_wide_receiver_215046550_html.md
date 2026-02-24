@@ -1,5 +1,3 @@
-Chiefs Make Decision to Terminate Wide Receiver’s Contract Amid NFL Season - Yahoo Sports
-
 [](https://sports.yahoo.com/)
 
 Search query
@@ -64,6 +62,8 @@ Advertisement
 
 Advertisement
 
+Advertisement
+
 ![Kansas City Chiefs head coach Andy Reid. Mark J&period; Rebilas-Imagn Images](https://s.yimg.com/ny/api/res/1.2/8q_heG9uvlURayTgwAJ6LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY2MDtjZj13ZWJw/https://media.zenfs.com/en/athlon_sports_articles_610/0586464141c9f90632d05c44a3389ed4)
 
 Kansas City Chiefs head coach Andy Reid. Mark J. Rebilas-Imagn Images
@@ -78,9 +78,13 @@ Advertisement
 
 Advertisement
 
+Advertisement
+
 In 42 games with the Texans, Pierce racked up 415 carries for 1,674 yards and eight touchdowns, with his rookie season in 2022 being his best year by far. After being selected with the No. 107 pick in the 2022 NFL Draft, Pierce burst onto the scene with 939 yards and four touchdowns, but lost the starting role a year later. He was waived earlier this month after totaling just 26 yards on the season.
 
 As for Holiday, he had yet to register an appearance for the team after a college career that saw him play at Tennessee, Western Kentucky and Louisiana Tech.
+
+Advertisement
 
 Advertisement
 
@@ -109,5 +113,9 @@ Advertisement
 Advertisement
 
 [](https://sports.yahoo.com/)
+
+Follow us on
+
+Download our app
 
 © 2025 Yahoo. All rights reserved.

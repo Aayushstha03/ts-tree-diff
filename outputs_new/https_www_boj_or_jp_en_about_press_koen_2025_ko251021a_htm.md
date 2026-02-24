@@ -1,4 +1,4 @@
- Speech by Deputy Governor HIMINO at the 2025 GZERO Summit Japan (Prophets, Armed and Unarmed: The Roles of Power and Knowledge in International Prudential Standards) : 日本銀行 Bank of Japan             
+[Skip to main content](#contents)
 
 ![Open the menu](/common2/img/common/menu.png) ![Close the menu](/common2/img/common/close.png)
 

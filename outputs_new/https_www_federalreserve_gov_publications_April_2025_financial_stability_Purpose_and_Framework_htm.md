@@ -1,41 +1,6 @@
-﻿                 The Fed - Financial Stability Report - April 2025      
-
-![US Flag](/images/icon-us-flag.svg)
-
-An official website of the United States Government
-
-Here's how you know![Expand More](/images/expand_more.svg)
-
-![.gov icon](https://designsystem.digital.gov/assets/img/icon-dot-gov.svg)
-
-**Official websites use .gov**A **.gov** website belongs to an official government organization in the United States.
-
-![HTTPS icon](https://designsystem.digital.gov/assets/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**A **lock** (LockLocked padlock icon) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-[Back to Home](/default.htm) [Board of Governors of the Federal Reserve System](/default.htm "Link to Home Page")
-
-Search Submit Search Button
-
-[Advanced](//www.fedsearch.org/board_public/)
-
-Toggle Dropdown Menu
-
-[
-
-Board of Governors of the Federal Reserve System
-================================================
-
-_The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system._
-
-
-
-](/default.htm "Link to Home Page")
-
-Main Menu Toggle Button Sections Search Toggle Button
-
-Search Search Submit Button Submit
+1.  [Home](/default.htm)
+2.  [Publications](/publications.htm)
+3.  [Financial Stability Report](/publications/financial-stability-report.htm)
 
 Financial Stability Report - April 2025
 ---------------------------------------
@@ -53,6 +18,11 @@ This report presents the Federal Reserve Board's current assessment of the stabi
 A financial system is considered stable when banks, other lenders, and financial markets are able to provide households, communities, and businesses with the financing they need to invest, grow, and participate in a well- functioning economy—and can do so even when hit by adverse events, or "shocks."
 
 Consistent with this view of financial stability, the Federal Reserve Board's monitoring framework distinguishes between shocks to, and vulnerabilities of, the financial system. Shocks are inherently difficult to predict, while vulnerabilities, which are the aspects of the financial system that would exacerbate stress, can be monitored as they build up or recede over time. As a result, the framework focuses primarily on assessing vulnerabilities, with an emphasis on four broad categories and how those categories might interact to amplify stress in the financial system.[1](#f1 "footnote 1")
+
+1.  **Valuation pressures** arise when asset prices are high relative to economic fundamentals or historical norms. These developments are often driven by an increased willingness of investors to take on risk. As such, elevated valuation pressures may increase the possibility of outsized drops in asset prices (see Section 1, [Asset Valuations](/publications/April-2025-financial-stability-report-Asset-Valuations.htm)).
+2.  Excessive **borrowing by businesses and households** exposes the borrowers to distress if their incomes decline or the assets they own fall in value. In these cases, businesses and households with high debt burdens may need to cut back spending, affecting economic activity and causing losses for investors (see Section 2, [Borrowing by Businesses and Households](/publications/April-2025-financial-stability-report-Borrowing-by-Businesses-and-Households.htm)).
+3.  Excessive **leverage within the financial sector** increases the risk that financial institutions will not have the ability to absorb losses without disruptions to their normal business operations when hit by adverse shocks. In those situations, institutions will be forced to cut back lending, sell their assets, or even shut down. Such responses can impair credit access for households and businesses, further weakening economic activity (see Section 3, [Leverage in the Financial Sector](/publications/April-2025-financial-stability-report-Leverage-in-the-Financial-Sector.htm)).
+4.  **Funding risks** expose the financial system to the possibility that investors will rapidly withdraw their funds from a particular institution or sector, creating strains across markets or institutions. Many financial institutions raise funds from the public with a commitment to return their investors' money on short notice, but those institutions then invest much of those funds in assets that are hard to sell quickly or have a long maturity. This liquidity and maturity transformation can create an incentive for investors to withdraw funds quickly in adverse situations. Facing such withdrawals, financial institutions may need to sell assets quickly at "fire sale" prices, thereby incurring losses and potentially becoming insolvent, as well as causing additional price declines that can create stress across markets and at other institutions (see Section 4, [Funding Risks](/publications/April-2025-financial-stability-report-Funding-Risks.htm)).
 
 The Federal Reserve's monitoring framework also tracks domestic and international developments to identify near-term risks—that is, plausible adverse developments or shocks that could stress the U.S. financial system. The analysis of these risks focuses on assessing how such potential shocks may spread through the U.S. financial system, given our current assessment of vulnerabilities.
 
@@ -82,13 +52,3 @@ References
 [Back to Top](# "Scroll To Top")
 
 Last Update: May 08, 2025
-
-###### Board of Governors _of the_ Federal Reserve System
-
-###### Tools and Information
-
- [![Link to USA.gov](/images/USAGov%402x.png)](https://www.usa.gov/ "Link to USA.gov")[![Link to Open.gov](/images/OpenGov%402x.png)](/open/open.htm "Link to Open.gov")
-
-Board of Governors _of the_ Federal Reserve System
-
-20th Street and Constitution Avenue N.W., Washington, DC 20551

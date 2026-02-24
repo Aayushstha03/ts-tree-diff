@@ -1,5 +1,3 @@
-  DraftKings, Flutter Sell-Off 'Overdone': Analyst Says Prediction Markets Provide $5 Billion Opportunity - DraftKings (NASDAQ:DKNG) - Benzinga                                                                       
-
 [](/)
 
 [España](https://es.benzinga.com)
@@ -253,6 +251,8 @@ by [Chris Katje](/author/chris-katje) Benzinga Staff Writer
 
 Follow
 
+[](https://twitter.com/chriskatje)
+
 [
 
 ![DKNG Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -365,17 +365,19 @@ $208.81\-%
 
 © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
 
+Add Comment
+
 **Posted In:**
 
 [Sports Betting](/general/sports-betting)[Price Target](/analyst-ratings/price-target)[Reiteration](/analyst-ratings/reiteration)[Sports](/general/sports)[Top Stories](/top-stories)[Analyst Ratings](/analyst-ratings)[Movers](/movers)[Trading Ideas](/trading-ideas)[Expert Ideas](/topic/expert-ideas)[Macquarie](/topic/macquarie)[prediction markets](/topic/prediction-markets)[Stories That Matter](/topic/stories-that-matter)
+
+##### Comments
 
 Close menu
 
 Loading...
 
 Connect With Us
-
-[](https://play.google.com/store/apps/details?id=com.benzinga.app&hl=en_NZ&gl=US)[](https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481)
 
 About Benzinga
 

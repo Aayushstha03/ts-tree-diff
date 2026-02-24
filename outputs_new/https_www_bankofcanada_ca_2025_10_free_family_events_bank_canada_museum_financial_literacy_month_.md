@@ -1,4 +1,4 @@
-                Free Family Events at the Bank of Canada Museum for Financial Literacy Month - Bank of Canada                                  
+[Skip to content](#main-content)
 
 [Home](https://www.bankofcanada.ca/ "Home")
 

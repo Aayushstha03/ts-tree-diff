@@ -5,7 +5,8 @@ import { MainContentExtractor } from "./src/main/gather_main";
 import { MainContentScorer } from "./src/main/score_candidates";
 import { extractMainContent } from "./src/main_content/main_content_module";
 import { htmlToMarkdown } from "./utils/dom_utils";
-// await processArticles([
+
+// processArticles([
 //     // "https://www.nbcnews.com/politics/trump-administration/trump-says-ukraine-expressed-zero-gratitude-us-help-peace-plan-talks-rcna245412",
 //     // "https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116",
 //     // "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-us-wont-enter-recession-2026-economy-rcna245411",
@@ -54,48 +55,115 @@ import { htmlToMarkdown } from "./utils/dom_utils";
 //     "https://www.globenewswire.com/news-release/2025/08/18/3135071/0/en/AEHL-Signs-Strategic-Agreement-with-BitGo-to-Advance-Bitcoin-Acquisition-and-Security.html",
 // ]);
 
-const run = () => {
-    console.log("Starting main content extraction and scoring...");
+// const run = () => {
+//     console.log("Starting main content extraction and scoring...");
+//     const domDiffOutDir = "dom_diff_out";
+//     const outputsDir = "outputs_new";
+//     mkdirSync(outputsDir, { recursive: true });
+
+//     const fs = require("node:fs");
+//     const files = fs
+//         .readdirSync(domDiffOutDir)
+//         .filter((f: string) => f.endsWith(".html"));
+
+//     for (const fileName of files) {
+//         console.log(`Processing: ${fileName} `);
+
+//         const htmlPath = `dom_diff_out/${fileName}`;
+//         let html = "";
+//         try {
+//             html = require("node:fs").readFileSync(htmlPath, {
+//                 encoding: "utf8",
+//             });
+//         } catch (err) {
+//             console.error(`Could not read HTML file: ${htmlPath}`);
+//             return null;
+//         }
+//         const $: Cheerio.CheerioAPI = Cheerio.load(html);
+//         const content = new MainContentExtractor(html);
+//         const candidates = content.getMainContentCandidates();
+
+//         const scorer = new MainContentScorer(candidates, $.text().length);
+//         const finalResult = scorer.getFinalCandidate();
+
+//         const baseName = fileName.replace(/\.html$/, "");
+//         const outHtmlPath = `${outputsDir}/${baseName}.html`;
+//         writeFileSync(outHtmlPath, finalResult?.element || "", {
+//             encoding: "utf8",
+//         });
+//         const md = htmlToMarkdown(finalResult?.element || "");
+//         const mdPath = `${outputsDir}/${baseName}.md`;
+//         writeFileSync(mdPath, md, { encoding: "utf8" });
+
+//         // console.log(scorer.getFinalCandidate());
+//     }
+// };
+// run();
+
+/**
+ * Processes a single URL: runs processArticles, then main content extraction for just that URL.
+ * @param {string} url - The URL to process.
+ */
+export async function processSingleUrlWithExtraction(url: string) {
+    // Step 1: Run processArticles for the given URL
+    await processArticles([url]);
+
+    // Step 2: Find the output HTML file in dom_diff_out
     const domDiffOutDir = "dom_diff_out";
-    const outputsDir = "outputs_new";
+    const outputsDir = "outputs_new_listing";
     mkdirSync(outputsDir, { recursive: true });
 
-    const fs = require("node:fs");
-    const files = fs
-        .readdirSync(domDiffOutDir)
-        .filter((f: string) => f.endsWith(".html"));
+    // Use the same filename logic as dom_diff_module.ts
+    const baseName = url.replace(/[^a-zA-Z0-9]+/g, "_");
+    const htmlPath = `${domDiffOutDir}/${baseName}.html`;
 
-    for (const fileName of files) {
-        console.log(`Processing: ${fileName} `);
-
-        const htmlPath = `dom_diff_out/${fileName}`;
-        let html = "";
-        try {
-            html = require("node:fs").readFileSync(htmlPath, {
-                encoding: "utf8",
-            });
-        } catch (err) {
-            console.error(`Could not read HTML file: ${htmlPath}`);
-            return null;
-        }
-        const $: Cheerio.CheerioAPI = Cheerio.load(html);
-        const content = new MainContentExtractor(html);
-        const candidates = content.getMainContentCandidates();
-
-        const scorer = new MainContentScorer(candidates, $.text().length);
-        const finalResult = scorer.getFinalCandidate();
-
-        const baseName = fileName.replace(/\.html$/, "");
-        const outHtmlPath = `${outputsDir}/${baseName}.html`;
-        writeFileSync(outHtmlPath, finalResult?.element || "", {
+    let html = "";
+    try {
+        html = require("node:fs").readFileSync(htmlPath, {
             encoding: "utf8",
         });
-        const md = htmlToMarkdown(finalResult?.element || "");
-        const mdPath = `${outputsDir}/${baseName}.md`;
-        writeFileSync(mdPath, md, { encoding: "utf8" });
-
-        // console.log(scorer.getFinalCandidate());
+    } catch (err) {
+        console.error(`Could not read HTML file: ${htmlPath}`);
+        return null;
     }
-};
 
-run();
+    const $: Cheerio.CheerioAPI = Cheerio.load(html);
+    const content = new MainContentExtractor(html);
+    const candidates = content.getMainContentCandidates();
+
+    const scorer = new MainContentScorer(candidates, $.text().length);
+    const finalResult = scorer.getFinalCandidate();
+
+    const outHtmlPath = `${outputsDir}/${baseName}.html`;
+    writeFileSync(outHtmlPath, finalResult?.element || "", {
+        encoding: "utf8",
+    });
+    const md = htmlToMarkdown(finalResult?.element || "");
+    const mdPath = `${outputsDir}/${baseName}.md`;
+    writeFileSync(mdPath, md, { encoding: "utf8" });
+
+    console.log(`Processed and extracted main content for: ${url}`);
+    return {
+        htmlPath: outHtmlPath,
+        mdPath,
+        result: finalResult,
+    };
+}
+
+// listing urls
+const urls = [
+    "https://www.usatoday.com/story/life/health-wellness/2025/11/23/baylen-out-loud-tourette-syndrome-interview/87342413007/",
+    "https://www.bankofcanada.ca/publications/financial-stability-report/",
+    "https://www.bbc.com/news/articles/cql9lkv5y7zo",
+    "https://www.usatoday.com/story/news/nation/2025/11/21/what-considered-professional-degree-explained/87396245007/",
+    "https://www.bbc.com/news/articles/c8676qpxgnqo",
+    "https://www.bankofcanada.ca/publications/browse/",
+    "https://www.usatoday.com/story/entertainment/music/2025/11/23/taylor-swift-jumps-joy-chiefs-week-12-colts-dallas-cowboys/86114294007/",
+    "https://www.bbc.com/news/articles/cy840l75gx3o",
+    "https://www.usatoday.com/story/news/politics/2025/11/23/tatiana-schlossberg-kennedy-rfk-illness/87436356007/",
+];
+
+for (let url of urls) {
+    console.log("processing for url: " + url);
+    await processSingleUrlWithExtraction(url);
+}

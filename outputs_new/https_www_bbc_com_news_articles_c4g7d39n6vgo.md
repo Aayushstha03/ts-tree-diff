@@ -1,6 +1,33 @@
-Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge
+  Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge                                         
+
+[Skip to content](#main-content)
 
 [British Broadcasting Corporation](/)
+
+*   [Home](/)
+    
+*   [News](/news)
+    
+*   [Sport](/sport)
+    
+*   [Business](/business)
+    
+*   [Innovation](/innovation)
+    
+*   [Culture](/culture)
+    
+*   [Arts](/arts)
+    
+*   [Travel](/travel)
+    
+*   [Earth](/future-planet)
+    
+*   [Audio](/audio)
+    
+*   [Video](/video)
+    
+*   [Live](/live)
+    
 
 *   [Home](/home)
 
@@ -182,13 +209,16 @@ Live
 
 [Newsletters](https://www.bbc.com/newsletters)
 
+Prince Andrew hosted Epstein, Maxwell and Weinstein at Royal Lodge
+==================================================================
+
 3 days ago
 
-Save
+Share Save
 
 Joe PikePolitics investigations correspondent
 
-Save
+Share Save
 
 ![](https://static.files.bbci.co.uk/bbcdotcom/web/20251021-134202-667692b2c6-web-2.32.2-1/grey-placeholder.png)![The Sun/News Licensing Harvey Weinstein, Jeffrey Epstein and Ghislaine Maxwell are pictured standing on the lawn at Royal Lodge on the royal estate in Windsor with trees in the background. All wear fancy dress with Weinstein and Epstein wearing suits and Maxwell is seen wearing a mask. ](https://ichef.bbci.co.uk/news/480/cpsprodpb/c553/live/2eb44630-b374-11f0-b2a1-6f537f66f9aa.jpg.webp)The Sun/News Licensing
 
@@ -265,6 +295,58 @@ Maxwell is currently serving a 20-year prison sentence in the US for recruiting 
 Weinstein has been convicted of sexual assault by courts in New York and Los Angeles, but has secured a retrial on some of his convictions.
 
 _Additional reporting by Paul Myers._
+
+[
+
+King Charles heckled over Prince Andrew and Epstein
+---------------------------------------------------
+
+
+
+
+
+
+
+](https://www.bbc.co.uk/news/articles/cp8empv38vgo)
+
+[
+
+Where could Prince Andrew end up if he leaves Royal Lodge?
+----------------------------------------------------------
+
+
+
+
+
+
+
+](https://www.bbc.co.uk/news/articles/c781j7pz87xo)
+
+[
+
+Questions about what Palace knew in Andrew scandal show no sign of going away
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+](https://www.bbc.co.uk/news/articles/c0l7zx499deo)
+
+[
+
+What we learned from Virginia Giuffre's memoir
+----------------------------------------------
+
+
+
+
+
+
+
+](https://www.bbc.co.uk/news/articles/c5ylepx85nxo)
 
 [Prince Andrew](/news/topics/c28511xee27t)
 
@@ -432,6 +514,62 @@ Parliamentary committee demands answers about whether the lease arrangements are
 
 [British Broadcasting Corporation](/)
 
+*   [Home](https://www.bbc.com/)
+    
+*   [News](/news)
+    
+*   [Sport](/sport)
+    
+*   [Business](/business)
+    
+*   [Innovation](/innovation)
+    
+*   [Culture](/culture)
+    
+*   [Arts](/arts)
+    
+*   [Travel](/travel)
+    
+*   [Earth](/future-planet)
+    
+*   [Audio](/audio)
+    
+*   [Video](/video)
+    
+*   [Live](/live)
+    
+*   [Weather](https://www.bbc.com/weather)
+    
+*   [BBC Shop](https://shop.bbc.com/)
+    
+*   [BritBox](https://www.britbox.com/?utm_source=bbc.com&utm_medium=referral&utm_campaign=footer)
+    
+
+BBC in other languages
+
 Follow BBC on:
+
+*   [Terms of Use](https://www.bbc.com/pages/terms-of-use)
+    
+*   [Subscription Terms](https://www.bbc.com/pages/subscription-terms)
+    
+*   [About the BBC](https://www.bbc.co.uk/aboutthebbc)
+    
+*   [Privacy Policy](https://www.bbc.com/pages/privacy-policy)
+    
+*   [Cookies](https://www.bbc.com/usingthebbc/cookies/)
+    
+*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)
+    
+*   [Contact the BBC](https://www.bbc.co.uk/contact)
+    
+*   [Advertise with us](https://advertising.bbcstudios.com/)
+    
+*   [Do not share or sell my info](https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/)
+    
+*   [BBC.com Help & FAQs](https://help.bbc.com/hc/)
+    
+*   [Content Index](https://www.bbc.com/pages/content-index)
+    
 
 Copyright 2025 BBC. All rights reserved. The BBC is not responsible for the content of external sites. [**Read about our approach to external linking.**](https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links)

@@ -1,5 +1,3 @@
-Jackie Chan To Play Changpeng Zhao In Netflix Feature? Here's What The Crypto Billionaire Said - Benzinga
-
 [](/)
 
 [España](https://es.benzinga.com)
@@ -253,6 +251,8 @@ by [Aniket Verma](/author/aniket-verma)
 
 Follow
 
+[](https://twitter.com/AniketVerma1111)
+
 [
 
 ![BNB/USD Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -270,36 +270,6 @@ Not Available\-%
 ](/quote/BNB-USD)
 
 [Overview](/quote/BNB/USD)
-
-[
-
-![BTC/USD Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![BTC/USD Logo](https://image-util.benzinga.com/api/v2/logos/file/image/CRYPTO_BTC/mark_vector_light__d524c024a35774b25dff60214871db0c.svg?x-bz-cred=sb~zpyniiB2kM-0tuEKnd0b9-7uLHv_slnU-doiSwkeEIVA1JY5XJJFuKvFaVL0ejSfoqiEpD0dWPHlkqUovqEyP7ZMCvMH2Ko-qYSZ3AeOXeGydPL1tZSZ4Wwpv6G5XUKZacNvhqN0gz4zirAR8BP2cJMmxvCp&x-bz-exp=1764490340&x-bz-security-isin=&x-bz-security-symbol=BTC%2FUSD&x-bz-signature=1c2c41f3535f68d697a67641d3ebfd13d08e2e5ca74e1709aeb752fa36912c4b)
-
-$BTCBitcoin - United States dollar
-
-$90672.88\-0.25%
-
-
-
-
-
-](/quote/BTC-USD)[
-
-![ZEC/USD Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![ZEC/USD Logo](https://image-util.benzinga.com/api/v2/logos/file/image/CRYPTO_ZEC/mark_vector_light__93a04c1638f112eb951664e179efb595.svg?x-bz-cred=sb~BL7WEzV1NTy3jvX38oy4pd6wI43TIthULoieQKI_d1QgByQukQg4sMbYjovI2tXWa_m_Pizu2SrmRPi59OT_UJV3K3jfIZdkZmWF4obJ0mVpDsYDMnzYqCaqWDxgUl_XclPoritPW4UI9bkNckI03jqdG0sw&x-bz-exp=1764490340&x-bz-security-isin=&x-bz-security-symbol=ZEC%2FUSD&x-bz-signature=3aaaa683c49a4a3e1d0b29cc0bf91bc003bc467d8ad8181d7885360b18c64d3b)
-
-$ZECZcash - United States dollar
-
-$465.032.86%
-
-
-
-
-
-](/quote/ZEC-USD)
 
 Rumors about **Jackie Chan** playing **Binance** [(CRYPTO:](https://www.benzinga.com/quote/BNB-USD) [BNB](https://www.benzinga.com/quote/bnb/usd)) co-founder **Changpeng "CZ" Zhao** in a Netflix documentary started circulating on social media.
 
@@ -353,51 +323,21 @@ Not Available\-%
 
 [Overview](/quote/BNB/USD)
 
-[
-
-![BTC/USD Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![BTC/USD Logo](https://image-util.benzinga.com/api/v2/logos/file/image/CRYPTO_BTC/mark_vector_light__d524c024a35774b25dff60214871db0c.svg?x-bz-cred=sb~zpyniiB2kM-0tuEKnd0b9-7uLHv_slnU-doiSwkeEIVA1JY5XJJFuKvFaVL0ejSfoqiEpD0dWPHlkqUovqEyP7ZMCvMH2Ko-qYSZ3AeOXeGydPL1tZSZ4Wwpv6G5XUKZacNvhqN0gz4zirAR8BP2cJMmxvCp&x-bz-exp=1764490340&x-bz-security-isin=&x-bz-security-symbol=BTC%2FUSD&x-bz-signature=1c2c41f3535f68d697a67641d3ebfd13d08e2e5ca74e1709aeb752fa36912c4b)
-
-$BTCBitcoin - United States dollar
-
-$90672.88\-0.25%
-
-
-
-
-
-](/quote/BTC-USD)[
-
-![ZEC/USD Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![ZEC/USD Logo](https://image-util.benzinga.com/api/v2/logos/file/image/CRYPTO_ZEC/mark_vector_light__93a04c1638f112eb951664e179efb595.svg?x-bz-cred=sb~BL7WEzV1NTy3jvX38oy4pd6wI43TIthULoieQKI_d1QgByQukQg4sMbYjovI2tXWa_m_Pizu2SrmRPi59OT_UJV3K3jfIZdkZmWF4obJ0mVpDsYDMnzYqCaqWDxgUl_XclPoritPW4UI9bkNckI03jqdG0sw&x-bz-exp=1764490340&x-bz-security-isin=&x-bz-security-symbol=ZEC%2FUSD&x-bz-signature=3aaaa683c49a4a3e1d0b29cc0bf91bc003bc467d8ad8181d7885360b18c64d3b)
-
-$ZECZcash - United States dollar
-
-$465.032.86%
-
-
-
-
-
-](/quote/ZEC-USD)
-
 [Market News and Data brought to you by Benzinga APIs](https://www.benzinga.com/apis?utm_source=benzinga.com&utm_campaign=article-bottom)
 
 © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
 
+Add Comment|1
+
 **Posted In:**
 
-[Cryptocurrency](/markets/cryptocurrency)[Entertainment](/general/entertainment)[News](/news)[Markets](/markets)[Changpeng Zhao](/topic/changpeng-zhao)
+##### Comments
 
 Close menu
 
 Loading...
 
 Connect With Us
-
-[](https://play.google.com/store/apps/details?id=com.benzinga.app&hl=en_NZ&gl=US)[](https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481)
 
 About Benzinga
 

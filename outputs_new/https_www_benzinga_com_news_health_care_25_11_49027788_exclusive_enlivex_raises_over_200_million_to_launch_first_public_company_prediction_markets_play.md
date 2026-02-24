@@ -1,5 +1,3 @@
-EXCLUSIVE: Enlivex Raises Over $200 Million To Launch First Public Company Prediction Markets Play - Enlivex Therapeutics (NASDAQ:ENLV) - Benzinga
-
 [](/)
 
 [España](https://es.benzinga.com)
@@ -253,6 +251,8 @@ by [Vandana Singh](/author/vandana-singh) Benzinga Editor
 
 Follow
 
+[](https://twitter.com/benzinga)
+
 [
 
 ![ENLV Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -340,17 +340,17 @@ $0.9600\-1.02%
 
 © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
 
+Add Comment
+
 **Posted In:**
 
-[Biotech](/general/biotech)[Cryptocurrency](/markets/cryptocurrency)[News](/news)[Penny Stocks](/topic/penny-stocks)[Health Care](/general/health-care)[Top Stories](/top-stories)[Market-Moving Exclusives](/market-moving-exclusives)[Exclusives](/exclusives)[General](/general)
+##### Comments
 
 Close menu
 
 Loading...
 
 Connect With Us
-
-[](https://play.google.com/store/apps/details?id=com.benzinga.app&hl=en_NZ&gl=US)[](https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481)
 
 About Benzinga
 

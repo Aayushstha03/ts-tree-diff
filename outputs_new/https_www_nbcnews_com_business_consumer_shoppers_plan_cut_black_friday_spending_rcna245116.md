@@ -1,5 +1,3 @@
-Shoppers plan to cut Black Friday spending this year: Survey
-
 IE 11 is not supported. For an optimal experience visit our site on another browser.
 
 Skip to Content
@@ -14,6 +12,12 @@ People at low- and higher-income levels are feeling the pinch from inflation dur
 ![Shoppers descended on Braintree's South Shore Plaza for Black Friday](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-11/251121-black-friday-rs-943fee.jpg)
 
 A shopping mall in Braintree, Mass., on Black Friday last year.John Tlumacki / Boston Globe via Getty Images file
+
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116&cid=[object Object]_facebook)
+*   [](https://x.com/intent/post?text=Why%20shoppers%20are%20planning%20to%20cut%20Black%20Friday%20weekend%20spending%20this%20year&via=nbcnews&url=https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116&original_referer=https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116&cid=[object Object]_twitter)
+*   [](mailto:?subject=Why shoppers are planning to cut Black Friday weekend spending this year&body=https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116)
+
+*   [](sms:?&body=Why shoppers are planning to cut Black Friday weekend spending this year via nbcnews - https://www.nbcnews.com/business/consumer/shoppers-plan-cut-black-friday-spending-rcna245116)
 
 Nov. 24, 2025, 12:01 AM EST
 
@@ -58,5 +62,3 @@ Jarrod Barry is an intern with the NBC News Business Unit.
 [](https://www.nbcnews.com)
 
 © 2025 NBCUniversal Media, LLC
-
-[NBC News Logo](https://www.nbcnews.com)[Today Logo](https://www.today.com)
